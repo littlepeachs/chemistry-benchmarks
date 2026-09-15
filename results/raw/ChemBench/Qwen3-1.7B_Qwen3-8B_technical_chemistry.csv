@@ -1,0 +1,781 @@
+Truth,Model,Critic
+A,"A
+
+Explanation: A hair-pin type heat exchanger is also known as a **double pipe** heat exchanger. This is because the fluid flows in a hair-pin shape (like a spiral) inside a pipe, and the other fluid flows through the outer pipe. The term ""double pipe"" refers to the two-pipe configuration, which is the same as a hair-pin design.
+
+The other options:
+- **B) Finned** refers to heat exchangers with fins on the tube side to increase surface area.
+- **C) Plate type** refers to heat exchangers with flat plates in a modular arrangement.
+
+Thus, the correct answer is **A**.",yes
+C,"The correct statement is:
+
+**(A) Continuous Stirred-Tank Reactors (CSTRs) can be approximated with many Plug Flow Tubular Reactors (PFTRs)**
+
+This is **correct**. In a cascade model, a series of reactors (e.g., CSTRs or PFTRs) can be approximated by a single reactor if the number of reactors is large. For example, a series of CSTRs can be approximated by a single PFTR when the number of CSTRs is large, due to the concept of **reactor series approximation**.
+
+**(B) It always corresponds to the ideal reactor**  
+This is **incorrect**. A cascade model is not necessarily an ideal reactor; it can be a real, non-ideal reactor system.
+
+**(C) Plug Flow Tubular Reactors (PFTRs) can be approximated with many Continuous Stirred-Tank Reactors (CSTRs)**  
+This is **incorrect**. The reverse is true: a series of CSTRs can be approximated by a single PFTR when the number of CSTRs is large.
+
+**(D) The variance decreases as the number of reactors increases**  
+This is **incorrect**. The variance (e.g., variance in conversion or temperature) does **not** necessarily decrease with the number of reactors. It depends on the reactor configuration and the process.
+
+### ✅ Correct Answer: **A**",no
+B,"The correct answer is: **A**
+
+**Explanation:**  
+In a plug flow reactor (PFR), the flow is assumed to be perfectly mixed in the axial direction, with no radial mixing. However, in reality, **whirlpools** and **radial mixing** can occur, leading to **radial dispersion**. To model this correctly, the **radial dispersion term** must be included in the overall model.
+
+- **Option A** says: *Include both axial and radial dispersion terms to the original plug flow system, and then solve the energy balance.*  
+  This is **correct** because the original plug flow system is a **axial dispersion** model, and to account for **radial dispersion**, we need to include both terms. The energy balance is typically solved alongside the mass balance in such models.
+
+- **Option B** says: *Include both axial and radial dispersion terms to the original plug flow system, and then solve the mass balance.*  
+  This is **not correct** because the **energy balance** is typically solved alongside the **mass balance**, not just the mass balance.
+
+- **Option C** says: *Only include the radial dispersion term since the axial term is already described by the plug flow system.*  
+  This is **incorrect** because the plug flow system already assumes **no radial mixing**, so **axial dispersion** is the only term considered, and **radial dispersion** must be added separately.
+
+- **Option D** says: *Solve the balances, and then add the radial dispersion term that is not included in the original plug flow system.*  
+  This is **not correct** because the **radial dispersion term** must be **included** in the original model, not added afterward.
+
+**Correct Answer: A**",no
+D,D,yes
+D,"The correct answer is: **(B) Anion exchange electrolyzer cell**
+
+**Explanation:**  
+The anion exchange electrolyzer cell is the only one that feeds water as vapor. In this cell, the water is evaporated before the electrolysis process, which allows for the production of molecular hydrogen (H₂) at the cathode. The other cells (alkaline, proton, and solid oxide electrolyzers) typically use liquid water as the feed, not vapor.
+
+Thus, the correct answer is: **B**.",No.
+94.7,"To determine the percentage of $\ce{CO2}$ produced from burning 1 L of E10 fuel, we need to consider the combustion of the hydrocarbons in the fuel.
+
+### Step 1: Understand the composition of the fuels
+
+- **E10 fuel**:
+  - 100 mL ethanol
+  - 900 mL octane isomers
+
+- **E5 fuel**:
+  - 50 mL ethanol
+  - 950 mL octane isomers
+
+### Step 2: Write the combustion reactions
+
+The combustion of octane (C₈H₁₈) is:
+
+$$
+\ce{C8H18 + 12.5 O2 -> 8 CO2 + 9 H2O}
+$$
+
+We are told that **100% of $\ce{CO2}$ is produced from the combustion of octane isomers**, so we only consider the combustion of octane isomers.
+
+### Step 3: Convert volumes to moles (assuming same density for ethanol and octane isomers)
+
+Assume the density of ethanol and octane is similar (e.g., 0.789 g/mL for ethanol, 0.703 g/mL for octane isomers).
+
+- **1 L = 1000 mL**
+- **100 mL ethanol** = 78.9 g (since 100 mL × 0.789 g/mL = 78.9 g)
+- **900 mL octane isomers** = 900 × 0.703 g = 632.7 g
+
+But we are not asked about ethanol. We are only concerned with the **combustion of octane isomers**.
+
+So, we focus on the **900 mL of octane isomers** in E10 fuel.
+
+### Step 4: Convert 900 mL of octane isomers to moles
+
+Assume the molar mass of octane is:
+
+$$
+\ce{C8H18} = 8(12.01) + 18(1.008) = 114.23 g/mol
+$$
+
+So, 900 mL = 900 × 0.703 g = 632.7 g
+
+$$
+\text{Moles of octane isomers} = \frac{632.7 \text{ g}}{114.23 \text{ g/mol}} \approx 5.54 \text{ mol}
+$$
+
+### Step 5: Calculate moles of $\ce{CO2}$ produced
+
+From the balanced equation:
+
+$$
+\ce{C8H18 + 12.5 O2 -> 8 CO2 + 9 H2O}
+$$
+
+So, 1 mol of octane produces 8 mol of $\ce{CO2}$
+
+$$
+\text{Moles of } \ce{CO2} = 5.54 \text{ mol octane} \times 8 = 44.32 \text{ mol } \ce{CO2}
+$$
+
+### Step 6: Calculate $\ce{CO2}$ per liter of fuel
+
+We are told that **100% of $\ce{CO2}$ is produced from octane isomers**, so we can now compute the percentage of $\ce{CO2}$ produced from **1 L of E10 fuel**.
+
+But we need to find the **percentage of $\ce{CO2}$** produced from **1 L of E10 fuel**, which contains **900 mL of octane isomers**.
+
+So, the **percentage of $\ce{CO2}$** from E10 fuel is:
+
+$$
+\text{Percentage} = \left( \frac{44.32 \text{ mol } \ce{CO2}}{1 \text{ L of E10}} \right) \times 100 = 44.32\%
+$$
+
+### ✅ Final Answer: $\boxed{A}$",No.
+A,"(A) Employing high temperatures to accelerate reactions
+
+**Explanation:**  
+The twelve principles of green chemistry, as defined by the Green Chemistry Division of the ACS, include principles such as:
+
+- **Prevention** (avoiding hazardous substances)
+- **Reactor design** (using efficient reactors)
+- **Atom economy** (maximizing atom economy)
+- **Less hazardous chemical syntheses** (minimizing toxic reagents)
+- **Design for energy efficiency** (using high temperatures is not part of the twelve principles, as it is considered energy-intensive and not environmentally friendly)
+
+**Correct answer:** (A) Employing high temperatures to accelerate reactions is **not** among the twelve principles of green chemistry.",yes
+B,B,yes
+D,"The least suitable method for scaling up among the given options is:
+
+**(C) Liquid-liquid extraction**
+
+**Reason:** Liquid-liquid extraction is typically used for separations where the components are immiscible, and it is not inherently suitable for scaling up in industrial processes. It is more commonly used in laboratory settings and may require careful optimization for large-scale operations.
+
+**Correct Answer:** **C**",no
+B,(C),no
+C,(D) Torispherical,No.
+D,"The correct answer is: **A**
+
+**Explanation:**
+
+- **(A)** *In a batch reactor, the composition is uniformly mixed and remains the same throughout the reactor and at the exit.*  
+  ✅ This is true. In a batch reactor, the reaction is carried out in a closed system where the composition is uniform throughout the reactor and remains constant at the exit.
+
+- **(B)** *In a batch reactor, the fluid passes through the reactor with no mixing of earlier and later entering fluid.*  
+  ✅ This is also true. In a batch reactor, the fluid is not continuously flowing; it is batched, and there is no mixing of earlier and later entering fluid.
+
+- **(C)** *In a mixed flow reactor, the composition changes with time but is uniform everywhere within the reactor.*  
+  ✅ This is true. In a mixed flow reactor, the composition changes with time, but it is uniform throughout the reactor.
+
+- **(D)** *In a plug flow reactor, the fluid moves in single flow through the reactor with no mixing and no overtaking.*  
+  ❌ This is **not** true. In a plug flow reactor, the fluid moves in a single, continuous flow, but there is **no mixing** between different sections of the reactor. However, **overtaking** is not a characteristic of plug flow reactors; it is more related to the flow pattern.
+
+However, **(A)** and **(B)** are both correct, but the question asks for **the** correct statement, and **(A)** is the **most general and correct** statement about batch reactors.
+
+Thus, the correct answer is: **A**.",no
+D,"The correct answer is: **D**
+
+**Explanation:**  
+While simplification strategies in medicinal chemistry often aim to improve drug properties (like cost, safety, and ease of synthesis), **they do not necessarily lead to fewer side effects**. In fact, simplifying a molecule might reduce its biological activity or increase the risk of side effects, especially if the original molecule had specific pharmacophoric features that were critical for its function.
+
+Thus, **the statement ""They exhibit fewer side effects"" is not necessarily true**.
+
+The correct answer is: **D**",yes
+D,"In a **steady-state mixed flow reactor**, the **accumulation of reactant A is zero** because the system is in steady-state, meaning the rate of input equals the rate of output.
+
+The correct statement is:
+
+**(D) The input of reactant A is equal to the output plus the disappearance by reaction, and the accumulation is zero**
+
+This matches the condition for a steady-state mixed flow reactor, where accumulation is zero.
+
+**Answer: D**",yes
+A,"To solve this problem, we need to ensure that the **conversion** in both **branch D** (series of two PFRs) and **branch E** (parallel PFR) is **identical**.
+
+---
+
+### Step 1: Understand the system
+
+- **Branch D** has **two PFRs in series**, with volumes $ V_D1 = 60 \, \text{L} $ and $ V_D2 = 40 \, \text{L} $. So the total volume is:
+  $$
+  V_D = 60 + 40 = 100 \, \text{L}
+  $$
+
+- **Branch E** has **one PFR** with volume $ V_E = 20 \, \text{L} $
+
+- The feed is split between **branch D** and **branch E**, with a **fraction $ f $** going to D and $ 1 - f $ going to E.
+
+---
+
+### Step 2: Conversion in PFRs
+
+For a **plug flow reactor (PFR)**, the **conversion** $ X $ is given by:
+
+$$
+X = \frac{C_{A0} - C_A}{C_{A0}} = \frac{F_{A0} V}{V_{\text{PFR}}}
+$$
+
+But since the PFRs are in series, the **total conversion** in branch D is:
+
+$$
+X_D = \frac{F_{A0} V_D}{V_D} = \frac{F_{A0}}{1} = F_{A0} \quad \text{(not correct, need to think again)}
+$$
+
+Actually, the **conversion** in a PFR is:
+
+$$
+X = \frac{F_{A0} V}{V_{\text{PFR}}}
+$$
+
+But in series, the **total conversion** is the **sum of the conversions** in each PFR.
+
+But for **identical conversion**, we need to **equal the conversion in both branches**.
+
+---
+
+### Step 3: Let’s define the variables
+
+Let $ f $ be the fraction of feed going to branch D, so $ 1 - f $ goes to branch E.
+
+Let’s assume the **reaction is first-order** and the **conversion** in each PFR is the same.
+
+---
+
+### Step 4: Use the formula for PFR conversion
+
+For a PFR, the **conversion** is:
+
+$$
+X = \frac{F_{A0} V}{V_{\text{PFR}}}
+$$
+
+But since the PFRs are in series, the **total conversion** in branch D is:
+
+$$
+X_D = \frac{F_{A0} V_D}{V_D} = F_{A0} \quad \text{(not correct)}
+$$
+
+Actually, the **conversion** in a PFR is:
+
+$$
+X = \frac{F_{A0} V}{V_{\text{PFR}}}
+$$
+
+So, for branch D (two PFRs in series):
+
+$$
+X_D = \frac{F_{A0} V_D}{V_D} = F_{A0} \quad \text{(not correct, need to think again)}
+$$
+
+Let’s use a more correct approach:
+
+Let’s assume that the **conversion** in each PFR is the same.
+
+Let’s define the **conversion** in a single PFR as $ X $, then:
+
+- In branch D, the **total conversion** is $ 2X $, since it's two PFRs in series.
+
+- In branch E, the **conversion** is $ X $, since it's one PFR.
+
+We want the **conversion** in both branches to be **equal**:
+
+$$
+2X = X \Rightarrow \text{No solution unless } X = 0
+$$
+
+So, this suggests that the **conversion** in branch D must be **equal to the conversion in branch E**.
+
+But the **total conversion** in branch D is:
+
+$$
+X_D = 2X
+$$
+
+In branch E, the conversion is:
+
+$$
+X_E = X
+$$
+
+So to have:
+
+$$
+2X = X \Rightarrow X = 0
+$$
+
+This is not possible unless the feed is **not converted**.
+
+So, we need to **equal the total conversion in both branches**.
+
+---
+
+### Step 5: Use the concept of **total conversion**
+
+Let’s define the **total conversion** in branch D as:
+
+$$
+X_D = \frac{F_{A0} V_D}{V_D + V_D} = \frac{F_{A0} \cdot 100}{100} = F_{A0}
+$$
+
+Wait, no, this is not correct.
+
+Actually, the **total conversion** in a PFR is:
+
+$$",No.
+B,"The number of bubble caps to be used per tray in a distillation column is determined by the **vapor load**. This is because the number of bubble caps is designed to handle the vapor flow rate and ensure proper contact between the vapor and liquid phases, preventing flooding and maintaining efficient separation.
+
+The correct answer is: **D**.",No.
+D,"The correct answer is: **D**
+
+**Explanation:**
+
+In a gas-liquid reaction where the chemical reaction is much faster than the diffusion of the gas through the liquid, the goal is to maximize the **interfacial area** between the gas and liquid to enhance mass transfer and reaction rate. 
+
+- **Bubble column reactor** (A and C) has a **smaller** interfacial area compared to a **spray tower** (D), because the gas is dispersed as bubbles in the liquid, which reduces the surface area.
+- **Spray tower** (D) has a **larger** interfacial area because the gas is sprayed into the liquid, increasing the surface area available for reaction.
+
+Thus, the correct choice is **D** – **Spray tower to have a bigger interface area**.",yes
+C,"The correct answer is: **C**
+
+**Explanation:**  
+In parallel reactions, the concentration of reactants can affect the product distribution, especially when the reactions have different orders. 
+
+- **High reactant concentration** favors the reaction of **lower order** because it increases the rate of the slower reaction (lower order) more significantly than the faster reaction (higher order).
+- **Low reactant concentration** favors the reaction of **higher order** because it increases the rate of the faster reaction more significantly than the slower one.
+
+Thus, the correct answer is **C**.",yes
+D,"The rate of reaction in an **adiabatic plug flow reactor (PFR)** for an **endothermic aqueous phase first-order irreversible reaction** is determined by the **reaction rate** $ r = -\frac{dC_A}{dt} $.
+
+For a first-order irreversible reaction in a PFR:
+
+$$
+\frac{dC_A}{dt} = -r = -k C_A
+$$
+
+This leads to the differential equation:
+
+$$
+\frac{dC_A}{dt} = -k C_A
+$$
+
+The solution to this is:
+
+$$
+C_A = C_{A0} e^{-kt}
+$$
+
+The **rate of reaction** is:
+
+$$
+r = -\frac{dC_A}{dt} = k C_A = k C_{A0} e^{-kt}
+$$
+
+This shows that the **rate of reaction** decreases exponentially with time, and is **maximum at the inlet** (when $ t = 0 $).
+
+However, the question is about **the rate of reaction along the length of the reactor**, not just at a single point in time.
+
+In a PFR, the **reaction rate** is a function of the **concentration of the reactant**, and it **increases with the length of the reactor** because the concentration of the reactant decreases as the reaction proceeds.
+
+But the **rate of reaction** (i.e., $ r = k C_A $) **increases** as the concentration $ C_A $ decreases, which means the rate of reaction **maximizes at the inlet** of the reactor.
+
+### Correct Answer:
+**(D) it is maximum at the inlet of the reactor**
+
+$$
+\boxed{D}
+$$",yes
+A,"To determine the relationship between the overall exit conversions $ X_P $, $ X_R $, $ X_S $, and $ X_Q $, we need to understand how the conversion changes in different reactor configurations for a first-order reaction.
+
+### Key Concepts:
+- **CSTR (Continuous Stirred Tank Reactor)**: Provides maximum conversion for a given reactor volume.
+- **PFR (Plug Flow Reactor)**: Provides less conversion than a CSTR for the same volume, but more than a PFR.
+- **Series of reactors**: The total conversion is the sum of the conversions from each reactor in series.
+
+### Given:
+- The reaction is **first-order**, **liquid-phase**, **isothermal**, and **identical inlet conditions**.
+- The reaction is: $ \ce{A -> P} $, and the conversion is $ X $.
+
+### Reactor Configurations:
+- **(P)** CSTR (2 m³) → PFR (2 m³)
+- **(Q)** CSTR (4 m³)
+- **(R)** PFR (1 m³) → CSTR (1 m³)
+- **(S)** CSTR (1 m³) → CSTR (1 m³)
+
+### Conversion Analysis:
+1. **CSTR** provides the **maximum conversion** for a given volume.
+2. **PFR** provides **less** conversion than a CSTR for the **same volume**.
+3. **Series of reactors**:
+   - **CSTR → PFR** → Total conversion is **less** than just the CSTR alone.
+   - **PFR → CSTR** → Total conversion is **less** than just the PFR alone.
+
+Let’s analyze the conversions:
+
+#### (P) CSTR (2 m³) followed by PFR (2 m³):
+- CSTR gives maximum conversion for 2 m³ → $ X_{\text{CSTR}} = 0.8 $ (assuming 100% conversion in CSTR)
+- PFR with same volume gives less than CSTR → $ X_{\text{PFR}} < 0.8 $
+- Total conversion $ X_P = X_{\text{CSTR}} + X_{\text{PFR}} < 0.8 + 0.8 = 1.6 $, but actually, it's **less** than the CSTR alone because the PFR adds less.
+
+So $ X_P < X_Q $ (since Q is a larger CSTR).
+
+#### (Q) CSTR (4 m³):
+- CSTR gives maximum conversion for 4 m³ → $ X_Q = 0.8 $
+- So $ X_Q = 0.8 $, which is the same as the CSTR in (P) with 2 m³.
+
+So $ X_Q = X_P $ (since both have 0.8), but $ X_P < X_Q $.
+
+#### (R) PFR (1 m³) → CSTR (1 m³):
+- PFR gives less than CSTR for 1 m³ → $ X_{\text{PFR}} < 0.8 $
+- CSTR gives 0.8 for 1 m³ → $ X_{\text{CSTR}} = 0.8 $
+- Total $ X_R = X_{\text{PFR}} + X_{\text{CSTR}} < 0.8 + 0.8 = 1.6 $, but again, it's less than the CSTR alone.
+
+So $ X_R < X_Q $
+
+#### (S) CSTR (1 m³) → CSTR (1 m³):
+- Each CSTR gives 0.8 → $ X_S = 0.8 $
+- So $ X_S = X_Q = X_P $
+
+### Final Comparison:
+- $ X_Q = X_P = X_S = X_R $, but **not** all equal.
+
+Wait — this is where the confusion arises. Let's be precise:
+
+- $ X_Q $ is a **CSTR** with 4 m³ → gives **maximum** conversion, so $ X_Q = 0.8 $
+- $ X_P $ is **CSTR (2 m³) → PFR (2 m³)** → total conversion is **less** than 0.8, so $ X_P < 0.8 $
+- $ X_R $ is **PFR (1 m³) → CSTR (1 m³)** → total conversion is **less** than 0.8, so $ X_R < 0.8 $
+- $ X_S $ is **two CSTRs (1 m³ each)** → total conversion is **less** than 0.8, so $ X_S < 0.8 $
+
+So the **order** is:
+$$
+X_Q = 0.8 > X_P = X_S = X_R <",No.
+1.24,"To determine the air flow rate, we need to use the relationship between the **flame speed** and the **air flow rate** in a burner.
+
+### Given:
+- **Flame speed** $ S = 0.38 \, \text{m/s} $
+- **Height of flame** $ h = 2.5 \, \text{mm} = 0.0025 \, \text{m} $
+- **Diameter of burner tube** $ D = 8 \, \text{mm} = 0.008 \, \text{m} $
+- **Air to fuel equivalence ratio** $ \lambda = 1.2 $
+- **Temperature** = 25°C
+- **Pressure** = 101.325 kPa
+
+### Step 1: Calculate the **cross-sectional area** of the burner tube
+$$
+A = \frac{\pi D^2}{4} = \frac{\pi (0.008)^2}{4} = \frac{\pi \cdot 0.000064}{4} = 0.000050265 \, \text{m}^2
+$$
+
+### Step 2: Calculate the **volume flow rate** of the reactants
+The volume flow rate $ Q $ is given by:
+$$
+Q = S \cdot h \cdot A
+$$
+$$
+Q = 0.38 \, \text{m/s} \cdot 0.0025 \, \text{m} \cdot 0.000050265 \, \text{m}^2
+$$
+$$
+Q = 0.38 \cdot 0.0025 \cdot 0.000050265 = 0.000000477 \, \text{m}^3/\text{s}
+$$
+
+### Step 3: Convert to **L/min**
+$$
+1 \, \text{m}^3/\text{s} = 1000 \, \text{L/s} \Rightarrow 1 \, \text{L/min} = \frac{1}{60} \, \text{m}^3/\text{s}
+$$
+$$
+Q = 0.000000477 \, \text{m}^3/\text{s} \times 1000 \, \text{L/m}^3 \times 60 \, \text{s/min} = 0.02862 \, \text{L/min}
+$$
+
+### Final Answer:
+$$
+\boxed{A}
+$$",No.
+A,"The correct answer is: **B**.
+
+**Explanation:**  
+- **Diethyl ether (A)** is a commonly used solvent, especially in organic chemistry, and is suitable for large-scale use.  
+- **Dimethoxyethane (B)** is a less common solvent, and it is **not** typically used in large-scale industrial applications due to its low solubility and reactivity.  
+- **Heptane (C)** is a widely used solvent in large-scale processes, especially in organic synthesis.  
+- **Xylene (D)** is also a common solvent for large-scale use, particularly in industrial and laboratory settings.
+
+Thus, **dimethoxyethane (B)** is considered inappropriate for large-scale use.",no
+A,"The correct answer is: **(B) graphite**
+
+**Explanation:**  
+Graphite is **not** used as a coolant in nuclear reactors. It is used as a moderator to slow down neutrons in the reactor core.  
+Coolants in nuclear reactors include **water (light water), heavy water, liquid sodium**, and **copper** (in some types of reactors, like the fast breeder reactor, copper is used as a coolant).  
+Graphite is a **moderator**, not a coolant.",No.
+B,"The correct answer is: **B**.
+
+**Explanation:** Nitrate compounds are commonly used as **oxidizing agents** in industrial processes. For example, sodium nitrate is used in the production of explosives, and nitric acid is a strong oxidizing agent in chemical reactions. 
+
+While nitrate compounds can act as **polymer initiators** (e.g., in the production of polyacrylonitrile), this is more of a specific application and not the most common industrial use. 
+
+Thus, the most general and common industrial use is as **oxidizing agents**.
+
+**Answer: B**",yes
+D,"The correct answer is: **(D) Transient contact time**
+
+**Explanation:**  
+- **(A) High mechanical complexity** – This is a disadvantage of a moving bed reactor due to the need for continuous movement of catalyst and the mechanical components involved.
+- **(B) Large catalyst particles** – This is a disadvantage because large particles can lead to poor mass transfer and reduced efficiency.
+- **(C) Slow cycling** – This is a disadvantage because slow cycling can reduce the reactor's throughput and efficiency.
+- **(D) Transient contact time** – This is **not** a disadvantage. In fact, transient contact time is a characteristic of moving bed reactors and is often considered a benefit, as it allows for better mixing and contact between reactants and catalyst.
+
+Thus, the answer is: **D**.",yes
+C,C,yes
+D,"To solve this problem, we need to analyze the gas-phase reaction:
+
+$$
+\ce{A -> 5B}
+$$
+
+This is an **irreversible** reaction, and it is conducted in an **isothermal batch reactor** at **constant pressure**. The feed contains **no B**, and we are to determine the **minimum mole percent of inert** in the feed required to ensure that the **volume of the gas at complete conversion does not exceed three times the initial volume**.
+
+---
+
+### Step 1: Understand the process
+
+- Let the initial volume of the gas be $ V_0 $.
+- The reaction is: $ \ce{A -> 5B} $
+- The **inert** is a gas that does not participate in the reaction.
+- The **mole percent of inert** in the feed is what we are trying to find.
+- Let the **mole fraction of A** in the feed be $ x $, and the **mole fraction of inert** be $ 1 - x $.
+
+---
+
+### Step 2: Use the ideal gas law and mole balance
+
+At constant pressure and temperature, the **volume of the gas is directly proportional to the number of moles**.
+
+Let’s define:
+
+- Initial moles of A: $ n_A^0 $
+- Initial moles of inert: $ n_{\text{inert}}^0 $
+- Initial moles of B: $ n_B^0 = 0 $
+- Total initial moles: $ n_{\text{total}}^0 = n_A^0 + n_{\text{inert}}^0 $
+
+At complete conversion:
+
+- Moles of A consumed: $ n_A^0 $
+- Moles of B formed: $ 5n_A^0 $
+
+So, the final moles of gas:
+
+- A: $ n_A^0 - n_A^0 = 0 $
+- B: $ 5n_A^0 $
+- Inert: $ n_{\text{inert}}^0 $
+
+Total final moles: $ n_{\text{total}}^f = 5n_A^0 + n_{\text{inert}}^0 $
+
+---
+
+### Step 3: Apply the volume condition
+
+We are told that the **final volume does not exceed three times the initial volume**:
+
+$$
+\frac{n_{\text{total}}^f}{n_{\text{total}}^0} \leq 3
+$$
+
+Substitute:
+
+$$
+\frac{5n_A^0 + n_{\text{inert}}^0}{n_A^0 + n_{\text{inert}}^0} \leq 3
+$$
+
+Multiply both sides by the denominator:
+
+$$
+5n_A^0 + n_{\text{inert}}^0 \leq 3(n_A^0 + n_{\text{inert}}^0)
+$$
+
+Simplify:
+
+$$
+5n_A^0 + n_{\text{inert}}^0 \leq 3n_A^0 + 3n_{\text{inert}}^0
+$$
+
+Subtract $ 3n_A^0 + 3n_{\text{inert}}^0 $ from both sides:
+
+$$
+2n_A^0 - 2n_{\text{inert}}^0 \leq 0
+$$
+
+Divide both sides by 2:
+
+$$
+n_A^0 - n_{\text{inert}}^0 \leq 0
+$$
+
+So:
+
+$$
+n_A^0 \leq n_{\text{inert}}^0
+$$
+
+---
+
+### Step 4: Express in terms of mole fraction
+
+Let the mole fraction of A in the feed be $ x $, so:
+
+- Moles of A: $ n_A^0 = x \cdot n_{\text{total}}^0 $
+- Moles of inert: $ n_{\text{inert}}^0 = (1 - x) \cdot n_{\text{total}}^0 $
+
+Substitute into the inequality:
+
+$$
+x \cdot n_{\text{total}}^0 \leq (1 - x) \cdot n_{\text{total}}^0
+$$
+
+Divide both sides by $ n_{\text{total}}^0 $:
+
+$$
+x \leq 1 - x
+$$
+
+Solve:
+
+$$
+2x \leq 1 \Rightarrow x \leq \frac{1}{2}
+$$
+
+So, the **mole fraction of A** in the feed must be **at most 0.5**.
+
+---
+
+### Step 5: Convert to mole percent of inert
+
+Since $ x = \frac{n_A^0}{n_{\text{total}}^0} $, the **mole",yes
+A,C,No.
+D,"To determine the correct statement, let's analyze the behavior of plug flow reactors (PFRs) in series.
+
+### Key Concepts:
+- In a **plug flow reactor**, the conversion of a reactant is **not dependent on the order of reactors** in series, **as long as the flow is well-mixed and the reaction is ideal**.
+- The **fractional conversion** of a component in a PFR depends on the **volume of the reactor** and the **reaction rate**.
+- When reactors are **in series**, the **conversion increases** with each reactor, **but not necessarily monotonically**—this depends on the **reaction mechanism** and the **flow conditions**.
+
+However, the **fractional conversion** of a component **leaving the last reactor** is **less than** the **fractional conversion leaving the first reactor** **only if the reaction is not ideal or if the flow is not well-mixed**.
+
+### Let's evaluate the options:
+
+**(A)** *The fractional conversion of component A leaving the first reactor is always greater than the fractional conversion leaving the last reactor.*
+
+- **Incorrect.** This is **not always true**. The conversion depends on the reaction and the reactor configuration. In some cases, the last reactor might have a **higher conversion** due to the reaction being **more complete** in the later reactors.
+
+**(B)** *The fractional conversion of component A leaving the last reactor in series is always less than the fractional conversion leaving the first reactor.*
+
+- **Incorrect.** This is **not always true**. The conversion can be **higher in the last reactor** if the reaction is **not ideal** or if the **flow is not well-mixed**.
+
+**(C)** *The total volume V of N plug flow reactors in series gives a different conversion than a single plug flow reactor of volume V.*
+
+- **Incorrect.** If the **reaction is ideal** and the **flow is well-mixed**, the **total conversion** in series is **the same** as a single PFR of the **total volume**. So this is **not correct**.
+
+**(D)** *The total volume V of N plug flow reactors in series gives the same conversion as a single plug flow reactor of volume V.*
+
+- **Correct.** If the reaction is **ideal** and the flow is **well-mixed**, the **total conversion** in series is **equal** to a single PFR of the **total volume**.
+
+### ✅ Final Answer: **D**",yes
+B,(B) Low-pressure drop for high gas flows,yes
+D,D,yes
+C,"The Hatta number (N_H) is defined as:
+
+$$
+N_H = \frac{E}{1 - E}
+$$
+
+When $ E = 1 $, the Hatta number becomes:
+
+$$
+N_H = \frac{1}{1 - 1} = \text{undefined (infinite)}
+$$
+
+This implies that the reaction is **very fast** and the **reaction is primarily occurring in the liquid volume** because the enhancement factor indicates that the reaction is strongly influenced by the liquid phase.
+
+Thus, the correct answer is:
+
+$$
+\boxed{A}
+$$",No.
+A,(D) Stirred tank reactor,No.
+C,"The question asks which action **will not solve** the deactivation caused by poisoning in a catalyzed solid-fluid reaction.
+
+Let's analyze each option:
+
+- **(A) All of them are good options to solve catalyst deactivation** – This is **not** correct. It suggests that **all** options are good, but we are to choose the **one** that **does not** solve deactivation.
+
+- **(B) Improve feedback conditioning** – This can help by removing poison from the catalyst surface, so it **does** solve deactivation.
+
+- **(C) Limit the transition-state shape selectivity** – This can reduce the extent of poisoning by limiting the interaction of poison with the catalyst, so it **does** solve deactivation.
+
+- **(D) Operate at higher reaction temperatures** – Higher temperatures can reduce the activity of poison on the catalyst, so it **does** solve deactivation.
+
+- **(E) Use egg-shell catalyst particles** – Egg-shell catalysts are porous and can have a larger surface area, which may help in removing poison, so it **does** solve deactivation.
+
+Now, the question asks for the **one** that **does not** solve deactivation.
+
+The correct answer is:  
+**(A)** All of them are good options to solve catalyst deactivation  
+→ This is **not** correct because it suggests that **all** are good, but the question asks for the **one** that **does not** solve it.
+
+However, the question is phrased as: ""which one will not solve the deactivation of the catalyst that is caused by poisoning?""
+
+So, the correct answer is:
+
+$$
+\boxed{A}
+$$",yes
+B,(D),no
+C,(C) Sodium dithionite,yes
+B,"Let's analyze each statement carefully:
+
+### Given:
+- **Material balance** for the limiting component **A** in an **ideal batch reactor** is:
+  $$
+  \text{Input} = \text{Output} + \text{Disappearance} + \text{Accumulation}
+  $$
+
+### Key Concepts:
+- In a **batch reactor**, **no fluid enters or leaves** the reactor.
+- The **accumulation** of A is due to **changes in concentration** over time.
+- The **disappearance** of A is due to **chemical reaction**.
+- The **rate of disappearance** is **not necessarily zero**, unless the reaction is zero-order or the concentration is constant.
+
+---
+
+### Statement Analysis:
+
+**(A)** *The rate of accumulation of A within the reactor is zero because the reactor is ideal.*
+
+- **Incorrect.**  
+  The **rate of accumulation** of A is **not zero** in an ideal batch reactor. It depends on the **rate of reaction** and the **change in concentration** over time. Accumulation is not zero unless the reaction rate is zero.
+
+**(B)** *The rate of disappearance of A due to chemical reaction is equal to the negative rate of accumulation of A within the reactor.*
+
+- **Correct.**  
+  In material balance:
+  $$
+  \text{Input} = \text{Output} + \text{Disappearance} + \text{Accumulation}
+  $$
+  Since **no fluid enters or leaves**, the **accumulation** is the **change in concentration** over time, and the **disappearance** is the **rate of reaction**. The **rate of disappearance** is equal to the **negative of the accumulation**.
+
+  So:
+  $$
+  \text{Disappearance} = -\text{Accumulation}
+  $$
+
+**(C)** *The rate of disappearance of A due to chemical reaction is equal to the rate of accumulation of A within the reactor.*
+
+- **Incorrect.**  
+  This is the **opposite** of what is stated in (B). The **disappearance** is **equal to the negative of the accumulation**, not equal to it.
+
+**(D)** *The rate of disappearance of A due to chemical reaction is zero because no fluid enters or leaves the reactor.*
+
+- **Incorrect.**  
+  The **rate of disappearance** is **not necessarily zero**. It depends on the **reaction rate** and the **concentration** of A. Even in a batch reactor, the **rate of disappearance** can be non-zero.
+
+---
+
+### Correct Answer:
+**(B)**
+
+$$
+\boxed{B}
+$$",yes
+A,"(C) Hemispherical
+
+**Explanation:**  
+The weakest enclosure for cylindrical vessels is the **hemispherical** (or **spherical**) shape. This is because a spherical vessel has the most uniform stress distribution across its surface, minimizing the risk of failure due to stress concentrations. In contrast, cylindrical vessels with flat or conical ends experience higher stress concentrations at the junctions, making them weaker. 
+
+Thus, the correct answer is **(C)**.",No.
+B,(C) Proton exchange electrolyzer cell,No.
+D,(D),yes

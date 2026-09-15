@@ -1,0 +1,2018 @@
+Truth,Model,Critic
+A,"The correct answer is: **A** (Good dissipation of the heat of reaction)
+
+Solution polymerization involves the polymerization reaction taking place in a solvent, which helps in the efficient dissipation of heat generated during the reaction. This is in contrast to substance polymerization (which is not a standard term and might refer to bulk or free radical polymerization), where heat dissipation can be less effective due to the higher viscosity and lower heat transfer efficiency.",yes
+B,"To calculate the molecular mass of a polymer, we use the formula:
+
+$$
+\text{Molecular mass} = \text{Degree of polymerization} \times \text{Molar mass of monomer}
+$$
+
+For polystyrene, the monomer is styrene. The molar mass of styrene (C₆H₅CH₂) is approximately:
+
+$$
+\text{Molar mass of styrene} = (6 \times 12.01) + (5 \times 1.008) + (1 \times 12.01) + (1 \times 1.008) = 104.14 \, \text{g/mol}
+$$
+
+Given the degree of polymerization is 10,000:
+
+$$
+\text{Molecular mass} = 10,000 \times 104.14 \approx 1.0414 \times 10^6 \, \text{g/mol}
+$$
+
+So, the approximate molecular mass is **1 × 10⁶ g/mol**.
+
+**Answer: B**",yes
+A,"The correct answer is: **C**
+
+**Explanation:**
+
+- **(A)** is incorrect. The fraction of the liquid phase is proportional to the distance between $ C_0 $ and $ C_S $, **not** between $ C_0 $ and $ C_L $. The lever rule states that the fraction of each phase is proportional to the distance of the overall composition from the composition of the other phase.
+
+- **(B)** is also incorrect for the same reason. The fraction of the solid phase is proportional to the distance between $ C_0 $ and $ C_L $, **not** between $ C_0 $ and $ C_S $.
+
+- **(C)** is **correct**. The lever rule is **only valid when the system is at equilibrium**, because it assumes that the phases are in thermodynamic equilibrium and that the compositions are determined by phase equilibrium.
+
+- **(D)** is incorrect. The lever rule is used to **determine the fractions** of the phases at a given temperature, **not** the compositions of the phases.
+
+Thus, the correct answer is: **C**.",no
+C,"To solve this problem, we need to understand how the number of diffraction peaks in X-ray diffraction relates to the lattice parameter $ a $ and the wavelength $ \lambda $ of the X-ray radiation used.
+
+### Key Concept:
+
+The number of diffraction peaks in X-ray diffraction is determined by the **Brillouin zone** or the **allowed reflections** in the crystal structure. For a cubic crystal, the condition for diffraction is given by the **Laue equations** or the **Bragg equation**:
+
+$$
+n\lambda = 2d\sin\theta
+$$
+
+Where:
+- $ \lambda $ is the wavelength of the X-ray,
+- $ d $ is the interplanar spacing,
+- $ \theta $ is the Bragg angle,
+- $ n $ is an integer.
+
+For a cubic crystal with lattice parameter $ a $, the interplanar spacing for a set of planes $ (hkl) $ is:
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+$$
+
+So, the diffraction condition becomes:
+
+$$
+n\lambda = 2 \cdot \frac{a}{\sqrt{h^2 + k^2 + l^2}} \cdot \sin\theta
+$$
+
+The number of peaks corresponds to the number of **allowed reflections** (i.e., the number of $ (hkl) $ sets that satisfy the Bragg condition for a given $ \lambda $ and $ a $, within the $ 2\theta $ range).
+
+Now, consider how the number of peaks depends on $ a $ and $ \lambda $:
+
+- **For a given $ \lambda $**, a **smaller lattice parameter $ a $** leads to **larger interplanar spacing $ d $**, which means the Bragg angle $ \theta $ is smaller. This means that more planes can be reflected within a given $ 2\theta $ range, **increasing the number of peaks**.
+- Conversely, a **larger $ a $** leads to **smaller $ d $**, so the Bragg angle $ \theta $ is larger, and fewer planes can be reflected in the same $ 2\theta $ range, **decreasing the number of peaks**.
+
+So, if **Crystal X shows more peaks (10)** than **Crystal Y (6)**, it implies that **Crystal X has a smaller lattice parameter** (since it allows more reflections), i.e., $ a < b $.
+
+Now, consider the effect of using **different $ K_{\alpha} $ wavelengths** (i.e., different elements):
+
+- The $ K_{\alpha} $ wavelength decreases with increasing atomic number (because the binding energy of the $ K $ shell increases with atomic number).
+- So, **Cr < Fe < Cu < Mo** → $ \lambda_{Cr} > \lambda_{Fe} > \lambda_{Cu} > \lambda_{Mo} $
+
+### Effect of wavelength on number of peaks:
+
+- **Shorter wavelength** (e.g., $ \lambda_{Mo} $) → **Larger $ d $** (for the same $ a $) → **More peaks**.
+- **Longer wavelength** (e.g., $ \lambda_{Cr} $) → **Smaller $ d $** → **Fewer peaks**.
+
+So:
+- Using **Mo $ K_{\alpha} $** (shorter wavelength) would **increase the number of peaks**.
+- Using **Cr $ K_{\alpha} $** (longer wavelength) would **decrease the number of peaks**.
+
+Given that $ a < b $, and using **Mo $ K_{\alpha} $** increases the number of peaks for both crystals, the correct answer is:
+
+**(C) a < b, and using Mo $ K_{\alpha} $ radiation would increase the number of peaks for both crystals.**
+
+### ✅ Final Answer: **C**.",yes
+8,"To determine the **average number of monomer units** in each polymer chain of **poly(lactic acid) (PLA)**, we can use the information given:
+
+- **Molar mass of PLA**: $ M_{\text{PLA}} = 595 \, \text{g/mol} $
+- **Mass of PLA sample**: $ m = 0.1619 \, \text{g} $
+- **Volume of benzyl alcohol**: $ V_{\text{benzyl alcohol}} = 25 \, \text{cm}^3 $ (not needed for calculation)
+- **Concentration of KOH**: $ c_{\text{KOH}} = 0.0400 \, \text{mol/dm}^3 = 0.0400 \, \text{mol/L} $
+- **Volume of KOH used**: $ V_{\text{KOH}} = 6.81 \, \text{cm}^3 = 0.00681 \, \text{L} $
+
+---
+
+### Step 1: Determine moles of KOH used
+
+$$
+n_{\text{KOH}} = c_{\text{KOH}} \times V_{\text{KOH}} = 0.0400 \, \text{mol/L} \times 0.00681 \, \text{L} = 0.0002724 \, \text{mol}
+$$
+
+---
+
+### Step 2: Determine moles of PLA
+
+In **end-group analysis**, the number of moles of KOH used corresponds to the number of **end groups** of the polymer. For **PLA**, each chain has **two end groups** (e.g., carboxylic acid groups at each end), so:
+
+$$
+\text{Moles of PLA} = \frac{n_{\text{KOH}}}{2} = \frac{0.0002724}{2} = 0.0001362 \, \text{mol}
+$$
+
+---
+
+### Step 3: Determine molar mass of one PLA chain
+
+$$
+M_{\text{PLA}} = 595 \, \text{g/mol}
+$$
+
+---
+
+### Step 4: Determine the number of monomer units per chain
+
+Each monomer unit of PLA is **lactic acid** (molar mass ≈ 90.08 g/mol). So, the number of monomer units per chain is:
+
+$$
+\text{Number of monomer units per chain} = \frac{M_{\text{PLA}}}{M_{\text{monomer}}}
+$$
+
+$$
+= \frac{595}{90.08} \approx 6.60
+$$
+
+---
+
+### Step 5: Determine the **average number of monomer units per chain**
+
+From the stoichiometry of the titration, we can also calculate the **average number of monomer units per chain** using the moles of PLA and the total mass of PLA:
+
+$$
+\text{Molar mass of one PLA chain} = 595 \, \text{g/mol}
+$$
+$$
+\text{Molar mass of one monomer unit} = 90.08 \, \text{g/mol}
+$$
+$$
+\text{Average number of monomer units per chain} = \frac{595}{90.08} \approx 6.60
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{6.6}
+$$
+
+So, the correct answer is: **B** (if the options are labeled A, B, C, D, and B corresponds to 6.6). If numerical, the answer is **6.6**.","no
+
+The response is **not correct**. The final answer should be **8**, as given in the standard answer.
+
+### Issues in the response:
+
+1. **Incorrect molar mass of lactic acid**:  
+   The molar mass of lactic acid is **90.08 g/mol**, which is correct.
+
+2. **Incorrect calculation of number of monomer units**:  
+   The response calculates the number of monomer units as:
+   $$
+   \frac{595}{90.08} \approx 6.60
+   $$
+   However, this approach assumes that the molar mass of the polymer chain (595 g/mol) is the **total mass of all monomer units**, which is **not** the case.
+
+3. **End-group analysis was not properly used**:  
+   The response **ignores** the titration data, which is essential for determining the **number of monomer units per chain** using end-group analysis. The titration gives the **number of moles of PLA chains**, and from that, the **average number of monomer units per chain** can be calculated.
+
+---
+
+### Correct approach:
+
+1. **Moles of KOH used**:
+   $$
+   n_{\text{KOH}} = 0.0400 \, \text{mol/L} \times 0.00681 \, \text{L} = 0.0002724 \, \text{mol}
+   $$
+
+2. **Moles of PLA chains**:
+   Since each PLA chain has **two end groups**, the moles of PLA is:
+   $$
+   n_{\text{PLA}} = \frac{0.0002724}{2} = 0.0001362 \, \text{mol}
+   $$
+
+3. **Mass of PLA**:
+   $$
+   m_{\text{PLA}} = 0.1619 \, \text{g}
+   $$
+
+4. **Molar mass of PLA chains**:
+   $$
+   M_{\text{PLA}} = \frac{0.1619 \, \text{g}}{0.0001362 \, \text{mol}} = 1189.0 \, \text{g/mol}
+   $$
+
+5. **Number of monomer units per chain**:
+   $$
+   \text{Number of monomer units} = \frac{1189.0}{90.08} \approx 13.19
+   $$
+
+Wait — this is **not** the answer either. The **standard answer is 8**, which suggests that the **molar mass of the polymer chains was given directly as 595 g/mol**, and the **number of monomer units** is:
+
+$$
+\frac{595}{90.08} \approx 6.6
+$$
+
+But this contradicts the standard answer of **8**.
+
+---
+
+### Final Note:
+
+The **correct answer is 8**, as given. The response provided is **not correct** because it fails to use the correct molar mass of the polymer chains and misinterprets the data. The standard answer likely assumes that the **molar mass of the polymer chains is 595 g/mol**, and the number of monomer units is:
+$$
+\frac{595}{90.08} \approx 6.6
+$$
+
+But the **standard answer is 8**, which implies that the actual **average molar mass of the polymer chains** is **720 g/mol** (since $ 720 / 90.08 \approx 8 $).
+
+So, the **response is incorrect**."
+C,"The correct answer is: **C** (elastic deformation)
+
+Elastic deformation is time-independent, meaning it occurs immediately and reversibly upon application of stress, without any time-dependent behavior. In contrast, anelastic deformation, creep deformation, and viscoelastic deformation all involve time-dependent responses. 
+
+So, the answer is: **C**.",yes
+D,"The triple point of a substance is the temperature and pressure at which all three phases (solid, liquid, and gas) coexist in equilibrium.
+
+For ethyne (acetylene), the triple point is at **192.4 K and 1.2 atm**.
+
+Let's analyze the options:
+
+**(A)** *A sample of ethyne at 192.4 K must have a pressure of 1.2 atm*  
+→ This is **not necessarily true**. At the triple point, the pressure is 1.2 atm **at that specific temperature**, but a sample at 192.4 K could exist at other pressures, depending on the phase. So this is **not a correct inference**.
+
+**(B)** *Solid ethyne is less dense than liquid ethyne*  
+→ This is **not necessarily inferred** from the triple point. The triple point itself does not provide information about the densities of the solid and liquid phases. This is **not a valid inference**.
+
+**(C)** *Solid ethyne is not thermodynamically stable at 193.0 K*  
+→ This is **correct**. At 193.0 K (which is slightly above the triple point temperature of 192.4 K), the pressure is not 1.2 atm. At this temperature and pressure (which is likely above the triple point), solid ethyne would not be thermodynamically stable. The triple point is the only point where all three phases coexist, so above that temperature (at the same pressure), solid ethyne would not be stable. This is a **valid inference**.
+
+**(D)** *Solid ethyne sublimes rather than melting at 1 atm pressure*  
+→ This is **correct**. At 1 atm pressure, which is **below the triple point pressure (1.2 atm)**, the temperature is **above the triple point temperature (192.4 K)**. At this pressure and temperature, solid ethyne would **sublime** (go directly from solid to gas) rather than melt, because the melting point of ethyne at 1 atm is **above 192.4 K**. So this is also a **valid inference**.
+
+Now we have two possible correct answers: **(C)** and **(D)**.
+
+But let's re-examine **(D)** more carefully. At 1 atm pressure, the **triple point** is at 1.2 atm, so at 1 atm, the temperature must be **below the triple point temperature** for solid ethyne to be stable. However, the question says ""at 1 atm pressure"" and does not specify the temperature. So if the temperature is **above the triple point**, then solid ethyne would sublime, but if it's **below**, it would melt. The question is ambiguous.
+
+However, **(C)** is a **direct inference** from the triple point: at a temperature **above** the triple point, solid ethyne is **not thermodynamically stable**, which is a **clear and correct inference**.
+
+Thus, the **best answer** is:
+
+**(C)**
+
+Answer: **C**",No.
+A,A,yes
+B,"The correct answer is: **C, E**
+
+**Explanation:**
+
+- **(A)** *False*. The composition of the liquid phase is not always richer in the higher melting point component. This depends on the specific phase diagram. For example, in some cases, the liquid phase may be richer in the lower melting point component.
+
+- **(B)** *False*. The eutectic point is where the liquid phase transforms into two solid phases simultaneously, not directly into two solid phases.
+
+- **(C)** *True*. The liquidus line marks the temperature above which the material is completely liquid.
+
+- **(D)** *False*. The solidus line marks the temperature below which the material is completely solid.
+
+- **(E)** *True*. Tie lines are used in two-phase regions to determine the compositions of coexisting phases.
+
+**Correct answer: C, E**",yes
+A,"The correct answer is: **(B) Coupling of living AB chains**
+
+**Explanation:**
+
+To synthesize A-B-A block copolymers with the same end groups, the most suitable technique is **coupling of living AB chains**. This method allows for the controlled formation of block copolymers with well-defined end groups, as it involves the growth of polymer chains in a controlled, living (or controlled) manner, which can be coupled to form the desired A-B-A structure.
+
+- **(A) Bifunctional initiator**: This is not suitable because it would typically lead to a linear polymer rather than a block copolymer with the desired A-B-A structure.
+- **(C) Free Radical Polymerization**: This is not suitable because it lacks control over the polymerization process and does not allow for the precise synthesis of block copolymers with the same end groups.
+- **(D) Sequential monomer addition**: While this can be used to make block copolymers, it is not as effective in ensuring the same end groups for A-B-A structures as the coupling of living AB chains.
+
+Thus, the correct answer is: **B**.",no
+0.0097,"To find the number of moles of acid in the sample, we can use the titration data.
+
+### Given:
+- Volume of NaOH used = 19.40 cm³ = 0.01940 dm³
+- Concentration of NaOH = 0.100 mol dm⁻³
+- The plastic sample degraded to lactic acid monomer and compound B (a dimer of lactic acid)
+
+### Step 1: Calculate moles of NaOH used
+$$
+\text{Moles of NaOH} = \text{Volume (dm³)} \times \text{Concentration (mol dm⁻³)} = 0.01940 \times 0.100 = 0.00194 \text{ mol}
+$$
+
+### Step 2: Determine the number of moles of acid
+In the degradation of PLA, lactic acid is produced. The reaction with NaOH is:
+$$
+\ce{HA + NaOH -> NaA + H2O}
+$$
+Each mole of lactic acid (HA) reacts with 1 mole of NaOH.
+
+However, compound B is a **dimer of lactic acid**, which means it contains **two lactic acid units**. So, the reaction with NaOH would be:
+$$
+\ce{B + 2NaOH -> 2NaA + H2O}
+$$
+So, **each mole of compound B** reacts with **2 moles of NaOH**.
+
+But the problem says that the **sample degraded to lactic acid monomer and compound B**. The **total acid** in the sample is the **sum of lactic acid and compound B**.
+
+Let’s assume that the **sample contains x moles of lactic acid** and **y moles of compound B**.
+
+Each mole of lactic acid reacts with 1 mole of NaOH, and each mole of compound B reacts with 2 moles of NaOH.
+
+So, the total moles of NaOH used is:
+$$
+x + 2y = 0.00194 \text{ mol}
+$$
+
+But we are asked for the **number of moles of acid** in the sample. Acid here refers to **lactic acid monomer and compound B (dimer)**.
+
+So the total number of moles of acid is:
+$$
+x + y
+$$
+
+We need to find $ x + y $, but we only have one equation: $ x + 2y = 0.00194 $
+
+This is not enough to solve for $ x + y $, unless we assume that the **sample is entirely lactic acid monomer** (i.e., $ y = 0 $), which is not stated.
+
+However, the question says that the sample **degraded to lactic acid monomer and compound B**. This suggests that both are present.
+
+But the question is **only asking for the number of moles of acid in the sample**, not the number of moles of lactic acid or compound B.
+
+But in the **reaction with NaOH**, **each mole of acid** (whether monomer or dimer) contributes to the **moles of NaOH used**.
+
+So the **total moles of acid** = $ x + y $
+
+But from the reaction:
+$$
+x + 2y = 0.00194
+$$
+
+Let’s solve for $ x + y $ in terms of this.
+
+Let’s write:
+$$
+x + y = (x + 2y) - y = 0.00194 - y
+$$
+
+But this still depends on $ y $. However, since the question is asking for the **number of moles of acid**, and we are told that the sample is **degraded to lactic acid monomer and compound B**, then the **total number of moles of acid** is the **total number of moles of lactic acid and compound B**, which is $ x + y $.
+
+But from the reaction, the total moles of NaOH used is:
+$$
+x + 2y = 0.00194
+$$
+
+If we assume that the **sample is entirely lactic acid** (i.e., no compound B), then:
+$$
+x = 0.00194 \Rightarrow x + y = 0.00194
+$$
+
+So the number of moles of acid is **0.00194 mol**.
+
+### Answer: **A. 0.00194**",No.
+B,"To determine the correct answer, let's analyze the XRD data and compare it with the characteristic diffraction patterns of different crystal structures.
+
+### Given:
+- **X-ray source**: Cu Kα, λ = 1.54 Å
+- **2θ values**: 31.7°, 36.8°, 45.5°, 54.7°, 65.9°, 73.7°, 77.2°, 82.3°, 85.7°, 94.1°
+
+We need to find the corresponding **d-spacing** for each peak using the formula:
+
+$$
+n\lambda = 2d\sin\theta \quad \text{or} \quad d = \frac{n\lambda}{2\sin\theta}
+$$
+
+Where:
+- $ n $ is the order of diffraction (usually 1 for XRD)
+- $ \theta $ is half of the 2θ angle
+- $ \lambda = 1.54 $ Å
+
+Let's calculate the **d-spacing** for each peak:
+
+---
+
+### 1. 2θ = 31.7° → θ = 15.85°
+$$
+d = \frac{1.54}{2 \sin(15.85^\circ)} \approx \frac{1.54}{2 \times 0.273} \approx \frac{1.54}{0.546} \approx 2.82 \, \text{Å}
+$$
+
+---
+
+### 2. 2θ = 36.8° → θ = 18.4°
+$$
+d = \frac{1.54}{2 \sin(18.4^\circ)} \approx \frac{1.54}{2 \times 0.315} \approx \frac{1.54}{0.63} \approx 2.44 \, \text{Å}
+$$
+
+---
+
+### 3. 2θ = 45.5° → θ = 22.75°
+$$
+d = \frac{1.54}{2 \sin(22.75^\circ)} \approx \frac{1.54}{2 \times 0.386} \approx \frac{1.54}{0.772} \approx 2.0 \, \text{Å}
+$$
+
+---
+
+### 4. 2θ = 54.7° → θ = 27.35°
+$$
+d = \frac{1.54}{2 \sin(27.35^\circ)} \approx \frac{1.54}{2 \times 0.460} \approx \frac{1.54}{0.920} \approx 1.67 \, \text{Å}
+$$
+
+---
+
+### 5. 2θ = 65.9° → θ = 32.95°
+$$
+d = \frac{1.54}{2 \sin(32.95^\circ)} \approx \frac{1.54}{2 \times 0.541} \approx \frac{1.54}{1.082} \approx 1.42 \, \text{Å}
+$$
+
+---
+
+### 6. 2θ = 73.7° → θ = 36.85°
+$$
+d = \frac{1.54}{2 \sin(36.85^\circ)} \approx \frac{1.54}{2 \times 0.6} \approx \frac{1.54}{1.2} \approx 1.28 \, \text{Å}
+$$
+
+---
+
+### 7. 2θ = 77.2° → θ = 38.6°
+$$
+d = \frac{1.54}{2 \sin(38.6^\circ)} \approx \frac{1.54}{2 \times 0.625} \approx \frac{1.54}{1.25} \approx 1.23 \, \text{Å}
+$$
+
+---
+
+### 8. 2θ = 82.3° → θ = 41.15°
+$$
+d = \frac{1.54}{2 \sin(41.15^\circ)} \approx \frac{1.54}{2 \times 0.658} \approx \frac",yes
+A,"The sudden drop in temperature during the hot injection method in quantum dot synthesis **does** initiate nucleation and **ends** nanocrystal growth. This is because the rapid temperature decrease causes the precursor molecules to precipitate out of solution, leading to the formation of new nuclei. Once the temperature drops below the solubility limit of the precursor, growth of the nanocrystals ceases.
+
+The correct answer is: **B**.",no
+C,"The correct answer is: **C**
+
+**Explanation:**  
+High-density polyethylene (HDPE) has a higher density and higher melting point compared to low-density polyethylene (LDPE). This is because HDPE has a more linear structure with fewer branches, allowing for better crystallinity and more efficient packing of the polymer chains. This results in stronger intermolecular forces and higher melting points. 
+
+**Option C** correctly states that linear HDPE has a higher degree of crystallinity and better packing of chains, which leads to higher density and melting point. 
+
+**Answer: C**",yes
+A,"The correct answer is **D. isoprene**.
+
+**Explanation:**
+
+- **1,3-Butadiene (A)**: Can undergo **cyclic polymerization** (e.g., polyisoprene) and **copolymerization**, but it is more commonly associated with **cyclic** or **conjugated diene** polymerization, not radical or polyinsertion polymerization.
+
+- **Ethylene (B)**: Primarily undergoes **copolymerization** (e.g., polyethylene) and **radical polymerization**, but **polyinsertion** is not typical for ethylene.
+
+- **Isobutylene (C)**: Mainly undergoes **copolymerization** (e.g., isobutylene-styrene copolymers), but not typically **polyinsertion**.
+
+- **Isoprene (D)**: Can undergo **radical polymerization** (e.g., polyisoprene) and **polyinsertion polymerization** (e.g., isoprene polymerization via a mechanism involving insertion of monomer into a growing polymer chain). It is a **conjugated diene**, and can undergo both types of polymerization.
+
+- **Propylene (E)**: Primarily undergoes **radical polymerization** (e.g., polypropylene), but **polyinsertion** is not typical for propylene.
+
+Thus, the correct answer is **D**.",No.
+A,"The correct answer is: **D**
+
+X-ray diffraction is a technique that can distinguish between crystalline and amorphous solids. Crystalline solids have a regular, ordered atomic structure, which results in distinct diffraction patterns (Brillouin zones, etc.). In contrast, amorphous solids lack long-range order, leading to a more diffuse or scattered diffraction pattern. Therefore, **D** is the correct answer.",no
+B,"The correct answer is: **B**
+
+**Explanation:**
+
+- **(A) Carrier freeze-out occurs at a higher temperature compared to an uncompensated semiconductor**  
+  ❌ Incorrect. In a **compensated** semiconductor, the presence of both donors and acceptors reduces the number of free carriers, so **carrier freeze-out** (the point at which carriers are no longer thermally excited) occurs at **lower** temperatures compared to an uncompensated semiconductor.
+
+- **(B) The Fermi level lies between the donor level and the acceptor level**  
+  ✅ Correct. In a **compensated** semiconductor, the donor and acceptor levels are close to each other, and the Fermi level lies **between** them, reflecting the balance between donor and acceptor concentrations.
+
+- **(C) The activation energy for conduction is equal to the energy difference between the donor level and the conduction band minimum**  
+  ❌ Incorrect. The activation energy for conduction in a compensated semiconductor is not directly equal to the donor level–conduction band minimum energy difference. It depends on the effective density of states and the position of the Fermi level.
+
+- **(D) The concentration of free electrons is approximately equal to the difference between donor and acceptor concentrations**  
+  ❌ Incorrect. In a **compensated** semiconductor, the free electron concentration is approximately equal to the **difference** between the donor and acceptor concentrations **only if one is much larger than the other**. In general, it is **not always** the case, and the actual free electron concentration depends on the position of the Fermi level.
+
+Thus, the correct answer is: **B**.",yes
+C,"The cationic polymerization of styrene is fastest in a **non-polar solvent**. This is because cationic polymerization is sensitive to nucleophiles, and polar solvents (like water) can stabilize the cationic species, slowing down the reaction. Non-polar solvents like **pentane** or **2-dichloroethane** are less likely to interfere with the cationic mechanism.
+
+Among the options:
+
+- **(A) 2-dichloroethane**: A polar aprotic solvent, which can stabilize the cation and slow the reaction.
+- **(B) pentane**: A non-polar solvent, which is favorable for cationic polymerization.
+- **(C) water**: A polar protic solvent, which is very nucleophilic and will react with the cation, inhibiting the polymerization.
+
+Therefore, the correct answer is: **B**.",No.
+A,"The sequence ABABABABABABABAB is a **repeating alternating pattern** of the monomers A and B. This type of polymerization results in an **alternating copolymer**.
+
+**Answer: A**",yes
+D,"To determine the molar ratio between the two monomers (1,3-butadiene and styrene) in the copolymer, we can analyze the products of the combustion reaction: **water (H₂O)** and **carbon dioxide (CO₂)**.
+
+### Step 1: Write the combustion reactions
+
+Let’s assume the copolymer is composed of two monomers:  
+- **1,3-butadiene**: C₄H₆  
+- **Styrene**: C₈H₈  
+
+When burned, each monomer produces CO₂ and H₂O.
+
+Let’s define:  
+- Let the number of moles of 1,3-butadiene be **x**  
+- Let the number of moles of styrene be **y**  
+
+Then, the total moles of CO₂ and H₂O produced will be:
+
+- From 1,3-butadiene:  
+  - Each molecule produces **4 CO₂** and **3 H₂O**  
+  - So, from x moles: 4x moles of CO₂ and 3x moles of H₂O
+
+- From styrene:  
+  - Each molecule produces **8 CO₂** and **4 H₂O**  
+  - So, from y moles: 8y moles of CO₂ and 4y moles of H₂O
+
+Total moles of CO₂ = 4x + 8y  
+Total moles of H₂O = 3x + 4y
+
+We are given:
+
+- Mass of H₂O = 0.504 g  
+- Mass of CO₂ = 1.971 g
+
+### Step 2: Convert masses to moles
+
+Molar mass of H₂O = 18.015 g/mol  
+Molar mass of CO₂ = 44.01 g/mol
+
+$$
+\text{Moles of H₂O} = \frac{0.504}{18.015} \approx 0.028 \text{ mol}
+$$
+$$
+\text{Moles of CO₂} = \frac{1.971}{44.01} \approx 0.0448 \text{ mol}
+$$
+
+### Step 3: Set up equations
+
+$$
+3x + 4y = 0.028 \quad \text{(1)}
+$$
+$$
+4x + 8y = 0.0448 \quad \text{(2)}
+$$
+
+### Step 4: Solve the system of equations
+
+From equation (1):  
+$$
+3x = 0.028 - 4y \Rightarrow x = \frac{0.028 - 4y}{3}
+$$
+
+Substitute into equation (2):
+
+$$
+4\left(\frac{0.028 - 4y}{3}\right) + 8y = 0.0448
+$$
+$$
+\frac{0.112 - 16y}{3} + 8y = 0.0448
+$$
+Multiply through by 3:
+
+$$
+0.112 - 16y + 24y = 0.1344
+$$
+$$
+0.112 + 8y = 0.1344
+$$
+$$
+8y = 0.0224 \Rightarrow y = 0.0028
+$$
+
+Now plug back into equation (1):
+
+$$
+3x + 4(0.0028) = 0.028 \Rightarrow 3x + 0.0112 = 0.028 \Rightarrow 3x = 0.0168 \Rightarrow x = 0.0056
+$$
+
+### Step 5: Find the molar ratio
+
+$$
+\frac{x}{y} = \frac{0.0056}{0.0028} = 2
+$$
+
+So the molar ratio of **1,3-butadiene : styrene** is **2:1**.
+
+### ✅ Final Answer: **D** (2:1)",yes
+A,"The functions of an organic ligand shell in quantum dots include:
+
+- **(A) It controls solubility properties**: Organic ligands help in making quantum dots water-soluble, which is important for their use in biological and solution-based applications.
+
+- **(B) It impacts electronic properties like luminescence**: The ligand shell can influence the quantum dot's electronic structure, affecting properties such as fluorescence efficiency and emission wavelength.
+
+- **(D) It provides surface binding functionalities**: The ligand shell can be functionalized to enable specific interactions with other molecules, such as proteins, DNA, or other quantum dots.
+
+**Answer: A, B, D**  
+However, if only one correct answer is allowed, the most comprehensive and commonly emphasized function is:
+
+**Answer: B** (It impacts electronic properties like luminescence)",no
+A,"The difference in the first reflex (2θ angle) in X-ray diffraction is related to the lattice parameters of the MOF. A larger 2θ angle indicates a larger interplanar spacing, which is related to the length of the linker in the MOF.
+
+In this case:
+
+- System A has a 2θ angle of 5°.
+- System B has a 2θ angle of 7°.
+
+Since a larger 2θ angle corresponds to a larger interplanar spacing, the linker in **system B** must be **longer** than the linker in **system A**.
+
+Therefore, the correct answer is: **C**.",no
+A,"The correct answer is: **C**
+
+**Explanation:**  
+To determine a kinetic expression for the rate of radical chain polymerization, it is assumed that the rate constant for **propagation** is independent of the size of the radical. This assumption simplifies the derivation of the overall rate expression, as the propagation step is typically the rate-determining step in radical polymerization. The other assumptions (A, B, and D) are not necessarily required for the derivation of the kinetic expression.",No.
+A,"The molecular structure of elastomers is characterized by **not cross-linked**. Elastomers are polymers that have a flexible, rubber-like structure, which allows them to stretch and return to their original shape. This flexibility is achieved by having a **low degree of cross-linking**, which allows the polymer chains to slide over each other when stretched.
+
+Therefore, the correct answer is: **B**.",No.
+B,"To determine the correct order of interplanar distances (d-spacing) for BCC crystals in decreasing order while considering only those that will produce **Bragg reflections**, we need to:
+
+1. **Understand the d-spacing formula for BCC**:
+   $$
+   d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+   $$
+   where $ a $ is the lattice constant and $ h, k, l $ are the Miller indices of the plane.
+
+2. **Determine which planes produce Bragg reflections**:
+   In a BCC crystal, **only planes with h + k + l even** will produce Bragg reflections (i.e., the plane must be a valid reflection plane in BCC).
+
+3. **Evaluate the given options**:
+
+Let’s compute the d-spacing for the planes in each option and compare them.
+
+---
+
+### Option A: (100), (110), (111), (200)
+
+- (100): h + k + l = 1 + 0 + 0 = 1 → **odd** → **not a valid Bragg reflection**
+- (110): h + k + l = 1 + 1 + 0 = 2 → **even** → **valid**
+- (111): h + k + l = 1 + 1 + 1 = 3 → **odd** → **not a valid Bragg reflection**
+- (200): h + k + l = 2 + 0 + 0 = 2 → **even** → **valid**
+
+So only (110) and (200) are valid. But (100) and (111) are not, so **this option is invalid**.
+
+---
+
+### Option B: (110), (200), (211), (220)
+
+- (110): 2 → **valid**
+- (200): 2 → **valid**
+- (211): 2 + 1 + 1 = 4 → **valid**
+- (220): 2 + 2 + 0 = 4 → **valid**
+
+All are valid. Now compute d-spacing:
+
+- (110): $ d = \frac{a}{\sqrt{1^2 + 1^2 + 0^2}} = \frac{a}{\sqrt{2}} $
+- (200): $ d = \frac{a}{\sqrt{2^2 + 0^2 + 0^2}} = \frac{a}{2} $
+- (211): $ d = \frac{a}{\sqrt{2^2 + 1^2 + 1^2}} = \frac{a}{\sqrt{6}} $
+- (220): $ d = \frac{a}{\sqrt{2^2 + 2^2 + 0^2}} = \frac{a}{\sqrt{8}} = \frac{a}{2\sqrt{2}} $
+
+Now compare:
+
+- $ \frac{a}{\sqrt{2}} \approx 0.707a $
+- $ \frac{a}{2} = 0.5a $
+- $ \frac{a}{\sqrt{6}} \approx 0.408a $
+- $ \frac{a}{2\sqrt{2}} \approx 0.354a $
+
+So the order from **largest to smallest** is:
+
+**(110), (200), (211), (220)**
+
+This matches **Option B**.
+
+---
+
+### Option C: (110), (200), (221), (310)
+
+- (110): 2 → **valid**
+- (200): 2 → **valid**
+- (221): 2 + 2 + 1 = 5 → **odd** → **not valid**
+- (310): 3 + 1 + 0 = 4 → **valid**
+
+So (221) is **not valid**, so this option is invalid.
+
+---
+
+### Option D: (110), (211), (310), (222)
+
+- (110): 2 → **valid**
+- (211): 2 + 1 + 1 = 4 → **valid**
+- (310): 3 + 1 + 0 = 4 → **valid**
+- (222): 2 + 2 + 2 = 6 → **valid**
+
+All are valid. Now compute d-spacing:
+
+- (110): $ \frac{",yes
+C,"The correct answer is (C) Ethylene glycol.
+
+Polyurethanes are formed by the reaction of isocyanates with polyols, such as ethylene glycol. Therefore, the answer is:
+
+**C**",yes
+C,"The correct answer is **C (n-vinylcarbazole)**.
+
+**Explanation:**
+
+Anionic polymerization typically involves the use of monomers that can form stable anions, often with a carbonyl group or a double bond that can be attacked by a nucleophile (such as a negative ion).
+
+Let's analyze each option:
+
+- **(A) Isobutene**: This is an alkene (butene) with a methyl group. While it can undergo polymerization, it typically undergoes **cationic** polymerization rather than anionic. It is not suitable for anionic polymerization.
+
+- **(B) Methyl vinyl ether**: This monomer has a vinyl group and an ether oxygen. It can undergo **anionic polymerization**, but it is more commonly associated with **cationic** or **free radical** polymerization. It is not the most typical monomer for anionic polymerization.
+
+- **(C) n-Vinylcarbazole**: This monomer contains a **vinyl group** and a **carbazole ring**. The carbazole ring has a conjugated system that allows for anionic polymerization. It is a well-known monomer that **can be polymerized via anionic polymerization**.
+
+- **(D) Propiolactone**: This is a cyclic ester. It can undergo **anionic polymerization**, but it is more commonly associated with **cationic** or **free radical** polymerization. It is not the most typical monomer for anionic polymerization.
+
+- **(E) Propylene sulfide**: This is a cyclic sulfide. It can undergo **anionic polymerization**, but it is more commonly associated with **cationic** or **free radical** polymerization. It is not the most typical monomer for anionic polymerization.
+
+**Correct Answer: C**",yes
+B,"The correct answer is: **B**
+
+When a polymer synthesized via Nitroxide-Mediated Polymerization (NMP) with TEMPO is heated above 150°C, the polymer undergoes **depolymerization**, leading to the formation of monomers. This is because NMP typically involves the use of nitroxide radicals as chain transfer agents, which can be sensitive to high temperatures. At elevated temperatures, the chain transfer agents can become less effective, leading to the breakdown of the polymer chain and the release of monomer units.
+
+**Answer: B**",yes
+C,"The correct answer is: **C**
+
+**Explanation:**
+
+Polyethylene (PE) milk jugs are made of polyethylene, a linear polymer with relatively weak intermolecular forces (van der Waals forces) and no cross-links. This allows them to be easily melted and reshaped when heated, making them recyclable.
+
+In contrast, automobile tires are typically made of a cross-linked polymer (such as natural rubber or synthetic rubber with a cross-linked structure). Cross-linking creates a more rigid and heat-resistant structure, which requires extremely high temperatures to break down, making them difficult to recycle.
+
+Therefore, the correct answer is **C**.",yes
+A,"To determine the correct ordering of linkers in increasing pore size of the resulting MOFs, we need to analyze the structures of the linkers provided in the options.
+
+### Step 1: Interpret the SMILES Notations
+
+Let's interpret the SMILES strings:
+
+#### Option A:
+1. **[START_SMILES]CC1=C(C(O)=O)C=CC(C(O)=O)=C1[END_SMILES]**
+   - This is a **benzene ring with two carboxylic acid groups** (–COOH) on adjacent carbon atoms.
+   - Structure: **Phthalic acid** (a 1,2-benzenedicarboxylic acid).
+
+2. **[START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]**
+   - This is a **biphenyl structure** with carboxylic acid groups on both phenyl rings.
+   - Structure: **Bis(phenol) with two carboxylic acid groups**.
+
+3. **[START_SMILES]CC1=CC(C2=CC=C(C(O)=O)C=C2)=CC=C1C3=CC=C(C(O)=O)C=C3[END_SMILES]**
+   - This is a **biphenyl with two substituted phenyl rings**.
+   - Structure: **Bis(phenol) with two carboxylic acid groups** on each phenyl ring.
+
+#### Option B:
+1. **[START_SMILES]CC1=C(C(O)=O)C=CC(C(O)=O)=C1[END_SMILES]**
+   - Same as in Option A, **Phthalic acid**.
+
+2. **[START_SMILES]CC1=CC(C2=CC=C(C(O)=O)C=C2)=CC=C1C3=CC=C(C(O)=O)C=C3[END_SMILES]**
+   - Same as in Option A, **Bis(phenol) with two carboxylic acid groups**.
+
+3. **[START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]**
+   - Same as in Option A, **Biphenyl with carboxylic acid groups**.
+
+#### Option C:
+1. **[START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]**
+   - Same as in Option A, **Biphenyl with carboxylic acid groups**.
+
+2. **[START_SMILES]CC1=CC(C2=CC=C(C(O)=O)C=C2)=CC=C1C3=CC=C(C(O)=O)C=C3[END_SMILES]**
+   - Same as in Option A, **Bis(phenol) with two carboxylic acid groups**.
+
+3. **[START_SMILES]CC1=C(C(O)=O)C=CC(C(O)=O)=C1[END_SMILES]**
+   - Same as in Option A, **Phthalic acid**.
+
+### Step 2: Understand the Relationship Between Linker Structure and Pore Size
+
+- **Phthalic acid** is a **dimeric linker** with two carboxylic acid groups on adjacent positions of a benzene ring.
+- **Biphenyl with carboxylic acid groups** is a **linear linker** with two carboxylic acid groups on two separate benzene rings.
+- **Bis(phenol) with two carboxylic acid groups** is a **more complex, branched linker** with multiple functional groups.
+
+In general, **more complex linkers** with more branching or multiple functional groups tend to **reduce pore size** due to steric hindrance and less regularity in the framework.
+
+### Step 3: Order the Linkers by Increasing Pore Size
+
+The correct order from **smallest to largest pore size** is:
+
+1. **Phthalic acid** (most compact, least pore size)
+2. **Biphenyl with carboxylic acid groups** (more extended than phthalic acid, larger pore size)
+3. **Bis(phenol) with two carboxylic acid groups** (most branched, largest pore size)
+
+Thus, the correct ordering is:
+
+**(A) [Phthalic acid] < [Biphenyl with carboxylic acid groups] < [Bis(phenol) with two carboxylic acid groups]**
+
+### Final Answer:
+**A**",yes
+A,"The correct answer is **(C) Monoclinic and Tetragonal**.
+
+### Explanation:
+
+- **Cubic** and **Rhombohedral** systems have **identical unit cell dimensions** and **axial angles**, so they are not the correct answer.
+- **Hexagonal** and **Cubic** systems have **different unit cell dimensions** and **axial angles**, so they are not the correct answer.
+- **Rhombohedral** and **Hexagonal** systems have **different unit cell dimensions** and **axial angles**, so they are not the correct answer.
+- **Tetragonal** and **Monoclinic** systems **share the same type of unit cell dimensions** (i.e., all axes are of different lengths, but not necessarily all angles are 90°), but **differ in their axial angles** (Tetragonal has 90° angles, while Monoclinic has one angle not 90°). Therefore, they **share the same type of unit cell dimensions but differ in their axial angles**.
+
+### Final Answer: **C**.",No.
+D,"To determine the correct ordering of linkers in increasing density of the resulting MOFs, we need to analyze the **structure and complexity** of the linker molecules. The density of a MOF is generally inversely related to the **molecular weight** and **complexity** of the linker, as more complex linkers can lead to **less dense** frameworks due to more space occupied by the linker molecules.
+
+Let’s interpret the SMILES strings:
+
+---
+
+### **Linker 1:**
+```
+[START_SMILES]CC1=C(C(O)=O)C=CC(C(O)=O)=C1[END_SMILES]
+```
+This is **1,2-benzenedicarboxylic acid** (terephthalic acid), a **bivalent** linker with two carboxylic acid groups.
+
+---
+
+### **Linker 2:**
+```
+[START_SMILES]CC1=CC(C2=CC=C(C(O)=O)C=C2)=CC=C1C3=CC=C(C(O)=O)C=C3[END_SMILES]
+```
+This is a **bivalent** linker with two aromatic rings connected by a bridge, likely **1,3-benzenedicarboxylic acid** (isophthalic acid), but with more branching or complexity.
+
+---
+
+### **Linker 3:**
+```
+[START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]
+```
+This is **1,4-benzenedicarboxylic acid** (succinic acid), a **bivalent** linker with two carboxylic acid groups.
+
+---
+
+### **Analysis of Density:**
+- **Terephthalic acid (Linker 1)**: More compact, less branching.
+- **Isophthalic acid (Linker 2)**: More branching, more complex structure.
+- **Succinic acid (Linker 3)**: More compact, less branching.
+
+Since **density** is inversely related to **complexity**, the **less complex** linker will result in **higher density**.
+
+Thus, the **increasing density** order is:
+
+1. **Terephthalic acid (Linker 1)** → **most dense**
+2. **Succinic acid (Linker 3)** → **medium density**
+3. **Isophthalic acid (Linker 2)** → **least dense**
+
+So, the correct ordering in **increasing density** is:
+
+**Linker 1 < Linker 3 < Linker 2**
+
+Which corresponds to:
+
+**(B) [START_SMILES]CC1=C(C(O)=O)C=CC(C(O)=O)=C1[END_SMILES]<[START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]<[START_SMILES]CC1=CC(C2=CC=C(C(O)=O)C=C2)=CC=C1C3=CC=C(C(O)=O)C=C3[END_SMILES]**
+
+### ✅ **Answer: B**",no
+B,"To determine the functionality of allyl alcohol in relation to condensation reactions with terephthalic acid, we need to consider the reactive sites on each molecule.
+
+**Terephthalic acid** is a dicarboxylic acid with two carboxylic acid groups (–COOH), so it has a functionality of **2** in terms of condensation reactions.
+
+**Allyl alcohol** has the structure CH₂=CH–CH₂OH. It contains one **double bond** (C=C) and one **hydroxyl group** (–OH). However, in the context of **condensation reactions** with terephthalic acid, the relevant reactive groups are typically **carboxylic acid groups** (–COOH) on terephthalic acid and **hydroxyl groups** (–OH) or **alkoxide groups** (–O–) on the other molecule.
+
+In a **condensation reaction** between terephthalic acid and allyl alcohol, the **carboxylic acid group** of terephthalic acid reacts with the **hydroxyl group** of allyl alcohol. This forms an **ester linkage** (–COO–), and water is eliminated.
+
+Allyl alcohol has **one hydroxyl group**, so its functionality in this context is **1**.
+
+### Correct Answer: **(B) 1**",yes
+B,"The correct answer is **(B) Polycondensation**.
+
+Poly(lactic acid) (PLA) is typically synthesized through **polycondensation**, a process in which monomers react to form a polymer, releasing small molecules such as water as byproducts. In the case of PLA, lactic acid monomers undergo condensation to form the polymer chain.
+
+**Answer: B**",yes
+A,"The correct answer is: **(A) Both the temperature during synthesis condition and Fermi level within the bandgap can play a role**
+
+**Explanation:**
+
+- **(A)** is correct because both the **temperature** (which affects the thermal energy available for defect formation) and the **Fermi level** (which influences the electrochemical potential and thus the defect formation energy) can influence the formation of vacancy defects $V_A$ and interstitial defects $B_i$.
+
+- **(B)** is incorrect. The **chemical potential** of atom A being high does **not** directly mean more $V_A$ defects are formed. The formation energy of $V_A$ is a function of the overall defect formation energy and the chemical potential of A, but the relationship is not linear or directly proportional in that way.
+
+- **(C)** is incorrect. **Defect concentration** can be controlled **during synthesis** (e.g., by adjusting temperature, pressure, or chemical potential), and it can also be controlled **later** through annealing or other post-synthesis processes.
+
+- **(D)** is incorrect. The **chemical potential of $B_i$** can influence the **concentration of $V_A$** defects through the overall defect equilibrium in the semiconductor. For example, the formation of $B_i$ can affect the availability of B atoms, which in turn affects the formation of $V_A$.
+
+Thus, the correct answer is: **A**.",yes
+A,"The rate of radical polymerization is proportional to the square root of the initiator concentration. This is because the rate depends on the concentration of radicals, which is proportional to the square root of the initiator concentration.
+
+The formula for the rate of radical polymerization (r) is:
+
+$$ r \propto \sqrt{[I]} $$
+
+where $[I]$ is the initiator concentration.
+
+To double the rate (i.e., $ r' = 2r $), we set up the equation:
+
+$$ 2r = \sqrt{[I']}/\sqrt{[I]} \cdot r $$
+
+$$ 2 = \sqrt{[I']}/\sqrt{[I]} $$
+
+$$ \sqrt{[I']} = 2\sqrt{[I]} $$
+
+$$ [I'] = 4[I] $$
+
+Therefore, the initiator concentration must be **quadrupled**.
+
+The answer is: **B**.",no
+C,"The correct answer is: **C**. 
+
+Acetylene is used to produce polyethylene plastics through a process called acetylene cracking.",No.
+D,"The correct answer is **(A) Azobisisobutyronitrile**.
+
+### Explanation:
+
+Free radical polymerization requires an initiator that can generate free radicals at low temperatures. The choice of initiator depends on its thermal stability and the temperature at which it is effective.
+
+- **(A) Azobisisobutyronitrile (AIBN)**: This is a well-known initiator for free radical polymerization. It is thermally stable and can initiate polymerization at low temperatures, including **5°C**. It is commonly used for polymerization at low temperatures.
+
+- **(B) Benzoyl peroxide**: This is also a free radical initiator, but it is more effective at higher temperatures (typically above 50°C). At 5°C, it may not be efficient enough to initiate polymerization.
+
+- **(C) Potassium persulfate**: This is a common initiator for free radical polymerization, but it is generally used at higher temperatures (above 30°C). At 5°C, it may not be effective.
+
+- **(D) FeSO₄ + t-butyl hydroperoxide**: This is a system used for radical polymerization, but it is typically used at higher temperatures as well. The iron(II) sulfate is a reducing agent that can help in the decomposition of the peroxide, but the system is not as effective at low temperatures as AIBN.
+
+### Conclusion:
+The initiator that is most suitable for free radical polymerization at **5°C** is **(A) Azobisisobutyronitrile**.
+
+**Answer: A**",No.
+A,"The correct answer is: **A**
+
+**Explanation:**  
+In NMR analysis, it is important to remove the organic linker groups from metal-organic frameworks (MOFs) while preserving the metal clusters. Hydrofluoric acid (HF) is preferred over hydrochloric acid (HCl) because the fluoride ion (F⁻) forms strong, stable bonds with many metal ions, which helps to protect the metal clusters from being dissolved or altered during the digestion process. This stability of F⁻ with metals makes HF more suitable for this specific application.
+
+Thus, the correct choice is: **A**.",yes
+B,"The correct answer is: **C**
+
+**Explanation:**
+
+- **(A) They are always made up of inorganic shell** – This is incorrect. Colloidal semiconductor nanostructures can be made of organic or inorganic materials, and they often have a core-shell structure, but they are not *always* inorganic.
+
+- **(B) They are dispersible in solvent** – This is correct. Colloidal nanostructures are typically dispersed in solvents (e.g., water, organic solvents) due to their small size and surface properties.
+
+- **(C) They have size dependent properties** – This is correct. The properties of colloidal semiconductor nanostructures (such as optical, electronic, and magnetic properties) are highly dependent on their size.
+
+- **(D) They range from 2 nm – 20 nm in size** – This is incorrect. While many colloidal semiconductor nanostructures are in this size range, they can be smaller (e.g., 1–2 nm) or larger (e.g., up to hundreds of nanometers), depending on the application.
+
+Thus, the correct answer is: **C**.",yes
+A,"The correct answer is: **B, C**
+
+**Explanation:**
+
+- **(A) An alloy with a eutectic composition will always solidify at a single temperature.**  
+  ❌ This is **incorrect**. A eutectic alloy solidifies at a **single temperature** (the eutectic temperature), but it does **not** solidify at a **single temperature** in the sense that it may have multiple phases forming simultaneously at that temperature. However, the statement is misleading because it implies that the alloy will solidify at a **single temperature** (which is correct), but the wording is ambiguous. However, the more precise statement is that the **eutectic composition solidifies at a single temperature**, so this statement is **not fully accurate**.
+
+- **(B) The Gibbs free energy of an alloy must be minimized for the alloy to be in a stable phase.**  
+  ✅ This is **correct**. For an alloy to be in a stable phase, its **Gibbs free energy** must be **minimized**.
+
+- **(C) The presence of intermetallic compounds in an alloy can lead to the formation of multiple phases.**  
+  ✅ This is **correct**. Intermetallic compounds are a type of phase that can form in alloys, and their presence can lead to the formation of **multiple phases** in the alloy system.
+
+- **(D) The solubility limit in an alloy system is independent of temperature.**  
+  ❌ This is **incorrect**. The solubility limit in an alloy system **does depend on temperature**. As temperature changes, the solubility of one component in another can increase or decrease.
+
+### Final Answer: **B, C**",yes
+B,"The correct answer is **(D) At pH ~ pKa, the polymer is charged and collapsed**.
+
+**Explanation:**
+
+For polyanion/polyacid polymers (which are typically negatively charged at high pH and neutral or positively charged at low pH), the conformation depends on the protonation state of the functional groups.
+
+- **At pH < pKa**: The functional groups are protonated (uncharged), and the polymer is **charged** (if it's a polyacid, it would be positively charged). This leads to a **collapsed** conformation due to electrostatic repulsion between the charges.
+  
+- **At pH > pKa**: The functional groups are deprotonated (charged), and the polymer is **fully charged** (negatively charged for a polyanion). This leads to a **stretched** conformation due to electrostatic repulsion.
+
+- **At pH ~ pKa**: The polymer is **partially charged**, and the conformation is **random coil** or **collapsed** depending on the specific polymer and conditions.
+
+However, **(D)** is the most accurate description of the behavior at pH ~ pKa, where the polymer is **charged and collapsed** due to the balance of charges and the tendency for polymer chains to collapse when partially charged.
+
+**Answer: D**",no
+A,"The question is asking which of the given organic linkers might exhibit varying gas uptake properties depending on light exposure, i.e., which could potentially demonstrate **photoswitchable gas uptake behavior**.
+
+To determine this, we need to analyze the chemical structures of the linkers to see if they contain **light-sensitive functional groups** that can undergo **photochemical isomerization** or **photoredox changes**, which could alter their **gas adsorption properties**.
+
+Let’s analyze each option:
+
+---
+
+### **(A)** [START_SMILES]CC(C=CC=C1)=C1/N=N/C2=C(C(O)=O)C=CC(C(O)=O)=C2[END_SMILES]
+
+This structure contains an **azine group** (N=N), and there are **carbonyl groups (C(O)=O)**. These are **light-sensitive** in some contexts, especially if the molecule is part of a **photochromic system**. However, the presence of **carbonyl groups** alone is not sufficient to indicate **photoswitchable behavior** without additional functional groups like **azo groups**, **nitro groups**, or **diketopiperazines**.
+
+This linker **may** have some light sensitivity, but it is **not clearly photoswitchable**.
+
+---
+
+### **(B)** [START_SMILES]CC1=C(C2=C(C(C=C(C(O)=O)C=C3)=C3C4=C2C=C(C(O)=O)C=C4)C)C=C(C)S1[END_SMILES]
+
+This structure contains **carbonyl groups (C(O)=O)** and a **thiol group (–S–)**. The **thiol group** is **not typically light-sensitive**, and the **carbonyl groups** are not inherently photoswitchable unless part of a **photochromic system**. This linker does **not clearly show photoswitchable behavior**.
+
+---
+
+### **(C)** [START_SMILES]CC1=C(C2=C(C(C=C(C(O)=O)C=C3)=C3C4=C2C=C(C(O)=O)C=C4)C5=C(C)SC(C)=C5)C=C(C)S1[END_SMILES]
+
+This structure contains **carbonyl groups (C(O)=O)**, **thiol groups (–S–)**, and **sulfur-containing rings** (e.g., **thiazole-like rings**). The **sulfur-containing rings** are **not typically light-sensitive**, and again, the **carbonyl groups** alone are not photoswitchable. This linker is **not clearly photoswitchable**.
+
+---
+
+### **(D)** [START_SMILES]CC1=CC(C(O)=O)=CC=C1C2=CC=C(C(O)=O)C=C2[END_SMILES]
+
+This structure contains **carbonyl groups (C(O)=O)** and **aromatic rings**. The **aromatic rings** may be **photochromic** in some cases, especially if they contain **conjugated systems** or **azobenzene-like structures**. However, the structure as given **does not contain any explicit photoswitchable groups** like **azo groups**, **nitro groups**, or **diketopiperazines**. It is **not clearly photoswitchable**.
+
+---
+
+### **Conclusion:**
+
+None of the given linkers clearly contain **photoswitchable functional groups** like **azo groups**, **nitro groups**, or **diketopiperazines**, which are typically required for **photoswitchable gas uptake behavior**. However, **option (A)** contains **azine (N=N)** and **carbonyl groups**, which may be part of a **photochromic system**, and could potentially exhibit **photoswitchable behavior** in the context of a **MOF**.
+
+Thus, the **correct answer is:**
+
+**A**",yes
+A,"The correct answer is: **C**
+
+**Explanation:**
+
+- **(A) It involves the separation of the growth and nucleation stages during quantum dots synthesis** – This is **true**. The hot injection method is known for separating the nucleation and growth stages, which helps in controlling the size of the quantum dots.
+
+- **(B) It is a gas-phase method** – This is **false**. The hot injection method is typically a **liquid-phase method**, not a gas-phase method.
+
+- **(C) It is a liquid-phase method** – This is **true**. The hot injection method is a common technique used in liquid-phase synthesis of quantum dots.
+
+- **(D) It is suitable for synthesizing quantum dots with a wide size distribution** – This is **false**. The hot injection method is known for producing quantum dots with a **narrow size distribution**, due to the controlled growth process.
+
+Therefore, the correct answer is: **C**.",no
+B,"To find the mass of compound B in the sample, we need to determine the amount of lactic acid (or its dimer, compound B) in the sample based on the neutralization reaction with NaOH and HCl.
+
+---
+
+### **Step 1: Understand the reaction**
+
+Compound B is a **dimer of lactic acid**, so it contains **two lactic acid molecules**. Lactic acid is a **monoprotic acid** (one H+ per molecule), so the dimer will have **2 H+ per molecule of B**.
+
+Lactic acid (C₃H₆O₃) → H+ + C₃H₅O₃⁻
+
+So, the dimer (compound B) will have **2 H+ per molecule**.
+
+---
+
+### **Step 2: Find moles of NaOH used initially**
+
+We are told that:
+
+- 40.00 cm³ of 0.100 mol dm⁻³ NaOH is used.
+- 18.50 cm³ of 0.100 mol dm⁻³ HCl is used to neutralize the **excess** NaOH.
+
+So, the amount of NaOH that reacted with compound B is:
+
+$$
+\text{Moles of NaOH initially} = 0.04000 \, \text{dm}^3 \times 0.100 \, \text{mol/dm}^3 = 0.00400 \, \text{mol}
+$$
+
+$$
+\text{Moles of HCl used to neutralize excess NaOH} = 0.01850 \, \text{dm}^3 \times 0.100 \, \text{mol/dm}^3 = 0.00185 \, \text{mol}
+$$
+
+So, the moles of NaOH that reacted with compound B is:
+
+$$
+0.00400 - 0.00185 = 0.00215 \, \text{mol}
+$$
+
+---
+
+### **Step 3: Determine moles of compound B**
+
+Since compound B is a dimer of lactic acid, and it has **2 H+ per molecule**, it will **react with 2 moles of NaOH per mole of B**.
+
+$$
+\text{Moles of B} = \frac{0.00215}{2} = 0.001075 \, \text{mol}
+$$
+
+---
+
+### **Step 4: Find the molar mass of compound B**
+
+Lactic acid is C₃H₆O₃. Its molar mass is:
+
+$$
+12.01 \times 3 + 1.008 \times 6 + 16.00 \times 3 = 90.08 \, \text{g/mol}
+$$
+
+So, the dimer (compound B) has a molar mass of:
+
+$$
+2 \times 90.08 = 180.16 \, \text{g/mol}
+$$
+
+---
+
+### **Step 5: Calculate the mass of compound B in the sample**
+
+$$
+\text{Mass of B} = 0.001075 \, \text{mol} \times 180.16 \, \text{g/mol} = 0.1937 \, \text{g}
+$$
+
+This is closest to **(C) 0.1905 g**.
+
+---
+
+### ✅ **Answer: C**",No.
+A,"To solve this, we need to consider the rate law for a radical polymerization. In such reactions, the rate of initiation (and thus the overall rate of polymerization) is typically proportional to the square root of the initiator concentration, assuming the monomer concentration is much larger than the initiator concentration.
+
+The rate of initiation is given by:
+
+$$
+\text{Rate} \propto \sqrt{[I]}
+$$
+
+Where $[I]$ is the initiator concentration.
+
+Let the original rate be $R_1$ with initiator concentration $[I]_1$, and the new rate be $R_2$ with initiator concentration $[I]_2 = 0.25[I]_1$.
+
+We are told that the gross reaction rate remains the same, so $R_1 = R_2$.
+
+Using the proportionality:
+
+$$
+\sqrt{[I]_1} = \sqrt{[I]_2}
+$$
+
+But since $[I]_2 = 0.25[I]_1$, we substitute:
+
+$$
+\sqrt{[I]_1} = \sqrt{0.25[I]_1} = \sqrt{0.25} \cdot \sqrt{[I]_1} = 0.5 \cdot \sqrt{[I]_1}
+$$
+
+This implies that the rate would be **halved**, unless the monomer concentration is increased to compensate.
+
+Let’s assume the rate is also proportional to the monomer concentration $[M]$, so:
+
+$$
+R \propto \sqrt{[I]} \cdot [M]
+$$
+
+Let the original rate be:
+
+$$
+R_1 = k \sqrt{[I]_1} [M]_1
+$$
+
+The new rate is:
+
+$$
+R_2 = k \sqrt{[I]_2} [M]_2 = k \sqrt{0.25[I]_1} [M]_2 = k \cdot 0.5 \sqrt{[I]_1} [M]_2
+$$
+
+We are told $R_1 = R_2$, so:
+
+$$
+k \sqrt{[I]_1} [M]_1 = k \cdot 0.5 \sqrt{[I]_1} [M]_2
+$$
+
+Cancel $k$ and $\sqrt{[I]_1}$ from both sides:
+
+$$
+[M]_1 = 0.5 [M]_2 \Rightarrow [M]_2 = 2 [M]_1
+$$
+
+So, the monomer concentration must be **doubled** to keep the rate the same when the initiator concentration is reduced to 25% of the original.
+
+Therefore, the answer is: **(A) 2**.",yes
+B,"The correct answer is: **A** (Anionic polymerization)
+
+Tetrahydrofuran (THF) can undergo **anionic polymerization**. It is a cyclic ether that can participate in anionic polymerization due to its ability to form stable anionic intermediates. 
+
+- **Cationic polymerization** is less common for THF.
+- **Polyinsertion** typically refers to processes like metathesis or insertion into a metal complex, not directly applicable to THF.
+- **Radical polymerization** is not typically feasible for THF under standard conditions.
+
+Thus, the correct answer is: **A**.",no
+B,"To determine the correct match of defects to their types, let's analyze each statement and match it to the correct type:
+
+### Definitions:
+
+1. **Interstitial defect**: A defect where an atom is located in an interstitial site (between atoms in the crystal lattice). This type of defect generally increases electrical conductivity (due to increased free electrons) but does not significantly affect mechanical strength.
+
+2. **Screw dislocation**: A type of line defect where the crystal lattice is twisted along a line. It can move through the crystal in a direction **perpendicular** to the applied stress.
+
+3. **Tilt boundary defect**: A type of grain boundary where the two adjacent grains are misaligned by a small angle. This is a type of **grain boundary**, and it is created when two crystal grains meet at an angle, creating a region of mismatch.
+
+4. **Edge dislocation**: A type of line defect where an extra half-plane of atoms is inserted into the crystal. It creates slip planes and can propagate through the crystal under stress.
+
+### Matching the statements:
+
+- **Statement A**: ""Defect A increases the material's electrical conductivity but does not significantly affect its mechanical strength""  
+  → This matches **Interstitial defect (1)**.
+
+- **Statement B**: ""Defect B creates slip planes and can propagate through the crystal under stress""  
+  → This matches **Edge dislocation (4)**.
+
+- **Statement C**: ""Defect C forms when two crystal grains meet at an angle, creating a region of mismatch""  
+  → This matches **Tilt boundary defect (3)**.
+
+- **Statement D**: ""Defect D can move through the crystal in a direction perpendicular to the applied stress""  
+  → This matches **Screw dislocation (2)**.
+
+### Final Match:
+- A → 1  
+- B → 4  
+- C → 3  
+- D → 2  
+
+This corresponds to **Option (B)**: **A-1, B-4, C-3, D-2**
+
+### Answer: **B**",yes
+B,"The correct answer is **(B) Polymerization and depolymerization are in equilibrium**.
+
+The ceiling temperature of a polymer is the temperature above which the polymerization reaction becomes irreversible. At this temperature, the polymerization rate equals the depolymerization rate, meaning the system is in equilibrium. Below this temperature, the polymerization is reversible, and above it, the polymerization is diffusion-limited and irreversible.
+
+Thus, the correct answer is: **B**.",yes
+B,"The correct answer is **(B) as coiled molecules**.
+
+Linear macromolecules with a degree of polymerization of 50,000 are typically present in solution or melt as **coiled molecules** due to the entanglement and excluded volume effects. These long chains do not stretch fully but rather adopt a coiled or random coil conformation to minimize energy and avoid overlapping.
+
+**Answer: B**",yes
+B,"The correct answer is: **B**
+
+**Explanation:**  
+High-density polyethylene (HDPE) is partially crystalline, which causes it to scatter visible light, making it appear opaque. In contrast, low-density polyethylene (LDPE) has a more amorphous structure, allowing light to pass through more easily, which makes it transparent. Therefore, the correct answer is **(B)**.",yes
+595,"To determine the **average molar mass of polymer chains** in a sample of **poly(lactic acid) (PLA)** using **end-group analysis**, we use the following approach:
+
+---
+
+### **Key Concept: End-group Analysis**
+
+In end-group analysis, the polymer is dissolved in a suitable solvent (e.g., benzyl alcohol), and a **base (e.g., KOH)** is titrated against the solution. The **endpoint** of the titration corresponds to the **neutralization of the acidic end groups** of the polymer.
+
+For **PLA**, the monomer is **lactic acid**, which has an **acidic end group** (–COOH). Each repeat unit of PLA has **two acidic end groups** (one at each end of the chain). However, in end-group analysis, we are typically considering the **number of acidic end groups** per chain.
+
+---
+
+### **Given Data:**
+
+- Mass of PLA sample: $ m = 0.1619 \, \text{g} $
+- Volume of benzyl alcohol: $ 25 \, \text{cm}^3 $ (not needed for calculation)
+- Concentration of KOH: $ c_{\text{KOH}} = 0.0400 \, \text{mol dm}^{-3} $
+- Volume of KOH used: $ V_{\text{KOH}} = 6.81 \, \text{cm}^3 = 0.00681 \, \text{dm}^3 $
+
+---
+
+### **Step 1: Calculate moles of KOH used**
+
+$$
+n_{\text{KOH}} = c_{\text{KOH}} \times V_{\text{KOH}} = 0.0400 \times 0.00681 = 0.0002724 \, \text{mol}
+$$
+
+---
+
+### **Step 2: Relate moles of KOH to moles of end groups**
+
+Each acidic end group of PLA reacts with one mole of KOH. Assuming the polymer is fully end-grouped (i.e., each chain has two end groups), and assuming that all end groups are neutralized, the number of moles of end groups is equal to the moles of KOH.
+
+So:
+
+$$
+n_{\text{end groups}} = n_{\text{KOH}} = 0.0002724 \, \text{mol}
+$$
+
+---
+
+### **Step 3: Assume number of end groups per chain**
+
+For a polymer like PLA, each chain has **two end groups** (one at each end), so the number of chains is:
+
+$$
+n_{\text{chains}} = \frac{n_{\text{end groups}}}{2} = \frac{0.0002724}{2} = 0.0001362 \, \text{mol}
+$$
+
+---
+
+### **Step 4: Calculate average molar mass of polymer chains**
+
+$$
+M_{\text{avg}} = \frac{m}{n_{\text{chains}}} = \frac{0.1619}{0.0001362} = 11887 \, \text{g mol}^{-1}
+$$
+
+---
+
+### ✅ **Answer:**
+
+**D. 11887 g mol⁻¹** (numerical value)  
+But since the question asks to **reply with the single letter corresponding to the correct answer**, and the options were not provided, the **numerical answer** is:
+
+**11887 g mol⁻¹**
+
+So the final answer is:
+
+**11887**",No.
+C,"The molecular structure of elastomers is characterized by **not cross-linked**. Elastomers are flexible and elastic materials that can undergo significant deformation without breaking. This property is achieved because their polymer chains are not highly cross-linked, allowing them to stretch and return to their original shape.
+
+The correct answer is: **B**.",No.
+B,"To determine the correct order of reactivity for cationic polymerization among the given monomers, we need to consider the **stability of the cationic intermediate** formed during the polymerization process. In cationic polymerization, the reactivity of a monomer depends on the **ability of the monomer to form a stable cationic species**.
+
+### Key factors in cationic polymerization reactivity:
+1. **Electron-donating groups** (like alkoxy groups) stabilize the cationic intermediate.
+2. **Conjugation** and **double bond position** influence the stability of the cationic intermediate.
+3. **Alkyl groups** (like methyl groups) can stabilize the cation through hyperconjugation.
+4. **Alkene structure** (e.g., conjugated dienes) can also influence the cationic stability.
+
+### Monomers in the options:
+Let's analyze each monomer:
+
+1. **2-methoxypropene**  
+   - Contains a methoxy group (–OCH₃), which is an electron-donating group.
+   - The double bond is in a terminal position (CH₂=CH–CH₂–OCH₃).
+   - The cationic intermediate would have a more stabilized cation due to the methoxy group.
+
+2. **4-methoxyphenylacetylene**  
+   - Contains a methoxy group and is an aromatic acetylene.
+   - The methoxy group is on a benzene ring, which provides strong electron donation.
+   - The acetylene structure (triple bond) is more reactive than a simple alkene in cationic polymerization due to the ability to form a more stable cation.
+
+3. **Phenylacetylene**  
+   - Contains a triple bond (acetylene) and a benzene ring.
+   - The acetylene structure is more reactive than a simple alkene in cationic polymerization.
+   - The phenyl group provides some electron donation, but less than the methoxy group.
+
+4. **2-methyl-2-butene**  
+   - A simple alkene with a methyl group on the double bond.
+   - The cationic intermediate is stabilized by the methyl group (hyperconjugation), but not as much as the methoxy group or the aromatic ring.
+
+5. **1,4-pentadiene**  
+   - A conjugated diene.
+   - The conjugation allows for better stabilization of the cationic intermediate.
+   - However, it lacks any strong electron-donating groups like methoxy or phenyl.
+
+### Reactivity order (from most reactive to least reactive in cationic polymerization):
+- **4-methoxyphenylacetylene** (strong electron-donating group + aromatic ring + acetylene structure)
+- **Phenylacetylene** (aromatic ring + acetylene structure)
+- **2-methoxypropene** (methoxy group + terminal alkene)
+- **2-methyl-2-butene** (methyl group on double bond)
+- **1,4-pentadiene** (conjugated diene, but no strong electron-donating group)
+
+### Correct order:
+**(D) 4-methoxyphenylacetylene > phenylacetylene > 2-methoxypropene > 2-methyl-2-butene > 1,4-pentadiene**
+
+### Answer: **D**",no
+A,"The correct answer is: **A, B, D**
+
+**Explanation:**
+
+- **(A)** **Correct.** Dislocations can move under applied stress, which allows for plastic deformation in crystalline materials. This movement is essential for the deformation of metals and other crystalline materials.
+
+- **(B)** **Correct.** Edge dislocations involve an extra half-plane of atoms, and the dislocation line is parallel to the Burgers vector.
+
+- **(C)** **Incorrect.** Mixed dislocations have components of both edge and screw dislocations, but the dislocation line is **not always** perpendicular to the Burgers vector. The orientation depends on the specific type of mixed dislocation.
+
+- **(D)** **Correct.** Screw dislocations involve a helical ramp due to shear deformation, and the dislocation line is parallel to the Burgers vector.
+
+- **(E)** **Incorrect.** The presence of dislocations typically **decreases** the electrical conductivity of metals, not increases it. Dislocations introduce scattering centers for electrons, which reduces conductivity.
+
+So, the correct statements are **A, B, D**.",no
+A,"The correct answer is: **A** (bottom-up method)
+
+**Explanation:**  
+The bottom-up method allows for precise control over the size distribution of quantum dots because it typically involves the controlled synthesis of nanoscale materials from molecular precursors, often through chemical reactions in solution. This method enables fine-tuning of size, shape, and composition, which is critical for quantum dot applications.
+
+In contrast:
+- **Solid state method** (B) usually involves high-temperature reactions in a solid matrix, leading to less control over size.
+- **Top-down method** (C) involves etching or lithography to create structures from larger materials, which also lacks the precision of the bottom-up approach.
+- **Vapor phase method** (D) can provide good control but is not as precise in size distribution as the bottom-up method in many cases.
+
+Therefore, the correct answer is **A**.",yes
+A,"A
+
+The use of plane waves in density functional theory (DFT) for modeling metal-organic frameworks (MOFs) is inefficient because much of the space in MOFs is empty. Plane wave methods require the same precision for both occupied and empty space, which is inefficient when dealing with systems where most of the space is not occupied by electrons. This is because plane waves are not localized and must extend to infinity to accurately represent the periodic boundary conditions, leading to high computational costs for systems with large empty regions. Therefore, the correct answer is:
+
+**A**.",yes
+A,"The thermodynamic tendency for ring-opening polymerization of cyclic ethers is influenced by the **ring size**. Smaller rings (like 3- or 4-membered rings) are generally more reactive because they are **more strained** and have higher **ring strain energy**, making them more likely to undergo ring-opening reactions.
+
+### Key Concepts:
+- **Ring strain** decreases as the ring size increases.
+- **3-membered rings (oxiranes)** have the highest ring strain and are the most reactive.
+- **4-membered rings** (tetrahydrofuran-like) are next in reactivity.
+- **5- and 6-membered rings** have less strain and are less reactive.
+- **8-membered rings** have very low strain and are the least reactive.
+
+### Correct Order of Reactivity (from most to least reactive):
+**3 > 4 > 5 > 6 > 7 > 8**
+
+Now, let's check the options:
+
+**(A) 3 > 4 > 8 > 7 > 5 > 6** → Incorrect (8 is less reactive than 5 and 6)
+
+**(B) 5 > 7 > 6 > 4 > 3 > 8** → Incorrect (3 should be higher than 4)
+
+**(C) 6 > 4 > 3 > 7 > 5 > 8** → Incorrect (3 should be higher than 4 and 7)
+
+**(D) 8 > 4 > 5 > 3 > 7 > 6** → Incorrect (3 should be higher than 4, 5, and 7)
+
+None of the options correctly reflect the order **3 > 4 > 5 > 6 > 7 > 8**.
+
+However, if we consider that **option (D)** is the **closest** to the correct order (even though it's not perfectly accurate), it might be the intended answer in some contexts. But in reality, **none of the options are fully correct**.
+
+But since the question is multiple-choice and we must choose the best answer, the **best match** is:
+
+**(D) 8 > 4 > 5 > 3 > 7 > 6** → **Incorrect**, but **closest to the correct order** in some contexts.
+
+However, the **correct order** is **3 > 4 > 5 > 6 > 7 > 8**, and **none of the options exactly match this**.
+
+But if we must choose the **most reasonable option**, the answer is:
+
+**Answer: D** (though it's not fully correct, it's the best possible choice among the options given).",no
+C,"The correct answer is **(D) By observing a non-linear increase in molecular weight with increasing monomer conversion**.
+
+**Explanation:**
+
+In the polymerization of styrene in the presence of an RAFT (Reversible Addition-Fragmentation Chain Transfer) agent, the molecular weight evolution is typically **non-linear** with respect to monomer conversion. This is because RAFT polymerization allows for controlled chain growth and termination, leading to a **distribution of chain lengths** rather than a uniform increase in molecular weight.
+
+- **(A)** is incorrect because a constant molecular weight would indicate no polymerization or an uncontrolled process.
+- **(B)** is incorrect because a decrease in molecular weight with increasing monomer conversion is not typical in RAFT polymerization.
+- **(C)** is incorrect because a linear increase in molecular weight would suggest a simple, uncontrolled polymerization mechanism.
+- **(D)** is correct because the non-linear increase reflects the controlled nature of RAFT polymerization, where chain growth and termination are reversible and regulated by the RAFT agent.
+
+**Answer: D**",no
+C,"The correct answer is: **D**
+
+**Explanation:**  
+If the pore volume obtained from geometric analysis (based on the structural model from XRD) is much larger than the pore volume from gas adsorption experiments, it suggests that the structural model may not fully represent the actual pore structure of the MOF. This discrepancy could be due to the presence of defects in the MOF structure, such as missing nodes or linkers, which would reduce the actual pore volume compared to the idealized geometric model. These defects are not accounted for in the structural model derived from XRD, leading to an overestimation of the pore volume.
+
+Thus, the correct answer is: **D**.",no
+A,"To determine the correct order of interplanar distances (d-spacing) for the given planes in a **face-centered cubic (FCC)** crystal, we need to recall the formula for d-spacing in a cubic crystal:
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+$$
+
+Where:
+- $ a $ is the lattice constant (same for all planes in a cubic crystal),
+- $ h, k, l $ are the Miller indices of the plane.
+
+Since $ a $ is constant, the **d-spacing** is inversely proportional to $ \sqrt{h^2 + k^2 + l^2} $. Therefore, the **larger the value of $ h^2 + k^2 + l^2 $, the smaller the d-spacing**.
+
+Now, let's compute $ h^2 + k^2 + l^2 $ for each of the given planes:
+
+### (A) (111), (200), (220), (311)
+- (111): $ 1^2 + 1^2 + 1^2 = 3 $
+- (200): $ 2^2 + 0^2 + 0^2 = 4 $
+- (220): $ 2^2 + 2^2 + 0^2 = 8 $
+- (311): $ 3^2 + 1^2 + 1^2 = 11 $
+
+Order of d-spacing (from largest to smallest):  
+(111) > (200) > (220) > (311)
+
+### (B) (111), (200), (311), (222)
+- (111): 3
+- (200): 4
+- (311): 11
+- (222): $ 2^2 + 2^2 + 2^2 = 12 $
+
+Order: (111) > (200) > (311) > (222) → **Not correct** since (222) has a larger $ h^2 + k^2 + l^2 $ than (311)
+
+### (C) (111), (220), (210), (321)
+- (111): 3
+- (220): 8
+- (210): $ 2^2 + 1^2 + 0^2 = 5 $
+- (321): $ 3^2 + 2^2 + 1^2 = 14 $
+
+Order: (111) > (210) > (220) > (321) → **Not correct**
+
+### (D) (200), (220), (311), (111)
+- (200): 4
+- (220): 8
+- (311): 11
+- (111): 3
+
+Order: (111) > (200) > (220) > (311) → **Same as (A)**, but listed in reverse order.
+
+### Correct Answer:
+The correct order is **(111) > (200) > (220) > (311)**, which is **Option (A)**.
+
+### ✅ Answer: **A**",yes
+C,"To solve this problem, we need to understand the implications of the diffraction pattern observed with different X-ray wavelengths and the number of peaks.
+
+---
+
+### Key Concepts:
+
+- **X-ray diffraction (XRD)** patterns are determined by the crystal structure of a material.
+- The **number of peaks** in a diffraction pattern corresponds to the **number of distinct reflections** (hkl planes) that satisfy Bragg's law for a given wavelength.
+- The **intensity** of the peaks is related to the **atomic arrangement** and **symmetry** of the crystal.
+- **Systematic absences** (missing peaks) are a signature of certain crystal structures:
+  - **BCC** has systematic absences for reflections where $ h + k + l $ is odd.
+  - **FCC** has systematic absences for reflections where $ h, k, l $ are not all even.
+  - **Simple cubic** has no systematic absences.
+- The **ratio of $ \sin^2\theta $** values for the first two peaks is important for determining the crystal structure and unit cell size.
+
+---
+
+### Step-by-step Analysis:
+
+#### 1. **Cu Kα (λ = 1.54 Å)**:
+- 8 distinct peaks observed in 2θ range 20–80°.
+- The **ratio of $ \sin^2\theta $** for the first two peaks is **4:3**.
+
+This ratio is important for determining the **unit cell size** and **structure**. For a **FCC** structure, the first few peaks correspond to (111), (200), (220), etc., and their intensities are related to the number of atoms in the plane. The ratio of $ \sin^2\theta $ values is related to the **lattice constant** and **structure**.
+
+For **FCC**, the first few $ \sin^2\theta $ values are:
+- (111): $ \sin^2\theta = \frac{(1.54)^2}{(a)^2} $
+- (200): $ \sin^2\theta = \frac{(2.0)^2}{(a)^2} $
+- etc.
+
+If the ratio is 4:3, then this suggests that the **unit cell is large** (since the ratio is not 1:1, which would occur for small cells), and the **structure is FCC**.
+
+#### 2. **Mo Kα (λ = 0.71 Å)**:
+- 14 distinct peaks observed.
+- **Intensities do not follow the systematic absences** typical of BCC.
+
+This is a key point:
+- **BCC** has systematic absences (h + k + l odd), so if the intensities do **not** follow this, the structure is **not BCC**.
+- **FCC** has systematic absences (h, k, l not all even), but the intensities **do not follow** these, which is **not** typical of FCC either.
+- **Simple cubic** has **no systematic absences**, and **intensities** are not affected by symmetry. So this could be a possibility.
+
+However, the **number of peaks** (14) is much larger than in the Cu case (8), which suggests that the **unit cell is larger**, and the **structure is more complex**.
+
+---
+
+### Conclusion:
+
+- The **ratio of $ \sin^2\theta $** is 4:3 → **FCC** with **large unit cell**.
+- The **intensities do not follow systematic absences** → **not BCC**.
+- The **number of peaks is higher** → **large unit cell**.
+- **Simple cubic** is possible, but it doesn't have the **systematic absences** and the **ratio of $ \sin^2\theta $** is not consistent with simple cubic.
+
+So the **most likely** conclusion is:
+
+**(C) The sample is a pure FCC metal with a large unit cell.**
+
+---
+
+### ✅ Final Answer: **C**.",yes
+0.74,"The structure described is a **face-centered cubic (FCC)** structure.
+
+To find the fraction of the volume of the unit cell occupied by gold atoms, we need to:
+
+1. **Determine the number of atoms per unit cell**:
+   - In an FCC structure, there are:
+     - 8 atoms at the corners → $ \frac{1}{8} \times 8 = 1 $ atom
+     - 6 atoms at the face centers → $ \frac{1}{2} \times 6 = 3 $ atoms
+     - Total = $ 1 + 3 = 4 $ atoms per unit cell
+
+2. **Calculate the volume of the unit cell**:
+   - Let the edge length of the unit cell be $ a $.
+   - Volume of the unit cell = $ a^3 $
+
+3. **Calculate the volume of the atoms in the unit cell**:
+   - Each gold atom has a radius $ r $, and the volume of one atom is $ \frac{4}{3} \pi r^3 $.
+   - Total volume of atoms = $ 4 \times \frac{4}{3} \pi r^3 = \frac{16}{3} \pi r^3 $
+
+4. **Relate the atomic radius $ r $ to the edge length $ a $**:
+   - In an FCC structure, the atomic radius is related to the edge length by:
+     $$
+     r = \frac{\sqrt{2}}{4} a
+     $$
+   - So, $ r^3 = \left( \frac{\sqrt{2}}{4} a \right)^3 = \frac{2^{3/2}}{64} a^3 = \frac{\sqrt{8}}{64} a^3 = \frac{2\sqrt{2}}{64} a^3 = \frac{\sqrt{2}}{32} a^3 $
+
+5. **Substitute $ r^3 $ into the volume of atoms**:
+   $$
+   \text{Volume of atoms} = \frac{16}{3} \pi \left( \frac{\sqrt{2}}{32} a^3 \right) = \frac{16 \pi \sqrt{2}}{96} a^3 = \frac{\pi \sqrt{2}}{6} a^3
+   $$
+
+6. **Calculate the fraction of the unit cell volume occupied**:
+   $$
+   \text{Fraction} = \frac{\frac{\pi \sqrt{2}}{6} a^3}{a^3} = \frac{\pi \sqrt{2}}{6}
+   $$
+
+7. **Numerical value**:
+   - $ \pi \approx 3.1416 $
+   - $ \sqrt{2} \approx 1.4142 $
+   - $ \frac{\pi \sqrt{2}}{6} \approx \frac{3.1416 \times 1.4142}{6} \approx \frac{4.4429}{6} \approx 0.7405 $
+
+So, the fraction of the volume of the unit cell occupied by gold atoms is approximately **0.74**.
+
+### Answer: **D** (assuming the options are labeled A, B, C, D for 0.5, 0.6, 0.7, 0.8)  
+But if the answer is to be given as a **numerical value**, then the answer is:
+
+**0.74**.",yes
+A,"To calculate the glass transition temperature ($ T_g $) of a **random copolymer** using the **Fox equation**, we use the following formula:
+
+$$
+\frac{1}{T_g} = \frac{w_A}{T_{gA}} + \frac{w_B}{T_{gB}}
+$$
+
+Where:
+- $ w_A $ and $ w_B $ are the **weight fractions** of polymer A and B, respectively.
+- $ T_{gA} $ and $ T_{gB} $ are the glass transition temperatures of polymer A and B, respectively.
+
+Given:
+- $ T_{gA} = 150^\circ \text{C} $
+- $ T_{gB} = 100^\circ \text{C} $
+- $ w_A = 0.20 $ (20 wt% of A)
+- $ w_B = 0.80 $ (80 wt% of B)
+
+Now plug in the values:
+
+$$
+\frac{1}{T_g} = \frac{0.20}{150} + \frac{0.80}{100}
+$$
+
+$$
+\frac{1}{T_g} = \frac{0.20}{150} + \frac{0.80}{100} = 0.001333 + 0.008 = 0.009333
+$$
+
+$$
+T_g = \frac{1}{0.009333} \approx 107.14^\circ \text{C}
+$$
+
+### ✅ Correct answer: **(A) 107.14**
+
+**Answer: A**",yes
+A,"The correct answer is: **C**
+
+**Explanation:**
+
+- **(A)** is **true**. The Gibbs phase rule is used to determine the number of degrees of freedom in a phase diagram. It is given by $ F = 2 - P + C $, where $ F $ is the number of degrees of freedom, $ P $ is the number of phases, and $ C $ is the number of components.
+
+- **(B)** is **true**. Activity is a measure of the ""effective concentration"" of a component in a solution and is used to describe deviations from ideal behavior.
+
+- **(C)** is **true**. At equilibrium, the chemical potential of each component must be equal in all coexisting phases.
+
+- **(D)** is **false**. The enthalpy of mixing does not always increase with temperature. It can depend on the specific system and may decrease or increase depending on the interactions between the components.
+
+However, the question asks for the **correct answer**, and since **C** is the only statement that is **always** true in the context of thermodynamics of phase diagrams, and the others are either **true** or **false**, the best single correct answer is:
+
+**C**.",no
+C,"To find the **density** of aluminum, we use the formula:
+
+$$
+\text{Density} = \frac{Z \cdot M}{a^3 \cdot N_A}
+$$
+
+Where:
+- $ Z $ = number of atoms per unit cell (for face-centered cubic = 4)
+- $ M $ = molar mass of aluminum = 26.98 g/mol
+- $ a $ = edge length of the unit cell = 405 pm = 405 × 10⁻¹² m = 4.05 × 10⁻⁸ cm
+- $ N_A $ = Avogadro's number = 6.022 × 10²³ mol⁻¹
+
+---
+
+### Step 1: Convert edge length to cm
+$$
+a = 405 \, \text{pm} = 405 \times 10^{-12} \, \text{m} = 4.05 \times 10^{-8} \, \text{cm}
+$$
+
+---
+
+### Step 2: Calculate $ a^3 $
+$$
+a^3 = (4.05 \times 10^{-8})^3 = 66.43 \times 10^{-24} \, \text{cm}^3
+$$
+
+---
+
+### Step 3: Plug into the density formula
+$$
+\text{Density} = \frac{4 \cdot 26.98}{66.43 \times 10^{-24} \cdot 6.022 \times 10^{23}}
+$$
+
+$$
+= \frac{107.92}{66.43 \times 6.022 \times 10^{-1}} = \frac{107.92}{400.1} \approx 0.2697 \, \text{g/cm}^3
+$$
+
+Wait! That gives a value **too small**. Let's recheck the calculation.
+
+---
+
+### Let's re-calculate more carefully:
+
+$$
+a = 405 \, \text{pm} = 4.05 \times 10^{-8} \, \text{cm}
+$$
+$$
+a^3 = (4.05 \times 10^{-8})^3 = 66.43 \times 10^{-24} \, \text{cm}^3
+$$
+
+$$
+\text{Density} = \frac{4 \cdot 26.98}{66.43 \times 10^{-24} \cdot 6.022 \times 10^{23}} = \frac{107.92}{400.1 \times 10^{-1}} = \frac{107.92}{40.01} \approx 2.697 \, \text{g/cm}^3
+$$
+
+So the correct density is approximately **2.70 g/cm³**.
+
+---
+
+### ✅ Final Answer: **(C) 2.70**  
+**Answer: C**",yes
+B,"The molecular structure of thermoplastics is characterized by **not cross-linked**.
+
+Thermoplastics have long, linear polymer chains that are not cross-linked. This allows them to soften and melt when heated, enabling them to be reshaped and reformed, which is the defining property of thermoplastics.
+
+**Answer: B**",yes
+A,"To determine whether polymerization is possible, we consider the **Gibbs free energy change**:
+
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+
+For a process to be spontaneous (possible), $\Delta G$ must be **negative**.
+
+Given:
+- $\Delta H \geq 0$ (positive or zero)
+- $\Delta S < 0$ (negative)
+
+So,
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+$$
+\Delta G = \text{(positive or zero)} - T(\text{negative}) = \text{positive or zero} + T(\text{positive})
+$$
+
+This means that $\Delta G$ is **always positive** for all temperatures $T > 0$, because the second term becomes more positive as $T$ increases.
+
+Therefore, **polymerization is not possible** under these conditions.
+
+**Answer: A**",yes
+A,"The correct answer is: **D** (size exclusion chromatography)
+
+**Explanation:**
+
+- **(A) MALDI-TOF-MS** is a mass spectrometry technique that is excellent for determining molecular weight (Molar Mass) but is not typically used to distinguish between $ M_n $ and $ M_w $, as it provides a single molecular weight value (usually the average, but not the two averages).
+
+- **(B) End group analysis** is a method used to determine the molecular weight of polymers by measuring the number of end groups, which is useful for calculating $ M_n $, but not $ M_w $.
+
+- **(C) Membrane osmometry** is a method that can measure $ M_n $, but not $ M_w $, as it is based on the osmotic pressure of the solution.
+
+- **(D) Size exclusion chromatography (SEC)** is the preferred method for measuring both $ M_n $ and $ M_w $, as it separates polymer chains based on size, allowing for the determination of both molecular weight averages.
+
+Thus, the correct answer is: **D**.",no
+C,"The correct answer is: **C**. 
+
+**Explanation**: In Atom Transfer Radical Polymerization (ATRP), a transition metal catalyst is used to control the polymerization process. However, this catalyst must be completely removed from the final product to ensure the safety and purity of the pharmaceutical. Therefore, removing the transition metal catalyst is a critical step in the synthesis.",yes
+B,"The correct answer is: **B**
+
+**Explanation:**
+
+- **(A) The chemical potential of electrons is always equal to the Fermi energy**  
+  This is **not accurate**. In heavily doped n-type semiconductors, the Fermi level is close to the conduction band edge, but the chemical potential of electrons is not always exactly equal to the Fermi energy. The Fermi energy is the energy level at which the probability of finding an electron is 50%, and it is closely related to the chemical potential, but they are not always strictly equal in all conditions.
+
+- **(B) The entropy of the system increases due to the increased number of free carriers**  
+  This is **accurate**. As doping increases, more electrons are freed, leading to more disorder (higher entropy) in the system.
+
+- **(C) The formation energy of donor defects decreases as the doping concentration increases**  
+  This is **not accurate**. The formation energy of donor defects is generally independent of doping concentration. It depends on the material and the type of defect, not on how much doping is done.
+
+- **(D) The free energy of the system is minimized when all donors are ionized**  
+  This is **not accurate**. The free energy of the system is minimized when the system is in equilibrium, which may or may not occur when all donors are ionized. In heavily doped n-type semiconductors, it is common for all donors to be ionized, but the minimization of free energy is not necessarily guaranteed by that condition alone.
+
+Thus, the correct answer is: **B**.",yes
+A,"The Miller indices for the faces of a simple cubic unit cell are **1,0,0**, **0,1,0**, and **0,0,1**. These correspond to the three principal crystallographic directions in the cubic system.
+
+Among the given options:
+
+- (A) 1,0,0 — This is correct for one of the faces.
+- (B) 1,0,1 — This is not a face of the unit cell.
+- (C) 1,1,1 — This is a diagonal direction, not a face.
+- (D) 2,0,0 — This is not a face of the unit cell.
+
+The question asks for the Miller indices for the **faces** of the unit cell, and the correct answer is:
+
+**A**",yes
+C,"The tacticity of polyethylene refers to the arrangement of its methyl groups relative to the polymer chain. Polyethylene can exist in different forms depending on the arrangement of the methyl groups:
+
+- **Isotactic polyethylene**: Methyl groups are arranged in a regular, repeating pattern along the chain, leading to a highly ordered structure.
+- **Atactic polyethylene**: Methyl groups are randomly arranged, resulting in an amorphous, unordered structure.
+- **Syndiotactic polyethylene**: Methyl groups alternate in position, but this is not common for polyethylene.
+
+Polyethylene is typically produced in an **atactic** form when the monomers (ethylene) are polymerized under conditions that do not favor the regular arrangement of the methyl groups. However, **highly tactic** (isotactic) polyethylene can be produced under specific conditions, such as using Ziegler-Natta catalysts.
+
+But in general, **polyethylene has no tacticity at all** because it is not a chiral molecule and does not have a defined stereochemistry. Therefore, the correct answer is:
+
+**C**",yes
+B,"The degree of polymerization (DP) is generally influenced by the concentration of monomer and initiator in a polymerization reaction. 
+
+- **Increasing monomer concentration** typically leads to **higher degree of polymerization** because more monomer molecules are available for chain growth.
+- **Increasing initiator concentration** typically leads to **lower degree of polymerization** because more initiators can cause more chain initiation events, leading to shorter chains and lower DP.
+
+Therefore, the correct statement is:
+
+**(B) increases with increasing monomer concentration and decreases with increasing initiator concentration**
+
+The answer is: **B**",yes
+A,"The correct answer is: **B**
+
+**Explanation:**
+
+- **(A)** is incorrect. In indirect bandgap semiconductors, the conduction band minimum and valence band maximum are at different points in momentum space. This leads to a different carrier effective mass compared to direct bandgap semiconductors, but the effective mass is not necessarily larger in indirect bandgap semiconductors. The effective mass depends on the curvature of the band, not the type of bandgap.
+
+- **(B)** is correct. The effective mass is inversely proportional to the curvature of the energy bands near the band edges. Mathematically, the effective mass $ m^* $ is given by:
+
+  $$
+  \frac{1}{m^*} = \frac{1}{\hbar^2} \frac{d^2 E}{dk^2}
+  $$
+
+  So, the curvature of the energy band (i.e., $ \frac{d^2 E}{dk^2} $) is inversely proportional to the effective mass.
+
+- **(C)** is incorrect. The effective mass in quantum wells is not always less than in bulk semiconductors. It depends on the confinement in the growth direction, and in some cases, the effective mass can be larger due to the quantum well structure.
+
+- **(D)** is incorrect. The effective mass of holes is not always greater than that of electrons in all semiconductors. It depends on the material and the specific band structure. In some semiconductors, the effective mass of electrons can be larger than that of holes.
+
+Thus, the correct answer is: **B**.",no
+A,"The correct answer is: **B**
+
+**Explanation:**
+
+In a semiconductor with a shallow donor level:
+
+- **Shallow donors** are close to the conduction band, so they are easily ionized when the temperature increases.
+- As temperature increases, more donors are ionized, leading to an **increase in the concentration of ionized donors**.
+- The **Fermi level** moves **toward the conduction band** (not the middle of the bandgap), so **(A)** is incorrect.
+- The **electron concentration** in the conduction band **increases** due to more ionized donors, so **(C)** is incorrect.
+- The semiconductor remains **n-type** (donor-doped), so **(D)** is incorrect.
+
+Thus, the only correct statement is **(B)**.",no
+A,"The correct answer is: **D**
+
+**Explanation:**
+
+Reversible-Deactivation Radical Polymerization (RDRP), such as Reversible Addition-Fragmentation Chain Transfer (RAFT) or Atom Transfer Radical Polymerization (ATRP), is characterized by:
+
+- **D. Narrow molecular weight distribution**: RDRP typically produces polymers with a narrow molecular weight distribution due to the reversible nature of the polymerization process, which allows for precise control over the molecular weight and distribution.
+
+Other options:
+
+- **A. First order kinetics with respect to monomer**: This is more characteristic of standard radical polymerization, not RDRP.
+- **B. Formation of dead polymer chains more than active polymer chains**: This is not typical of RDRP. In fact, RDRP allows for the reversible deactivation of chains, so dead polymer chains are not formed in large quantities.
+- **C. Linear increase of the degree of polymerization ($X_n$) with conversion**: This is more characteristic of chain-growth polymerizations like free radical polymerization, not RDRP, which can exhibit non-linear behavior due to the reversible deactivation.
+
+Thus, the correct answer is: **D**.",yes
+B,"The correct order of glass transition temperature ($T_g$) for the given polymers is:
+
+- **Polycarbonate (PC):** $T_g \approx 150^\circ C$
+- **Poly(ethylene terephthalate) (PET):** $T_g \approx 70^\circ C$
+- **Polypropylene (PP):** $T_g \approx -10^\circ C$
+- **Polyethylene (PE):** $T_g \approx -120^\circ C$
+
+So the correct order from highest to lowest $T_g$ is:
+
+**PC > PET > PP > PE**
+
+Therefore, the correct answer is: **B**.",yes
+C,"The sequence AABAAABBABABABBABAB is a **random copolymer**.
+
+A **random copolymer** is a type of copolymer where the monomer units are randomly distributed along the polymer chain. In contrast:
+
+- An **alternating copolymer** has a regular alternating pattern (e.g., ABABAB...).
+- A **graft copolymer** has side chains grafted onto a main chain, which is not the case here.
+
+The given sequence does not show a regular alternating pattern, nor does it suggest a graft structure. Therefore, it is a **random copolymer**.
+
+The correct answer is: **C**.",yes
+B,"The formation of high-molecular polymers depends on the thermodynamic feasibility of the process, which is determined by the Gibbs free energy change (ΔG). The formula is:
+
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+
+For a process to be spontaneous (thermodynamically favorable), ΔG must be negative.
+
+- **If ΔH is negative and ΔS is positive**, the process is spontaneous at all temperatures (ΔG < 0 always).
+- **If ΔH is positive and ΔS is negative**, the process is non-spontaneous at all temperatures (ΔG > 0 always).
+- **If ΔH is positive and ΔS is positive**, the process is spontaneous at high temperatures (ΔG < 0 when T is large enough).
+- **If ΔH is negative and ΔS is negative**, the process is spontaneous at low temperatures (ΔG < 0 when T is small enough).
+
+The formation of high-molecular polymers is **not possible from a thermodynamic point of view** when the process is **non-spontaneous at all temperatures**, which occurs when **ΔH is positive and ΔS is negative**.
+
+### Correct answer: **B**.",yes
+D,"The correct answer is: **D**. 
+
+**Explanation:**
+
+In intrinsic semiconductors, the carrier concentration (both electrons and holes) increases with temperature. This is because higher temperature provides more thermal energy, which excites more electrons from the valence band to the conduction band, increasing the number of free electrons and holes. The intrinsic carrier concentration (n_i) increases exponentially with temperature.
+
+- **(A)** is incorrect because the Fermi level in an intrinsic semiconductor is located near the middle of the bandgap, and it does not move closer to the conduction band with temperature increase.
+- **(B)** is incorrect because the bandgap energy typically decreases with temperature, but not linearly.
+- **(C)** is incorrect because in an intrinsic semiconductor, the electron and hole concentrations are equal at all temperatures.
+- **(D)** is correct because the intrinsic carrier concentration increases exponentially with temperature. 
+
+Thus, the correct answer is: **D**.",yes
+C,"The correct answer is **C**.
+
+**Explanation:**
+
+Isoprene (2-methyl-1,3-butadiene) can undergo **anionic polymerization** to form **cis-1,4-isoprene** (also known as polyisoprene). The key to producing the **cis** isomer is the use of **anionic polymerization** with **strongly basic counter-ions** (like **Li⁺**) and **non-polar solvents** (like **cyclohexane** or **THF**), which help maintain the **cis stereochemistry** during the polymerization process.
+
+- **Option A** uses THF and Li⁺ at 30°C. While THF is a good solvent for anionic polymerization, the temperature is relatively high, which may lead to **statistical polymerization** (a mixture of cis and trans isomers) rather than **predominant cis** isomer formation. So, this is not the best choice.
+
+- **Option B** uses cyclohexane with counter-ions other than Li⁺. While cyclohexane is a good solvent for anionic polymerization, using counter-ions other than Li⁺ may not provide the same level of control over stereochemistry. The choice of counter-ion is important for anionic polymerization, and without specifying, this is less optimal.
+
+- **Option C** is **anionic polymerization in cyclohexane with Li⁺ counter-ion at 30°C**. This is the most favorable condition for **cis-1,4-isoprene** formation. Cyclohexane is a non-polar solvent that minimizes side reactions, and Li⁺ is a strong base that helps maintain the **cis stereochemistry** during polymerization. At 30°C, the polymerization is controlled and selective for cis isomer formation.
+
+- **Option D** is **free radical polymerization** at -20°C. Free radical polymerization typically leads to **statistical** (random) stereochemistry and is not selective for cis isomers. Thus, this is not the correct choice.
+
+**Correct Answer: C**.",yes
+A,"The degree of crystallinity of a polymer can be determined using **Differential Scanning Calorimetry (DSC)** and **Wide Angle X-ray Diffraction (WAXD)**. 
+
+- **Differential Scanning Calorimetry (DSC)** measures the heat flow associated with phase transitions, such as melting, which is directly related to crystallinity.
+- **Wide Angle X-ray Diffraction (WAXD)** provides information about the crystalline structure and can be used to calculate the degree of crystallinity.
+
+**Scanning Electron Microscopy (SEM)** is used to observe the morphology of a material but not directly to determine the degree of crystallinity.
+
+**Thermogravimetric Analysis (TGA)** is used to measure thermal stability and weight loss, not directly related to crystallinity.
+
+Therefore, the correct answers are **(A)** and **(D)**.
+
+However, since the question asks for the **preferred** technique, **Differential Scanning Calorimetry (DSC)** is the most commonly used and preferred method for determining the degree of crystallinity.
+
+**Answer: A**",yes
+C,"To determine the **glancing angle** for the **second order diffraction** of X-rays by a **face-centered cubic (FCC)** crystal, we need to follow these steps:
+
+---
+
+### **Step 1: Determine the lattice constant (a)**
+
+We are given:
+
+- **Density** $ \rho = 2 \, \text{g/cm}^3 $
+- **Molar mass** $ M = 37.6375 \, \text{g/mol} $
+- **Crystal structure**: FCC, so each unit cell contains 4 atoms.
+
+The formula for density is:
+
+$$
+\rho = \frac{Z M}{a^3 N_A}
+$$
+
+Where:
+- $ Z = 4 $ (number of atoms per unit cell for FCC)
+- $ M = 37.6375 \, \text{g/mol} $
+- $ N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} $
+- $ \rho = 2 \, \text{g/cm}^3 $
+
+Solving for $ a $:
+
+$$
+a^3 = \frac{Z M}{\rho N_A} = \frac{4 \times 37.6375}{2 \times 6.022 \times 10^{23}} = \frac{150.55}{1.2044 \times 10^{24}} = 1.25 \times 10^{-22} \, \text{cm}^3
+$$
+
+$$
+a = \left(1.25 \times 10^{-22} \right)^{1/3} = 2.32 \times 10^{-8} \, \text{cm} = 2.32 \, \text{Å}
+$$
+
+---
+
+### **Step 2: Use Bragg's Law**
+
+$$
+n \lambda = 2d \sin \theta
+$$
+
+Where:
+- $ n = 2 $ (second order)
+- $ \lambda = 0.25 \, \text{nm} = 0.25 \times 10^{-9} \, \text{m} $
+- $ d $ is the interplanar spacing for a given set of planes.
+
+For FCC, the interplanar spacing for a set of planes $ (hkl) $ is given by:
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+$$
+
+We need to find the **correct (hkl)** for which the **glancing angle** is such that the diffraction is observed. The most common diffraction for FCC is the (111) planes, which is a common diffraction peak.
+
+So, for $ (111) $:
+
+$$
+d_{111} = \frac{a}{\sqrt{1^2 + 1^2 + 1^2}} = \frac{2.32}{\sqrt{3}} \approx 1.34 \, \text{Å} = 1.34 \times 10^{-10} \, \text{m}
+$$
+
+Now plug into Bragg's Law:
+
+$$
+2 \times 0.25 \times 10^{-9} = 2 \times 1.34 \times 10^{-10} \times \sin \theta
+$$
+
+$$
+0.5 \times 10^{-9} = 2.68 \times 10^{-10} \times \sin \theta
+$$
+
+$$
+\sin \theta = \frac{0.5 \times 10^{-9}}{2.68 \times 10^{-10}} = \frac{5}{2.68} \approx 1.865
+$$
+
+Wait — this is **greater than 1**, which is **impossible** for sine. So, **the (111) planes are not the correct ones** for this diffraction.
+
+Try the next most common set: **(200)**.
+
+$$
+d_{200} = \frac{a}{\sqrt{2^2 + 0^2 + 0^2}} = \frac{2.32}{2} = 1.16 \, \text{Å} = 1.16 \times 10^{-10} \, \text{m}
+$$
+
+Now plug into Bragg's Law:
+
+$$
+2 \times 0.25 \times 10^{-9} = 2 \times 1.16 \",No.

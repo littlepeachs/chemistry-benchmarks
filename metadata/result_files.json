@@ -1,0 +1,596 @@
+[
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_analytical_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "e1feeae85d6ac4ad2f696ee2bf34ec1a897a61799818e7cdd149feb081920a1a"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_chemical_preference.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "2fda6c683d63282379e2a7830058d9eb6e6428d20916c21bf7e1a128506584a2"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_general_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "23813a1123fb40c70ef909327ed0f80f75416ca0bb8d539a9c30e2d3afd3d16d"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "5b966a6829eddc7ab7cfc76de30310fa22aafcafc0ca76f00911c328e6518491"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_materials_science.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "3fbf4173de181f846bd59a17e1707cedf1afde7ab454fd0f8ecbff4e2d7e9c99"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_organic_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "31304dc6b1ea4324aa2fab92fbe3d40dc649ac3ec7125a0b34f78991e373c8e3"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_physical_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "14a8b2b7995137ce47424d2ccf96b9348747a024315827c23d02ea3ebee0188f"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_technical_chemistry.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "f717b6fa38f0972748828a1f6f4a01971acf2f138a5c1c287b9ed1699079dcb7"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/ChemDFM-v1.0-13B_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "8b412f27819a27d89315cc633d47636bef04bf3ed46ce66f50f9e4f3e2d54151"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_analytical_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "c425b2c18b2106f48c064cd1a614ef58bfcc2748903f0b0f1abf459303e10ae7"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_chemical_preference.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "613ade196f8de429039fe4d6605e9bc21084a65c1c492f6bf2bd621cc3fe58b9"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_general_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "7ba7e9003334dcb6a65937dc38f7e205d0b255355044baf25e2a7432a76202ee"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "f22ffebfcc799125a97be3fc39da588bd40e6fd6d81ae9336713ca16738d776d"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_materials_science.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "399649e4203c6117af8b995093b6e7bd25be05edd0250fb1987109956ef04aa3"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_organic_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "9f9875e0792099efef9caf869d2c7740aef657d01ccec3f87ee2980d1862e6d5"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_physical_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "fc6016613ed66a99d119b7e8cec6b4ec24c97bcaa2c7d232c7237559b54be185"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_technical_chemistry.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "89bedb869d7efe789bb65ebd492290e3cea01356d821114f8bf85ef488052569"
+  },
+  {
+    "path": "results/raw/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/ChemLLM-7B-Chat_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "a528a20b551e797a567cee7820f0561cd12c891e44425226379c207759452e5a"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_analytical_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "0b05bb001b32f4f7e50d18008bfde36c89b87c7b720806b559c60ca61ffba851"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_chemical_preference.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "e72ae206b7ba1c3214eec4abb28acdacf4e8e0728d84b30f8264c4775c3f7cae"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_general_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "05cd9902d470c213235bb6779ff832f48f21c0ec26678be10e2599b0dca32604"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "834ac847390f55d906eb32fcc573ae67ad9b688bffa4e70aaca3675d2946d1d0"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_materials_science.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "d812f454574f7609d1b6595e78d8673a8ac5639641a1348a986069ea6db2723e"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_organic_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "a93fc84df34bee7bcaca24e3c855ce07e850a1571db4d048621cd42703667022"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_physical_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "ca91b05a0d80c2c065cb7bc9573c0efa71ddeaa93fbf5e1373326347a94795dd"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_technical_chemistry.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "0061f3484c8a410ae4ebf5ad636606f765a5a362227cd640c3cb0a97c113df59"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-0.6B_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-0.6B_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "758a6f82c6139304516d4bb768d3e9a3cfdd0f502779d585e065572d66d92986"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_analytical_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "38362cd0ff73af1f023f8be0eb9a6b00d8c3e43a0099f848f9328ad9bceb8af5"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_chemical_preference.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "9cbd62fc0509890db2c5cfbe48d5eac20e285be69148f2322e6de2ed1a5d51ff"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_general_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "75e5e6d793df3c8cc37963faf745c22723cc90150a4ba902730d9379b6c5144a"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "b8ad994522aa23c1af485b927f732937f2798e1bf7c63b1afdda814739deb232"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_materials_science.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "6b438a979f352f5537cface449b6cf7616590d8d9ae8e0a89ea1f3d2a907bd88"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_organic_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "cd1acdb72fb847fc1a0af77327221af688a881576bd886255edbbd5cd25762ef"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_physical_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "3c1ede7e56e26186e57c4f5b38b4a5df67ab3d6afbaed86a4106400bb875362a"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_technical_chemistry.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "8bb39ae7fdfe26c489c2abd6cf15f7254302c044ff28ffde5f3647dbb6b26427"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-1.7B_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-1.7B_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "d2405c834daef252883590f84689eea022b752673bf39dc2cfb0e1d2775a69c5"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_analytical_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "f09b53bcafe82d40e9ba45cf5b281fb65e096a2f64e5fde5b702d501916a484c"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_chemical_preference.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "67d6e154ef1d34098056e464c237f24518d45b2d99e119e57c6d6715f95ec94e"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_general_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "65e29454fb2d16a04cf583ba6b054201e45d9b57ff05abc84df4b9a741ac55d0"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "d7e9ea57c4b8f5f2d0673e375bd3e8945d4ef318c4d5add8518d6804e8d1e1cc"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_materials_science.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "a6bd963da8fdb38965e0006bbd2c9d7878efed3ce2e01968dc013919ba057597"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_organic_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "1d5432160ad6c2dfa38a705f90f975eba3eccf2a086eef36f391651d0f3f88ec"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_physical_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "53fbbe9f67ce6d5b921f37c8e9a78422c37edba0a73b8f58efecdbb0dd3e46ba"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_technical_chemistry.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "5a43346fcc97ba23cd1b07bc174352d8218675c37bc996b1f2050a4487b7d9b1"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-4B_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-4B_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "b2b5362beb8632ebe583ae5173ef1c34ae3e6b65550c0971ea2a04b558ba82d5"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_analytical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_analytical_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 152,
+    "sha256": "a553aedf59332362766423c270322bbb8f870b5b99cf8c7aebf1e45fb9bd4e14"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_chemical_preference.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_chemical_preference.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 1000,
+    "sha256": "0aabdc9a1fb2255d81ec581f8356bea0003a53abd543aeab1e7a20c1615da950"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_general_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_general_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 149,
+    "sha256": "45f1b28758071ad2787121c057d13bb7c534a6cf8e6c24ebcbba6116f203d89f"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_inorganic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_inorganic_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 92,
+    "sha256": "17bdd93743aa34ba2846e03721b6582f177e34031fd973c5d9cb5cfcaa1eee8e"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_materials_science.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_materials_science.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 84,
+    "sha256": "9c8914279e89f3cd6557860bdd4ad8bb139fe239c3588abac7c49b95871fd348"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_organic_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_organic_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 429,
+    "sha256": "56abad199d9d7860cc53ec1c9903f1419abc4415250543c047f233ea6772fef6"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_physical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_physical_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 165,
+    "sha256": "1bd93b4ecc2d53bd6a1937ee66b51560eefed07dd11b9ac05a08fab051f75d9b"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_technical_chemistry.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_technical_chemistry.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 40,
+    "sha256": "61ad6ce67615fe73284ab6363b910a9eb0ed13b0bbfa411b2ff450ec52d9647b"
+  },
+  {
+    "path": "results/raw/ChemBench/Qwen3-8B_Qwen3-8B_toxicity_and_safety.csv",
+    "source_path": "eval_results/ChemBench/Qwen3-8B_Qwen3-8B_toxicity_and_safety.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench",
+    "run": "main",
+    "rows": 675,
+    "sha256": "15469d75a613952d0882ef0a4d749c7fd0c5395c702495959cc8f448ae63570a"
+  },
+  {
+    "path": "results/raw/ChemBench4K/ChemDFM-v1.0-13B_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/ChemDFM-v1.0-13B_Qwen3-8B.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4009,
+    "sha256": "77cead7f9150bd470a49033de780fd3d142d55c95a58edda0cfc338faa01add1"
+  },
+  {
+    "path": "results/raw/ChemBench4K/ChemLLM-7B-Chat_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/ChemLLM-7B-Chat_Qwen3-8B.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4008,
+    "sha256": "04d22737be06ec50591375fb444a25892207f710bc0532ce196d3ca55ea85dbd"
+  },
+  {
+    "path": "results/raw/ChemBench4K/Qwen3-0.6B_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/Qwen3-0.6B_Qwen3-8B.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4009,
+    "sha256": "678756f4e3c22f589e0c30b5f24281ebd7f98f1958280a7e5a767f8889734d5f"
+  },
+  {
+    "path": "results/raw/ChemBench4K/Qwen3-1.7B_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/Qwen3-1.7B_Qwen3-8B.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4009,
+    "sha256": "2b93935c2991092ea07d98395b65d3a2ae403db29f1c2da7409f0742225bf069"
+  },
+  {
+    "path": "results/raw/ChemBench4K/Qwen3-4B_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/Qwen3-4B_Qwen3-8B.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4009,
+    "sha256": "3c2f441d02c577ebd0d37e96c80653b8d5094ca54ea269cc2393830434ced5ce"
+  },
+  {
+    "path": "results/raw/ChemBench4K/Qwen3-8B_Qwen3-8B.csv",
+    "source_path": "eval_results/ChemBench4K/Qwen3-8B_Qwen3-8B.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "ChemBench4K",
+    "run": "main",
+    "rows": 4009,
+    "sha256": "cfb73a81698eea303c6ea4e37fab69d147debe4caac8f8d69c2f339dcb7aeabf"
+  },
+  {
+    "path": "results/raw/MASCQA/ChemDFM-v1.0-13B_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/ChemDFM-v1.0-13B_Qwen3-8B.csv",
+    "model": "ChemDFM-v1.0-13B",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "1a9bce522b5d27e46db1f8f86bbc016c12915ab45ec0dcd9d7a34960053539a3"
+  },
+  {
+    "path": "results/raw/MASCQA/ChemLLM-7B-Chat_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/ChemLLM-7B-Chat_Qwen3-8B.csv",
+    "model": "ChemLLM-7B-Chat",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "b048648e8726012f965e681df3e7f6ab9c94f74126cae2182796c1080ed836ba"
+  },
+  {
+    "path": "results/raw/MASCQA/Qwen3-0.6B_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/Qwen3-0.6B_Qwen3-8B.csv",
+    "model": "Qwen3-0.6B",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "7312d0d3ccb18adce3ce768cbdfb7a7e12d47b48188944e7760c2b6d478c38f0"
+  },
+  {
+    "path": "results/raw/MASCQA/Qwen3-1.7B_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/Qwen3-1.7B_Qwen3-8B.csv",
+    "model": "Qwen3-1.7B",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "0ecd3d047179de7b82de319d8b71ad171ac8d2cdd69992f31c33388fca490e3b"
+  },
+  {
+    "path": "results/raw/MASCQA/Qwen3-4B_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/Qwen3-4B_Qwen3-8B.csv",
+    "model": "Qwen3-4B",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "9501c5aa5791563e28d75d93a8e2336342dcf4c2075e4108facd3c368792cb21"
+  },
+  {
+    "path": "results/raw/MASCQA/Qwen3-8B_Qwen3-8B.csv",
+    "source_path": "eval_results/mascqa/Qwen3-8B_Qwen3-8B.csv",
+    "model": "Qwen3-8B",
+    "benchmark": "MASCQA",
+    "run": "main",
+    "rows": 650,
+    "sha256": "198d6d3393b8c64cf944ce2acff9eb2d012ab5a0d38ea99fdfd16858349c8161"
+  }
+]

@@ -1,0 +1,250 @@
+Truth,Model,Critic
+C,,yes
+A,,yes
+5,,yes
+4,,yes
+C,D,No.
+B,,"To determine the correct response, let's analyze the problem:
+
+The magnetic field strength (B) in a nuclear magnetic resonance (NMR) spectrometer is directly proportional to the frequency (ν) of the radiofrequency used, according to the formula:
+
+$$
+\nu = \frac{\gamma B}{2\pi}
+$$
+
+Where:
+- $\nu$ is the frequency (in Hz),
+- $B$ is the magnetic field strength (in Tesla),
+- $\gamma$ is the gyromagnetic ratio (a constant for a given nucleus, e.g., for protons).
+
+Since $\gamma$ is constant for protons, the ratio of frequencies is equal to the ratio of magnetic field strengths:
+
+$$
+\frac{\nu_1}{\nu_2} = \frac{B_1}{B_2}
+$$
+
+Given:
+- $\nu_1 = 500 \, \text{MHz}$
+- $\nu_2 = 60 \, \text{MHz}$
+- $B_2 = 1.4 \, \text{T}$
+
+We solve for $B_1$:
+
+$$
+\frac{500}{60} = \frac{B_1}{1.4}
+$$
+
+$$
+B_1 = \frac{500}{60} \times 1.4 = \frac{500 \times 1.4}{60} = \frac{700}{60} \approx 11.67 \, \text{T}
+$$
+
+So, the magnetic field strength needed is approximately **11.7 T**, which corresponds to **(B)**.
+
+### ✅ Final Answer: **yes** (the response is correct)."
+A,B,no
+6,,yes
+C,B,no
+B,D,No.
+7,,yes
+2,b,yes
+7,b,yes
+D,,yes
+B,B,no
+C,,yes
+C,D,no
+6,b,yes
+6,b,yes
+D,D,yes
+7,,yes
+10,,yes
+3,b,yes
+C,"Option 1
+
+Option Analysis:
+A. In FT-ICR MS; it takes about five minutes per spectrum.
+B.The orbit trap typically gives you around one scan every minute under optimized conditions and can be as fast at up two scans/minute if needed by running multiple experiments simultaneously on different channels within an instrument but still requires more than four seconds for each measurement cycle.
+
+C.A QTOF spectrometer would take just over half that time again because they are designed specifically so their analysis times will fit into LCMS applications where there may only need ten second intervals between analyses due mainly from being able switch back & forth quickly among various functions during any given run without having much downtime required after completing those tasks once done properly beforehand etc… So this option could also apply here too though perhaps not quite exactly what’s meant since these instruments do use both quadrupoles along side other types like magnetic sector detectors which have longer response periods then traditional quad poles used alone otherwise known simply called """,no
+8,,yes
+C,B,no
+A,,yes
+A,A,yes
+C,D,No.
+A,D,no
+8,,yes
+9,,yes
+B,D,no
+4,,yes
+B,D,No.
+4,,yes
+4,b,yes
+A,"D
+
+A strong acid turns blue-black. Therefore option 1 and2 are incorrect.
+Option4- yellow colour of phenolphthalein means it has been neutralized by an alkali which would not be possible as NaOH acts only on acids.
+
+Therefore Option3 should also rule out but if we take into consideration that there could have existed some traces left from other reaction then this one will still remain unaffected because after all its just water being used in excess here so no chemical reactions occur between them hence our final conclusion remains safe i.e..option d",no
+C,D,no
+D,D,yes
+B,,yes
+C,,no
+C,B,no
+B,D,no
+C,C,yes
+6,b,yes
+4,b,yes
+5,b,yes
+B,D,No.
+D,A,no
+A,A,yes
+E,,yes
+C,A,no
+D,B,no
+B,A,no
+D,B,no
+C,,yes
+C,C,yes
+A,E,No.
+A,D,no
+D,"$\mathrm{\boxed {D}}$
+To determine what molecule would yield this exact
+mass,
+we need only examine all possible combinations.",yes
+6,b,yes
+8,b,no
+3,,yes
+C,,yes
+B,D,no
+D,,yes
+B,A,no
+11,b,no
+10,b,no
+C,B,no
+7,b,yes
+D,D,yes
+6,b,yes
+E,E,yes
+D,D,yes
+C,B,no
+C,D,no
+4,,yes
+9,b,no
+A,D,no
+A,A,yes
+A,D,No.
+C,D,no
+C,,yes
+C,**D**,No.
+5,,yes
+8,,yes
+C,,yes
+8,,no
+C,,no
+A,,yes
+A,E,No.
+A,D,no
+9,b,no
+5,b,yes
+5,b,yes
+A,G,no
+A,E,No.
+C,D,no
+C,D,no
+A,B,no
+B,D,no
+A,,yes
+10,b,no
+4,,yes
+C,D,no
+E,E,yes
+B,B,yes
+A,,no
+A,D,No.
+C,C,yes
+D,D,yes
+10,b,no
+C,D,no
+D,D,yes
+A,"D
+
+A. Stripping techniques do not increase S/N; they only allow for multiple measurements from 1 electrochemical cycle.
+B and E are incorrect because increasing concentration does NOT INCREASE THE SNR but rather increases background current due primarilyto increased diffusion of species at more negative potentials as wellas decreased solubility which resultsin reduced mass transport intothe workingelectrode surface area.
+
+C may seem logical since it would appear that using highcurrentwould result ingreater electron transfer ratesand thus greater peak height.However thisis false! Usinghigher concentrations willresultingreating larger peaksbut alsoincreasingbackground signals resultingfrom anioncation exchange reactionsat lowerpotentials than those usedfor analyte detection.This effectcan be seen by comparing Figure6-4bwithFigure5 -3a whereanodeposition waveformwas observed on platinumworking surfaces whenusing very lowconcentrationsof KI solution(0.01M).",no
+A,,yes
+C,B,no
+B,D,no
+11,b,no
+8,b,no
+7,,yes
+A,,yes
+B,B,yes
+3,,yes
+A,A,yes
+A,D,No.
+A,D,no
+7,b,yes
+10,b,no
+A,D,No.
+B,B,yes
+3,,yes
+B,**D**,No.
+7,,yes
+C,E,no
+B,D,no
+D,D,yes
+D,D,yes
+C,,yes
+B,D,no
+6,,yes
+D,D,yes
+C,D,no
+12,,no
+6,,yes
+7,b,no
+B,B,yes
+A,E,No.
+D,,yes
+C,D,"To determine the correct answer, let's analyze the question:
+
+We are given:
+- A **3-J-coupling constant** of **7 Hz**
+- A **distance between peaks of a multiplet** of **0.014 ppm**
+
+We are to find the **NMR frequency** (in MHz) at which this spectrum was measured.
+
+---
+
+### Step 1: Relationship between coupling constant and frequency
+
+The **3-J-coupling constant** is given in **Hz**, and it is related to the **spectrometer frequency (ν)** by the formula:
+
+$$
+J = \text{coupling constant in Hz} = \nu \times \text{chemical shift difference in ppm}
+$$
+
+So rearranging:
+
+$$
+\nu = \frac{J}{\text{chemical shift difference in ppm}}
+$$
+
+Given:
+- $ J = 7 \, \text{Hz} $
+- $ \Delta \delta = 0.014 \, \text{ppm} $
+
+$$
+\nu = \frac{7}{0.014} = 500 \, \text{MHz}
+$$
+
+---
+
+### Conclusion:
+
+The correct answer is **(C) 500 MHz**.
+
+The response **(D) 550 MHz** is **incorrect**.
+
+---
+
+### Final Answer: **no**"

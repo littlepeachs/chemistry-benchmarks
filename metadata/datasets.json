@@ -1,0 +1,229 @@
+[
+  {
+    "benchmark": "ChemBench",
+    "local_name": "ChemBench",
+    "repo_id": "jablonkagroup/ChemBench",
+    "revision": "407faa5d89bdeffd1b4e1a7789c468d9d57a9f08",
+    "url": "https://huggingface.co/datasets/jablonkagroup/ChemBench",
+    "sources": [
+      {
+        "path": "analytical_chemistry/train-00000-of-00001.parquet",
+        "sha256": "ea12bc4e6ec1dcde2ef4fb0cb3aafbe9bf721c9e53ddf03813a3974610192dd1"
+      },
+      {
+        "path": "chemical_preference/train-00000-of-00001.parquet",
+        "sha256": "78829cadb7455ff42d92def3e79fe49bb70ad478050ac5e80f3dec1ba6f32d9a"
+      },
+      {
+        "path": "general_chemistry/train-00000-of-00001.parquet",
+        "sha256": "25d0e7538732e21aa055a7f7dbd7e8de8da91853fa8286f99a8b9e63615748ca"
+      },
+      {
+        "path": "inorganic_chemistry/train-00000-of-00001.parquet",
+        "sha256": "450981bb297a2d3e306cca58bcacf4dcf5346cdd1d264b5e4bf78f0a4ab8d21f"
+      },
+      {
+        "path": "materials_science/train-00000-of-00001.parquet",
+        "sha256": "ba878c5d26d2b4fef92726a8e44281a31ba72a03c37c87c65ea04011272a3e30"
+      },
+      {
+        "path": "organic_chemistry/train-00000-of-00001.parquet",
+        "sha256": "daac3f120bf04e446fc625a6e8543ab0c0bdce1609a4d9d7af7f8e7c2dcf8e75"
+      },
+      {
+        "path": "physical_chemistry/train-00000-of-00001.parquet",
+        "sha256": "741e1677534967be67a8e9188e7dac82df103c57dc31287d9b5c11cb0ca6c6e8"
+      },
+      {
+        "path": "technical_chemistry/train-00000-of-00001.parquet",
+        "sha256": "fb45d1e645b58253316938ef7e4dc4745dd264bbc07c4faa0782f0cb05b7a844"
+      },
+      {
+        "path": "toxicity_and_safety/train-00000-of-00001.parquet",
+        "sha256": "8eeaad6a8d2791e0237a785e281085a3c8dd8527786c478cddc826039b66bd97"
+      }
+    ],
+    "outputs": [
+      {
+        "path": "ChemBench/analytical_chemistry/qa_data.json",
+        "rows": 152,
+        "subject": "analytical_chemistry",
+        "source_order": [
+          "analytical_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "aff1e7cb87c744d4a172136c4d85224c48f235330872e1903db63386bf9deda5",
+        "original_file_sha256": "ba4535bcd716089037657019d94d3636a02c1867c6a53d5a66c9f6627c65d4d8"
+      },
+      {
+        "path": "ChemBench/chemical_preference/qa_data.json",
+        "rows": 1000,
+        "subject": "chemical_preference",
+        "source_order": [
+          "chemical_preference/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "16297fa25c285f4e747768752d59afab6007cb4d7afefc005fe80370a9d9a670",
+        "original_file_sha256": "a9249ca9d1b1702ac0858614927cd11ac8a746f3fdd4720264b897302cc8fbd9"
+      },
+      {
+        "path": "ChemBench/general_chemistry/qa_data.json",
+        "rows": 149,
+        "subject": "general_chemistry",
+        "source_order": [
+          "general_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "50fa73d7ca3e12f0173ace258a62a0b4801e10d97ffb4d43a403d79ecec5f2a6",
+        "original_file_sha256": "f66c9ae20275493ae3001513aa66eecc03800ff2c3f933ab03446a0d78767fed"
+      },
+      {
+        "path": "ChemBench/inorganic_chemistry/qa_data.json",
+        "rows": 92,
+        "subject": "inorganic_chemistry",
+        "source_order": [
+          "inorganic_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "0e106cdd5491716a2f420ea0b77947cc4c355267b735821e262613ee4078b9bb",
+        "original_file_sha256": "d9fb7b600ac8febb4af05220df919594d0119c74dbe360f6ed75b7722f735271"
+      },
+      {
+        "path": "ChemBench/materials_science/qa_data.json",
+        "rows": 84,
+        "subject": "materials_science",
+        "source_order": [
+          "materials_science/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "dfb8f2f9b2d6189338758721f6620feda3bf47b6b5cfa4b398786f114cc6738b",
+        "original_file_sha256": "7a3c7e69b45187878d9c1946a014247f362b39ea216b5ce45fc15bef9bfd6d6a"
+      },
+      {
+        "path": "ChemBench/organic_chemistry/qa_data.json",
+        "rows": 429,
+        "subject": "organic_chemistry",
+        "source_order": [
+          "organic_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "0f7351839219fca04995b24d059e7abd2b084785f2df331999ef25e771844232",
+        "original_file_sha256": "2979207cdacc02bf891735c5d631f11583f13f7a9e9623b47ee6de340bf2ce22"
+      },
+      {
+        "path": "ChemBench/physical_chemistry/qa_data.json",
+        "rows": 165,
+        "subject": "physical_chemistry",
+        "source_order": [
+          "physical_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "c02119cdd94d521e57660c224160f4223281588d652638e9c43becbd4dfba3e2",
+        "original_file_sha256": "7b9512e76f024c6959039ca5a920e9c48a72881d407cb1ab6b6cb3feefdd3382"
+      },
+      {
+        "path": "ChemBench/technical_chemistry/qa_data.json",
+        "rows": 40,
+        "subject": "technical_chemistry",
+        "source_order": [
+          "technical_chemistry/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "fd813350f54716d63baefa3a389b7a5176a13477a7eca3c7dc30bce3a5f382ec",
+        "original_file_sha256": "e7b7978dcc445732f12ba0ca3b55724218cd378820edb76b8bc33ca41e38060b"
+      },
+      {
+        "path": "ChemBench/toxicity_and_safety/qa_data.json",
+        "rows": 675,
+        "subject": "toxicity_and_safety",
+        "source_order": [
+          "toxicity_and_safety/train-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "17111aa2d60138aa9a2dc6f38c8f84a425870cc864c09647f71d62cf00077fc8",
+        "original_file_sha256": "c3961180c94382f4d69ad3573a0ec4879277f5d99f500041c0d64d054ad0d0d3"
+      }
+    ]
+  },
+  {
+    "benchmark": "MASCQA",
+    "local_name": "mascqa",
+    "repo_id": "heegyu/mascqa",
+    "revision": "7f824b750da5b09ac7fd8b7be10fc0fe3dec852c",
+    "url": "https://huggingface.co/datasets/heegyu/mascqa",
+    "sources": [
+      {
+        "path": "data/test-00000-of-00001.parquet",
+        "sha256": "2a05f5adf089e2e95f6936239aa0d9b0a35b137acd4a1e3c88bb91bc8bffb905"
+      }
+    ],
+    "outputs": [
+      {
+        "path": "mascqa/mascqa_test.json",
+        "rows": 650,
+        "subject": null,
+        "source_order": [
+          "data/test-00000-of-00001.parquet"
+        ],
+        "normalized_sha256": "1a165c7c4230beabeecb62076a308b10440c1d3ac20db990a545dd3030db2391",
+        "original_file_sha256": "aa8daea89b8b26aaa51203095c5655c1406f702cecd8e665759ad186256937b3"
+      }
+    ]
+  },
+  {
+    "benchmark": "ChemBench4K",
+    "local_name": "ChemBench4K",
+    "repo_id": "AI4Chem/ChemBench4K",
+    "revision": "9b8fec19c993c270868e4b8ec1eb580e501bcb22",
+    "url": "https://huggingface.co/datasets/AI4Chem/ChemBench4K",
+    "sources": [
+      {
+        "path": "test/Caption2mol_benchmark.json",
+        "sha256": "3376c65085b60d0be9c3459b528587f66b09de89ee56a60b92a0ee7150075dd6"
+      },
+      {
+        "path": "test/Mol2caption_benchmark.json",
+        "sha256": "a7557bae188828b6792f5c42cad7aeb6e18c4adbe7c6e0a49ca6f17db22384bf"
+      },
+      {
+        "path": "test/Name_Conversion_benchmark.json",
+        "sha256": "de0cef0ecef8065c2112c4d11bd822143fb8f0c30bb70251d7dbfc00aeff9ed2"
+      },
+      {
+        "path": "test/Product_Prediction_benchmark.json",
+        "sha256": "03a5f7dc136c54cf3ebdebedb3705f7810148e1922c7e84db980233793bf6400"
+      },
+      {
+        "path": "test/Property_Prediction_benchmark.json",
+        "sha256": "f465a42f19cfdb686c912c3b79db0d08f4cf585ec72e190b5adff3625c447a19"
+      },
+      {
+        "path": "test/Retrosynthesis_benchmark.json",
+        "sha256": "7fd21ef010f06fa58fceb2de73a49c59957a91e6affa3b45357d6b7dc7d1f0ab"
+      },
+      {
+        "path": "test/Solvent_Prediction_benchmark.json",
+        "sha256": "bd08fe4922ede07796125a96256b6bdce31aec1294db8b77392719e1abc4c8b3"
+      },
+      {
+        "path": "test/Temperature_Prediction_benchmark.json",
+        "sha256": "c427a2c782f7808ed12881e90378be97a9cd9fb9c72222fbc638a7a241945fb5"
+      },
+      {
+        "path": "test/Yield_Prediction_benchmark.json",
+        "sha256": "c8cd5b50f58e47db6912bee394ef7fb35927620dd9ce040c6b785cc0140342ad"
+      }
+    ],
+    "outputs": [
+      {
+        "path": "ChemBench4K/ChemBench4K_test.json",
+        "rows": 4009,
+        "subject": null,
+        "source_order": [
+          "test/Name_Conversion_benchmark.json",
+          "test/Temperature_Prediction_benchmark.json",
+          "test/Property_Prediction_benchmark.json",
+          "test/Yield_Prediction_benchmark.json",
+          "test/Mol2caption_benchmark.json",
+          "test/Caption2mol_benchmark.json",
+          "test/Product_Prediction_benchmark.json",
+          "test/Solvent_Prediction_benchmark.json",
+          "test/Retrosynthesis_benchmark.json"
+        ],
+        "normalized_sha256": "c2b78ace96ffe6915d787d48a0bf282c055c05afb04b7fd2a48c637f7d01a9c3",
+        "original_file_sha256": "774c2916300230ecc16da2a53f4dbea201b768230d40143078b9afcad45a5ed6"
+      }
+    ]
+  }
+]

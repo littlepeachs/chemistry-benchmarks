@@ -1,0 +1,669 @@
+Truth,Model,Critic
+A,The correct answer is: **B) Finned**.,No.
+C,"The correct answer is: **B**
+
+**Explanation:**  
+- **(A)** is incorrect. Continuous Stirred-Tank Reactors (CSTRs) are not approximated by many Plug Flow Tubular Reactors (PFTRs) in the cascade model.  
+- **(B)** is correct. The cascade model is an approximation of multiple reactors, and it is always ideal for achieving a desired chemical conversion.  
+- **(C)** is incorrect. Plug Flow Tubular Reactors (PFTRs) are not approximated by CSTRs in the cascade model.  
+- **(D)** is incorrect. The variance decreases as the number of reactors increases, but this is a general statement about the system behavior, not specifically about the cascade model.  
+
+**Answer:** **B**",no
+B,"The correct answer is: **A**.
+
+**Explanation**:  
+Plugs flow systems are modeled with axial dispersion (e.g., due to velocity gradients) and radial dispersion (due to changes in radial distance from the center). However, in a real reactor, whirlpools and similar behaviors (which are radial) are observed. Therefore, to properly model the real reactor, both axial and radial dispersion terms must be included in the original plug flow system, and the energy balance should be solved. This ensures that both the axial and radial dispersion effects are accounted for in the model.  
+
+Answer: **A**",no
+D,"The correct answer is: **D**.  
+
+**Explanation**: Acrylates are commonly used as components in plastics and coatings to improve their properties, such as flexibility, durability, and resistance to weathering.",yes
+D,"The correct answer is: **C**. Proton exchange electrolyzer cell.
+
+**Explanation**:  
+The proton exchange electrolyzer cell is the only one used for converting water into molecular hydrogen. It uses protons (H⁺ ions) to split water into hydrogen gas and oxygen gas, which is a key process in the hydrogen economy.  
+
+Other options:  
+- (A) Alkaline electrolyzer cell: Uses base electrolytes (e.g., KOH) and is not for water vapor.  
+- (B) Anion exchange electrolyzer cell: Uses anions (e.g., OH⁻) and is not for water vapor.  
+- (D) Solid oxide electrolyzer cell: Uses solid oxides and is not for water vapor.",No.
+94.7,"To find the percentage of $\ce{CO2}$ produced from burning **1 L of E10 fuel**, we need to calculate the amount of $\ce{CO2}$ from the combustion of the **octane isomers** in the fuel.
+
+---
+
+### Step 1: Understand the fuel composition
+
+- **E10 fuel** contains:
+  - $\pu{100 mL}$ of ethanol
+  - $\pu{900 mL}$ of octane isomers
+
+- **E5 fuel** contains:
+  - $\pu{50 mL}$ of ethanol
+  - $\pu{950 mL}$ of octane isomers
+
+---
+
+### Step 2: Find the amount of octane isomers in each fuel
+
+From the given data:
+
+- **E10 fuel**: $\pu{900 mL}$ of octane isomers
+- **E5 fuel**: $\pu{950 mL}$ of octane isomers
+
+---
+
+### Step 3: Calculate the $\ce{CO2}$ produced from each fuel
+
+We are told that $\ce{CO2}$ is produced **only from the combustion of octane isomers**.
+
+- From **E10 fuel**:
+  - Octane isomers = $\pu{900 mL}$
+  - $\ce{CO2}$ from octane isomers = 900 mL × $\frac{100\% \ce{CO2}}{100\% \ce{O2}}$ = 900 mL
+
+- From **E5 fuel**:
+  - Octane isomers = $\pu{950 mL}$
+  - $\ce{CO2}$ from octane isomers = 950 mL
+
+---
+
+### Step 4: Calculate the total $\ce{CO2}$ from both fuels
+
+$$
+\text{Total } \ce{CO2} = 900 \, \text{mL (from E10)} + 950 \, \text{mL (from E5)} = 1850 \, \text{mL}
+$$
+
+---
+
+### Step 5: Convert the total volume of fuel to liters
+
+- E10 fuel: $\pu{1 L}$
+- E5 fuel: $\pu{1 L}$
+
+So, both fuels are $\pu{1 L}$ in volume.
+
+---
+
+### Step 6: Calculate the percentage of $\ce{CO2}$ in E10 fuel
+
+$$
+\text{Percentage } \ce{CO2} = \left( \frac{1850 \, \text{mL}}{1000 \, \text{mL}} \right) \times 100 = 185\%
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{185}
+$$",No.
+A,"The correct answer is: **A**.  
+
+**Explanation**: The twelve principles of green chemistry include maximizing atom economy (B), minimizing solvent use (C), and reducing the use of toxic reagents (D). **Employing high temperatures to accelerate reactions (A)** is not a principle of green chemistry and is instead associated with industrial processes that are environmentally harmful.",yes
+B,"The correct answer is: **B**.  
+
+**Explanation:**  
+In an adiabatic fixed-bed reactor, the conversion of reactants is influenced by both the reaction rate and the physical properties of the reactor. Near the end of the reactor, the **reactant concentrations decrease**, which reduces the reaction rate. However, if the temperature increases (due to the reaction occurring in a closed system or due to heat transfer), the conversion can increase. Therefore, the conversion can either increase or decrease near the end of the reactor depending on the specific conditions.",yes
+D,"The least suitable method for scaling up is **(A) Crystallization**.
+
+**Reasoning**: Crystallization is typically used for producing pure substances from a solution, but it is not suitable for large-scale production due to the high energy and material requirements, and the process can be time-consuming and costly. In contrast, distillation, liquid-liquid extraction, and rotary evaporation are more suitable for scaling up. 
+
+Answer: **A**",no
+B,The correct answer is: **(C)** Examining the 1/(-r) vs. X (conversion) curve (where r is the rate of reaction).,No.
+C,"The strongest enclosure for cylindrical vessels is **(A) Conical or flat plate**.  
+
+**Answer: A**",No.
+D,"The correct answer is: **C**
+
+**Explanation**:  
+- **(A)** is false. In a batch reactor, the composition is not uniformly mixed and changes over time.  
+- **(B)** is false. In a batch reactor, the fluid is not mixed, and the order of entering fluids is not important.  
+- **(C)** is true. In a mixed flow reactor, the composition changes with time but remains uniform throughout the reactor.  
+- **(D)** is false. In a plug flow reactor, the fluid moves in a single path, but there is mixing and no overtaking.",no
+D,"The correct answer is: **D**
+
+### Explanation:
+- **(A) Their synthesis is more cost-effective** – This is **not necessarily true**. Synthesis methods can vary widely, and cost-effectiveness depends on the method used (e.g., organic vs. chemical synthesis).
+- **(B) They are simpler to synthesize** – This is **true** because simplification reduces complexity.
+- **(C) They can adopt multiple conformations** – This is **true** as simplification often allows for more conformations.
+- **(D) They exhibit fewer side effects** – This is **not necessarily true**. Side effects can vary depending on the drug and its structural modifications.
+
+So, the answer is: **D**.",yes
+D,"The correct answer is: **B**.
+
+**Explanation**:  
+In a steady-state mixed flow reactor, the input of reactant A is equal to the output plus the disappearance by reaction minus the accumulation. This is because the accumulation is a net loss of reactant A over time, which must be accounted for when calculating the input. The formula is:
+
+$$
+\text{Input of A} = \text{Output of A} + \text{Disappearance by reaction} - \text{Accumulation}
+$$
+
+So the correct answer is **B**.",No.
+A,"To determine the fraction of feed that should be directed to **branch D** to ensure **identical conversion** in both branches, we need to analyze the **conversion path** and the **resistance** (i.e., the flow rate) through each reactor.
+
+---
+
+### Step 1: Understand the setup
+
+- **Branch D** has two **plug flow reactors in series**:
+  - First reactor: **60 L**
+  - Second reactor: **40 L**
+
+- **Branch E** is a **single plug flow reactor** in **parallel** with **branch D**, and has a volume of **20 L**.
+
+We want **identical conversion** in both branches, so the **conversion** in branch D must equal the **conversion** in branch E.
+
+---
+
+### Step 2: Define variables
+
+Let:
+
+- $ C_D $ = conversion in branch D
+- $ C_E $ = conversion in branch E
+
+We are to find the fraction of feed going to branch D such that $ C_D = C_E $.
+
+---
+
+### Step 3: Set up the conversion equations
+
+Let’s assume the **flow rate** of feed to branch D is $ f $ (in m³/s), and the feed is at a **constant concentration**.
+
+The **conversion** in a plug flow reactor depends on the **flow rate** and the **reactor volume**.
+
+Let’s assume the feed is at a **constant concentration**, so the **conversion** is proportional to the **flow rate** and the **reactor volume**.
+
+- **Conversion in D**:
+  $$
+  C_D = \frac{f}{V_1 + V_2}
+  $$
+  $$
+  C_D = \frac{f}{60 + 40} = \frac{f}{100}
+  $$
+
+- **Conversion in E**:
+  $$
+  C_E = \frac{f}{V_{E}} = \frac{f}{20}
+  $$
+
+We want $ C_D = C_E $, so:
+
+$$
+\frac{f}{100} = \frac{f}{20}
+$$
+
+But this is **not possible**, because the **conversion** depends on the **flow rate** and not just the volume.
+
+---
+
+### Step 4: Correct approach
+
+Let’s assume that the **flow rate** is the same through both branches.
+
+Let’s define:
+
+- $ f $ = flow rate (in m³/s)
+
+- $ C_D $ = conversion in branch D
+
+- $ C_E $ = conversion in branch E
+
+We want $ C_D = C_E $, so:
+
+$$
+\frac{f}{V_1} = \frac{f}{V_2} \quad \Rightarrow \quad \frac{1}{60} = \frac{1}{40} \quad \text{(not valid)}
+$$
+
+So we need to adjust the **flow rate** through branch D and branch E.
+
+Let’s define:
+
+Let’s assume the **flow rate** through branch D is $ f_D $, and through branch E is $ f_E $.
+
+Then:
+
+- $ C_D = \frac{f_D}{V_1 + V_2} = \frac{f_D}{100} $
+
+- $ C_E = \frac{f_E}{V_{E}} = \frac{f_E}{20} $
+
+We want $ C_D = C_E $, so:
+
+$$
+\frac{f_D}{100} = \frac{f_E}{20}
+\Rightarrow f_D = 5f_E
+$$
+
+Now, the **total flow** through branch D is $ f_D + f_E $, and through branch E is $ f_E $.
+
+Let’s assume the total flow is $ Q $, so:
+
+- $ f_D = 5f_E $
+
+- $ f_D + f_E = Q $
+
+- $ f_E = \frac{Q}{6} $
+
+Substitute into $ C_D = \frac{f_D}{100} $:
+
+$$
+C_D = \frac{5f_E}{100} = \frac{5 \cdot \frac{Q}{6}}{100} = \frac{Q}{120}
+$$
+
+So, the **fraction** of feed directed to branch D is:
+
+$$
+\frac{f_D}{Q} = \frac{5}{120} = \frac{1}{24}
+$$
+
+This is **not matching any option**.
+
+---
+
+### Step 5: Re-evaluate
+
+Let’s assume the **total flow** through branch D is $ f_D $, and through branch E is $ f_E $, and the total flow is $ Q $.
+
+Then:
+
+- $ C_D = \frac{f_D}{V_1 + V_2} = \frac{f",No.
+B,"The correct answer is: **A**. 
+
+The number of bubble caps to be used per tray in a distillation column is determined by the **liquid load**. This affects the vapor flow and the number of bubbles that can be produced.",No.
+D,"The correct answer is: **D**. 
+
+**Explanation**:  
+In a gas-liquid reaction where the chemical reaction is much faster than the diffusion of the gas through the liquid, a **spray tower** is appropriate. The spray tower is designed to have a **bigger interface area** between the gas and liquid, which allows for efficient mass transfer and reaction. This is because the interface area is crucial for the rate of gas-liquid interaction.",yes
+C,"The correct answer is: **(B)**
+
+**Explanation:**  
+In parallel reactions, the concentration level of reactants does not affect the product distribution for reactions of different orders. The order of a reaction determines the rate law and the relationship between the concentration of reactants and the rate. However, the relative concentrations of products depend on the order of the reaction and the stoichiometry of the reactions. Thus, the correct answer is **(B)**.",no
+D,"The correct answer is: **B**.
+
+**Explanation:**
+
+In an **adiabatic plug flow reactor** with an **endothermic aqueous phase first-order irreversible reaction**, the **rate of reaction** reaches its **maximum** at the **center of the reactor**. This is because:
+
+- The **reaction is first-order**, so the rate of reaction depends only on the concentration of reactant and the temperature.
+- The **temperature is highest at the center**, so the rate of reaction is highest there.
+- The **rate of reaction decreases** as the concentration of the reactant decreases and as the temperature decreases.
+- The **maximum rate of reaction** occurs **at the center** of the reactor.
+
+**Answer: B**.",No.
+A,"To determine the relationship between the overall exit conversions $ X_P $ for the given reactor configurations, we need to consider the **efficiency** of each reactor (CSTR or PFR) in converting the reactant $ A $ to product $ P $.
+
+### Key Assumption:
+- The reaction is **first-order**, and the reaction is **isothermal**.
+- All reactants and products are **ideal** and the conversion is **complete**.
+
+---
+
+### Reactor Types and Their Efficiency:
+
+1. **(P) a 2 m³ CSTR followed by a 2 m³ PFR**  
+   - The CSTR has higher **efficiency** than the PFR, so $ X_P $ is **greater** than $ X_R $ and $ X_S $.
+
+2. **(Q) a 4 m³ CSTR**  
+   - The CSTR is the **most efficient** reactor, so $ X_P $ is **greater** than $ X_S $ and $ X_Q $.
+
+3. **(R) a 1 m³ PFR followed by a 1 m³ CSTR**  
+   - The PFR is **less efficient** than the CSTR, so $ X_P $ is **less** than $ X_R $ and $ X_S $.
+
+4. **(S) a 1 m³ CSTR followed by a 1 m³ CSTR**  
+   - The two CSTRs are **identical**, so $ X_P $ is **equal** to $ X_S $, and $ X_S $ is **equal** to $ X_Q $.
+
+---
+
+### Final Comparison:
+
+- $ X_P = X_S = X_Q $
+- $ X_R > X_S > X_Q $
+- $ X_P > X_R > X_S > X_Q $
+
+---
+
+### Correct Answer:
+
+**(C) $ X_P > X_R > X_S > X_Q $**  
+
+**Answer: C**",No.
+1.24,"The problem involves determining the **air flow rate** in a bunsen burner when reactants enter at a specific air-to-fuel equivalence ratio ($\lambda = 1.2$).
+
+### Given:
+- Flame height = 2.5 mm
+- Diameter of the bunsen tube = 8 mm
+- Laminar flame speed = 0.38 m/s
+- Temperature = 25°C
+- Pressure = 101.325 kPa
+- Reactant air-to-fuel ratio = 1.2
+
+### Step-by-step:
+
+1. **Convert flame height to diameter:**
+   - Diameter = 8 mm = 0.008 m
+
+2. **Use the formula for laminar flame speed:**
+   $$
+   v = \frac{\lambda}{\pi D^2}
+   $$
+   where $v$ is the flame speed, $\lambda$ is the air-to-fuel ratio, and $D$ is the diameter of the flame.
+
+   Substituting the values:
+   $$
+   0.38 = \frac{1.2}{\pi (0.008)^2}
+   $$
+
+   $$
+   0.38 = \frac{1.2}{\pi \times 0.000064} = \frac{1.2}{0.00201} \approx 59.83 \, \text{m/s}
+   $$
+
+   This calculation confirms the given flame speed.
+
+3. **Calculate the volume flow rate:**
+   The volume flow rate $Q$ is related to the flame height $h$ and the diameter $D$ by:
+   $$
+   Q = \frac{\pi D^2 h}{4}
+   $$
+
+   Substituting the values:
+   $$
+   Q = \frac{\pi (0.008)^2 (0.0025)}{4} = \frac{\pi \cdot 6.4 \times 10^{-6} \cdot 2.5}{4}
+   $$
+
+   $$
+   Q \approx \frac{1.6 \times 10^{-4}}{4} = 4 \times 10^{-5} \, \text{m}^3/\text{s}
+   $$
+
+   Convert to L/min:
+   $$
+   4 \times 10^{-5} \, \text{m}^3/\text{s} \times 60 \, \text{s/min} \times 1000 \, \text{L/m}^3 = 240 \, \text{L/min}
+   $$
+
+### Final Answer:
+$$
+\boxed{B}
+$$",No.
+A,The correct answer is: **D**. Xylene is not considered inappropriate for large-scale use.,no
+A,"The correct answer is: **(D) liquid sodium**.
+
+Nuclear reactors use **copper (A)**, **graphite (B)**, and **heavy water (C)** as coolants, but **liquid sodium (D)** is not typically used as a coolant in nuclear reactor reactors.",No.
+B,"The correct answer is: **A**.  
+
+Nitrate compounds are commonly used as **bleaching agents** in industrial processes.",No.
+D,"The correct answer is: **D**.
+
+The statement **""Transient contact time""** is not a disadvantage of a moving bed reactor. Instead, it is a feature that allows for efficient and continuous operation.",yes
+C,"The correct answer is: **B**.  
+
+**Explanation**:  
+Providing a calming section before the liquid flows into the downcomer is used to ensure better **vapor-liquid contact** between the liquid and the surrounding air, which is important for efficient heat transfer and improved overall performance of the system.",No.
+D,"To solve this problem, we need to analyze the gas-phase reaction:
+
+$$
+\ce{A -> 5B}
+$$
+
+Given that the reaction is **irreversible** and conducted in an **isothermal batch reactor** at **constant pressure**, we are asked to find the **minimum mole percent of inert gas** (in the feed) required to ensure that the **volume of gas at complete conversion** does **not exceed three times** the initial volume.
+
+---
+
+### Step 1: Understand the reaction and its effect
+
+- The reaction is **A → 5B**, meaning 1 mole of A produces 5 moles of B.
+- At **complete conversion**, all the A is converted to B.
+- The volume of the gas is directly proportional to the amount of A and B.
+- However, the reaction is **irreversible**, so the **gas volume** at any point can be **less than or equal to** the initial volume.
+
+---
+
+### Step 2: Define variables
+
+Let:
+
+- $ n_A $ = moles of A initially in the feed
+- $ n_B $ = moles of B formed
+- $ n_{\text{inert}} $ = moles of inert gas in the feed
+
+We are to find the **minimum mole percent** of the inert gas in the feed so that:
+
+$$
+\frac{n_B}{n_A + n_{\text{inert}}} = \frac{5}{6} \quad \text{(since 1 mole of A produces 5 moles of B)}
+$$
+
+This is because the volume of gas depends on the amount of A and B, and the inert gas does not contribute to the volume.
+
+---
+
+### Step 3: Solve for the mole percent
+
+Let:
+
+- $ x $ = mole percent of inert gas = $ \frac{n_{\text{inert}}}{n_A + n_{\text{inert}}} \times 100 $
+
+We want to **minimize** $ x $, so we minimize the fraction of inert gas in the feed.
+
+Let’s assume the initial volume of the gas is $ V_0 $, and after conversion, the volume is $ V_3 $.
+
+At **complete conversion**, the volume of the gas is:
+
+$$
+V_3 = V_0 \cdot \frac{n_B}{n_A + n_{\text{inert}}}
+$$
+
+We are told that:
+
+$$
+V_3 \leq 3V_0
+$$
+
+Substitute:
+
+$$
+\frac{n_B}{n_A + n_{\text{inert}}} \leq 3
+$$
+
+So:
+
+$$
+\frac{5}{6} \leq 3
+$$
+
+This is always true.
+
+---
+
+### Step 4: Interpret the result
+
+Since the reaction is irreversible and the volume of gas is directly proportional to the amount of A and B, and the reaction is **A → 5B**, we can conclude that the **minimum mole percent of inert gas** needed to ensure that the volume does **not exceed three times** the initial volume is:
+
+$$
+\boxed{20}
+$$
+
+---
+
+### Final Answer:
+
+**(B) 20**","no
+
+---
+
+### Explanation:
+
+The response is **not correct**. Let's analyze the reasoning step-by-step to understand why.
+
+---
+
+### Step 1: Understand the reaction
+
+The reaction is:
+$$
+\ce{A -> 5B}
+$$
+
+This is a **gas-phase reaction** that produces **5 moles of B** for every **1 mole of A** consumed.
+
+---
+
+### Step 2: Understand the volume change
+
+Since the reaction is **at constant pressure and temperature**, the **volume is proportional to the number of moles of gas**.
+
+Let’s define:
+
+- $ n_{\text{initial}} $ = total moles of gas initially
+- $ n_{\text{final}} $ = total moles of gas after complete conversion
+
+At complete conversion, all A is consumed and becomes 5B, so the total moles of gas is:
+
+$$
+n_{\text{final}} = n_{\text{initial}} - n_A + 5n_A = n_{\text{initial}} + 4n_A
+$$
+
+So the **volume increases by 4 times the number of moles of A**.
+
+---
+
+### Step 3: Define the problem
+
+We are told that the **volume at complete conversion must not exceed 3 times the initial volume**.
+
+So:
+
+$$
+n_{\text{final}} \leq 3n_{\text{initial}}
+$$
+
+Substituting:
+
+$$
+n_{\text{initial}} + 4n_A \leq 3n_{\text{initial}} \Rightarrow 4n_A \leq 2n_{\text{initial}} \Rightarrow n_A \leq \frac{1}{2}n_{\text{initial}}
+$$
+
+This means that the **initial moles of A must not exceed half of the total initial moles**.
+
+---
+
+### Step 4: Define the mole percent of inert gas
+
+Let’s define:
+
+- $ n_{\text{inert}} $ = moles of inert gas
+- $ n_A $ = moles of A
+- $ n_B = 0 $ initially
+
+So the total initial moles is:
+
+$$
+n_{\text{initial}} = n_A + n_{\text{inert}}
+$$
+
+From the inequality:
+
+$$
+n_A \leq \frac{1}{2}(n_A + n_{\text{inert}}) \Rightarrow 2n_A \leq n_A + n_{\text{inert}} \Rightarrow n_A \leq n_{\text{inert}}
+$$
+
+So the **moles of A must be less than or equal to the moles of inert gas**.
+
+Therefore:
+
+$$
+\frac{n_A}{n_{\text{initial}}} \leq \frac{n_{\text{inert}}}{n_{\text{initial}}} \Rightarrow \text{mole percent of A} \leq \text{mole percent of inert}
+$$
+
+So the **minimum mole percent of inert gas** must be **at least equal to the mole percent of A**.
+
+To **ensure** that the volume does not exceed 3 times the initial volume, the **mole percent of inert gas must be at least 50%**.
+
+---
+
+### Final Answer:
+
+**(D) 50**
+
+---
+
+### Therefore, the **response is incorrect**, and the **correct answer is (D) 50**."
+A,"A
+
+The correct answer is: **A**.",yes
+D,"The correct answer is: **C**
+
+**Reasoning:**  
+In series plug flow reactors, the total conversion is not the same as a single reactor because the conversion is **cumulative** across each reactor. The total volume $ V $ of $ N $ reactors is additive, but the **conversion** is a cumulative effect. Therefore, the total volume in series does **not** give the same conversion as a single reactor of volume $ V $.
+
+**Answer:** C",No.
+B,"The correct answer is: **B**.  
+
+**Explanation:**  
+Shaping solid catalysts as structured ceramic monolithic platforms offers advantages such as low volumetric loading of catalyst (A), lower pressure drop for high gas flows (B), and improved thermal performance compared to particulate forms (C). However, option **D** (""More expensive than particulate catalyst forms"") is not an advantage but a disadvantage.",yes
+D,"The correct answer is: **D**. 
+
+Epoxy resins are used industrially to create durable, rigid materials, such as plastics, composites, and coatings.",yes
+C,"The correct answer is: **(A) The Hatta number is going to be high, and the reaction takes place in the liquid volume.**
+
+**Explanation:**  
+In a gas-liquid reactor, if the enhancement factor (E) is 1, the Hatta number (which is a dimensionless quantity used in flow and reaction studies) is also 1. This indicates that the flow is uniform and the reaction occurs in the liquid phase. Therefore, the reaction will take place in the **liquid volume**, and the Hatta number will be **high**.  
+
+**Answer: A**",No.
+A,"The correct answer is: **B. Fluidized bed reactor**.
+
+### Reasoning:
+- A **fluidized bed reactor** is designed for good heat transmission and is less convenient than other types of reactors.
+- It allows for better heat transfer due to the continuous flow of the fluid, which enhances thermal conductivity.
+- It is also easier to maintain and operate compared to a fixed or moving bed reactor.
+
+The other options are less suitable:
+- **Fixed bed reactor** is more rigid and less efficient for heat transmission.
+- **Moving bed reactor** is not a standard reactor type and may not be suitable for heat transmission.
+- **Stirred tank reactor** is not as efficient for heat transmission as a fluidized bed.
+
+Answer: **B**.",no
+C,"The correct answer is: **(A)**
+
+**Explanation**:  
+A catalyzed solid-fluid reaction's deactivation due to poisoning is caused by the accumulation of harmful substances in the catalyst. While other actions such as improving feedback conditioning, limiting transition-state selectivity, and operating at higher temperatures can help mitigate this, **none of the options A, B, C, D, or E** are guaranteed to solve the deactivation. Therefore, **(A)** is the correct answer.",no
+B,"The correct answer is: **(D) None of these**
+
+A bubble cap plate tower, sieve plate tower, or packed tower are all suitable for gas-liquid contacting devices involving corrosive fluids, but none of them are specifically designed to handle highly corrosive fluids. Therefore, the correct answer is **(D)**.",no
+C,"The correct answer is: **C**.  
+
+**Reasoning**:  
+- **Palladium chloride (A)** is a metal-chloride compound and is used for electroplating metals, but it is not large-scale.  
+- **Pyridinium chlorochromate (B)** is a toxic reagent used in analytical chemistry, but it is not large-scale.  
+- **Sodium dithionite (C)** is a reagent used in chemical processes, including the synthesis of certain compounds, and is suitable for large-scale applications.  
+- **Tin chloride (D)** is a reagent used in electrochemistry and is also not large-scale.  
+
+**Answer: C**",yes
+B,"The correct answer is: **A, B, C**
+
+### Explanation:
+
+- **(A) The rate of accumulation of A within the reactor is zero because the reactor is ideal.**  
+  ✅ Correct. In an ideal batch reactor, the material balance is given by:  
+  **input = output + disappearance + accumulation**  
+  Since the reactor is ideal, **accumulation is zero**.  
+  So, **A is correct**.
+
+- **(B) The rate of disappearance of A due to chemical reaction is equal to the negative rate of accumulation of A within the reactor.**  
+  ✅ Correct. The rate of disappearance equals the rate of accumulation because accumulation is the negative of the rate of disappearance.  
+  So, **B is correct**.
+
+- **(C) The rate of disappearance of A due to chemical reaction is equal to the rate of accumulation of A within the reactor.**  
+  ✅ Correct. This is the same as (B), because the rate of disappearance equals the rate of accumulation.  
+  So, **C is correct**.
+
+- **(D) The rate of disappearance of A due to chemical reaction is zero because no fluid enters or leaves the reactor.**  
+  ❌ Incorrect. The disappearance rate depends on the inflow and outflow of the material. In an ideal batch reactor, **no fluid enters or leaves**, so the disappearance rate is **not zero**.  
+  So, **D is incorrect**.
+
+### Final Answer: **A, B, C**",no
+A,"The weakest enclosure for cylindrical vessels is a **conical or flat plate**.
+
+Answer: **A**",yes
+B,"The correct answer is: **D**.  
+
+**Solid oxide electrolyzer cell (SOE)** is the most environmentally sustainable among the options provided. It uses solid materials, produces no greenhouse gases, and operates efficiently under standard conditions.",No.
+D,"The correct answer is: **D**. The reaction will stop. 
+
+If the heat generated by the reaction is insufficient to sustain it, the reaction will not proceed further, leading to the stoppage of the process.",yes

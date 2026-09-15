@@ -1,0 +1,1028 @@
+Truth,Model,Critic,Subject
+A,"The correct answer is: **(C) Plate type**
+
+Hair-pin type heat exchangers are also known as **plate type** heat exchangers. They consist of a series of plates arranged in a hair-pin shape to facilitate heat transfer between two fluids.
+
+Answer: **C**",No.,technical_chemistry
+C,"The correct answer is: **(C) Plug Flow Tubular Reactors (PFTRs) can be approximated with many Continuous Stirred-Tank Reactors (CSTRs)**
+
+### Explanation:
+
+- **(A) Continuous Stirred-Tank Reactors (CSTRs) can be approximated with many Plug Flow Tubular Reactors (PFTRs)**  
+  ❌ **Incorrect.**  
+  A PFTR is a continuous reactor with no backmixing, while a CSTR is a well-mixed reactor. To approximate a CSTR, you would use many small PFTRs in series, **not the other way around**.
+
+- **(B) It always corresponds to the ideal reactor**  
+  ❌ **Incorrect.**  
+  The cascade model refers to a series of reactors (e.g., CSTRs or PFTRs), and while they can approximate ideal behavior, they **do not always** correspond to the ideal reactor. Real-world reactors may have deviations from ideal behavior.
+
+- **(C) Plug Flow Tubular Reactors (PFTRs) can be approximated with many Continuous Stirred-Tank Reactors (CSTRs)**  
+  ✅ **Correct.**  
+  A PFTR can be approximated by a cascade of many small CSTRs in series. This is because the CSTRs in series can mimic the behavior of a PFTR when the number of CSTRs is large.
+
+- **(D) The variance decreases as the number of reactors increases**  
+  ❌ **Incorrect.**  
+  Variance in conversion (or residence time) **increases** as the number of reactors increases in a cascade of CSTRs. This is because the distribution of residence times becomes narrower (i.e., more uniform) with more reactors, **not less**.
+
+### ✅ Final Answer: **C**",yes,technical_chemistry
+B,"The correct answer is: **(A) Include both axial and radial dispersion terms to the original plug flow system, and then solve the energy balance**
+
+### Explanation:
+
+In a **plug flow reactor (PFR)**, the assumption is that there is **no radial mixing** — all fluid elements move in the axial direction with the same velocity, and there is no dispersion in the radial direction. However, in **real reactors**, deviations from ideal plug flow can occur due to **whirlpools**, **turbulence**, or **non-uniform velocity profiles**, which result in **radial dispersion** (mixing in the radial direction).
+
+To properly model such a real reactor that behaves like a plug flow system but with deviations due to whirlpools or similar behaviors, we must:
+
+- Include **both axial and radial dispersion terms** in the governing equations (mass, energy, or momentum balance, depending on the context).
+- These dispersion terms account for the **non-ideal mixing** and **deviations from plug flow behavior**.
+- For **energy balance**, the radial dispersion term is important when modeling heat transfer in such systems.
+
+Therefore, **(A)** is the correct choice, as it includes both axial and radial dispersion terms and refers to solving the **energy balance**.
+
+### ✅ Final Answer: **A**",no,technical_chemistry
+D,"The correct answer is: **(D) Plastics and coatings**
+
+Acrylates are commonly used in the production of plastics, coatings, adhesives, and other polymer-based materials due to their versatility and chemical properties.
+
+**Answer: D**",yes,technical_chemistry
+D,"The correct answer is: **(D) Solid oxide electrolyzer cell**
+
+**Explanation:**
+
+In **solid oxide electrolyzer cells (SOECs)**, water is typically fed as **vapor** rather than liquid. This is because SOECs operate at **high temperatures** (typically 700–1000°C), and water in vapor form is more readily available and can be efficiently electrolyzed at these elevated temperatures.
+
+In contrast, **alkaline electrolyzers**, **anion exchange membrane (AEM)**, and **proton exchange membrane (PEM)** electrolyzers usually operate at **lower temperatures**, and water is typically fed as **liquid**.
+
+Thus, the correct answer is: **D**.",yes,technical_chemistry
+94.7,"To solve this, we need to compare the **amount of CO₂ produced from burning the octane isomers** in **E5** and **E10** fuels.
+
+---
+
+### Step 1: Understand the fuel composition
+
+- **E5 fuel** contains:
+  - 50 mL ethanol
+  - 950 mL octane isomers (assume it's **octane**, C₈H₁₈)
+
+- **E10 fuel** contains:
+  - 100 mL ethanol
+  - 900 mL octane isomers
+
+We are told that **1 L of E5 fuel produces 100% of CO₂** (i.e., we are using the CO₂ from E5 as the reference).
+
+We are to find **what percentage of CO₂ is produced from E10**, **only from the octane isomers**.
+
+---
+
+### Step 2: Find the amount of octane in each fuel
+
+Assume the density of ethanol and octane is approximately **1 g/mL** (for simplicity).
+
+- **E5 fuel**:
+  - Octane: 950 mL = 950 g
+  - Molar mass of octane (C₈H₁₈):  
+    $ 8(12.01) + 18(1.008) = 96.16 + 18.144 = 114.304 \, \text{g/mol} $
+
+  - Moles of octane:  
+    $ \frac{950}{114.304} \approx 8.31 \, \text{mol} $
+
+  - Balanced combustion equation for octane:
+    $$
+    \ce{C8H18 + 12.5 O2 -> 8 CO2 + 9 H2O}
+    $$
+
+  - Moles of CO₂ produced per mole of octane: **8 mol CO₂ / 1 mol C₈H₁₈**
+
+  - So, moles of CO₂ from E5:  
+    $ 8.31 \times 8 = 66.48 \, \text{mol} $
+
+- **E10 fuel**:
+  - Octane: 900 mL = 900 g
+  - Moles of octane:  
+    $ \frac{900}{114.304} \approx 7.87 \, \text{mol} $
+
+  - Moles of CO₂ from E10:  
+    $ 7.87 \times 8 = 62.96 \, \text{mol} $
+
+---
+
+### Step 3: Find the percentage of CO₂ from octane in E10
+
+We are told that **1 L of E5 produces 100% of CO₂**, which is **66.48 mol CO₂**.
+
+So, the **percentage of CO₂ from octane in E10** is:
+
+$$
+\frac{62.96}{66.48} \times 100 \approx 94.7\%
+$$
+
+---
+
+### ✅ Final Answer: **95%**
+
+**Answer: C** (if choices are A = 80%, B = 90%, C = 95%, D = 100%)  
+Or, if the question allows a numerical answer: **95**.",yes,technical_chemistry
+A,"The twelve principles of green chemistry emphasize sustainability, reduced waste, and safer chemical processes. Let's evaluate each option:
+
+- **(A) Employing high temperatures to accelerate reactions** – This is **not** a principle of green chemistry. In fact, high temperatures often require more energy and can lead to unwanted side reactions or byproducts, which is contrary to the goal of minimizing energy use and waste.
+
+- **(B) Maximizing atom economy** – This **is** a principle of green chemistry. Atom economy refers to the efficiency of a chemical process in terms of the percentage of reactants that become part of the final product.
+
+- **(C) Minimizing solvent use** – This **is** a principle of green chemistry. Using less solvent reduces waste and environmental impact.
+
+- **(D) Reducing the use of toxic reagents in synthesis** – This **is** a principle of green chemistry. Using less toxic reagents improves safety and reduces environmental harm.
+
+### ✅ Correct Answer: **A**",yes,technical_chemistry
+B,"The correct answer is: **(B)**
+
+**Explanation:**
+
+In an **adiabatic fixed-bed reactor**, there is **no heat exchange** with the surroundings. As the reaction proceeds, the **temperature increases** due to the exothermic nature of the reaction (assuming it is exothermic). This temperature rise can **increase the reaction rate**, which may lead to **higher conversion** near the end of the reactor.
+
+However, **reactant concentration** also decreases along the reactor due to consumption, which can **decrease the reaction rate**.
+
+Therefore, the **conversion** through the axial axis **depends on the specific process**—it could increase (due to temperature rise) or decrease (due to lower concentration), depending on which effect dominates.
+
+So, the correct answer is: **(B)**.",yes,technical_chemistry
+D,"The least suitable method for scaling up is:
+
+**(A) Crystallization**
+
+**Explanation:**
+
+- **(A) Crystallization** is highly dependent on precise control of temperature, supersaturation, and mixing, which can be difficult to maintain consistently at larger scales. It is also sensitive to impurities and can lead to inconsistent product quality when scaled up.
+
+- **(B) Distillation** is a well-established and scalable method, commonly used in large-scale chemical and pharmaceutical industries.
+
+- **(C) Liquid-liquid extraction** is also scalable and widely used in industrial processes, especially in the pharmaceutical and chemical industries.
+
+- **(D) Rotary evaporation** is a common and scalable technique used for the removal of solvents from heat-sensitive materials, especially in laboratories and small-scale production.
+
+**Answer:** **A**",no,technical_chemistry
+B,"The correct answer is: **(C) Examining the 1/(-r) vs. X (conversion) curve (where r is the rate of reaction)**
+
+### Explanation:
+To determine the **best arrangement of reactor units** (e.g., PFR vs. CSTR vs. combination), the key is to analyze how the **reaction rate** varies with **conversion**.
+
+- The **1/(-r) vs. X** curve is used to determine the **optimal reactor configuration** because it shows how much reactor volume is required to achieve a certain conversion. 
+- The area under the 1/(-r) vs. X curve represents the **reactor volume** needed for a given conversion.
+- Comparing the areas for different reactor configurations (e.g., CSTR, PFR, or a combination) allows you to determine which arrangement is most efficient for a given conversion.
+
+### Why not the others:
+- **(A)** Temperature profile is important for kinetics and heat effects, but not for reactor arrangement in general.
+- **(B)** 1/(-r) vs. concentration is useful for determining reactor volume in terms of concentration, but not directly for reactor arrangement.
+- **(D)** Trial and error is not a recommended method for determining the best arrangement—it is too inefficient and lacks systematic analysis.
+
+### Final Answer: **C**",no,technical_chemistry
+C,"The strongest enclosure for cylindrical vessels, in terms of stress distribution and structural efficiency, is:
+
+**(C) Hemispherical**
+
+Hemispherical heads are known for their ability to distribute pressure evenly across the surface, minimizing stress concentrations. This makes them highly efficient and strong for pressure vessels.
+
+**Answer: C**",yes,technical_chemistry
+D,"The correct answer is: **(D) In a plug flow reactor, the fluid moves in single flow through the reactor with no mixing and no overtaking**
+
+### Explanation:
+
+- **(A)** Incorrect. In a **batch reactor**, the composition **does** change with time, and it is **uniform** throughout the reactor at any given time, but it **does not remain the same throughout the reactor and at the exit** (since it changes over time).
+
+- **(B)** Incorrect. This describes a **plug flow reactor (PFR)**, not a batch reactor. In a batch reactor, there is **no flow**, only **batch processing**.
+
+- **(C)** Incorrect. In a **mixed flow reactor** (also called a **continuous stirred-tank reactor** or CSTR), the **composition is uniform everywhere within the reactor at any given time**, but it **does change with time** as reactants are consumed.
+
+- **(D)** Correct. This is the definition of a **plug flow reactor (PFR)**: the fluid moves **in a single flow** through the reactor, with **no mixing** of earlier and later entering fluid, and **no overtaking** (i.e., the fluid is well-mixed in the axial direction but not in the radial direction).
+
+### ✅ Final Answer: **D**",yes,technical_chemistry
+D,"The correct answer is: **(D) They exhibit fewer side effects**
+
+### Explanation:
+
+- **(A) Their synthesis is more cost-effective**  
+  This is **not necessarily** true. While simplification may reduce complexity, cost-effectiveness depends on many factors such as availability of starting materials, reaction conditions, and scale of production. Simplification does not always guarantee lower cost.
+
+- **(B) They are simpler to synthesize**  
+  This is **true**. Simplification reduces the number of steps, functional groups, or stereochemical complexity, which generally makes synthesis easier.
+
+- **(C) They can adopt multiple conformations**  
+  This is **not necessarily** true. Simplification may reduce conformational flexibility, especially if the molecule loses some functional groups or stereochemistry. However, some simplified molecules can still adopt multiple conformations, so it's not a guaranteed outcome.
+
+- **(D) They exhibit fewer side effects**  
+  This is **not necessarily** true. Side effects depend on the specific molecular interactions with biological targets and off-target effects. Simplification may reduce some side effects, but it's not guaranteed. In fact, some simplified analogues may have unintended interactions or lose selectivity, leading to new side effects.
+
+### Final Answer: **(D)**",yes,technical_chemistry
+D,"The correct answer is: **(D) The input of reactant A is equal to the output plus the disappearance by reaction, and the accumulation is zero**
+
+### Explanation:
+
+In a **steady-state mixed flow reactor** (also known as a **continuous stirred-tank reactor**, or CSTR), the **accumulation of material is zero**. This means that the **rate of input equals the rate of output plus the rate of consumption (disappearance) by reaction**.
+
+Mathematically, for a steady-state system:
+
+$$
+\text{Input} = \text{Output} + \text{Disappearance by reaction}
+$$
+
+And since the system is at steady-state, the **accumulation is zero**.
+
+### So, the correct statement is:
+
+**(D) The input of reactant A is equal to the output plus the disappearance by reaction, and the accumulation is zero**
+
+### ✅ Final Answer: **D**",yes,technical_chemistry
+A,"We are given a reactor setup with two branches:
+
+- **Branch D**: Two plug flow reactors in series with volumes of 60 L and 40 L (total volume = 100 L).
+- **Branch E**: A single plug flow reactor with a volume of 20 L.
+
+We are to determine the **fraction of the feed** that should be directed to **Branch D** so that the **conversion** in both branches is **identical**.
+
+---
+
+### Step 1: Understand the Setup
+
+Let’s assume the total feed rate is $ F_0 $, and the fraction of the feed directed to **Branch D** is $ x $. Then:
+
+- Feed to **Branch D**: $ xF_0 $
+- Feed to **Branch E**: $ (1 - x)F_0 $
+
+Since the reactors are **plug flow**, the **conversion** depends only on the **residence time** (or reactor volume) and the **reaction rate**.
+
+Assume the reaction rate is first-order and the rate constant is $ k $, so:
+
+$$
+\text{Conversion} = 1 - e^{-k \tau}
+$$
+
+Where $ \tau $ is the **residence time** (volume divided by flow rate).
+
+Let’s define the **residence time** for each branch:
+
+- **Branch D total volume** = 60 L + 40 L = 100 L  
+  So, $ \tau_D = \frac{100}{Q} $ (where $ Q $ is the flow rate)
+  
+- **Branch E volume** = 20 L  
+  So, $ \tau_E = \frac{20}{Q} $
+
+Now, we want the **conversion** in both branches to be the same:
+
+$$
+1 - e^{-k \tau_D} = 1 - e^{-k \tau_E}
+$$
+
+$$
+e^{-k \tau_D} = e^{-k \tau_E}
+$$
+
+$$
+\tau_D = \tau_E
+$$
+
+So the **residence time** in both branches must be equal.
+
+---
+
+### Step 2: Set the Residence Times Equal
+
+We now set the residence times equal:
+
+$$
+\frac{100}{Q} = \frac{20}{Q}
+$$
+
+Wait — this is not possible unless the flow rate is different.
+
+But we are told that the **feed is split** between the branches. So the **residence time** depends on the **flow rate** in each branch.
+
+Let’s denote:
+
+- Flow rate to **Branch D**: $ Q_D = xQ $
+- Flow rate to **Branch E**: $ Q_E = (1 - x)Q $
+
+Then:
+
+- $ \tau_D = \frac{100}{Q_D} = \frac{100}{xQ} $
+- $ \tau_E = \frac{20}{Q_E} = \frac{20}{(1 - x)Q} $
+
+Set $ \tau_D = \tau_E $:
+
+$$
+\frac{100}{xQ} = \frac{20}{(1 - x)Q}
+$$
+
+Cancel $ Q $:
+
+$$
+\frac{100}{x} = \frac{20}{1 - x}
+$$
+
+Cross-multiply:
+
+$$
+100(1 - x) = 20x
+$$
+
+$$
+100 - 100x = 20x
+$$
+
+$$
+100 = 120x
+$$
+
+$$
+x = \frac{100}{120} = \frac{5}{6}
+$$
+
+---
+
+### ✅ Final Answer:
+
+**(A) Five-sixths**
+
+$$
+\boxed{A}
+$$",yes,technical_chemistry
+B,"The number of bubble caps to be used per tray in a distillation column is primarily determined by the **vapor load**. This is because the vapor load dictates the required capacity of the tray to handle the vapor flow, and the number of bubble caps is chosen to ensure that the vapor can pass through the liquid layer efficiently without causing excessive pressure drop or flooding.
+
+**Answer: D**",No.,technical_chemistry
+D,"The correct answer is: **(B) Bubble column reactor to have a bigger interface area**
+
+### Explanation:
+
+In a **gas-liquid reaction** where the **chemical reaction is much faster than the diffusion of the gas through the liquid**, the **rate-limiting step** is **mass transfer** (diffusion of the gas into the liquid phase). Therefore, the reactor design should **maximize the gas-liquid contact area** to enhance mass transfer.
+
+- **Bubble column reactors** are designed to **increase the gas-liquid interface area** by generating a large number of small bubbles. This increases the surface area for gas-liquid contact, which is crucial when diffusion is the limiting factor.
+  
+- **Spray towers** also increase the interface area, but they are typically used when the liquid is dispersed into droplets, which is more suitable for certain types of reactions or when the liquid is more viscous.
+
+### Why not the others?
+
+- **(A) and (C)** refer to increasing the **volume of the liquid**, which is not the main concern when the reaction is limited by diffusion.
+- **(D)** is incorrect because **spray towers** do not inherently provide a **bigger interface area** compared to **bubble column reactors** in this context.
+
+### Final Answer:
+**(B)**",no,technical_chemistry
+C,"The correct answer is: **(B) High reactant concentration favors the reaction of higher order, while low concentration favors the reaction of lower order**
+
+### Explanation:
+
+In **parallel (or competing) reactions**, the product distribution depends on the **rate constants** and the **orders** of the reactions. Consider two parallel reactions:
+
+$$
+\text{A} \rightarrow \text{B} \quad (\text{Rate} = k_1 [\text{A}]^n)
+$$
+$$
+\text{A} \rightarrow \text{C} \quad (\text{Rate} = k_2 [\text{A}]^m)
+$$
+
+Where:
+- $ k_1 $ and $ k_2 $ are rate constants,
+- $ n $ and $ m $ are the reaction orders (e.g., 1st order, 2nd order, etc.),
+- $ [\text{A}] $ is the concentration of the reactant.
+
+The **selectivity** (product distribution) is determined by the **relative rates** of the two reactions:
+
+$$
+\frac{[\text{B}]}{[\text{C}]} = \frac{k_1 [\text{A}]^n}{k_2 [\text{A}]^m}
+$$
+
+Now, let’s analyze the effect of **concentration**:
+
+- **At high concentration** of A: The term $ [\text{A}]^n $ or $ [\text{A}]^m $ dominates depending on the order.
+  - If $ n > m $, then $ [\text{A}]^n $ increases more rapidly with concentration, so the **higher-order reaction** becomes more favorable.
+- **At low concentration** of A: The term with the **lower order** (e.g., $ [\text{A}]^1 $ vs. $ [\text{A}]^2 $) becomes more significant, so the **lower-order reaction** dominates.
+
+### Conclusion:
+- **High concentration favors the higher-order reaction.**
+- **Low concentration favors the lower-order reaction.**
+
+✅ **Correct Answer: (B)**",no,technical_chemistry
+D,"To determine where the **rate of reaction is at its maximum** in an **adiabatic plug flow reactor** for an **endothermic, first-order, irreversible aqueous phase reaction**, we need to consider how the reaction rate depends on temperature and concentration.
+
+---
+
+### Key Concepts:
+
+1. **First-order reaction**:  
+   The rate of reaction is proportional to the concentration of the reactant:  
+   $$
+   r = k C_A
+   $$  
+   where $ k $ is the rate constant and $ C_A $ is the concentration of the reactant.
+
+2. **Endothermic reaction**:  
+   The rate constant $ k $ increases with temperature. So, as the temperature increases, the rate of reaction increases.
+
+3. **Adiabatic reactor**:  
+   There is no heat exchange with the surroundings. The temperature increases along the reactor due to the exothermic nature of the rate constant increase (even though the reaction itself is endothermic). However, **since the reaction is endothermic**, the system will tend to **cool down** if the reaction rate is too slow. But in a plug flow reactor, the temperature profile is usually **monotonically increasing** due to the **endothermic nature** of the reaction and the **rate constant dependence on temperature**.
+
+---
+
+### Temperature and Rate Profile:
+
+- The **rate constant $ k $** increases with temperature.
+- The **concentration $ C_A $** decreases with distance along the reactor due to reaction.
+- So, the **reaction rate $ r = k C_A $** is the product of a **decreasing concentration** and an **increasing rate constant**.
+
+This means the **rate of reaction** will **increase at first**, reach a **maximum**, and then **decrease** due to the dominance of the concentration decrease.
+
+---
+
+### Conclusion:
+
+The **rate of reaction goes through a maximum** along the length of the reactor, not at the inlet, exit, or center.
+
+---
+
+### ✅ Correct Answer:
+
+**A**. it goes through a maximum along the length of the reactor
+
+---
+
+**Answer:** **A**",No.,technical_chemistry
+A,"We are given four reactor configurations and asked to compare their **exit conversions** for a **first-order liquid-phase reaction**:
+
+$$
+\ce{A -> P}
+$$
+
+This is an **isothermal** reaction, and the **conversion** depends on the reactor type and volume. Let's analyze the configurations one by one.
+
+---
+
+### **Key Concepts:**
+
+For a **first-order reaction**:
+
+$$
+-r_A = kC_A
+$$
+
+- **CSTR** (Continuous Stirred Tank Reactor):
+  $$
+  X = 1 - \frac{1}{1 + kV/C_{A0}}
+  $$
+
+- **PFR** (Plug Flow Reactor):
+  $$
+  X = 1 - \exp(-kV/C_{A0})
+  $$
+
+Where:
+- $ X $ = conversion
+- $ k $ = rate constant
+- $ V $ = reactor volume
+- $ C_{A0} $ = initial concentration of A
+
+Since the **inlet conditions and temperature are the same**, and the reaction is **first-order**, the **conversion depends only on the total reactor volume** and the **reactor configuration**.
+
+---
+
+### **Configuration Analysis:**
+
+Let’s denote the total volume for each configuration.
+
+#### **(P)** 2 m³ CSTR followed by 2 m³ PFR  
+Total volume = 4 m³  
+This is a **CSTR-PFR** combination. The PFR has a higher conversion per unit volume than a CSTR for the same volume.
+
+#### **(Q)** 4 m³ CSTR  
+Total volume = 4 m³  
+This is a single CSTR with 4 m³.
+
+#### **(R)** 1 m³ PFR followed by 1 m³ CSTR  
+Total volume = 2 m³  
+This is a **PFR-CSTR** combination. The PFR is more efficient than a CSTR for the same volume.
+
+#### **(S)** 1 m³ CSTR followed by 1 m³ CSTR  
+Total volume = 2 m³  
+Two CSTRs in series.
+
+---
+
+### **Comparison of Conversion (X)**:
+
+We now compare the **exit conversions** for each configuration, assuming the **same total volume**.
+
+- For a **first-order reaction**, **PFR > CSTR** in terms of conversion for the same volume.
+- **PFR-CSTR** > **CSTR-CSTR** > **CSTR** (for the same total volume).
+- **CSTR-PFR** > **CSTR-CSTR** > **CSTR** (for the same total volume).
+
+So:
+
+- **(P)**: CSTR (2 m³) + PFR (2 m³) → **high conversion**
+- **(R)**: PFR (1 m³) + CSTR (1 m³) → **moderate conversion**
+- **(S)**: CSTR (1 m³) + CSTR (1 m³) → **lower conversion**
+- **(Q)**: CSTR (4 m³) → **lower conversion than (P), (R), and (S)**
+
+So the order is:
+
+$$
+X_P > X_R > X_S > X_Q
+$$
+
+---
+
+### ✅ **Correct Answer: (C) $ X_P > X_R > X_S > X_Q $**
+
+**Answer: (C)**",no,technical_chemistry
+1.24,"To determine the **air flow rate** (in L/min), we need to use the **laminar flame speed** and the **air-to-fuel equivalence ratio** ($\lambda$) to estimate the **fuel flow rate**, and then use the stoichiometry of methane combustion to find the **air flow rate**.
+
+---
+
+### Given:
+
+- **Laminar flame speed** $ S_L = 0.38 \, \text{m/s} $
+- **Flame height** $ h = 2.5 \, \text{mm} = 0.0025 \, \text{m} $
+- **Burner tube diameter** $ d = 8 \, \text{mm} = 0.008 \, \text{m} $
+- **Air-to-fuel ratio** $ \lambda = 1.2 $
+- **Conditions**: $ T = 25^\circ \text{C} = 298.15 \, \text{K} $, $ P = 101.325 \, \text{kPa} $
+
+---
+
+### Step 1: Estimate fuel flow rate using laminar flame speed
+
+The laminar flame speed $ S_L $ is the speed at which the flame propagates through the fuel-air mixture. The **flame height** $ h $ is related to the **fuel flow rate** $ \dot{m}_f $ by the formula:
+
+$$
+\dot{m}_f = \rho_f \cdot A \cdot S_L
+$$
+
+Where:
+- $ \rho_f $ = density of fuel (methane)
+- $ A $ = cross-sectional area of the burner tube
+- $ S_L $ = laminar flame speed
+
+#### Cross-sectional area:
+
+$$
+A = \frac{\pi d^2}{4} = \frac{\pi (0.008)^2}{4} = \frac{3.1416 \cdot 0.000064}{4} = 0.000050265 \, \text{m}^2
+$$
+
+#### Density of methane:
+
+At standard temperature and pressure (STP), the density of methane is:
+
+$$
+\rho_f = \frac{M}{V_m} = \frac{16.04 \, \text{g/mol}}{22.4 \, \text{L/mol}} = 0.716 \, \text{kg/m}^3
+$$
+
+Now calculate the fuel flow rate:
+
+$$
+\dot{m}_f = 0.716 \cdot 0.000050265 \cdot 0.38 = 0.0000137 \, \text{kg/s}
+$$
+
+---
+
+### Step 2: Use air-to-fuel ratio to find air flow rate
+
+$$
+\lambda = \frac{\text{Actual air-to-fuel ratio}}{\text{Stoichiometric air-to-fuel ratio}}
+$$
+
+The **stoichiometric air-to-fuel ratio** for methane is:
+
+$$
+\text{Stoichiometric A/F} = \frac{18.4}{1} = 18.4 \, \text{kg air/kg fuel}
+$$
+
+So,
+
+$$
+\lambda = 1.2 \Rightarrow \text{Actual A/F} = 1.2 \cdot 18.4 = 22.08 \, \text{kg air/kg fuel}
+$$
+
+Now compute the air flow rate:
+
+$$
+\dot{m}_a = \dot{m}_f \cdot \lambda = 0.0000137 \cdot 22.08 = 0.0003026 \, \text{kg/s}
+$$
+
+Convert to **L/min**:
+
+- 1 kg of air ≈ 1000 L at STP
+- So, $ 0.0003026 \, \text{kg/s} = 0.0003026 \cdot 1000 \cdot 60 = 18.156 \, \text{L/min} $
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{18.16 \, \text{L/min}}
+$$
+
+So the answer is:
+
+$$
+\boxed{18.16}
+$$",no,technical_chemistry
+A,"The solvent considered inappropriate for large-scale use is:
+
+**(A) Diethyl ether**
+
+Diethyl ether is highly volatile and flammable, making it unsuitable for large-scale operations due to safety concerns.
+
+**Answer: A**",yes,technical_chemistry
+A,"The correct answer is: **(B) graphite**
+
+**Explanation:**
+
+- **(A) Copper** – Not typically used as a coolant in nuclear reactors. It has good thermal conductivity but is not commonly used due to its reactivity with water and neutron absorption properties.
+- **(B) Graphite** – **Not a coolant**, but rather a **moderator** in some types of reactors (e.g., graphite-moderated reactors like the Magnox or RBMK designs).
+- **(C) Heavy water (D₂O)** – Used as a coolant and moderator in pressurized heavy water reactors (PHWRs).
+- **(D) Liquid sodium** – Used as a coolant in fast breeder reactors and some sodium-cooled reactors (e.g., EBR-I, Fast Breeder Reactor).
+
+✅ **Correct answer: (B)**",yes,technical_chemistry
+B,"The correct answer is: **(B) As oxidizing agents**
+
+Nitrate compounds are commonly used as **oxidizing agents** in industrial processes, such as in the production of fertilizers, explosives, and in various chemical reactions where oxidation is required.
+
+The answer is: **B**",yes,technical_chemistry
+D,"The correct answer is: **(B) Large catalyst particles**
+
+### Explanation:
+
+A **moving bed reactor** is a type of reactor where the catalyst is moved through the reactor as the reactants pass through it. It is often used in gas-solid catalytic reactions.
+
+Let's analyze each option:
+
+- **(A) High mechanical complexity** – This **is** a disadvantage of moving bed reactors. The moving parts and complex design increase the mechanical complexity and maintenance requirements.
+
+- **(B) Large catalyst particles** – This is **not** a disadvantage. In fact, moving bed reactors often use **small catalyst particles** to ensure good contact and efficient mass transfer. Large catalyst particles are not a typical issue in moving bed systems.
+
+- **(C) Slow cycling** – This **is** a disadvantage. Moving bed reactors may have slower cycling compared to fixed bed reactors due to the need to move the catalyst and manage the bed.
+
+- **(D) Transient contact time** – This **is** a disadvantage. In a moving bed reactor, the contact time between reactants and catalyst can vary depending on the position in the bed, leading to transient contact time effects.
+
+### ✅ Final Answer: **B**",yes,technical_chemistry
+C,"The correct answer is: **(C) To permit release of entrained vapour in the liquid**
+
+This is a common feature in distillation columns and similar equipment. The calming section allows the liquid to settle, enabling any entrained vapour to be released before the liquid flows into the downcomer. This helps maintain the efficiency and stability of the column operation.
+
+**Answer: C**",yes,technical_chemistry
+D,"We are given an **irreversible gas-phase reaction**:
+
+$$
+\ce{A -> 5B}
+$$
+
+This reaction is conducted in an **isothermal batch reactor at constant pressure**. The feed contains **no B**, and we are to find the **minimum mole percent of inert** in the feed required so that the **final volume of gas** does not exceed **three times the initial volume**.
+
+---
+
+### Step 1: Understand the reaction and stoichiometry
+
+- **1 mole of A** produces **5 moles of B**
+- Therefore, for every mole of A consumed, **4 moles of gas are added** (since 1 mole of A is consumed and 5 moles of B are produced, net +4 moles of gas)
+
+Let’s define:
+
+- Let $ n_A $ = moles of A in the feed
+- Let $ n_{\text{inert}} $ = moles of inert in the feed
+- Let $ n_B = 0 $ (initially, no B is present)
+- Let $ x $ = moles of A reacted (so $ n_A - x $ remains unreacted)
+
+---
+
+### Step 2: Final moles of gas
+
+- Moles of A remaining: $ n_A - x $
+- Moles of B produced: $ 5x $
+- Moles of inert: $ n_{\text{inert}} $
+
+So total moles at the end:
+
+$$
+n_{\text{final}} = (n_A - x) + 5x + n_{\text{inert}} = n_A + 4x + n_{\text{inert}}
+$$
+
+Initial moles of gas:
+
+$$
+n_{\text{initial}} = n_A + n_{\text{inert}}
+$$
+
+---
+
+### Step 3: Volume constraint
+
+The volume is proportional to the number of moles (since pressure and temperature are constant), so:
+
+$$
+\frac{n_{\text{final}}}{n_{\text{initial}}} \leq 3
+$$
+
+Substitute expressions:
+
+$$
+\frac{n_A + 4x + n_{\text{inert}}}{n_A + n_{\text{inert}}} \leq 3
+$$
+
+Let’s define the **mole fraction of inert** in the feed as:
+
+$$
+f = \frac{n_{\text{inert}}}{n_A + n_{\text{inert}}}
+$$
+
+Let’s define the **total initial moles** as:
+
+$$
+n_{\text{initial}} = n_A + n_{\text{inert}} = 1 \text{ (normalize)}
+$$
+
+So:
+
+$$
+n_A = 1 - n_{\text{inert}} = 1 - (1 - f) = f
+$$
+
+Wait — better to define:
+
+Let’s define $ n_A = 1 $, $ n_{\text{inert}} = i $, so total initial moles = $ 1 + i $
+
+Then final moles = $ (1 - x) + 5x + i = 1 + 4x + i $
+
+So:
+
+$$
+\frac{1 + 4x + i}{1 + i} \leq 3
+$$
+
+Multiply both sides:
+
+$$
+1 + 4x + i \leq 3(1 + i)
+$$
+
+$$
+1 + 4x + i \leq 3 + 3i
+$$
+
+$$
+4x \leq 2 + 2i
+$$
+
+$$
+x \leq \frac{2 + 2i}{4} = \frac{1 + i}{2}
+$$
+
+---
+
+### Step 4: Maximize $ x $
+
+To find the **minimum** amount of inert required, we need to **maximize** the amount of A that can be consumed (i.e., maximize $ x $) without violating the volume constraint.
+
+So, we want the **maximum** $ x $ such that:
+
+$$
+x = \frac{1 + i}{2}
+$$
+
+But $ x $ cannot exceed the initial amount of A, which is 1.
+
+So:
+
+$$
+\frac{1 + i}{2} \leq 1 \Rightarrow 1 + i \leq 2 \Rightarrow i \leq 1
+$$
+
+So the **maximum** value of $ i $ is 1 (i.e., 100% inert), but that’s not helpful. We want the **minimum** $ i $ such that the constraint is satisfied.
+
+Let’s consider the **worst case** — when $ x = 1 $ (i.e., all A is consumed).
+
+Then:
+
+$$
+x = 1 \Rightarrow 1 = \frac{1 + i}{2} \Rightarrow 1 +",No.,technical_chemistry
+A,"The correct answer is: **(C) viscous liquors**
+
+**Explanation:**  
+Long tube vertical evaporators are particularly well-suited for handling **viscous liquors** because they allow for better heat transfer and reduce the risk of fouling or scaling, which is common with viscous materials. They also provide a longer residence time for the liquid, which is beneficial for viscous substances that require more time to evaporate.
+
+**Answer: C**",no,technical_chemistry
+D,"To determine the correct answer, let's analyze each statement in the context of **plug flow reactors (PFRs) in series**.
+
+---
+
+### **Key Concepts:**
+
+- A **plug flow reactor (PFR)** is a type of continuous reactor where the fluid flows in a plug-like manner — no backmixing.
+- When **N PFRs are connected in series**, the conversion increases progressively with each reactor.
+- The **conversion increases with the reactor volume** in a PFR.
+- For a given volume, **a single PFR** gives the **maximum possible conversion** compared to multiple PFRs in series (for the same total volume).
+
+---
+
+### **Statement Analysis:**
+
+**(A) The fractional conversion of component A leaving the first reactor is always greater than the fractional conversion leaving the last reactor**  
+❌ **False**  
+- The conversion increases as we go from the first reactor to the last. So the **last reactor** gives the **highest** conversion, not the first.
+
+**(B) The fractional conversion of component A leaving the last reactor in series is always less than the fractional conversion leaving the first reactor**  
+❌ **False**  
+- As explained above, the **last reactor** gives the **highest** conversion. So this is the opposite of the truth.
+
+**(C) The total volume V of N plug flow reactors in series gives a different conversion than a single plug flow reactor of volume V**  
+✅ **True**  
+- This is a well-known result in chemical reaction engineering.
+- A **single PFR** gives **higher conversion** than **N PFRs in series** for the same total volume.
+- So, the conversion is **different**.
+
+**(D) The total volume V of N plug flow reactors in series gives the same conversion as a single plug flow reactor of volume V**  
+❌ **False**  
+- As explained in (C), this is **not** true. A single PFR gives **more conversion**.
+
+---
+
+### ✅ **Correct Answer: (C)**
+
+**Answer: C**",no,technical_chemistry
+B,"The correct answer is: **(B) Low-pressure drop for high gas flows**
+
+Structured ceramic monolithic catalysts are designed to provide a high surface area while minimizing flow resistance. This results in a **low-pressure drop**, which is advantageous for high gas flow applications.
+
+**Answer: B**",yes,technical_chemistry
+D,"The correct answer is: **(D) To make epoxy resins**
+
+Epoxides are widely used industrially in the production of **epoxy resins**, which are used in adhesives, coatings, composites, and electronics due to their strong bonding properties and durability.
+
+**Answer: D**",yes,technical_chemistry
+C,"The **Hatta number (Ha)** is a dimensionless number used in chemical reaction engineering to characterize the relative importance of chemical reaction and mass transfer in a gas-liquid system. It is defined as:
+
+$$
+\text{Ha} = \frac{k}{D^{1/2} \sqrt{C^*}}
+$$
+
+Where:
+- $ k $ is the reaction rate constant,
+- $ D $ is the diffusion coefficient,
+- $ C^* $ is the equilibrium concentration.
+
+The **enhancement factor (E)** in a gas-liquid reactor is defined as the ratio of the actual rate of reaction to the rate that would occur if the reaction were only taking place in the liquid phase (without mass transfer limitations). When $ E = 1 $, it means that **mass transfer is not limiting** the reaction rate — the reaction is not enhanced by mass transfer, and the rate is fully determined by the chemical reaction in the liquid phase.
+
+This implies that:
+- The **Hatta number is low**, because a low Hatta number means that mass transfer is more significant compared to chemical reaction (i.e., the reaction is more limited by mass transfer). However, in this case, the enhancement factor is 1, which suggests that the reaction is **not** limited by mass transfer, so the Hatta number should actually be **high** — this is a bit counterintuitive. Let's clarify:
+
+- A **high Hatta number** indicates that **chemical reaction is much faster than mass transfer**, so the reaction is **not limited by mass transfer** (which is what we have when $ E = 1 $).
+- A **low Hatta number** indicates that **mass transfer is more significant** than chemical reaction, so the reaction is **limited by mass transfer** (and $ E < 1 $).
+
+So, if $ E = 1 $, the reaction is **not limited by mass transfer**, which implies a **high Hatta number**.
+
+But the question is phrased in a way that may be confusing. Let’s now consider the **location of the reaction**:
+
+- If **Hatta number is high**, the reaction is **not limited by mass transfer**, so the reaction occurs **mainly in the liquid phase**.
+- If **Hatta number is low**, the reaction is **limited by mass transfer**, so the reaction occurs **mainly at the interface**.
+
+So, with $ E = 1 $, the reaction is **not limited by mass transfer**, which means the **Hatta number is high**, and the **reaction takes place in the liquid volume**.
+
+### Correct answer: **(A)**
+
+**Answer: A**",No.,technical_chemistry
+A,"The correct answer is: **(A) Fixed bed reactor**
+
+### Explanation:
+For **good heat transmission**, a **fluidized bed reactor** (B) is generally more convenient than a fixed bed reactor (A), because in a fluidized bed, the solid particles are suspended in a fluid (usually gas), allowing for better mixing and heat transfer. This makes it more suitable for exothermic or endothermic reactions where heat management is critical.
+
+However, the question asks for the **less convenient** reactor for good heat transmission.
+
+- **Fixed bed reactor (A)**: The solid catalyst is packed in a fixed bed, and the fluid flows through it. This setup can lead to poor heat transfer due to the stagnant zones and limited mixing, making it **less convenient** for good heat transmission compared to fluidized bed reactors.
+
+Thus, the **less convenient** reactor for good heat transmission is:
+
+**(A) Fixed bed reactor** ✅",yes,technical_chemistry
+C,"The correct answer is: **(D) Operate at higher reaction temperatures**
+
+### Explanation:
+
+**Catalyst deactivation due to poisoning** occurs when impurities or reactive species in the feed (e.g., sulfur, heavy metals, etc.) chemically bind to the active sites of the catalyst, reducing its activity.
+
+Let’s evaluate the options:
+
+- **(A) All of them are good options to solve catalyst deactivation**  
+  → **Incorrect**. Not all of the listed options are effective solutions to catalyst poisoning.
+
+- **(B) Improve feedback conditioning**  
+  → This refers to better control of process variables (e.g., temperature, pressure, flow rate), which can help in managing the reaction environment and potentially reduce the impact of poisoning. It is a reasonable approach.
+
+- **(C) Limit the transition-state shape selectivity**  
+  → This refers to controlling the reaction pathway to favor the desired reaction, which can help in reducing side reactions and the formation of poisons. It can be a valid approach.
+
+- **(D) Operate at higher reaction temperatures**  
+  → **Incorrect**. Operating at higher temperatures can **accelerate deactivation** by increasing the rate of poisoning reactions or by causing thermal degradation of the catalyst. This **does not solve** catalyst deactivation due to poisoning.
+
+- **(E) Use egg-shell catalyst particles**  
+  → Egg-shell catalysts have a thin layer of active material on a non-active support. This design can **reduce the exposure of active sites** to poisons, thus **helping to mitigate deactivation**.
+
+### Final Answer: **(D)**",yes,technical_chemistry
+B,"The most suitable gas-liquid contacting device for highly corrosive fluids is:
+
+**(B) A packed tower**
+
+Packed towers are preferred in corrosive environments because they can be constructed with corrosion-resistant materials such as stainless steel, glass-reinforced plastic (GRP), or other suitable materials. They also allow for efficient contact between gas and liquid phases without the need for mechanical components like trays or caps, which can be prone to corrosion.
+
+**Answer: B**",yes,technical_chemistry
+C,"The question asks which reagent is **deemed appropriate for use on a large scale**. This typically refers to **safety, cost-effectiveness, and scalability** in industrial or large-scale chemical processes.
+
+Let's analyze each option:
+
+**(A) Palladium chloride**  
+- Used in catalytic reactions (e.g., hydrogenation, cross-coupling reactions).  
+- **Not typically used on a large scale** due to high cost and potential toxicity.  
+- **Not the best choice** for large-scale use.
+
+**(B) Pyridinium chlorochromate (PCC)**  
+- A common oxidizing agent used in organic synthesis (e.g., oxidation of primary alcohols to aldehydes).  
+- **Used in small-scale laboratory settings** due to its reactivity and handling requirements.  
+- **Not suitable for large-scale** due to safety and cost concerns.
+
+**(C) Sodium dithionite**  
+- A reducing agent used in various organic and inorganic reactions.  
+- **Relatively inexpensive and safe to handle**, making it **suitable for large-scale applications**.  
+- **Cost-effective and safe**, it is often used in industrial processes.
+
+**(D) Tin chloride**  
+- A reducing agent used in organic synthesis (e.g., reduction of ketones to alcohols).  
+- **Used in both small and large-scale applications**, but it is **less preferred** than sodium dithionite due to its **higher cost and potential for side reactions**.
+
+### Conclusion:
+**Sodium dithionite (C)** is the most appropriate reagent for **large-scale use** due to its **cost-effectiveness, safety, and scalability**.
+
+**Answer: C**",yes,technical_chemistry
+B,"The correct answer is: **B**
+
+### Explanation:
+
+In an **ideal batch reactor**, there is **no inflow or outflow** of material. This means:
+
+- **Input = 0**
+- **Output = 0**
+
+The general material balance equation for component A is:
+
+$$
+\text{Input} = \text{Output} + \text{Disappearance} + \text{Accumulation}
+$$
+
+Substituting the known values for a batch reactor:
+
+$$
+0 = 0 + \text{Disappearance} + \text{Accumulation}
+$$
+
+So:
+
+$$
+\text{Disappearance} = -\text{Accumulation}
+$$
+
+This means the **rate of disappearance of A due to chemical reaction is equal to the negative rate of accumulation** of A within the reactor.
+
+### Now, evaluating the options:
+
+- **(A)** *The rate of accumulation of A within the reactor is zero because the reactor is ideal*  
+  ❌ **Incorrect**. The accumulation is not zero; it is equal in magnitude but opposite in sign to the rate of disappearance.
+
+- **(B)** *The rate of disappearance of A due to chemical reaction is equal to the negative rate of accumulation of A within the reactor*  
+  ✅ **Correct**. This matches the material balance equation.
+
+- **(C)** *The rate of disappearance of A due to chemical reaction is equal to the rate of accumulation of A within the reactor*  
+  ❌ **Incorrect**. This would imply accumulation = disappearance, which is not true.
+
+- **(D)** *The rate of disappearance of A due to chemical reaction is zero because no fluid enters or leaves the reactor*  
+  ❌ **Incorrect**. The rate of disappearance is not zero; it depends on the reaction occurring in the reactor.
+
+### ✅ Final Answer: **B**",yes,technical_chemistry
+A,"The **weakest enclosure for cylindrical vessels** refers to the shape that provides the **least stress resistance** or **least structural strength** when used as a head (closure) on a cylindrical pressure vessel.
+
+Among the options:
+
+- **(A) Conical or flat plate** – A **flat plate** is the **weakest** because it has no curvature to distribute stress evenly and is prone to buckling under pressure. A **conical** shape is slightly stronger than a flat plate but still weaker than other curved shapes.
+- **(B) Elliptical** – Provides good stress distribution and is stronger than flat or conical.
+- **(C) Hemispherical** – Provides the **strongest** stress distribution and is the most efficient shape for pressure vessels.
+- **(D) Torispherical** – A combination of a spherical and conical shape; it is strong and commonly used in industrial applications.
+
+### ✅ Correct Answer: **(A) Conical or flat plate**
+
+**Answer: A**",yes,technical_chemistry
+B,"The most environmentally sustainable electrolyzer cell depends on several factors, including energy efficiency, use of materials, and the source of electricity. However, among the options given:
+
+- **(A) Alkaline electrolyzer cell** – Uses potassium hydroxide (KOH) as the electrolyte. It is relatively mature and has good efficiency, but it can be less efficient than others and may require more maintenance.
+- **(B) Anion exchange electrolyzer cell** – Uses an anion exchange membrane (AEM). It has the potential for high efficiency and uses less corrosive materials than alkaline, but it is still in early development.
+- **(C) Proton exchange electrolyzer cell (PEM)** – Uses a proton exchange membrane (PEM). It has high efficiency and fast response, but requires expensive platinum-based catalysts and operates at high pressure.
+- **(D) Solid oxide electrolyzer cell (SOEC)** – Uses a solid oxide electrolyte and operates at high temperatures. It has high efficiency and can use renewable heat, but requires high operating temperatures and has durability issues.
+
+### Environmental Sustainability Consideration:
+- **Energy efficiency** and **use of renewable energy** are key to sustainability.
+- **SOEC** (D) is generally considered the most environmentally sustainable **when powered by renewable energy**, due to its high efficiency and ability to use thermal energy from renewable sources (e.g., concentrated solar power).
+
+### Answer:
+**D**",no,technical_chemistry
+D,"The correct answer is: **(D) The reaction will stop**
+
+In an autothermal reaction, the heat generated by the reaction is used to sustain the reaction itself. If the heat generated is insufficient to maintain the required temperature for the reaction to proceed, the reaction will slow down and eventually stop. This is because the reaction depends on maintaining a certain temperature to proceed at a measurable rate. Without sufficient heat, the reaction cannot sustain itself.
+
+**Answer: D**",yes,technical_chemistry

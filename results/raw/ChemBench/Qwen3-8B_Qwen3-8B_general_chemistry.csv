@@ -1,0 +1,5221 @@
+Truth,Model,Critic
+B,"To determine which element has the **lowest electronegativity**, we need to recall the periodic trends in electronegativity:
+
+- Electronegativity **decreases as you move down a group** in the periodic table.
+- Electronegativity **increases as you move across a period** from left to right.
+
+Let's examine the given elements:
+
+- **Cs (Cesium)**: Group 1, Period 6  
+- **Fr (Francium)**: Group 1, Period 7  
+- **H (Hydrogen)**: Group 1, Period 1  
+- **Li (Lithium)**: Group 1, Period 2  
+
+Among these, **Fr (Francium)** is the **most metallic** and the **lowest in electronegativity** because it is the **lowest in the group** (Group 1), and electronegativity decreases down a group.
+
+### ✅ Correct Answer: **B**",yes
+E,"The correct answer is: **(E) sublimation**
+
+**Explanation:**
+
+- **Sodium chloride (NaCl)** is a salt that **does not sublime** and is soluble in water.
+- **Iodine (I₂)** is a solid that **sublimes** (changes directly from solid to gas when heated).
+
+So, by **heating the mixture**, the iodine will sublime and can be collected as a gas, while the sodium chloride remains as a solid residue. This makes **sublimation** the suitable method for separating the two.
+
+**Answer: E**",yes
+C,"To determine which compound is **predominantly non-polar covalent**, we need to consider the type of bonding and the molecular geometry.
+
+Let's analyze each option:
+
+---
+
+**(A) AlCl₃**  
+- **Type of bonding**: Covalent  
+- **Molecular geometry**: Trigonal planar  
+- **Polarity**: Although Al–Cl bonds are polar, the molecule is **symmetrical** and the dipole moments cancel out.  
+- **Conclusion**: **Non-polar covalent**
+
+---
+
+**(B) BF₃**  
+- **Type of bonding**: Covalent  
+- **Molecular geometry**: Trigonal planar  
+- **Polarity**: The molecule is **symmetrical**, and the dipole moments cancel out.  
+- **Conclusion**: **Non-polar covalent**
+
+---
+
+**(C) CH₄**  
+- **Type of bonding**: Covalent  
+- **Molecular geometry**: Tetrahedral  
+- **Polarity**: The molecule is **symmetrical**, and the dipole moments cancel out.  
+- **Conclusion**: **Non-polar covalent**
+
+---
+
+**(D) NaHg**  
+- **Type of bonding**: Metallic (Na is a metal, Hg is a metal)  
+- **Conclusion**: **Not covalent** at all. Not the correct answer.
+
+---
+
+**(E) S₈**  
+- **Type of bonding**: Covalent  
+- **Molecular geometry**: Ring structure (8 sulfur atoms in a ring)  
+- **Polarity**: The molecule is **non-polar** due to its symmetrical structure.  
+- **Conclusion**: **Non-polar covalent**
+
+---
+
+### Final Analysis:
+
+All of **A, B, C, and E** are **non-polar covalent**.  
+However, the question asks for **""the compound""** (singular), so we are to choose **one**.
+
+Among these, **CH₄ (C)** is a **classic example** of a **non-polar covalent compound** due to its **symmetrical tetrahedral geometry** and **equal electronegativity** of C and H.
+
+---
+
+### ✅ Correct Answer: **C**",yes
+A,"To determine which species has an **sp²-hybridized atom**, we need to examine the **central atom** in each molecule and determine its **hybridization** based on the **number of bonding regions (bond pairs + lone pairs)** around it.
+
+---
+
+### (A) **BH₃**  
+- B has 3 valence electrons.  
+- It forms **3 bonds** with H atoms.  
+- No lone pairs on B.  
+- Total electron regions = 3 (all bond pairs)  
+- Hybridization = **sp²** (trigonal planar geometry)
+
+✅ **This is an sp² hybridized atom (B)**
+
+---
+
+### (B) **BeH₂**  
+- Be has 2 valence electrons.  
+- It forms **2 bonds** with H atoms.  
+- No lone pairs on Be.  
+- Total electron regions = 2 (all bond pairs)  
+- Hybridization = **sp** (linear geometry)
+
+❌ Not sp²
+
+---
+
+### (C) **H₃O⁺**  
+- Central atom: O  
+- O has 6 valence electrons.  
+- It forms **3 bonds** with H atoms and has **1 lone pair**.  
+- Total electron regions = 4 (3 bond pairs + 1 lone pair)  
+- Hybridization = **sp³** (tetrahedral geometry)
+
+❌ Not sp²
+
+---
+
+### (D) **NH₃**  
+- Central atom: N  
+- N has 5 valence electrons.  
+- It forms **3 bonds** with H atoms and has **1 lone pair**.  
+- Total electron regions = 4 (3 bond pairs + 1 lone pair)  
+- Hybridization = **sp³** (trigonal pyramidal geometry)
+
+❌ Not sp²
+
+---
+
+### ✅ Correct Answer: **(A) BH₃**
+
+**Answer: A**",yes
+A,"To determine which compound does **not** have an atom (other than hydrogen) achieving an **octet** of valence electrons, let's analyze each option:
+
+---
+
+### (A) **$\ce{BH3}$**  
+- **Boron (B)** has 3 valence electrons.  
+- It forms **3 bonds** with 3 hydrogen atoms.  
+- Total electrons around boron = 3 (from bonds) → **only 6 electrons** (i.e., **not an octet**).  
+- **Hydrogen** only needs 2 electrons (duet), so it is fine.  
+✅ **Boron does not achieve an octet** → **This is the correct answer.**
+
+---
+
+### (B) **$\ce{H3O+}$**  
+- **Oxygen (O)** has 6 valence electrons.  
+- It forms **3 bonds with H** and **one double bond with H** (or one lone pair and a single bond).  
+- In $\ce{H3O+}$, oxygen has **6 bonding electrons + 1 lone pair** → **8 electrons** (octet).  
+✅ **Oxygen achieves an octet**.
+
+---
+
+### (C) **$\ce{NH3}$**  
+- **Nitrogen (N)** has 5 valence electrons.  
+- It forms **3 bonds with H** and has **1 lone pair**.  
+- Total electrons around N = 3 bonds + 1 lone pair = **8 electrons** (octet).  
+✅ **Nitrogen achieves an octet**.
+
+---
+
+### (D) **$\ce{NH4+}$**  
+- **Nitrogen (N)** has 5 valence electrons.  
+- It forms **4 bonds with H** and has **no lone pairs**.  
+- Total electrons around N = 4 bonds = **8 electrons** (octet).  
+✅ **Nitrogen achieves an octet**.
+
+---
+
+### ✅ **Correct Answer: (A) $\ce{BH3}$**  
+**Answer: A**",yes
+A,"We are given a solution made by dissolving **0.1 mol of NaNO₂** in **1.0 L of pure water**. The question asks which species has the **smallest concentration**.
+
+---
+
+### Step 1: Understand the dissociation of NaNO₂
+
+Sodium nitrite, **NaNO₂**, is a **strong electrolyte**, so it completely dissociates in water:
+
+$$
+\ce{NaNO2 -> Na^+ + NO2^-}
+$$
+
+Since we have **0.1 mol** of NaNO₂ in **1.0 L** of solution:
+
+- $[\ce{Na^+}] = 0.1 \, \text{M}$
+- $[\ce{NO2^-}] = 0.1 \, \text{M}$
+
+---
+
+### Step 2: Consider the equilibrium of nitrite ion in water
+
+The **nitrite ion**, $\ce{NO2^-}$, is the **conjugate base** of the weak acid $\ce{HNO2}$. It will hydrolyze in water:
+
+$$
+\ce{NO2^- + H2O <=> HNO2 + OH^-}
+$$
+
+This reaction produces **$\ce{HNO2}$** and **$\ce{OH^-}$**.
+
+So, the **concentration of $\ce{NO2^-}$** will decrease slightly, and **$\ce{HNO2}$** and **$\ce{OH^-}$** will increase.
+
+The **$\ce{H3O^+}$** concentration will also be affected due to the basic nature of the solution.
+
+---
+
+### Step 3: Compare concentrations
+
+Let’s summarize the species and their expected behavior:
+
+- $\ce{Na^+}$: from complete dissociation → **0.1 M**
+- $\ce{NO2^-}$: slightly less than 0.1 M due to hydrolysis
+- $\ce{HNO2}$: small amount formed from hydrolysis
+- $\ce{H3O^+}$: very small due to basic solution
+
+---
+
+### Step 4: Determine the smallest concentration
+
+Among all the species:
+
+- $\ce{Na^+}$ = 0.1 M (highest)
+- $\ce{NO2^-}$ ≈ slightly less than 0.1 M
+- $\ce{HNO2}$: very small
+- $\ce{H3O^+}$: very small (due to basic solution)
+
+So, the **smallest concentration** is **$\ce{H3O^+}$**.
+
+---
+
+### ✅ Final Answer:
+
+**(A)** $\ce{H3O^+}$
+
+**Answer:** **A**",yes
+78,"To determine the **total electron count** of $\ce{AgNO3}$, we need to sum the valence electrons of all atoms in the compound.
+
+### Step-by-step:
+
+1. **Silver (Ag):**
+   - Atomic number = 47
+   - Valence electrons = 1 (Ag is in group 11)
+
+2. **Nitrogen (N):**
+   - Atomic number = 7
+   - Valence electrons = 5
+
+3. **Oxygen (O):**
+   - Atomic number = 8
+   - Valence electrons = 6
+   - There are 3 oxygen atoms in $\ce{NO3^-}$, so total = $3 \times 6 = 18$
+
+4. **Nitrate ion ($\ce{NO3^-}$):**
+   - Total valence electrons = $5 + 18 = 23$
+   - Since the nitrate ion has a **-1 charge**, we add 1 more electron: $23 + 1 = 24$
+
+5. **Total electron count in $\ce{AgNO3}$:**
+   - Silver: 1
+   - Nitrate: 24
+   - Total = $1 + 24 = \boxed{25}$
+
+### ✅ Final Answer: **25**
+
+**Answer: 25**",no
+2,"To determine the oxidation state of magnesium (Mg) in $\ce{Mg(NO3)2}$, follow these steps:
+
+1. **The compound is neutral**, so the sum of the oxidation states of all atoms must equal **0**.
+
+2. **Nitrate ion** ($\ce{NO3^-}$) has a **charge of -1**.
+
+3. There are **2 nitrate ions** in $\ce{Mg(NO3)2}$, so their total charge is:  
+   $2 \times (-1) = -2$
+
+4. Let the oxidation state of Mg be $x$. Then:  
+   $x + (-2) = 0$  
+   $x = +2$
+
+### ✅ Final Answer: **+2**
+
+**Answer: $\boxed{+2}$**",yes
+8,"We are given the following chemical reaction:
+
+$$
+\ce{Ca3(PO4)2 + 8C -> xCO + Ca3P2}
+$$
+
+We are to find the value of $ x $, which represents the number of moles of carbon monoxide (CO) produced.
+
+---
+
+### Step 1: Balance the equation
+
+Let’s count the atoms on both sides:
+
+**Left side (reactants):**
+
+- **Ca:** 3  
+- **P:** 2 × 2 = 4  
+- **O:** 4 × 2 = 8  
+- **C:** 8
+
+**Right side (products):**
+
+- **Ca:** 3 (from Ca₃P₂)  
+- **P:** 2 (from Ca₃P₂)  
+- **C:** $ x $ (from CO)  
+- **O:** $ x $ (from CO)
+
+So, the right side has:
+
+- Ca: 3  
+- P: 2  
+- C: $ x $  
+- O: $ x $
+
+Now match the atoms on both sides:
+
+- **Ca:** 3 on both sides ✅  
+- **P:** 4 on left, 2 on right → need to balance P  
+- **O:** 8 on left, $ x $ on right → need to balance O  
+- **C:** 8 on left, $ x $ on right → need to balance C
+
+So, to balance P:
+
+Let’s assume the product is **Ca₃P₂**, which has 2 P atoms. That means the **left side has 4 P atoms**, so we need to multiply the product by **2** to match the P atoms:
+
+$$
+\ce{Ca3(PO4)2 + 8C -> 2Ca3P2 + xCO}
+$$
+
+Now P is balanced: 4 on both sides ✅
+
+Now balance **C**:
+
+Left: 8 C  
+Right: $ x $ C (from CO)
+
+So, $ x = 8 $ ✅
+
+Now check O:
+
+Left: 8 O (from 2 PO₄³⁻ groups)  
+Right: $ x $ O (from x CO)
+
+So, $ x = 8 $ ✅
+
+---
+
+### Final balanced equation:
+
+$$
+\ce{Ca3(PO4)2 + 8C -> 2Ca3P2 + 8CO}
+$$
+
+So, the value of $ x $ is:
+
+$$
+\boxed{8}
+$$
+
+### ✅ Final Answer: **8**",yes
+14,"To determine how many electrons are in the **4f orbital** of **Hassium (Hs)**, we start with its **electronic configuration**:
+
+$$
+\text{[Rn]} \ 7s^2 \ 5f^{14} \ 6d^6
+$$
+
+### Step-by-step Analysis:
+
+1. **Rn** is the noble gas **Radon**, which has an atomic number of **86**. So, the configuration [Rn] means the first 86 electrons are accounted for.
+
+2. The configuration continues with:
+   - **7s²**: 2 electrons in the 7s orbital
+   - **5f¹⁴**: 14 electrons in the 5f orbital
+   - **6d⁶**: 6 electrons in the 6d orbital
+
+3. The question asks specifically about the **4f orbital**.
+
+### Important Point:
+The **4f** orbital is **not** mentioned in the configuration above. The configuration shows **5f¹⁴**, not 4f. The **4f** orbital is part of the **lanthanide series**, which occurs before the 5f orbitals in the actinide series. However, in the given configuration, the **5f** orbitals are filled, and the **4f** orbitals are **not filled** in this case.
+
+### Conclusion:
+There are **0 electrons** in the **4f orbital** of Hassium.
+
+### ✅ Final Answer: **0**  
+**Answer: A** (if options are labeled A = 0, B = 1, etc.)  
+If no options are given and you want a numerical value:  
+**Answer: 0**",yes
+D,"The question asks which element **exhibits only a negative oxidation state** in complex compounds.
+
+Let's analyze the options:
+
+- **(A) Calcium** – typically has a +2 oxidation state in compounds (e.g., Ca²⁺), so **not negative**.
+- **(B) Carbon** – can have both positive and negative oxidation states (e.g., CO₂: +4, CH₄: -4), so **not only negative**.
+- **(C) Chlorine** – can have multiple oxidation states, including -1 (e.g., Cl⁻), but also +1, +3, +5, +7, so **not only negative**.
+- **(D) Fluorine** – **Always has a -1 oxidation state** in compounds, **except in its elemental form** (F₂), so **exhibits only a negative oxidation state** in complex compounds.
+- **(E) Hydrogen** – can have +1 (e.g., H⁺), 0 (H₂), or -1 (e.g., in metal hydrides), so **not only negative**.
+- **(F) Lithium** – typically has a +1 oxidation state, so **not negative**.
+- **(G) Neon** – is a noble gas and typically does not form compounds, so **not relevant**.
+- **(H) Nitrogen** – can have multiple oxidation states (e.g., -3, +3, +5), so **not only negative**.
+
+✅ **Correct Answer: (D) Fluorine**
+
+**Answer: D**",yes
+128,"To determine the total electron count of **S₈**, we need to calculate the total number of electrons in one molecule of sulfur (S₈).
+
+- Sulfur (S) has an atomic number of **16**, which means each sulfur atom has **16 electrons**.
+- There are **8 sulfur atoms** in one molecule of S₈.
+
+$$
+\text{Total electron count} = 8 \times 16 = 128
+$$
+
+### ✅ Final Answer: **128**",yes
+A,"To determine which metals a **strong non-oxidizing acid** might react with, we need to consider the reactivity of metals with acids.
+
+### Key Concepts:
+- **Strong non-oxidizing acids** (e.g., hydrochloric acid, HCl) **do not oxidize the metal** — they only dissolve it by reacting with the metal to form a salt and hydrogen gas.
+- Metals that react with such acids are **more reactive than hydrogen** in the activity series.
+- **Less reactive metals** (like gold, silver, lead, and tin) **do not react** with strong non-oxidizing acids under normal conditions.
+- **More reactive metals** (like aluminum, iron, calcium, and potassium) **do react** with such acids.
+
+### Let's evaluate the options:
+
+**(A) Aluminum and iron**  
+✅ React with strong non-oxidizing acids (e.g., HCl) to produce hydrogen gas and metal chlorides.
+
+**(B) Calcium and potassium**  
+✅ Also react with strong non-oxidizing acids (e.g., HCl), but they are more reactive than aluminum and iron. They react **very vigorously** with acids, often producing hydrogen gas rapidly.
+
+**(C) Gold and silver**  
+❌ Do **not** react with strong non-oxidizing acids.
+
+**(D) Lead and tin**  
+❌ Do **not** react with strong non-oxidizing acids under normal conditions.
+
+### Correct Answer:
+The only option that includes metals that **do react** with strong non-oxidizing acids is **(A) Aluminum and iron**.
+
+### Final Answer: **A**",yes
+A,"The correct answer is: **(A) Nitrogen lacks accessible d orbitals, limiting its ability to form more than four covalent bonds**
+
+### Explanation:
+Nitrogen is in the second period of the periodic table and does **not have accessible d orbitals**. This limits its ability to expand its octet and form more than four covalent bonds. In contrast, elements in the third period and beyond (like phosphorus) have accessible d orbitals and can expand their valence shell to accommodate more than eight electrons.
+
+Pentahalides like **NX₅** would require nitrogen to form **five covalent bonds**, which is not possible due to the lack of d orbitals for hybridization. This explains why nitrogen does **not form stable pentahalides**.
+
+### Final Answer: **A**",yes
+A,"The correct answer is: **(A) They dissolve the metals and liberate hydrogen gas.**
+
+**Explanation:**  
+Strong oxidizing acids, such as **nitric acid (HNO₃)** and **sulfuric acid (H₂SO₄)**, react with **active metals** like **iron (Fe)** and **aluminum (Al)**. These reactions typically produce **salts**, **hydrogen gas**, and sometimes **water** or **other byproducts**, depending on the acid and the metal.
+
+For example:
+
+- **Iron + Dilute HNO₃** → Iron nitrate + NO gas + H₂O
+- **Aluminum + Dilute H₂SO₄** → Aluminum sulfate + H₂ gas
+
+However, **concentrated nitric acid** tends to **passivate** the surface of metals like aluminum and iron by forming a **protective oxide layer**, which prevents further reaction. But in the context of the question, it is implied that the acid is **strong and oxidizing**, and the metals are **active** enough to react.
+
+So, the best answer is: **(A)**. 
+
+**Answer: A**",yes
+B,"The correct answer is: **(B) A salt and water.**
+
+When a **strong non-oxidizing acid** reacts with a **chemical base**, it typically results in a **neutralization reaction**, producing **a salt and water**. This is a common type of reaction in acid-base chemistry.
+
+Example:
+$$
+\text{HCl (aq)} + \text{NaOH (aq)} \rightarrow \text{NaCl (aq)} + \text{H}_2\text{O (l)}
+$$
+
+So, the answer is: **B**.",yes
+68,"To determine the **total electron count** of $\ce{Ta^{5+}}$, we need to consider the atomic number of Tantalum (Ta) and the charge on the ion.
+
+- **Atomic number of Tantalum (Ta)**: 73  
+  This means a neutral $\ce{Ta}$ atom has 73 electrons.
+
+- The ion $\ce{Ta^{5+}}$ has a **+5 charge**, which means it has **lost 5 electrons**.
+
+So, the total electron count for $\ce{Ta^{5+}}$ is:
+
+$$
+73 - 5 = 68
+$$
+
+### ✅ Final Answer: **68**",yes
+A,"The correct answer is: **(C) Sodium chloride, neon**
+
+### Explanation:
+
+**Weak oxidizing agents** are substances that can accept electrons (be reduced) but not very readily or strongly. They typically have low oxidation potentials.
+
+Let's evaluate each option:
+
+- **(A) Ammonium metavanadate, nickel ammonium sulfate**  
+  - Ammonium metavanadate (NH₄VO₃) is a **moderate oxidizing agent**.  
+  - Nickel ammonium sulfate is **not** typically classified as a weak oxidizing agent.  
+  → **Not correct.**
+
+- **(B) Nitric acid, hydrogen peroxide**  
+  - Nitric acid (HNO₃) is a **strong oxidizing agent**.  
+  - Hydrogen peroxide (H₂O₂) is a **moderate oxidizing agent**.  
+  → **Not correct.**
+
+- **(C) Sodium chloride, neon**  
+  - Sodium chloride (NaCl) is **not** an oxidizing agent.  
+  - Neon (Ne) is a **noble gas** and is **not** an oxidizing agent.  
+  → **This option contains substances that are not oxidizing agents**, but it is the **only one that contains non-oxidizing agents**, which might be interpreted as ""weak"" in the context of this question (if the question is asking for non-oxidizing agents).  
+  → **Best choice based on the given options.**
+
+- **(D) Sodium, potassium**  
+  - Sodium (Na) and potassium (K) are **strong reducing agents**, not oxidizing agents.  
+  → **Not correct.**
+
+### Final Answer: **(C)**",no
+5,"To find the oxidation state of nitrogen in **Mg(NO₃)₂**, follow these steps:
+
+### Step 1: Determine the oxidation state of Mg
+- Magnesium (Mg) is a Group 2 metal.
+- In ionic compounds, Group 2 metals have an oxidation state of **+2**.
+
+So, **Mg = +2**.
+
+---
+
+### Step 2: Let the oxidation state of N be **x**
+
+Each nitrate ion (NO₃⁻) has a charge of **-1**.
+
+There are **2 nitrate ions** in Mg(NO₃)₂, so the total charge from nitrate is **-2**.
+
+The total charge of the compound must be **neutral**, so:
+
+$$
+\text{Mg} + 2 \times (\text{NO}_3^-) = 0
+$$
+
+$$
++2 + 2(-1) = 0 \quad \text{(Correct)}
+$$
+
+---
+
+### Step 3: Solve for oxidation state of N in NO₃⁻
+
+Let the oxidation state of **N** be **x**, and oxygen is **-2** (common oxidation state for O).
+
+Each nitrate ion has 1 N and 3 O atoms:
+
+$$
+x + 3(-2) = -1
+$$
+
+$$
+x - 6 = -1
+$$
+
+$$
+x = +5
+$$
+
+---
+
+### ✅ Final Answer:
+
+The oxidation state of **N** in **Mg(NO₃)₂** is **+5**.
+
+**Answer: +5**  
+**Numerical value: 5**  
+**Answer format: 5** (as requested) ✅",yes
+C,"The answer is: **(A) acids**
+
+Halogenating agents, such as chlorine (Cl₂), bromine (Br₂), or fluorine (F₂), typically act as **acids** in reactions. They donate protons (H⁺) and often participate in electrophilic substitution or addition reactions, where they act as electrophiles, which are commonly associated with acidic behavior in organic chemistry.
+
+**Answer: A**",no
+B,"To determine which element has the **highest first ionisation energy**, we need to recall the general trend in the periodic table:
+
+- **First ionisation energy** (IE₁) generally **increases** across a period (left to right) due to increasing nuclear charge and decreasing atomic size.
+- It **decreases** down a group due to increasing atomic size and shielding effect.
+
+Let's examine the options:
+
+- **(A) Br (Bromine)** – It is in Group 17, Period 4. It has a relatively high IE₁, but not the highest.
+- **(B) He (Helium)** – It is a noble gas in Group 18, Period 1. It has a **very high** first ionisation energy due to its small size and strong nuclear attraction.
+- **(C) H (Hydrogen)** – It is in Group 1, Period 1. It has a low first ionisation energy compared to noble gases.
+- **(D) Rn (Radon)** – It is a noble gas in Group 18, Period 6. While it is a noble gas, it is in a lower period than helium, so its first ionisation energy is **lower** than that of helium.
+
+### Conclusion:
+**Helium (He)** has the **highest first ionisation energy** among the given elements.
+
+### ✅ Correct Answer: **B**",yes
+A,"To determine the correct order of **density** among the group 13 elements — **boron (B), aluminum (Al), gallium (Ga), indium (In), and thallium (Tl)** — we need to consider how atomic size and atomic mass change down the group, and how these affect density.
+
+### Key trends in group 13:
+
+1. **Atomic size increases down the group** (due to addition of electron shells).
+2. **Atomic mass increases down the group**.
+3. **Density generally increases down the group**, because the increase in mass is more significant than the increase in volume (atomic size), leading to higher mass per unit volume.
+
+### Density values (in g/cm³):
+
+- **B (boron)**: ~2.34  
+- **Al (aluminum)**: ~2.70  
+- **Ga (gallium)**: ~5.90  
+- **In (indium)**: ~7.31  
+- **Tl (thallium)**: ~11.85  
+
+### Observations:
+
+- Density increases from **B → Al → Ga → In → Tl**.
+- There is **no significant deviation** in the trend; all elements show increasing density down the group.
+
+### Correct order:
+
+**B < Al < Ga < In < Tl**
+
+This matches **Option (A)**.
+
+### ✅ Final Answer: **A**",yes
+54,"To determine the **total electron count** of a compound like **KBr**, we need to calculate the sum of the **valence electrons** of each atom in the molecule.
+
+---
+
+### Step 1: Identify the elements in KBr  
+- **K** (Potassium) is in Group 1 of the periodic table → has **1 valence electron**  
+- **Br** (Bromine) is in Group 17 of the periodic table → has **7 valence electrons**
+
+---
+
+### Step 2: Add the valence electrons  
+- K: 1 electron  
+- Br: 7 electrons  
+- **Total electron count = 1 + 7 = 8**
+
+---
+
+### ✅ Final Answer: **8**
+
+**Answer: 8**",No.
+A,The answer is: **D**,No.
+1,"To determine the oxidation state of **Na** in **NaHSO₄**, we can follow these steps:
+
+1. **Know the overall charge of the compound**:  
+   NaHSO₄ is a neutral compound, so the sum of the oxidation states of all atoms must be 0.
+
+2. **Assign known oxidation states**:
+   - **Na** (sodium) is in Group 1 of the periodic table, so its oxidation state is **+1**.
+   - **H** (hydrogen) is usually **+1** in compounds.
+   - **O** (oxygen) is usually **-2** in compounds.
+   - **S** (sulfur) is the only unknown here.
+
+3. **Set up the equation**:
+   The compound is NaHSO₄, so it contains:
+   - 1 Na atom → +1
+   - 1 H atom → +1
+   - 1 S atom → let’s call it **x**
+   - 4 O atoms → 4 × (-2) = -8
+
+   Total charge = (+1) + (+1) + x + (-8) = 0
+
+   So:
+   $$
+   1 + 1 + x - 8 = 0
+   $$
+   $$
+   x - 6 = 0
+   $$
+   $$
+   x = +6
+   $$
+
+   So, the oxidation state of **S** is **+6**, and the oxidation state of **Na** is **+1**.
+
+✅ **Answer: +1**
+
+**Final Answer: +1** (numerical value)",yes
+A,"The correct answer is: **(A) A carbonate**
+
+Carbonic acid (H₂CO₃) reacts with a base to form a **carbonate** salt and water. For example:
+
+H₂CO₃ + 2NaOH → Na₂CO₃ + 2H₂O
+
+So the species formed is a **carbonate**.
+
+**Answer: A**",yes
+B,"We are given:
+
+- Mass of transition metal carbonate, $\ce{MCO3}$: $\pu{1.000 g}$
+- Mass of $\ce{CO2}$ produced: $\pu{0.383 g}$
+- We are to find the identity of the metal $M$ in $\ce{MCO3}$.
+
+---
+
+### Step 1: Write the balanced chemical equation
+
+$$
+\ce{MCO3 -> MO + CO2}
+$$
+
+This reaction shows that **1 mole of metal carbonate produces 1 mole of metal oxide and 1 mole of carbon dioxide**.
+
+---
+
+### Step 2: Use the molar mass of $\ce{CO2}$ to find moles of $\ce{CO2}$
+
+Molar mass of $\ce{CO2}$ = $12.01 + 2 \times 16.00 = \pu{44.01 g/mol}$
+
+$$
+\text{Moles of } \ce{CO2} = \frac{\pu{0.383 g}}{\pu{44.01 g/mol}} \approx \pu{0.00870 mol}
+$$
+
+So, **0.00870 mol of $\ce{MCO3}$** was decomposed.
+
+---
+
+### Step 3: Find molar mass of $\ce{MCO3}$
+
+Let the molar mass of the metal $M$ be $M_M$ (in g/mol).
+
+$$
+\text{Molar mass of } \ce{MCO3} = M_M + 12.01 + 3 \times 16.00 = M_M + 60.01
+$$
+
+We know that:
+
+$$
+\text{Moles of } \ce{MCO3} = \frac{\pu{1.000 g}}{M_M + 60.01} = \pu{0.00870 mol}
+$$
+
+So,
+
+$$
+\frac{1.000}{M_M + 60.01} = 0.00870
+$$
+
+Solve for $M_M$:
+
+$$
+M_M + 60.01 = \frac{1.000}{0.00870} \approx 114.94
+$$
+
+$$
+M_M = 114.94 - 60.01 = \pu{54.93 g/mol}
+$$
+
+---
+
+### Step 4: Identify the metal
+
+The molar mass of the metal $M$ is approximately $\pu{54.93 g/mol}$.
+
+This corresponds to **Manganese (Mn)**, which has a molar mass of approximately $\pu{54.94 g/mol}$.
+
+---
+
+### ✅ Final Answer:
+
+**(B) $\ce{Mn}$**",yes
+D,"To determine which d-block element has the **lowest density at room temperature**, let's consider the **density values** of the given elements:
+
+### Given elements:
+- (A) **Cd** (Cadmium)  
+- (B) **Os** (Osmium)  
+- (C) **Re** (Rhenium)  
+- (D) **Sc** (Scandium)
+
+### Densities at room temperature (in g/cm³):
+- **Cd (Cadmium)**: ~8.65 g/cm³  
+- **Os (Osmium)**: ~22.61 g/cm³  
+- **Re (Rhenium)**: ~21.02 g/cm³  
+- **Sc (Scandium)**: ~3.00 g/cm³  
+
+### Conclusion:
+The element with the **lowest density** is **Scandium (Sc)**, with a density of **~3.00 g/cm³**.
+
+### ✅ Correct answer: **D**",yes
+A,"The question asks which **nonmetal** forms the **most hydrogen compounds**.
+
+Let's analyze the options:
+
+- **(A) Carbon** – Forms many hydrogen compounds like methane (CH₄), ethane (C₂H₆), etc.
+- **(B) Chlorine** – Forms hydrogen chloride (HCl), which is a common hydrogen compound.
+- **(C) Fluorine** – Forms hydrogen fluoride (HF), but it's a relatively simple compound.
+- **(D) Nitrogen** – Forms ammonia (NH₃), which is a common hydrogen compound.
+- **(E) Oxygen** – Forms water (H₂O), a very common hydrogen compound.
+- **(F) Sulfur** – Forms hydrogen sulfide (H₂S), but not as many as carbon.
+
+**Carbon** is unique because it can form a **wide variety of hydrogen compounds**, including alkanes, alkenes, alkynes, and aromatic compounds, all of which contain hydrogen.
+
+**Answer: (A)**",yes
+9,"To determine the value of **x** in the electronic configuration of **Platinum (Pt)**, we start with the given configuration:
+
+$$
+\ce{[Xe] 4f^{14} 5d^{x} 6s^{1}}
+$$
+
+---
+
+### Step 1: Understand the electron configuration
+
+- **Xe** (Xenon) is a noble gas with atomic number 54.
+- The configuration **[Xe]** represents the first 54 electrons.
+- The remaining electrons are distributed as:
+
+  - **4f¹⁴** → 14 electrons
+  - **5dˣ** → x electrons
+  - **6s¹** → 1 electron
+
+So, total electrons = 54 + 14 + x + 1 = **69 + x**
+
+---
+
+### Step 2: Determine the atomic number of Platinum
+
+- Platinum (Pt) has an atomic number of **78**.
+
+So, the total number of electrons must be **78**.
+
+$$
+69 + x = 78
+$$
+
+$$
+x = 78 - 69 = 9
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{9}
+$$",yes
+C,"The correct ground-state electronic configuration of **chlorine (Cl)** is:
+
+**1s² 2s² 2p⁶ 3s² 3p⁵**
+
+This corresponds to **option (C)**.
+
+### Explanation:
+- Chlorine has an atomic number of **17**, so it has **17 electrons**.
+- Filling the orbitals according to the Aufbau principle:
+  - 1s² (2 electrons)
+  - 2s² (2 electrons)
+  - 2p⁶ (6 electrons)
+  - 3s² (2 electrons)
+  - 3p⁵ (5 electrons)
+
+Total = 2 + 2 + 6 + 2 + 5 = **17 electrons**.
+
+### Correct answer: **(C)**
+
+✅ **Answer: C**",yes
+28,"The total electron count of a compound is the sum of the valence electrons of all the atoms in the molecule or ion.
+
+For **NaCl** (sodium chloride):
+
+- Sodium (Na) has an atomic number of 11, so it has 11 electrons. Its valence electron count is 1 (since it is in Group 1).
+- Chlorine (Cl) has an atomic number of 17, so it has 17 electrons. Its valence electron count is 7 (since it is in Group 17).
+
+So, the total electron count is:
+
+$$
+1 + 7 = 8
+$$
+
+**Answer: 8**",no
+B,"To determine which compound contains **the most hydrogen by mass**, we need to calculate the **mass percent of hydrogen** in each compound.
+
+Let’s go through each option:
+
+---
+
+### **(A) 1,2-dichlorohexane**
+
+- Molecular formula: **C₆H₁₄Cl₂**
+- Molar mass:
+  - C: 6 × 12.01 = 72.06 g/mol
+  - H: 14 × 1.008 = 14.11 g/mol
+  - Cl: 2 × 35.45 = 70.90 g/mol
+  - Total = 72.06 + 14.11 + 70.90 = **157.07 g/mol**
+
+- Mass % of H:
+  $$
+  \frac{14.11}{157.07} \times 100 = 8.98\%
+  $$
+
+---
+
+### **(B) 2,2-dimethylpropane**
+
+- Molecular formula: **C₅H₁₂**
+- Molar mass:
+  - C: 5 × 12.01 = 60.05 g/mol
+  - H: 12 × 1.008 = 12.096 g/mol
+  - Total = 60.05 + 12.096 = **72.146 g/mol**
+
+- Mass % of H:
+  $$
+  \frac{12.096}{72.146} \times 100 = 16.77\%
+  $$
+
+---
+
+### **(C) N-methylalanine**
+
+- Molecular formula: **C₄H₉NO₂**
+- Molar mass:
+  - C: 4 × 12.01 = 48.04 g/mol
+  - H: 9 × 1.008 = 9.072 g/mol
+  - N: 14.01 g/mol
+  - O: 2 × 16.00 = 32.00 g/mol
+  - Total = 48.04 + 9.072 + 14.01 + 32.00 = **103.12 g/mol**
+
+- Mass % of H:
+  $$
+  \frac{9.072}{103.12} \times 100 = 8.79\%
+  $$
+
+---
+
+### **(D) Butadiene**
+
+- Molecular formula: **C₄H₆**
+- Molar mass:
+  - C: 4 × 12.01 = 48.04 g/mol
+  - H: 6 × 1.008 = 6.048 g/mol
+  - Total = 48.04 + 6.048 = **54.088 g/mol**
+
+- Mass % of H:
+  $$
+  \frac{6.048}{54.088} \times 100 = 11.18\%
+  $$
+
+---
+
+### **Summary of Hydrogen Mass Percent:**
+
+- (A) 1,2-dichlorohexane: **8.98%**
+- (B) 2,2-dimethylpropane: **16.77%**
+- (C) N-methylalanine: **8.79%**
+- (D) Butadiene: **11.18%**
+
+---
+
+### ✅ **Answer: (B) 2,2-dimethylpropane**
+
+**Answer: B**",yes
+1,"To find the oxidation state of nitrogen in **N₂O**, we use the following rules:
+
+1. The oxidation state of oxygen is typically **-2** in most compounds.
+2. The sum of the oxidation states of all atoms in a neutral compound is **0**.
+
+Let the oxidation state of nitrogen be **x**.
+
+In **N₂O**, there are **2 nitrogen atoms** and **1 oxygen atom**.
+
+So, the equation is:
+
+$$
+2x + (-2) = 0
+$$
+
+Solving for $ x $:
+
+$$
+2x = +2 \quad \Rightarrow \quad x = +1
+$$
+
+### ✅ The oxidation state of nitrogen in **N₂O** is **+1**.
+
+**Answer: +1** ✅",yes
+10,"To determine the **total electron count** of a molecule, we sum the number of electrons from all the atoms in the molecule.
+
+For **H₂O** (water):
+
+- Each **hydrogen (H)** atom has **1 electron**.
+- Each **oxygen (O)** atom has **8 electrons**.
+
+So:
+
+- 2 H atoms = 2 × 1 = **2 electrons**
+- 1 O atom = 1 × 8 = **8 electrons**
+
+**Total electron count** = 2 + 8 = **10**
+
+### ✅ Final Answer: **10**",yes
+1,"To determine the value of **x** in the reaction:
+
+$$
+\ce{CaO + 3C -> xCaC2 + CO}
+$$
+
+we need to **balance the chemical equation** by ensuring the number of atoms of each element is the same on both sides.
+
+---
+
+### Step 1: Count atoms on each side
+
+**Left side (reactants):**
+
+- **Ca**: 1
+- **O**: 1
+- **C**: 3
+
+**Right side (products):**
+
+- **Ca**: $ x $ (from $ \ce{xCaC2} $)
+- **C**: $ 2x $ (from $ \ce{xCaC2} $) + 1 (from $ \ce{CO} $) = $ 2x + 1 $
+- **O**: 1 (from $ \ce{CO} $)
+
+---
+
+### Step 2: Balance each element
+
+#### 1. **Calcium (Ca):**
+- Left: 1
+- Right: $ x $
+- So, $ x = 1 $
+
+#### 2. **Carbon (C):**
+- Left: 3
+- Right: $ 2x + 1 $
+- Substitute $ x = 1 $:
+  $$
+  2(1) + 1 = 3 \quad \text{✓}
+  $$
+
+#### 3. **Oxygen (O):**
+- Left: 1
+- Right: 1 (from $ \ce{CO} $) ✓
+
+---
+
+### Final balanced equation:
+
+$$
+\ce{CaO + 3C -> CaC2 + CO}
+$$
+
+✅ All atoms are balanced.
+
+---
+
+### ✅ Final Answer: **1**
+
+**Answer: A** (if the options are labeled A=1, B=2, etc.)  
+Or, if you're just to provide the value: **1**.",yes
+D,"The answer is: **C** (Water)
+
+Acidic salts can react with **water** to produce acidic solutions. This is because acidic salts contain the conjugate acid of a weak base, and when dissolved in water, they can donate protons (H⁺), making the solution acidic.
+
+For example:
+- Sodium bisulfate (NaHSO₄) is an acidic salt.
+- When dissolved in water, it dissociates into Na⁺ and HSO₄⁻, and HSO₄⁻ can donate a proton to water:
+  $$
+  \text{HSO}_4^- + \text{H}_2\text{O} \rightleftharpoons \text{H}_3\text{O}^+ + \text{SO}_4^{2-}
+  $$
+
+So, the correct answer is: **C**",no
+B,"To determine which pair **does not correctly represent an acid and its conjugate base**, we need to understand the concept of **conjugate acid-base pairs**.
+
+In the Brønsted-Lowry theory:
+- An **acid** is a substance that donates a proton (H⁺).
+- A **conjugate base** is what remains after the acid donates a proton.
+
+So, for any acid (HA), its conjugate base is (A⁻).
+
+Let’s examine each pair:
+
+---
+
+**(A) H₂SO₄ and HSO₄⁻**  
+- H₂SO₄ is a strong acid.  
+- When it donates one H⁺, it becomes HSO₄⁻.  
+✅ **Correct pair**.
+
+---
+
+**(B) H₂SO₄ and SO₄²⁻**  
+- H₂SO₄ is a strong acid.  
+- To become SO₄²⁻, it must donate **two** protons.  
+- However, the conjugate base of H₂SO₄ is **HSO₄⁻**, not SO₄²⁻.  
+❌ **Incorrect pair** — this is not a direct conjugate acid-base pair.
+
+---
+
+**(C) HNO₃ and NO₃⁻**  
+- HNO₃ is a strong acid.  
+- When it donates one H⁺, it becomes NO₃⁻.  
+✅ **Correct pair**.
+
+---
+
+**(D) HSO₄⁻ and SO₄²⁻**  
+- HSO₄⁻ is a weak acid.  
+- When it donates one H⁺, it becomes SO₄²⁻.  
+✅ **Correct pair**.
+
+---
+
+### ✅ **Correct answer: (B)**  
+**Answer: B**",yes
+A,"The correct answer is: **(D) Because of the higher atomic radius of the phosphorus**
+
+### Explanation:
+
+The molecule **R₃N=O** does **not** exist, while **R₃P=O** does. This is due to the **difference in atomic size and bonding capability** between nitrogen (N) and phosphorus (P).
+
+- **Nitrogen** has a **smaller atomic radius** and a **higher electronegativity** compared to phosphorus.
+- Nitrogen has a **maximum covalency of 4** (due to its small size and limited d-orbital availability), and it cannot accommodate a double bond with oxygen in a stable molecule like R₃N=O without causing excessive strain or instability.
+- Phosphorus, on the other hand, has a **larger atomic radius**, allowing it to **expand its valence shell** and accommodate **more bonds**, including a double bond with oxygen in **R₃P=O**, which is a known and stable molecule (e.g., trimethylphosphine oxide).
+
+### Why the other options are incorrect:
+
+- **(A)**: Nitrogen **can** have a covalency of 4 (as in NH₃, NH₄⁺, etc.), so this is not the correct reason.
+- **(B)**: While nitrogen is smaller, the key issue is not just size, but the **ability to expand its valence shell** and form stable bonds.
+- **(C)**: Electronegativity is a factor, but it's not the **primary** reason why R₃N=O doesn't exist.
+
+### ✅ Final Answer: **D**",no
+B,"The most suitable method for separating sugar from a solution is **crystallization** or **evaporation**, depending on the context.
+
+- **Crystallization** is used when you want to obtain solid sugar from a hot saturated solution by cooling it, allowing sugar crystals to form.
+- **Evaporation** is used when you want to separate the solute (sugar) from the solvent (water) by heating the solution until the water evaporates, leaving sugar behind.
+
+Between the two, **evaporation** is more commonly used for this purpose in basic laboratory or home settings.
+
+However, **crystallization** is more precise and allows for the recovery of a pure solid (sugar) in crystalline form.
+
+In this case, **crystallization** is the more appropriate method for separating sugar from a solution, as it preserves the purity and structure of the sugar.
+
+### Correct Answer: **B**",yes
+A,"The question asks which substances consist of **atoms of the same chemical element**.
+
+Let’s analyze the options:
+
+**(A) Diamond and graphite**  
+- Both diamond and graphite are **forms of carbon**.  
+- They consist of **carbon atoms only**.  
+✅ **Correct**.
+
+**(B) Salt and sugar**  
+- Salt (NaCl) is composed of **sodium and chlorine**.  
+- Sugar (C₁₂H₂₂O₁₁) is composed of **carbon, hydrogen, and oxygen**.  
+❌ Not the same element.
+
+**(C) Sand and chalk**  
+- Sand is mainly **silica (SiO₂)**, made of **silicon and oxygen**.  
+- Chalk is mainly **calcium carbonate (CaCO₃)**, made of **calcium, carbon, and oxygen**.  
+❌ Not the same element.
+
+**(D) Sand and sulfur**  
+- Sand is **SiO₂** (silicon and oxygen).  
+- Sulfur is made of **sulfur atoms only**.  
+❌ Sand is not made of the same element as sulfur.
+
+### ✅ Correct answer: **(A)**
+
+**Answer: A**",yes
+58,"To determine the **total electron count** of the ion $\ce{S2O3^{2-}}$, follow these steps:
+
+---
+
+### 1. **Determine the number of valence electrons for each atom**:
+
+- **Sulfur (S)**: 6 valence electrons per atom × 2 atoms = **12 electrons**
+- **Oxygen (O)**: 6 valence electrons per atom × 3 atoms = **18 electrons**
+
+---
+
+### 2. **Add the charge to the total**:
+
+- The ion has a **charge of -2**, which means we add **2 more electrons**.
+
+---
+
+### 3. **Calculate the total electron count**:
+
+$$
+\text{Total electron count} = 12\ (\text{S}) + 18\ (\text{O}) + 2\ (\text{charge}) = \boxed{32}
+$$
+
+---
+
+### ✅ Final Answer: **32**
+
+So, the answer is: **32**.",No.
+A,"To determine which element has the **highest melting point**, we compare the melting points of the given elements:
+
+- **(A) C (Carbon)** – Melting point ≈ **3550°C**
+- **(B) Nb (Niobium)** – Melting point ≈ **2468°C**
+- **(C) Re (Rhenium)** – Melting point ≈ **3180°C**
+- **(D) W (Tungsten)** – Melting point ≈ **3422°C**
+
+**Carbon** has the highest melting point among these elements.
+
+### ✅ **Answer: A**",yes
+1.5,"To find the value of **x** in the reaction:
+
+$$
+\ce{C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O}
+$$
+
+we need to **balance the number of nitrogen atoms** on both sides of the equation.
+
+---
+
+### Step 1: Count the nitrogen atoms on the left side
+
+The **reactant** is **TNT**: $\ce{C7H5N3O6}$  
+It contains **3 nitrogen atoms**.
+
+---
+
+### Step 2: Count the nitrogen atoms on the right side
+
+We look at the **products**:
+
+- $\ce{3CO}$: no nitrogen  
+- $\ce{3C}$: no nitrogen  
+- $\ce{CO2}$: no nitrogen  
+- $\ce{1.5H2}$: no nitrogen  
+- $\ce{xN2}$: each $\ce{N2}$ molecule has **2 nitrogen atoms**  
+- $\ce{H2O}$: no nitrogen
+
+So, total nitrogen atoms on the right = $2x$
+
+---
+
+### Step 3: Set up the equation
+
+Nitrogen atoms on the left = Nitrogen atoms on the right
+
+$$
+3 = 2x
+$$
+
+---
+
+### Step 4: Solve for x
+
+$$
+x = \frac{3}{2} = 1.5
+$$
+
+---
+
+### ✅ Final Answer:
+
+**1.5**
+
+So, the value of **x** is: **1.5**  
+If you need to choose a letter corresponding to this value, it would be:
+
+**B** (assuming the options are like A=0.5, B=1.5, C=2.5, etc.)
+
+But if the question expects a **numerical value**, then:
+
+$$
+\boxed{1.5}
+$$",yes
+10,"To determine the **total electron count** of the ion $\ce{O^{2-}}$, we start with the atomic number of oxygen.
+
+- The atomic number of oxygen (O) is **8**, which means a neutral oxygen atom has **8 electrons**.
+- The ion $\ce{O^{2-}}$ has a **2- charge**, which means it has **2 more electrons** than a neutral oxygen atom.
+
+$$
+\text{Total electrons} = 8 + 2 = 10
+$$
+
+### ✅ Final Answer: **10**",yes
+1,"To determine the oxidation state of hydrogen in **NH₄⁺**, follow these steps:
+
+1. The overall charge of the ion is **+1**.
+2. Nitrogen (N) has an oxidation state of **-3** in ammonium (NH₄⁺).
+3. There are **4 hydrogen atoms** in the molecule.
+4. Let the oxidation state of hydrogen be **x**. Then:
+
+$$
+\text{Oxidation state of N} + 4 \times \text{Oxidation state of H} = \text{Overall charge}
+$$
+
+$$
+-3 + 4x = +1
+$$
+
+$$
+4x = +4
+$$
+
+$$
+x = +1
+$$
+
+So, the oxidation state of hydrogen in **NH₄⁺** is **+1**.
+
+**Answer: +1** ✅",yes
+C,"To determine which pair **does not correctly represent an acid and its conjugate base**, we need to understand the relationship between an acid and its conjugate base.
+
+### Definitions:
+- An **acid** is a substance that donates a proton (H⁺).
+- A **conjugate base** is the species that remains after the acid donates a proton.
+
+So, for a given acid HA, its conjugate base is A⁻.
+
+---
+
+### Let's analyze each option:
+
+**(A) \ce{H3PO4} and \ce{H2PO4^-}**
+
+- \ce{H3PO4} is the **acid**.
+- When it donates a proton, it becomes \ce{H2PO4^-}, which is its **conjugate base**.
+
+✅ This is correct.
+
+---
+
+**(B) \ce{NH3} and \ce{NH2^-}**
+
+- \ce{NH3} is the **base**.
+- To be an acid, it must donate a proton. But \ce{NH3} is a **weak base**, not an acid.
+- Its conjugate **acid** is \ce{NH4^+}, and its conjugate **base** is \ce{NH2^-}.
+
+⚠️ However, the question asks for an **acid and its conjugate base**. Since \ce{NH3} is a base, this pair is **not** an acid and its conjugate base.
+
+⚠️ This is **incorrect**.
+
+---
+
+**(C) \ce{NH4^+} and \ce{NH2^-}**
+
+- \ce{NH4^+} is the **acid**.
+- Its conjugate base would be \ce{NH3}, not \ce{NH2^-}.
+- \ce{NH2^-} is the conjugate base of \ce{NH3}.
+
+❌ This is **incorrect**. \ce{NH4^+} and \ce{NH2^-} are **not** conjugate acid-base pairs.
+
+---
+
+**(D) \ce{NH4^+} and \ce{NH3}**
+
+- \ce{NH4^+} is the **acid**.
+- When it donates a proton, it becomes \ce{NH3}, which is its **conjugate base**.
+
+✅ This is correct.
+
+---
+
+### Conclusion:
+
+- (A) ✅ Correct
+- (B) ❌ Incorrect (not acid/conjugate base)
+- (C) ❌ Incorrect (not conjugate pair)
+- (D) ✅ Correct
+
+So, the **pair that does not correctly represent an acid and its conjugate base** is:
+
+**(C)**
+
+### ✅ Final Answer: **C**",yes
+B,"The correct answer is: **(A) No, because it is more stable**
+
+### Explanation:
+
+- **H₃PO₂ (hypophosphorous acid)** and **H₃PO₃ (phosphorous acid)** are good reducing agents because **phosphorus is in a lower oxidation state** (in H₃PO₂, P is +1; in H₃PO₃, P is +3). This makes them more likely to be oxidized, which is the defining characteristic of a reducing agent.
+
+- **H₃PO₄ (phosphoric acid)** has **phosphorus in the +5 oxidation state**, which is the **highest possible oxidation state** for phosphorus. This makes it **less likely to be oxidized**, meaning it is **less likely to act as a reducing agent**.
+
+- **Stability** plays a role here: the higher oxidation state of phosphorus in H₃PO₄ makes the molecule more stable and less prone to oxidation, so it **does not act as a reducing agent**.
+
+### Therefore, the correct answer is: **(A)** ✅",no
+B,"We are given:
+
+- Volume of oxygen diffused in 7 seconds: $ V_{\text{O}_2} = \pu{30 cm^3} $
+- Time for oxygen to diffuse: $ t_{\text{O}_2} = \pu{7 s} $
+- Volume of chlorine to diffuse: $ V_{\text{Cl}_2} = \pu{60 cm^3} $
+- Vapor density of oxygen: $ \rho_{\text{O}_2} = \pu{16 g/cm^3} $
+- Vapor density of chlorine: $ \rho_{\text{Cl}_2} = \pu{36 g/cm^3} $
+
+We are to find the time it takes for 60 cm³ of chlorine to diffuse through the same porous pot.
+
+---
+
+### Step 1: Use Graham’s Law of Diffusion
+
+Graham’s Law states:
+
+$$
+\frac{r_1}{r_2} = \sqrt{\frac{\rho_2}{\rho_1}}
+$$
+
+Where:
+- $ r $ is the rate of diffusion (volume per unit time)
+- $ \rho $ is the vapor density
+
+Let’s define:
+- Rate of diffusion of oxygen: $ r_{\text{O}_2} = \frac{V_{\text{O}_2}}{t_{\text{O}_2}} = \frac{30}{7} $
+- Rate of diffusion of chlorine: $ r_{\text{Cl}_2} = \frac{V_{\text{Cl}_2}}{t_{\text{Cl}_2}} $
+
+From Graham’s Law:
+
+$$
+\frac{r_{\text{O}_2}}{r_{\text{Cl}_2}} = \sqrt{\frac{\rho_{\text{Cl}_2}}{\rho_{\text{O}_2}}}
+$$
+
+Substitute values:
+
+$$
+\frac{30/7}{r_{\text{Cl}_2}} = \sqrt{\frac{36}{16}} = \sqrt{2.25} = 1.5
+$$
+
+So:
+
+$$
+\frac{30}{7 r_{\text{Cl}_2}} = 1.5
+$$
+
+Solve for $ r_{\text{Cl}_2} $:
+
+$$
+r_{\text{Cl}_2} = \frac{30}{7 \times 1.5} = \frac{30}{10.5} = \frac{60}{21} \approx 2.857 \, \text{cm}^3/\text{s}
+$$
+
+Now, we are given $ V_{\text{Cl}_2} = 60 \, \text{cm}^3 $, so the time it takes for chlorine to diffuse is:
+
+$$
+t_{\text{Cl}_2} = \frac{V_{\text{Cl}_2}}{r_{\text{Cl}_2}} = \frac{60}{60/21} = 21 \, \text{seconds}
+$$
+
+---
+
+### ✅ Final Answer:
+
+**(B) 21 seconds**",yes
+A,"To determine which compound **does not** have an **sp³-hybridized atom**, we need to examine the **geometry** and **hybridization** of the central atom in each molecule.
+
+---
+
+### Let's analyze each option:
+
+#### (A) **BH₃**
+- **Structure**: Borane (BH₃)
+- **Geometry**: Trigonal planar
+- **Hybridization**: sp²
+- **Reason**: Boron has only 3 regions of electron density (3 bonds), so it uses sp² hybridization.
+
+✅ **Does not have sp³ hybridization** → **Possibly the correct answer**
+
+---
+
+#### (B) **BH₄⁻**
+- **Structure**: Tetrahydroborate ion
+- **Geometry**: Tetrahedral
+- **Hybridization**: sp³
+- **Reason**: Boron has 4 regions of electron density (4 bonds), so it uses sp³ hybridization.
+
+---
+
+#### (C) **NH₃**
+- **Structure**: Ammonia
+- **Geometry**: Trigonal pyramidal
+- **Hybridization**: sp³
+- **Reason**: Nitrogen has 4 regions of electron density (3 bonds + 1 lone pair), so it uses sp³ hybridization.
+
+---
+
+#### (D) **NH₄⁺**
+- **Structure**: Ammonium ion
+- **Geometry**: Tetrahedral
+- **Hybridization**: sp³
+- **Reason**: Nitrogen has 4 bonding regions (4 bonds), so it uses sp³ hybridization.
+
+---
+
+### ✅ Final Answer:
+
+Only **(A) BH₃** has an atom (boron) that is **sp²-hybridized**, not sp³.
+
+---
+
+### ✅ **Correct Answer: A**",yes
+D,"The melting point of a substance depends on the strength of the intermolecular forces between its molecules. 
+
+- **Oxygen (O₂)** is a diatomic molecule with **weak van der Waals forces** (London dispersion forces), which results in a **low melting point** (−218.4 °C).
+- **Sulphur (S₈)** is a large molecule composed of eight sulfur atoms in a ring structure, which leads to **stronger van der Waals forces** due to its larger size and more electrons. This results in a **much higher melting point** (115.2 °C).
+
+Let’s analyze the options:
+
+- **(A)** *Because oxygen has higher electronegativity* – Electronegativity is not directly related to melting point in this case. Both O₂ and S₈ are nonpolar molecules, so electronegativity differences do not significantly affect the intermolecular forces.
+- **(B)** *Because sulphur atomic radius is bigger* – While true, the atomic radius alone doesn't fully explain the difference. The key is the **molecular size and number of electrons**, not just the atomic radius.
+- **(C)** *Because sulphur molecule has more electrons* – This is correct. A larger number of electrons increases the strength of van der Waals forces, leading to a higher melting point.
+- **(D)** *Because the molecule of oxygen has weak van der Waals interaction* – This is also true, but it's more of a **description** of the phenomenon rather than the **reason** for the difference.
+
+The **best answer** that explains the **reason** for the difference in melting points is:
+
+**Answer: (C)**",No.
+D,"To determine which bond has the highest **polarity**, we need to consider the **electronegativity difference** between the atoms involved in the bond.
+
+### Electronegativity values (Pauling scale):
+- **C (Carbon)**: ~2.55  
+- **H (Hydrogen)**: ~2.20  
+- **O (Oxygen)**: ~3.44  
+- **N (Nitrogen)**: ~3.04  
+
+### Calculate electronegativity differences:
+- **C–H**: |2.55 – 2.20| = **0.35**
+- **C–O**: |2.55 – 3.44| = **0.89**
+- **N–H**: |3.04 – 2.20| = **0.84**
+- **O–H**: |3.44 – 2.20| = **1.24**
+
+### Conclusion:
+The **O–H** bond has the **highest electronegativity difference**, which means it has the **highest polarity**.
+
+### ✅ Answer: **D**",yes
+C,"To determine the number of iron atoms that can react with **6 mol of chlorine**, we need the **balanced chemical equation** for the reaction between iron (Fe) and chlorine gas (Cl₂).
+
+---
+
+### Step 1: Write the balanced chemical equation
+
+Iron reacts with chlorine gas to form **iron(III) chloride**, which is **FeCl₃**.
+
+The unbalanced reaction is:
+
+$$
+\text{Fe} + \text{Cl}_2 \rightarrow \text{FeCl}_3
+$$
+
+To balance the equation:
+
+- On the right, there are **3 Cl atoms** in FeCl₃.
+- Since Cl₂ has 2 Cl atoms per molecule, we need **3/2 Cl₂** molecules to get 3 Cl atoms.
+
+Now balance Fe:
+
+- 1 Fe atom on the left → 1 Fe atom on the right.
+
+So the balanced equation is:
+
+$$
+\text{Fe} + \frac{3}{2} \text{Cl}_2 \rightarrow \text{FeCl}_3
+$$
+
+To eliminate the fraction, multiply the entire equation by 2:
+
+$$
+2\text{Fe} + 3\text{Cl}_2 \rightarrow 2\text{FeCl}_3
+$$
+
+---
+
+### Step 2: Use the mole ratio
+
+From the balanced equation:
+
+- **2 mol of Fe** react with **3 mol of Cl₂**
+
+So, the mole ratio of Fe : Cl₂ is:
+
+$$
+\frac{2\text{ mol Fe}}{3\text{ mol Cl}_2}
+$$
+
+We are given **6 mol of Cl₂**, so:
+
+$$
+\text{mol of Fe} = \left(\frac{2}{3}\right) \times 6 = 4 \text{ mol Fe}
+$$
+
+---
+
+### Step 3: Convert moles of Fe to number of atoms
+
+Avogadro's number is:
+
+$$
+1 \text{ mol} = 6.022 \times 10^{23} \text{ atoms}
+$$
+
+So:
+
+$$
+4 \text{ mol Fe} \times 6.022 \times 10^{23} \text{ atoms/mol} = 24.088 \times 10^{23} \text{ atoms}
+$$
+
+Rounded to **two decimal places**, this is:
+
+$$
+24.09 \times 10^{23} \text{ atoms}
+$$
+
+---
+
+### Step 4: Match with answer choices
+
+The correct answer is:
+
+**(C) $24.08\cdot 10^{23}$**
+
+---
+
+### ✅ Final Answer: **C**",yes
+D,"The pH range for **strong non-oxidizing acids** (such as HCl, HBr, HI, HNO₃, etc.) is typically **less than 2** when dissolved in water at a concentration of 1 M or higher.
+
+### Explanation:
+- Strong acids completely dissociate in water.
+- A 1 M solution of a strong acid usually has a pH of around **0 to 1**, and more concentrated solutions can have pH values **less than 2**.
+- Therefore, the correct answer is:
+
+**(D) Less than 2**
+
+The answer is: **D**",yes
+B,"The correct answer is: **(B) Chlorine**
+
+**Explanation:**  
+A **halogenating agent** is a substance that introduces a halogen (such as fluorine, chlorine, bromine, or iodine) into a molecule. Chlorine (Cl₂) is a common halogenating agent used in organic reactions to substitute hydrogen atoms with chlorine atoms.
+
+- **(A) Ammonia (NH₃)** – Not a halogenating agent; it is a nitrogen compound.
+- **(B) Chlorine (Cl₂)** – A halogen and a halogenating agent.
+- **(C) Sodium chloride (NaCl)** – A salt, not a halogenating agent.
+- **(D) Sulfuric acid (H₂SO₄)** – A strong acid, not a halogenating agent.
+
+**Answer: B**",yes
+B,"The correct answer is: **(B) Heat may be generated**
+
+When alcohols or polyols react with isocyanates, a chemical reaction known as **polyurethane formation** occurs. This is a **exothermic reaction**, meaning it releases heat. In some cases, especially with large quantities or in confined spaces, this heat can build up and potentially lead to **thermal runaway**, which is a safety concern in industrial settings.
+
+### Explanation of other options:
+- **(A) A precipitate forms** – Not typically the case in this reaction; the reaction usually results in a viscous or solid polyurethane product, not a precipitate.
+- **(C) The alcohols are oxidized** – This is not a typical outcome. The reaction involves **nucleophilic attack** of the alcohol on the isocyanate group, not oxidation.
+- **(D) The mixture becomes basic** – This is not a common result of the isocyanate-alcohol reaction.
+
+### Final Answer: **B**",yes
+A,"To determine which of the given compounds is **linear**, we need to consider the **molecular geometry** based on **VSEPR theory** (Valence Shell Electron Pair Repulsion theory).
+
+Let's analyze each compound:
+
+---
+
+### (A) **CO₂** (Carbon Dioxide)
+
+- Central atom: **C**
+- Bonding: **Double bonds to two O atoms**
+- Electron pairs: **2 bonding pairs**, no lone pairs on C
+- Geometry: **Linear**
+- Bond angle: **180°**
+
+✅ **Linear**
+
+---
+
+### (B) **H₂S** (Hydrogen Sulfide)
+
+- Central atom: **S**
+- Bonding: **Two single bonds to H**
+- Lone pairs: **2 lone pairs on S**
+- Electron pairs: **4 electron pairs (2 bonding, 2 lone)**
+- Geometry: **Bent (angular)**
+- Bond angle: ~92.1°
+
+❌ Not linear
+
+---
+
+### (C) **I₃⁻** (Triiodide ion)
+
+- Central atom: **I**
+- Bonding: **Two I–I bonds**
+- Lone pairs: **3 lone pairs on central I**
+- Electron pairs: **5 electron pairs (2 bonding, 3 lone)**
+- Geometry: **Linear**
+- Bond angle: **180°**
+
+✅ **Linear**
+
+---
+
+### (D) **SO₂** (Sulfur Dioxide)
+
+- Central atom: **S**
+- Bonding: **Two double bonds (or one double and one single bond)**
+- Lone pairs: **One lone pair on S**
+- Electron pairs: **3 electron pairs (2 bonding, 1 lone)**
+- Geometry: **Bent (angular)**
+- Bond angle: ~119°
+
+❌ Not linear
+
+---
+
+### (E) **XeF₂** (Xenon Difluoride)
+
+- Central atom: **Xe**
+- Bonding: **Two single bonds to F**
+- Lone pairs: **3 lone pairs on Xe**
+- Electron pairs: **5 electron pairs (2 bonding, 3 lone)**
+- Geometry: **Linear**
+- Bond angle: **180°**
+
+✅ **Linear**
+
+---
+
+### ✅ Final Answer:
+
+All **CO₂, I₃⁻, and XeF₂** are linear. However, the question asks for **""the""** compound (singular), so we must choose **one**.
+
+Among the options, **(A) CO₂** is a **common and classic example of a linear molecule**.
+
+---
+
+### ✅ **Answer: A**",yes
+A,"To determine which molecule **lacks a dipole moment**, we need to consider both:
+
+1. **Polarity of bonds** (electronegativity differences between atoms).
+2. **Molecular geometry** (whether the dipoles cancel out due to symmetry).
+
+Let’s analyze each option:
+
+---
+
+### (A) **CCl₄** (Carbon tetrachloride)
+
+- **Structure**: Tetrahedral.
+- **Bond dipoles**: C–Cl bonds are polar (Cl is more electronegative than C).
+- **Symmetry**: The molecule is **symmetrical** with four identical C–Cl bonds arranged symmetrically around the central carbon.
+- **Net dipole moment**: **Zero** (dipoles cancel out).
+
+✅ **This molecule lacks a dipole moment.**
+
+---
+
+### (B) **CH₂Cl₂** (Dichloromethane)
+
+- **Structure**: Tetrahedral.
+- **Bond dipoles**: C–Cl and C–H bonds are polar.
+- **Symmetry**: Not symmetrical (two Cl and two H).
+- **Net dipole moment**: **Not zero** (dipoles do not cancel out).
+
+---
+
+### (C) **CH₃Cl** (Chloromethane)
+
+- **Structure**: Tetrahedral.
+- **Bond dipoles**: C–Cl is polar; C–H is not.
+- **Symmetry**: Not symmetrical (one Cl, three H).
+- **Net dipole moment**: **Not zero**.
+
+---
+
+### (D) **CHCl₃** (Chloroform)
+
+- **Structure**: Tetrahedral.
+- **Bond dipoles**: C–Cl is polar; C–H is not.
+- **Symmetry**: Not symmetrical (three Cl, one H).
+- **Net dipole moment**: **Not zero**.
+
+---
+
+### ✅ Final Answer:
+
+**(A) CCl₄** is the only molecule in the list that **lacks a dipole moment** due to its symmetrical structure.
+
+**Answer: A**",yes
+C,"To determine which molecule has a **non-zero dipole moment**, we need to consider both the **molecular geometry** and the **polarity of the bonds**.
+
+Let’s analyze each option:
+
+---
+
+**(A) \ce{C2F4}**  
+- \ce{C2F4} is **1,1-difluoroethylene** or **trans-difluoroethylene**.
+- It has a **planar** geometry (like ethene).
+- Due to the **symmetry** of the molecule (especially in the trans form), the dipole moments of the C-F bonds cancel each other out.
+- **Dipole moment = 0**
+
+---
+
+**(B) \ce{CF4}**  
+- \ce{CF4} is **carbon tetrafluoride**, with a **tetrahedral geometry**.
+- All four C-F bonds are identical and symmetrically arranged around the central carbon.
+- The dipole moments cancel out due to symmetry.
+- **Dipole moment = 0**
+
+---
+
+**(C) \ce{SF4}**  
+- \ce{SF4} is **sulfur tetrafluoride**, with a **see-saw geometry**.
+- The molecule is **asymmetric** due to the lone pair on sulfur.
+- The dipole moments **do not cancel out** due to the asymmetry.
+- **Dipole moment ≠ 0**
+
+---
+
+**(D) \ce{SF6}**  
+- \ce{SF6} is **sulfur hexafluoride**, with an **octahedral geometry**.
+- All six F atoms are symmetrically arranged around sulfur.
+- The dipole moments cancel out due to symmetry.
+- **Dipole moment = 0**
+
+---
+
+### ✅ Correct Answer: **(C) \ce{SF4}**
+
+**Answer: C**",yes
+D,"The answer is: **D**
+
+**Explanation:**
+
+Strong oxidizing agents **accept electrons** from other substances, meaning they **remove electrons** from other substances. This is the definition of an oxidizing agent in a redox reaction.
+
+- **(A) They are reducing agents** – Incorrect. Reducing agents donate electrons; oxidizing agents accept electrons.
+- **(B) They do not participate in redox reactions** – Incorrect. Oxidizing agents are involved in redox reactions.
+- **(C) They donate electrons to other substances** – Incorrect. This describes a reducing agent, not an oxidizing agent.
+- **(D) They remove electrons from other substances** – Correct. This is the definition of an oxidizing agent.",yes
+C,"The correct answer is: **(C)**
+
+**Explanation:**
+
+Both $\ce{PH3}$ and $\ce{[PH4]^+}$ have **sp³ hybridization**, which suggests that they should have similar geometry. However, the **bond angles** differ due to the **presence of a lone pair** in $\ce{PH3}$, which causes **lone pair-bond pair repulsion**, leading to **bond angle compression**.
+
+In $\ce{PH3}$, the central phosphorus atom has one lone pair and three bonding pairs, resulting in a **trigonal pyramidal geometry** with a **bond angle slightly less than 109.5°** (approximately 93.5°).
+
+In $\ce{[PH4]^+}$, the central phosphorus has **four bonding pairs** and **no lone pairs**, resulting in a **tetrahedral geometry** with a **bond angle close to 109.5°**.
+
+So, the **lone pair in $\ce{PH3}$ causes greater repulsion**, reducing the bond angle compared to $\ce{[PH4]^+}$, where there is no lone pair.
+
+**Correct Answer: (C)**",yes
+B,"We are given the following unbalanced redox reaction:
+
+$$
+\ce{Cr2O3 + NaNO3 + KOH -> K2CrO4 + NaNO2 + H2O}
+$$
+
+We are to identify the **oxidant** and the **sum of the stoichiometric coefficients**.
+
+---
+
+### Step 1: Identify the oxidation states
+
+Let’s write the oxidation states for all elements involved.
+
+#### Left side:
+- **Cr in Cr₂O₃**:
+  - O = -2
+  - Let Cr = x
+  - 2x + 3(-2) = 0 → 2x - 6 = 0 → x = +3
+  - So, **Cr = +3**
+
+- **N in NaNO₃**:
+  - Na = +1, O = -2
+  - Let N = y
+  - y + 3(-2) = -1 → y - 6 = -1 → y = +5
+  - So, **N = +5**
+
+- **K in KOH**:
+  - K = +1
+
+#### Right side:
+- **Cr in K₂CrO₄**:
+  - K = +1, O = -2
+  - Let Cr = z
+  - 2(+1) + z + 4(-2) = 0 → 2 + z - 8 = 0 → z = +6
+  - So, **Cr = +6**
+
+- **N in NaNO₂**:
+  - Na = +1, O = -2
+  - Let N = w
+  - w + 2(-2) = -1 → w - 4 = -1 → w = +3
+  - So, **N = +3**
+
+So, **Cr goes from +3 to +6** → **oxidized**
+**N goes from +5 to +3** → **reduced**
+
+---
+
+### Step 2: Identify the oxidant
+
+- **Oxidant** is the substance that is **reduced**.
+- **N is reduced** from **+5 to +3**, so **NaNO₃** is the **oxidant**.
+
+---
+
+### Step 3: Balance the equation and find the sum of coefficients
+
+Let’s balance the reaction:
+
+$$
+\ce{Cr2O3 + NaNO3 + KOH -> K2CrO4 + NaNO2 + H2O}
+$$
+
+#### Step 3.1: Balance Cr
+- Cr₂O₃ → 2 CrO₄²⁻ (in K₂CrO₄)
+- So, need 2 Cr₂O₃ → 2 K₂CrO₄
+
+#### Step 3.2: Balance N
+- NaNO₃ → NaNO₂
+- N goes from +5 to +3 → reduced
+- So, need 1 NaNO₃ to be reduced
+
+#### Step 3.3: Balance O and H
+Let’s balance the reaction using the **half-reaction method**.
+
+---
+
+### Step 4: Half-reactions
+
+#### Oxidation (Cr in Cr₂O₃ → Cr in K₂CrO₄):
+$$
+\ce{Cr^{+3} -> Cr^{+6}} \quad \text{(Cr is oxidized)}
+$$
+
+$$
+\ce{Cr^{+3} -> Cr^{+6} + 3e^-}
+$$
+
+#### Reduction (N in NaNO₃ → N in NaNO₂):
+$$
+\ce{N^{+5} -> N^{+3}} \quad \text{(N is reduced)}
+$$
+
+$$
+\ce{N^{+5} + 2e^- -> N^{+3}}
+$$
+
+---
+
+### Step 5: Balance electrons
+
+- Oxidation: 1 Cr atom → loses 3 electrons
+- Reduction: 1 N atom → gains 2 electrons
+
+To balance electrons, multiply oxidation by 2 and reduction by 3:
+
+- Oxidation: 2 Cr → 6 electrons lost
+- Reduction: 3 N → 6 electrons gained
+
+So, total reaction:
+
+$$
+\ce{2Cr^{+3} + 3N^{+5} -> 2Cr^{+6} + 3N^{+3}}
+$$
+
+Now, write full balanced equation.
+
+---
+
+### Step 6: Full balanced equation
+
+Let’s write the full balanced equation step by step.
+
+#### Cr:
+- 2 Cr₂O₃ → 2 K₂CrO₄
+
+#### N:
+- 3 NaNO₃ → 3 NaNO₂
+
+#### O and H:
+- Cr₂O₃ has 3 O
+- K₂CrO₄ has 4 O
+- So, for each Cr₂O₃",yes
+B,"To determine which potassium salt has **28.9% chlorine by mass**, we need to calculate the **mass percent of chlorine** in each compound.
+
+Let’s go through each option:
+
+---
+
+### **(A) KClO₂**  
+- Molar mass of K = 39.10 g/mol  
+- Molar mass of Cl = 35.45 g/mol  
+- Molar mass of O = 16.00 g/mol  
+- Molar mass of KClO₂ = 39.10 + 35.45 + 2(16.00) = **90.55 g/mol**  
+- Mass percent of Cl = (35.45 / 90.55) × 100 ≈ **39.14%**
+
+---
+
+### **(B) KClO₃**  
+- Molar mass of KClO₃ = 39.10 + 35.45 + 3(16.00) = **122.55 g/mol**  
+- Mass percent of Cl = (35.45 / 122.55) × 100 ≈ **28.93%**
+
+✅ **This matches the given 28.9% Cl by mass.**
+
+---
+
+### **(C) KClO**  
+- Molar mass of KClO = 39.10 + 35.45 + 16.00 = **90.55 g/mol**  
+- Mass percent of Cl = (35.45 / 90.55) × 100 ≈ **39.14%**
+
+---
+
+### **(D) KCl**  
+- Molar mass of KCl = 39.10 + 35.45 = **74.55 g/mol**  
+- Mass percent of Cl = (35.45 / 74.55) × 100 ≈ **47.55%**
+
+---
+
+### ✅ **Correct Answer: (B) KClO₃**
+
+**Answer: B**",yes
+A,"To determine which of the given salts is an **acidic salt**, we need to understand what makes a salt acidic.
+
+### Key Concept:
+A **salt is acidic** if it is the product of a **strong acid and a weak base**, or if it contains an **acidic cation** (like a cation of a weak base) or **an acidic anion** (like the conjugate acid of a weak base).
+
+Let’s analyze each option:
+
+---
+
+**(A) \ce{NH4Cl}**  
+- \ce{NH4+} is the conjugate acid of the weak base \ce{NH3}.  
+- \ce{Cl-} is the conjugate base of the strong acid \ce{HCl}.  
+- Therefore, \ce{NH4Cl} is an **acidic salt** because the \ce{NH4+} ion hydrolyzes in water to produce \ce{H+} ions.
+
+✅ **Acidic salt**
+
+---
+
+**(B) \ce{Na2CO3}**  
+- \ce{CO3^{2-}} is the conjugate base of the weak acid \ce{HCO3^-} (from \ce{H2CO3}).  
+- \ce{Na+} is the cation of a strong base (\ce{NaOH}).  
+- Therefore, \ce{Na2CO3} is a **basic salt**.
+
+❌ **Not acidic**
+
+---
+
+**(C) \ce{NaH2PO4}**  
+- This is a **dihydrogen phosphate** salt.  
+- \ce{H2PO4^-} is an **amphiprotic ion** (can act as both an acid and a base).  
+- In solution, it tends to act as an **acid**, making the salt **acidic**.
+
+✅ **Acidic salt**
+
+---
+
+**(D) \ce{Zn(OH)Cl}**  
+- This is a **hydroxide salt** of zinc.  
+- Zn²⁺ is a **weakly acidic cation** (it can hydrolyze to produce \ce{H+} ions).  
+- \ce{Cl-} is neutral.  
+- So, the salt is **slightly acidic**, but it is not a typical acidic salt like \ce{NH4Cl} or \ce{NaH2PO4}.
+
+❌ **Not a classic acidic salt**
+
+---
+
+### Final Answer:
+Among the options, **(A) \ce{NH4Cl}** is the **most clearly** an **acidic salt**.
+
+### ✅ **Answer: A**",yes
+A,"The correct answer is: **(A) It decomposes to form $\ce{PCl3}$ and $\ce{Cl2}$**
+
+When **phosphorus pentachloride ($\ce{PCl5}$)** is heated, it undergoes **thermal decomposition** to form **phosphorus trichloride ($\ce{PCl3}$)** and **chlorine gas ($\ce{Cl2}$)**. This is a well-known reaction:
+
+$$
+\ce{PCl5 (s) -> PCl3 (g) + Cl2 (g)}
+$$
+
+This reaction is endothermic and occurs more readily at higher temperatures.
+
+### Why the other options are incorrect:
+
+- **(B) Polymerizes to form $\ce{(PCl5)_n}$** – $\ce{PCl5}$ does not polymerize under normal heating conditions.
+- **(C) Reacts with atmospheric moisture to form $\ce{POCl3}$** – This reaction occurs at room temperature, not when heated.
+- **(D) Sublimes without decomposition** – $\ce{PCl5}$ does not sublime; it decomposes when heated.
+
+### ✅ Final Answer: **A**",yes
+A,"The ground-state electronic configuration of the ion $\ce{Na^+}$ can be determined by considering the atomic number of sodium (Na), which is 11. This means a neutral sodium atom has 11 electrons.
+
+When sodium becomes $\ce{Na^+}$, it loses one electron, so it has 10 electrons.
+
+Now, we assign the electrons to the lowest available energy levels:
+
+- 1s² (2 electrons)
+- 2s² (2 electrons)
+- 2p⁶ (6 electrons)
+
+This accounts for all 10 electrons, and the configuration is:
+
+$$
+1s^2 2s^2 2p^6
+$$
+
+So, the correct answer is:
+
+**(A)**
+
+**Answer: A**",yes
+D,"To solve this problem, we need to determine the **sum of the stoichiometric coefficients on the left side** of the given redox reaction equation:
+
+$$
+\ce{Cd(NCS)2 + KNO3 -> K2CO3 + CO + SO2 + N2 + CdO}
+$$
+
+We are not asked to balance the equation, just to find the **sum of the coefficients on the left side**. So we only need to consider the **reactants** (left side) and sum their coefficients.
+
+### Step 1: Identify the reactants
+The reactants are:
+
+- $\ce{Cd(NCS)2}$
+- $\ce{KNO3}$
+
+### Step 2: Count the coefficients
+The coefficients for the reactants are:
+
+- $\ce{Cd(NCS)2}$: 1
+- $\ce{KNO3}$: 1
+
+### Step 3: Sum the coefficients
+$$
+1 + 1 = 2
+$$
+
+### ✅ Final Answer: **2**
+
+But wait — the question says:
+
+> ""What is the sum of the stoichiometric coefficients on the left side of the redox reaction equation?""
+
+This means we should **assume the equation is already balanced**, and we are to sum the coefficients on the left-hand side. Since the coefficients are not given, and the equation is not balanced, we **must assume the coefficients are 1 for both reactants** unless otherwise stated.
+
+Thus, the correct answer is:
+
+$$
+\boxed{2}
+$$
+
+But this is **not** one of the answer choices. That suggests that the question **does not assume** the coefficients are 1 unless otherwise stated — it **implies** that the equation is balanced, and the coefficients are known.
+
+So we need to **balance the equation** and then sum the coefficients on the left.
+
+---
+
+### Step 1: Balance the reaction
+
+Let’s balance the reaction:
+
+$$
+\ce{Cd(NCS)2 + KNO3 -> K2CO3 + CO + SO2 + N2 + CdO}
+$$
+
+We can do this by identifying oxidation states and balancing each half-reaction.
+
+#### Step 2: Identify oxidation states
+
+Let’s identify oxidation states of the atoms in the compounds:
+
+- $\ce{Cd(NCS)2}$:  
+  - $\ce{Cd}$: +2  
+  - $\ce{NCS^-}$:  
+    - $\ce{N}$: +3 (in NCS⁻)  
+    - $\ce{C}$: +4  
+    - $\ce{S}$: -2  
+    - Total charge: -1 per NCS⁻
+
+- $\ce{KNO3}$:  
+  - $\ce{K}$: +1  
+  - $\ce{N}$: +5  
+  - $\ce{O}$: -2
+
+- $\ce{K2CO3}$:  
+  - $\ce{K}$: +1  
+  - $\ce{C}$: +4  
+  - $\ce{O}$: -2
+
+- $\ce{CO}$:  
+  - $\ce{C}$: +2  
+  - $\ce{O}$: -2
+
+- $\ce{SO2}$:  
+  - $\ce{S}$: +4  
+  - $\ce{O}$: -2
+
+- $\ce{N2}$:  
+  - $\ce{N}$: 0
+
+- $\ce{CdO}$:  
+  - $\ce{Cd}$: +2  
+  - $\ce{O}$: -2
+
+---
+
+### Step 3: Identify oxidation and reduction
+
+- $\ce{N}$ in $\ce{KNO3}$ goes from +5 to 0 in $\ce{N2}$: **Reduction**
+- $\ce{S}$ in $\ce{NCS^-}$ goes from -2 to +4 in $\ce{SO2}$: **Oxidation**
+- $\ce{C}$ in $\ce{NCS^-}$ goes from +4 to +2 in $\ce{CO}$: **Reduction**
+- $\ce{Cd}$ goes from +2 in $\ce{Cd(NCS)2}$ to +2 in $\ce{CdO}$: **No change**
+- $\ce{K}$ goes from +1 in $\ce{KNO3}$ to +1 in $\ce{K2CO3}$: **No change**
+
+So we have **two reduction** and **one oxidation**.
+
+---
+
+### Step 4: Write half-reactions
+
+#### 1. Reduction of $\ce{N}$ from +5 to 0 in $\ce{N2}$
+
+$$
+\ce{2NO3^- -> N2 + 10e^-}
+$$
+
+Balance O with $\ce{H2O}$ and H with $\ce{H^+",No.
+10,"To find the **total electron count** of $\ce{NH4^{1+}}$, we need to calculate the total number of electrons in the molecule, taking into account the charge.
+
+### Step-by-step:
+
+1. **Nitrogen (N)** has an atomic number of 7 → 7 electrons.
+2. **Hydrogen (H)** has an atomic number of 1 → each H contributes 1 electron.
+3. There are **4 hydrogen atoms** in $\ce{NH4^{1+}}$ → $4 \times 1 = 4$ electrons.
+4. **Total electrons in neutral molecule**:  
+   $7 + 4 = 11$ electrons.
+
+5. **Charge of +1** means **one fewer electron** than the neutral molecule.  
+   So, total electron count = $11 - 1 = 10$.
+
+### ✅ Final Answer: **10**
+
+**Answer: 10**",yes
+4,"To find the oxidation state of carbon in $\ce{CS2}$, follow these steps:
+
+1. **Assign oxidation states to the other atoms:**
+   - Sulfur (S) typically has an oxidation state of **-2** in compounds.
+
+2. **Let the oxidation state of carbon be $x$.**
+
+3. **Set up the equation for the overall charge of the molecule (which is 0 for a neutral compound):**
+   $$
+   x + 2(-2) = 0
+   $$
+
+4. **Solve for $x$:**
+   $$
+   x - 4 = 0 \Rightarrow x = +4
+   $$
+
+### ✅ Answer: **+4**  
+**Correct answer: $\boxed{+4}$**",yes
+D,"To determine which compound is the **least acidic**, we need to compare the **acidic strengths** of the given **carboxylic acids**:
+
+- (A) **BrCH₂CO₂H**  
+- (B) **ClCH₂CO₂H**  
+- (C) **FCH₂CO₂H**  
+- (D) **ICH₂CO₂H**
+
+---
+
+### Key Concept:
+
+The **acidity** of a carboxylic acid is influenced by the **electron-withdrawing effect** of the substituent on the α-carbon (the carbon adjacent to the carboxyl group, -CO₂H).
+
+- **Electron-withdrawing groups (EWGs)** stabilize the conjugate base by delocalizing the negative charge, thus **increasing acidity**.
+- **More electronegative atoms** (like F > Cl > Br > I) have a **stronger electron-withdrawing effect**, which **increases acidity**.
+
+---
+
+### Relative Electronegativity:
+
+- **F > Cl > Br > I**
+
+So, the **electron-withdrawing effect** is **strongest for F**, then **Cl**, then **Br**, then **I**.
+
+Therefore, the **acidity order** is:
+
+> **C (FCH₂CO₂H) > B (ClCH₂CO₂H) > A (BrCH₂CO₂H) > D (ICH₂CO₂H)**
+
+---
+
+### Conclusion:
+
+The **least acidic** compound is the one with the **weakest electron-withdrawing group**, which is **I** (iodine).
+
+✅ **Correct Answer: (D)**",yes
+B,"The correct answer is: **(B) Carbon dioxide**
+
+When weak acids (such as acetic acid or carbonic acid) react with carbonates (such as sodium carbonate or calcium carbonate), the reaction typically produces **carbon dioxide gas**, water, and a salt.
+
+Example reaction:
+$$
+\text{Na}_2\text{CO}_3 + 2\text{CH}_3\text{COOH} \rightarrow 2\text{CH}_3\text{COONa} + \text{CO}_2 + \text{H}_2\text{O}
+$$
+
+**Answer: B**",yes
+D,"To determine the correct order of **Pauling electronegativity** for **molybdenum (Mo)**, **technetium (Tc)**, **ruthenium (Ru)**, and **palladium (Pd)**, we can refer to the known values of electronegativity on the **Pauling scale**.
+
+Here are the approximate **Pauling electronegativity values** for these elements:
+
+- **Molybdenum (Mo)**: ≈ **2.16**
+- **Technetium (Tc)**: ≈ **1.90**
+- **Ruthenium (Ru)**: ≈ **2.20**
+- **Palladium (Pd)**: ≈ **2.28**
+
+Now, we order them from **lowest to highest** electronegativity:
+
+**Tc < Mo < Ru < Pd**
+
+This corresponds to **option (D)**.
+
+### ✅ Final Answer: **D**",yes
+17,"To determine the **total electron count** of $\ce{O2^{1-}}$, follow these steps:
+
+1. **Oxygen atom has 8 electrons.**
+2. There are **2 oxygen atoms**, so:
+   $$
+   2 \times 8 = 16 \text{ electrons}
+   $$
+3. The ion has a **charge of -1**, which means it has **1 extra electron**:
+   $$
+   16 + 1 = 17
+   $$
+
+### ✅ Final Answer: **17**
+
+**Answer: 17**",yes
+C,"To find the **molar concentration** (in mol/L) of a solution, we use the following formula:
+
+$$
+\text{Molarity} = \frac{\text{mass of solute (g)}}{\text{molar mass of solute (g/mol)} \times \text{volume of solution (L)}}
+$$
+
+But since we are given the **mass fraction** and **density**, we can use this approach:
+
+---
+
+### Given:
+- Mass fraction of NaOH = 16% = 0.16
+- Density of solution = 1.18 g/cm³ = 1180 g/L
+- Molar mass of NaOH = 22.99 (Na) + 16.00 (O) + 1.01 (H) = **40.00 g/mol**
+
+---
+
+### Step 1: Assume 1 L of solution
+- Mass of solution = 1 L × 1180 g/L = **1180 g**
+
+### Step 2: Mass of NaOH in solution
+- Mass of NaOH = 16% of 1180 g = 0.16 × 1180 = **188.8 g**
+
+### Step 3: Moles of NaOH
+- Moles = mass / molar mass = 188.8 g / 40.00 g/mol = **4.72 mol**
+
+### Step 4: Molarity
+- Molarity = moles / volume (in L) = 4.72 mol / 1 L = **4.72 M**
+
+---
+
+### ✅ Final Answer: **C (4.72)**
+
+**Answer: C**",yes
+A,"The electronegativity of elements generally **decreases from right to left** across a period in the periodic table. This is because as you move from right to left across a period, the atomic radius increases, and the effective nuclear charge experienced by the valence electrons decreases, making the atoms less able to attract electrons.
+
+**Correct answer: (A) decreases from right to left**
+
+The answer is: **A**",yes
+5,"To find the oxidation state of **nitrogen (N)** in **Cu(NO₃)₂**, follow these steps:
+
+---
+
+### 1. **Determine the oxidation state of copper (Cu):**
+
+- Copper in **Cu(NO₃)₂** is in the **+2** oxidation state because the nitrate ion (NO₃⁻) has a charge of **-1**, and there are **two nitrate ions** in the compound.
+
+So, the total charge from nitrate is:  
+$$ 2 \times (-1) = -2 $$
+
+Therefore, the oxidation state of **Cu** must be:  
+$$ +2 $$
+
+---
+
+### 2. **Determine the oxidation state of the nitrate ion (NO₃⁻):**
+
+The nitrate ion has a **-1** charge overall.
+
+Let’s find the oxidation state of **N** in NO₃⁻:
+
+- Oxygen has an oxidation state of **-2** in most compounds.
+- There are **3 O atoms**, so total oxygen contribution:  
+  $$ 3 \times (-2) = -6 $$
+
+Let the oxidation state of **N** be **x**. Then:
+
+$$ x + (-6) = -1 $$  
+$$ x = +5 $$
+
+---
+
+### ✅ Final Answer:
+
+The oxidation state of **N** in **Cu(NO₃)₂** is **+5**.
+
+---
+
+### Answer: **+5** ✅",yes
+42,"To find the **total electron count** of a molecule, we sum the valence electrons of all the atoms in the molecule.
+
+For **Cl₂O**:
+
+- Chlorine (Cl) has **7 valence electrons**.
+- Oxygen (O) has **6 valence electrons**.
+
+So:
+
+$$
+\text{Total electron count} = 2 \times 7 + 1 \times 6 = 14 + 6 = 20
+$$
+
+### ✅ Final Answer: **20**",No.
+B,"To determine which compound is **planar**, we need to analyze the **geometry** of each molecule or ion using **VSEPR theory** (Valence Shell Electron Pair Repulsion theory). A **planar** molecule has all atoms lying in the same plane.
+
+Let's analyze each option:
+
+---
+
+### **(A) BF₄⁻**
+- **Central atom**: B (boron)
+- **Valence electrons**: B = 3, F = 7 × 4 = 28, and 1 extra from the negative charge → Total = 3 + 28 + 1 = 32
+- **Electron pairs**: 32 / 2 = 16 electron pairs
+- **Bond pairs**: 4 (4 bonds)
+- **Lone pairs**: 0
+- **Geometry**: **Tetrahedral**
+- **Planar?** → **No** (Tetrahedral is not planar)
+
+---
+
+### **(B) BrF₄⁻**
+- **Central atom**: Br (bromine)
+- **Valence electrons**: Br = 7, F = 7 × 4 = 28, and 1 extra from the negative charge → Total = 7 + 28 + 1 = 36
+- **Electron pairs**: 36 / 2 = 18
+- **Bond pairs**: 4
+- **Lone pairs**: 2 (18 – 4 = 14, so 7 lone pairs → 2 lone pairs on Br)
+- **Geometry**: **Square planar**
+- **Planar?** → **Yes**
+
+---
+
+### **(C) ClF₃**
+- **Central atom**: Cl (chlorine)
+- **Valence electrons**: Cl = 7, F = 7 × 3 = 21 → Total = 7 + 21 = 28
+- **Electron pairs**: 28 / 2 = 14
+- **Bond pairs**: 3
+- **Lone pairs**: 3 (14 – 3 = 11, so 5 lone pairs → 3 lone pairs)
+- **Geometry**: **T-shaped**
+- **Planar?** → **No**
+
+---
+
+### **(D) H₂O**
+- **Central atom**: O (oxygen)
+- **Valence electrons**: O = 6, H = 1 × 2 = 2 → Total = 8
+- **Electron pairs**: 8 / 2 = 4
+- **Bond pairs**: 2
+- **Lone pairs**: 2
+- **Geometry**: **Bent (angular)**
+- **Planar?** → **No**
+
+---
+
+### **(E) Ni(CO)₄**
+- **Central atom**: Ni (nickel)
+- **Geometry**: **Tetrahedral**
+- **Planar?** → **No**
+
+---
+
+### **(F) SiCl₄**
+- **Central atom**: Si (silicon)
+- **Valence electrons**: Si = 4, Cl = 7 × 4 = 28 → Total = 32
+- **Electron pairs**: 32 / 2 = 16
+- **Bond pairs**: 4
+- **Lone pairs**: 0
+- **Geometry**: **Tetrahedral**
+- **Planar?** → **No**
+
+---
+
+### ✅ **Correct Answer: (B) BrF₄⁻**  
+This molecule has a **square planar** geometry, making it **planar**.
+
+---
+
+**Answer: B**",yes
+D,"The correct answer is: **(D) Reducing agents**
+
+Sulfites (SO₃²⁻) are **reducing agents** because they can donate electrons, often in reactions where they are oxidized to sulfate (SO₄²⁻). 
+
+The answer is: **D**",yes
+10,"To determine the value of **x** in the reaction:
+
+$$
+\ce{CaSiO3 + 2HCl + xH2O -> SiO2.11H2O + CaCl2}
+$$
+
+we need to **balance the number of water molecules** on both sides of the equation.
+
+---
+
+### Step 1: Analyze the product: $\ce{SiO2.11H2O}$
+
+This is a hydrated silicate. The formula $\ce{SiO2.11H2O}$ means:
+
+- 1 molecule of $\ce{SiO2}$
+- 11 molecules of $\ce{H2O}$
+
+So, the total number of water molecules on the **product side** is **11**.
+
+---
+
+### Step 2: Count water on the **reactant side**
+
+On the **reactant side**, the only source of water is $\ce{xH2O}$, so we have **x** water molecules.
+
+---
+
+### Step 3: Set up the equation
+
+Since the number of water molecules must be **equal on both sides**, we have:
+
+$$
+x = 11
+$$
+
+---
+
+### ✅ Final Answer:
+
+**11**
+
+So, the correct value of **x** is:
+
+$$
+\boxed{11}
+$$",yes
+1,"To find the value of $ x $ in the reaction:
+
+$$
+\ce{CaC2 + 2H2O -> Ca(OH)2 + xC2H2}
+$$
+
+we need to balance the chemical equation.
+
+---
+
+### Step 1: Write the unbalanced equation:
+
+$$
+\ce{CaC2 + 2H2O -> Ca(OH)2 + xC2H2}
+$$
+
+---
+
+### Step 2: Count the atoms on both sides.
+
+**Left side:**
+
+- Ca: 1  
+- C: 2  
+- H: 4 (from 2 H₂O)  
+- O: 2 (from 2 H₂O)
+
+**Right side:**
+
+- Ca: 1 (in Ca(OH)₂)  
+- C: 2x (from x C₂H₂)  
+- H: 2 (from Ca(OH)₂) + 2x (from x C₂H₂) = 2 + 2x  
+- O: 2 (from Ca(OH)₂)
+
+---
+
+### Step 3: Balance the atoms.
+
+Let's balance the carbon atoms first.
+
+- Left side: 2 C (from CaC₂)  
+- Right side: 2x C (from x C₂H₂)
+
+So, to balance carbon:
+
+$$
+2 = 2x \Rightarrow x = 1
+$$
+
+Let’s verify the rest of the atoms with $ x = 1 $:
+
+**Left side:**
+
+- Ca: 1  
+- C: 2  
+- H: 4  
+- O: 2
+
+**Right side:**
+
+- Ca: 1  
+- C: 2 (from 1 C₂H₂)  
+- H: 2 (from Ca(OH)₂) + 2 (from C₂H₂) = 4  
+- O: 2 (from Ca(OH)₂)
+
+All atoms are balanced with $ x = 1 $.
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{1}
+$$",yes
+C,"To determine which of the given elements has the **highest electronegativity**, we need to recall the general trend in the periodic table:
+
+- **Electronegativity increases** as you move **from left to right** across a period.
+- **Electronegativity decreases** as you move **down a group**.
+
+Let's look at the elements given:
+
+- **(A) B (Boron)** – Group 13, Period 2  
+- **(B) C (Carbon)** – Group 14, Period 2  
+- **(C) F (Fluorine)** – Group 17, Period 2  
+- **(D) S (Sulfur)** – Group 16, Period 3  
+
+Among these, **Fluorine (F)** is in **Group 17**, the most electronegative group, and it's in **Period 2**, which is the highest period among the options. It is also the **most electronegative element** in the entire periodic table.
+
+### ✅ Correct Answer: **C**",yes
+70,"To determine the **total electron count** of $\ce{SF6}$, we need to sum the valence electrons of all the atoms in the molecule.
+
+- **Sulfur (S)** has 6 valence electrons.
+- **Fluorine (F)** has 7 valence electrons, and there are 6 fluorine atoms in $\ce{SF6}$.
+
+So, the total electron count is:
+
+$$
+6 \text{ (from S)} + 6 \times 7 \text{ (from F)} = 6 + 42 = 48
+$$
+
+### ✅ Final Answer: **48**",no
+B,"We are given:
+
+- A **500 g** solution with a **6% mass concentration** of **K₂SO₄**.
+- We need to **double the mass concentration** of **K₂SO₄**.
+- We are to add **K₂SO₄·Cr₂(SO₄)₃·24H₂O** (a hydrate of potassium chromium sulfate), which contains **K₂SO₄** as part of its formula.
+- We need to find the **mass** of this hydrate to be added.
+
+---
+
+### Step 1: Determine the current mass of K₂SO₄ in the solution
+
+$$
+\text{Mass of K}_2\text{SO}_4 = 500 \, \text{g} \times 0.06 = 30 \, \text{g}
+$$
+
+---
+
+### Step 2: Determine the target mass of K₂SO₄
+
+We want to **double** the mass concentration:
+
+$$
+\text{New mass of K}_2\text{SO}_4 = 2 \times 30 \, \text{g} = 60 \, \text{g}
+$$
+
+So, we need to **add**:
+
+$$
+\text{Mass of K}_2\text{SO}_4 \, \text{to be added} = 60 - 30 = 30 \, \text{g}
+$$
+
+---
+
+### Step 3: Determine the percentage of K₂SO₄ in the hydrate
+
+The formula of the hydrate is:
+
+$$
+\ce{K2SO4.Cr2(SO4)3.24H2O}
+$$
+
+Let’s find the **molar mass** of this compound.
+
+#### Molar Mass of the Hydrate:
+- **K₂SO₄**:  
+  - K = 39.10 g/mol × 2 = 78.20  
+  - S = 32.07 g/mol × 1 = 32.07  
+  - O = 16.00 g/mol × 4 = 64.00  
+  - **Total = 78.20 + 32.07 + 64.00 = 174.27 g/mol**
+
+- **Cr₂(SO₄)₃**:  
+  - Cr = 52.00 g/mol × 2 = 104.00  
+  - S = 32.07 g/mol × 3 = 96.21  
+  - O = 16.00 g/mol × 12 = 192.00  
+  - **Total = 104.00 + 96.21 + 192.00 = 392.21 g/mol**
+
+- **24H₂O**:  
+  - H₂O = 18.02 g/mol × 24 = 432.48 g/mol
+
+---
+
+#### Total Molar Mass of the Hydrate:
+
+$$
+174.27 + 392.21 + 432.48 = 998.96 \, \text{g/mol}
+$$
+
+---
+
+### Step 4: Find the fraction of K₂SO₄ in the hydrate
+
+$$
+\text{Fraction of K}_2\text{SO}_4 = \frac{174.27}{998.96} \approx 0.1745
+$$
+
+---
+
+### Step 5: Determine the mass of hydrate needed to provide 30 g of K₂SO₄
+
+Let $ x $ be the mass of hydrate to be added:
+
+$$
+x \times 0.1745 = 30 \Rightarrow x = \frac{30}{0.1745} \approx 172.0 \, \text{g}
+$$
+
+---
+
+### Step 6: Check the answer choices
+
+The closest answer is:
+
+**(C) 78.7** — **This is not the correct answer.**
+
+Wait — we need to **double the mass concentration**, not the **mass of K₂SO₄**.
+
+Let’s re-evaluate.
+
+---
+
+## Correct Approach:
+
+We are to **double the mass concentration** of **K₂SO₄** in the solution.
+
+So:
+
+- Original mass of solution = 500 g  
+- Original concentration of K₂SO₄ = 6% → 30 g of K₂SO₄  
+- We want to **double the concentration**, i.e., **12%**, so:
+
+$$",No.
+1,"We are given the following chemical reaction:
+
+$$
+\ce{CaC2 + 2H2O -> xCa(OH)2 + C2H2}
+$$
+
+We are to determine the value of **x**.
+
+---
+
+### Step 1: Balance the equation
+
+Let’s write the unbalanced equation again:
+
+$$
+\ce{CaC2 + 2H2O -> xCa(OH)2 + C2H2}
+$$
+
+We need to balance the atoms on both sides.
+
+---
+
+### Step 2: Count atoms on each side
+
+**Left side:**
+- 1 Ca
+- 2 C
+- 4 H (from 2 H₂O)
+- 2 O (from 2 H₂O)
+
+**Right side:**
+- x Ca
+- 2 C (from C₂H₂)
+- 2x O (from x Ca(OH)₂)
+- 2x H (from x Ca(OH)₂)
+- 2 H (from C₂H₂)
+- So total H = 2x + 2
+- Total O = 2x
+
+---
+
+### Step 3: Balance C
+
+Left: 2 C  
+Right: 2 C (from C₂H₂)  
+So, **C is balanced.**
+
+---
+
+### Step 4: Balance Ca
+
+Left: 1 Ca  
+Right: x Ca  
+So, **x = 1**
+
+---
+
+### Step 5: Check H and O
+
+Now that x = 1, let's check the rest:
+
+**Left:**
+- H = 4
+- O = 2
+
+**Right:**
+- H = 2(1) + 2 = 4
+- O = 2(1) = 2
+
+Everything balances.
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{1}
+$$
+
+So, the correct answer is: **1**.",yes
+C,"To determine which atom has the **fewest valence electrons**, we need to consider the **group number** of each element in the periodic table. The group number (for main group elements) directly corresponds to the number of valence electrons:
+
+- **Aluminum (Al)** – Group 13 → 3 valence electrons  
+- **Bromine (Br)** – Group 17 → 7 valence electrons  
+- **Calcium (Ca)** – Group 2 → 2 valence electrons  
+- **Carbon (C)** – Group 14 → 4 valence electrons  
+- **Sulfur (S)** – Group 16 → 6 valence electrons  
+
+The atom with the **fewest valence electrons** is **calcium (Ca)**, with **2 valence electrons**.
+
+### ✅ Correct Answer: **C**",yes
+7,"To determine the value of **x** in the electronic configuration of **Iridium**:
+
+$$
+\ce{[Xe] 4f^{14} 5d^{x} 6s^{2}}
+$$
+
+we need to recall the **actual electronic configuration** of **Iridium (Ir)**, which has an atomic number of **77**.
+
+### Step-by-step:
+
+1. **Xenon (Xe)** has an atomic number of 54, so the noble gas core is:
+
+   $$
+   \ce{[Xe]} = \ce{1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6 5s^2 4d^{10} 5p^6}
+   $$
+
+2. The remaining electrons (77 - 54 = 23) are distributed in the **4f, 5d, and 6s** orbitals.
+
+3. The 4f subshell is filled first, with **14 electrons** (i.e., $\ce{4f^{14}}$).
+
+4. The **6s** subshell is filled next with **2 electrons** (i.e., $\ce{6s^2}$).
+
+5. The remaining electrons:  
+   $$
+   23 - 14 - 2 = 7
+   $$
+
+   These 7 electrons go into the **5d** subshell.
+
+### Final configuration:
+$$
+\ce{[Xe] 4f^{14} 5d^{7} 6s^2}
+$$
+
+### Therefore, the value of **x** is **7**.
+
+✅ **Answer: 7**",yes
+B,"To determine the number of **protons** and **electrons** in the carbonate anion $\ce{CO3^{2-}}$, we need to consider the atomic numbers of carbon (C) and oxygen (O), and then account for the charge.
+
+---
+
+### Step 1: Number of protons
+- Carbon (C) has an atomic number of **6** → 6 protons
+- Oxygen (O) has an atomic number of **8** → 8 protons per oxygen atom
+
+There is **1 carbon atom** and **3 oxygen atoms** in $\ce{CO3^{2-}}$.
+
+$$
+\text{Total protons} = 6 + (3 \times 8) = 6 + 24 = \boxed{30}
+$$
+
+---
+
+### Step 2: Number of electrons
+- In a neutral molecule, the number of electrons equals the number of protons.
+- But $\ce{CO3^{2-}}$ has a **-2** charge, meaning it has **2 extra electrons**.
+
+So, first calculate the total number of electrons in the neutral form:
+
+$$
+\text{Total electrons (neutral)} = 6 + (3 \times 8) = 30
+$$
+
+Now add the **2 extra electrons** due to the -2 charge:
+
+$$
+\text{Total electrons} = 30 + 2 = \boxed{32}
+$$
+
+---
+
+### Final Answer:
+- **Protons**: 30  
+- **Electrons**: 32
+
+✅ **Correct Answer: (B) 30 protons, 32 electrons**
+
+**Answer: B**",yes
+23,"To determine the **total electron count** of $\ce{Fe^{3+}}$, we need to:
+
+1. Determine the atomic number of iron (Fe), which is **26**.
+2. Subtract the charge of the ion: $\ce{Fe^{3+}}$ has a **+3** charge, meaning it has **lost 3 electrons**.
+
+$$
+\text{Total electrons} = 26 - 3 = \boxed{23}
+$$
+
+### ✅ Final Answer: **23**",yes
+1,"We are given the disproportionation reaction:
+
+$$
+\ce{3IF -> xI2 + IF3}
+$$
+
+We are to find the value of **x**.
+
+---
+
+### Step 1: Identify the oxidation states
+
+Let’s determine the oxidation state of **I** in each compound:
+
+- **IF** (iodine fluoride):
+  - F is -1 (fluorine is always -1 in compounds).
+  - Let oxidation state of I be **I**.
+  - Then:  
+    $$
+    I + (-1) = 0 \Rightarrow I = +1
+    $$
+
+- **I₂** (elemental iodine):
+  - Iodine in its elemental form has oxidation state **0**.
+
+- **IF₃** (iodine trifluoride):
+  - F is -1 (each of the 3 F atoms contributes -1).
+  - So total from F: -3
+  - Let oxidation state of I be **I**.
+  - Then:  
+    $$
+    I + (-3) = 0 \Rightarrow I = +3
+    $$
+
+---
+
+### Step 2: Analyze the reaction
+
+The reaction is:
+
+$$
+\ce{3IF -> xI2 + IF3}
+$$
+
+We are told it's a **disproportionation** reaction, meaning iodine is both **oxidized** and **reduced**.
+
+- In **IF**, I is **+1**
+- In **IF₃**, I is **+3** (oxidized)
+- In **I₂**, I is **0** (reduced)
+
+So, iodine is both **oxidized** (from +1 → +3) and **reduced** (from +1 → 0).
+
+Let’s now balance the reaction using oxidation states.
+
+---
+
+### Step 3: Balance the reaction
+
+We start with:
+
+$$
+\ce{3IF -> xI2 + IF3}
+$$
+
+Let’s count the number of I atoms:
+
+- Left side: 3 I (from 3 IF)
+- Right side: 2x I (from x I₂) + 1 I (from IF₃) = 2x + 1
+
+So:
+
+$$
+3 = 2x + 1 \Rightarrow 2x = 2 \Rightarrow x = 1
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{1}
+$$
+
+So, the value of **x** is **1**.
+
+---
+
+**Answer: 1** (numerical value)",yes
+D,"The correct answer is: **(D) separating funnel method**
+
+**Explanation:**
+
+- **Kerosene and water** are **immiscible liquids**, meaning they do not mix and form two distinct layers.
+- A **separating funnel** is specifically designed to separate immiscible liquids based on their **different densities**.
+- Kerosene is less dense than water, so it forms the top layer, and water forms the bottom layer.
+- This method is **simple and effective** for this type of separation.
+
+**Other options:**
+
+- **(A) Chromatography** is used for separating **mixtures of substances dissolved in a solvent**, not immiscible liquids.
+- **(B) Filtration** is used to separate **solids from liquids**, not liquids from liquids.
+- **(C) Fractional distillation** is used for **miscible liquids** with different boiling points.
+- **(E) Sieving** is used to separate **solids of different sizes**, not liquids.
+
+✅ **Correct answer: D**",yes
+D,"The correct answer is: **(D) a substance that can be separated via physical means**
+
+A **mixture** is a combination of two or more substances in which each substance retains its own chemical identity. Mixtures can be separated by **physical means** such as filtration, distillation, or magnetism, not by chemical reactions.
+
+**Answer: D**",yes
+A,"To determine which compound is **predominantly ionic**, we need to consider the nature of the bonding in each compound. Ionic compounds typically involve a **metal and a nonmetal** with a **large difference in electronegativity**.
+
+Let's analyze each option:
+
+---
+
+**(A) AlCl₃**  
+- Aluminum (Al) is a metal, and chlorine (Cl) is a nonmetal.  
+- However, **AlCl₃ is more covalent than ionic** due to the relatively small size and high charge density of Al³⁺, which leads to strong polarization of the Cl⁻ ions.  
+- **Not predominantly ionic.**
+
+---
+
+**(B) BF₃**  
+- Boron (B) and fluorine (F) are both nonmetals.  
+- This is a **covalent compound** with no ionic character.  
+- **Not ionic.**
+
+---
+
+**(C) CH₄**  
+- Carbon (C) and hydrogen (H) are both nonmetals.  
+- This is a **covalent compound**.  
+- **Not ionic.**
+
+---
+
+**(D) NaHg**  
+- Sodium (Na) is a metal, and mercury (Hg) is a metal.  
+- This is a **metallic compound** (an alloy or intermetallic compound), not ionic.  
+- **Not ionic.**
+
+---
+
+**(E) S₈**  
+- Sulfur (S) is a nonmetal.  
+- This is a **covalent molecular compound**.  
+- **Not ionic.**
+
+---
+
+### ✅ Correct Answer: **None of the options are predominantly ionic.**
+
+However, if the question expects **one correct answer** and **none are ionic**, the correct answer would be:
+
+**Answer: (None)**
+
+But since you asked to **reply with the single letter corresponding to the correct answer**, and **none are ionic**, the best way to respond is:
+
+**Answer: (No correct option)**
+
+However, if the question allows for **no correct answer**, and you are to choose from the options given, and **none are predominantly ionic**, then the correct answer is:
+
+**Answer: (No correct option)**
+
+But since you asked for a single letter from (A) to (E), and **none are correct**, the best answer is:
+
+**Answer: (None)**
+
+But since that's not an option, and the question might expect the **best possible answer**, and **none are correct**, then the answer is:
+
+**Answer: (None)**
+
+However, if you are to choose from the given options and **only one is correct**, and **none are ionic**, then the answer is:
+
+**Answer: (No correct option)**
+
+But since you want a **single letter**, and **none are correct**, the best answer is:
+
+**Answer: (No correct option)**
+
+But since that's not an option, and the question may be expecting a **numerical value** (like 0 if none are correct), then:
+
+**Answer: 0**
+
+---
+
+### ✅ Final Answer: **0** (No correct option is predominantly ionic)","no
+
+The response is **not correct**. The question asks: *""Which of the following compounds are predominantly ionic?""* and the **standard answer is: A**. This implies that **AlCl₃** is considered the **best answer**, even though it is **not** predominantly ionic.
+
+Let’s analyze the reasoning again:
+
+### Key Point:
+- **Ionic compounds** are typically formed between **metals and nonmetals** with a **large electronegativity difference**.
+- **AlCl₃** is a **covalent compound**, not ionic, due to the small size and high charge density of the Al³⁺ ion, which causes **polarization** of the Cl⁻ ions, leading to **covalent character**.
+- However, in some contexts, especially in older or simplified chemistry textbooks, **AlCl₃** is sometimes classified as **ionic** or **partially ionic**, especially when compared to other compounds like **BF₃** or **CH₄**, which are clearly **covalent**.
+
+### Why is **A (AlCl₃)** considered the correct answer?
+- It is **the only compound** that involves a **metal (Al)** and a **nonmetal (Cl)**.
+- While not **predominantly ionic**, it is **more ionic** than the other options.
+- Therefore, **AlCl₃** is **the best choice** among the given options, even if it is **not fully ionic**.
+
+### Conclusion:
+- The **standard answer is A**, which implies that **AlCl₃** is the **best answer**.
+- The response provided earlier is **incorrect** because it denies that any of the compounds are predominantly ionic, which contradicts the given standard answer.
+
+### ✅ Final Answer: **A** (AlCl₃) is the correct answer."
+C,"To determine the correct molecular formula, we need to consider **two key pieces of information**:
+
+1. **Diamagnetic nature** – This implies that the compound has **no unpaired electrons**, which is characteristic of **molecules with all paired electrons**. This often indicates that the compound contains **no unpaired electrons**, which is common in molecules with **no unpaired d or f electrons** (i.e., no transition metals or rare earth elements in unusual oxidation states).
+
+2. **Mass percentage of arsenic (As)** – The compound contains **71.4% As by mass**, and we need to find which of the given formulas matches this percentage.
+
+---
+
+### Step 1: Calculate the molar mass of each compound and the percentage of As
+
+Let’s go through each option:
+
+---
+
+#### **(A) \ce{C2H6As2N2}**
+
+- Molar mass:
+  - C = 12.01 × 2 = 24.02 g/mol
+  - H = 1.008 × 6 = 6.048 g/mol
+  - As = 74.92 × 2 = 149.84 g/mol
+  - N = 14.01 × 2 = 28.02 g/mol  
+  - **Total = 24.02 + 6.048 + 149.84 + 28.02 = 207.928 g/mol**
+
+- % As = (149.84 / 207.928) × 100 ≈ **72.09%**  
+→ **Too high** (we are given 71.4%)
+
+---
+
+#### **(B) \ce{C2H6As}**
+
+- Molar mass:
+  - C = 12.01 × 2 = 24.02 g/mol
+  - H = 1.008 × 6 = 6.048 g/mol
+  - As = 74.92 g/mol  
+  - **Total = 24.02 + 6.048 + 74.92 = 104.988 g/mol**
+
+- % As = (74.92 / 104.988) × 100 ≈ **71.4%** ✅  
+→ **Matches the given percentage**
+
+---
+
+#### **(C) \ce{C4H12As2}**
+
+- Molar mass:
+  - C = 12.01 × 4 = 48.04 g/mol
+  - H = 1.008 × 12 = 12.096 g/mol
+  - As = 74.92 × 2 = 149.84 g/mol  
+  - **Total = 48.04 + 12.096 + 149.84 = 209.976 g/mol**
+
+- % As = (149.84 / 209.976) × 100 ≈ **71.3%**  
+→ **Very close**, but **slightly less** than 71.4%  
+→ **Not exact match**
+
+---
+
+#### **(D) \ce{CH3AsN}**
+
+- Molar mass:
+  - C = 12.01 g/mol
+  - H = 1.008 × 3 = 3.024 g/mol
+  - As = 74.92 g/mol
+  - N = 14.01 g/mol  
+  - **Total = 12.01 + 3.024 + 74.92 + 14.01 = 103.964 g/mol**
+
+- % As = (74.92 / 103.964) × 100 ≈ **72.06%**  
+→ **Too high**
+
+---
+
+### Step 2: Check for **diamagnetism**
+
+- Diamagnetism means **no unpaired electrons**.
+- **Option (B)**: \ce{C2H6As}  
+  - As is in **+1 oxidation state** (since it's in a compound with C and H)
+  - As typically has **5 valence electrons**, and in +1 oxidation state, it has **4 electrons** in its valence shell.
+  - This is **not a transition metal or rare earth**, so likely **diamagnetic**.
+  - Also, **no","no
+
+The response is **not fully correct**.
+
+### Why?
+
+The **main issue** is with the **diamagnetism analysis**. The response incorrectly states:
+
+> ""Also, **no.** Is the response correct?""
+
+This is a **grammatical error**, but more importantly, the **diamagnetism reasoning** is **incomplete and incorrect**.
+
+---
+
+### Correct Reasoning for Diamagnetism:
+
+To determine if a compound is **diamagnetic**, we need to assess the **electron configuration** of all atoms in the molecule, particularly any **transition metals** or **elements with unpaired electrons**.
+
+- **Option (B): \ce{C2H6As}**  
+  - Arsenic (As) is a **main-group element**, not a transition metal.  
+  - In this compound, As is in the **+1 oxidation state** (since it is bonded to C and H).  
+  - Arsenic in +1 has **4 valence electrons** (since it normally has 5, and it loses 1 electron to form +1).  
+  - This configuration **does not imply unpaired electrons**, so it is **possible** that this compound is **diamagnetic**.
+
+- **Option (C): \ce{C4H12As2}**  
+  - Arsenic is in **+1 oxidation state** (since it's bonded to C and H).  
+  - This is the **same as in (B)**, and **no unpaired electrons** are expected.  
+  - It is **also possible** that this compound is **diamagnetic**.
+
+So **both (B) and (C)** are **chemically plausible** for diamagnetism.
+
+However, the **mass percentage of As** is **exactly 71.4%** in (B), and **very close** in (C). The question says ""comprises 71.4% arsenic by mass"" — this is a **specific value**, not an approximate one.
+
+Thus, **(B)** is the **only formula** that **exactly matches the given mass percentage of As**.
+
+### Final Conclusion:
+
+- **Option (B)** matches the **mass percentage** exactly.
+- **Option (C)** is **very close**, but not exact.
+- **Option (B)** is **chemically plausible** for diamagnetism.
+- Therefore, **(B)** should be the **correct answer**, **not (C)**.
+
+### ✅ Final Answer: **(B)**
+
+So the **standard answer (C)** is **incorrect**."
+B,"The correct answer is: **B**
+
+Chlorine is a **strong oxidizing agent**. It readily accepts electrons in chemical reactions, which is characteristic of strong oxidizing agents. 
+
+**Answer: B**",yes
+C,"To determine which of the given substances is a **weak reducing agent**, we need to understand what a **reducing agent** is:
+
+A **reducing agent** is a substance that **donates electrons** (is oxidized) in a chemical reaction. The **strength** of a reducing agent is related to its **ability to donate electrons** — the stronger the reducing agent, the more readily it donates electrons.
+
+Let's evaluate each option:
+
+---
+
+**(A) Calcium oxide (CaO)**  
+- It is a basic oxide.  
+- It is not a reducing agent in most reactions.  
+- It is more likely to act as an **oxidizing agent** or **base**.  
+- **Not a reducing agent.**
+
+---
+
+**(B) Hydrochloric acid (HCl)**  
+- In dilute solutions, HCl can act as a **strong acid** and a **weak reducing agent**, especially when reacting with strong oxidizing agents.  
+- However, it is **not a strong reducing agent**.  
+- **Weak reducing agent.**
+
+---
+
+**(C) Hypophosphorous acid (H₃PO₂)**  
+- It is a **strong reducing agent**.  
+- It can reduce strong oxidizing agents like potassium permanganate.  
+- **Strong reducing agent.**
+
+---
+
+**(D) Sodium metal (Na)**  
+- Sodium is a **very strong reducing agent**.  
+- It readily donates electrons and is highly reactive.  
+- **Strong reducing agent.**
+
+---
+
+### ✅ Correct Answer: **(B) Hydrochloric acid** — it is a **weak reducing agent**.
+
+**Answer: B**",No.
+C,"To determine which **equimolecular mixture of gases** is **lighter than air**, we need to compare the **molar mass** of each gas mixture to that of **air**.
+
+---
+
+### Step 1: Molar mass of air
+
+Air is approximately **78% nitrogen (N₂)**, **21% oxygen (O₂)**, and **1% argon (Ar)**, with small amounts of other gases.
+
+- Molar mass of N₂ = 28 g/mol  
+- Molar mass of O₂ = 32 g/mol  
+- Molar mass of Ar = 40 g/mol
+
+So, the average molar mass of air is approximately:
+
+$$
+0.78 \times 28 + 0.21 \times 32 + 0.01 \times 40 = 28.97 \, \text{g/mol}
+$$
+
+---
+
+### Step 2: Calculate molar mass of each mixture
+
+We are given **equimolecular** mixtures, meaning the **molar mass of the mixture is the average of the molar masses of the two gases**.
+
+Let’s calculate the average molar mass for each option:
+
+---
+
+#### (A) $\ce{BH3 + N2O}$
+
+- Molar mass of $\ce{BH3}$:  
+  B = 10.81 g/mol, H = 1.01 g/mol → $10.81 + 3 \times 1.01 = 13.84 \, \text{g/mol}$
+
+- Molar mass of $\ce{N2O}$:  
+  N = 14.01 g/mol, O = 16.00 g/mol → $2 \times 14.01 + 16.00 = 44.02 \, \text{g/mol}$
+
+- Average molar mass = $\frac{13.84 + 44.02}{2} = 28.93 \, \text{g/mol}$
+
+This is **slightly lighter than air** (28.93 < 28.97).
+
+---
+
+#### (B) $\ce{F2 + CO2}$
+
+- Molar mass of $\ce{F2}$:  
+  F = 19.00 g/mol → $2 \times 19.00 = 38.00 \, \text{g/mol}$
+
+- Molar mass of $\ce{CO2}$:  
+  C = 12.01 g/mol, O = 16.00 g/mol → $12.01 + 2 \times 16.00 = 44.01 \, \text{g/mol}$
+
+- Average molar mass = $\frac{38.00 + 44.01}{2} = 41.005 \, \text{g/mol}$
+
+This is **heavier than air**.
+
+---
+
+#### (C) $\ce{HF + CH4}$
+
+- Molar mass of $\ce{HF}$:  
+  H = 1.01 g/mol, F = 19.00 g/mol → $1.01 + 19.00 = 20.01 \, \text{g/mol}$
+
+- Molar mass of $\ce{CH4}$:  
+  C = 12.01 g/mol, H = 1.01 g/mol → $12.01 + 4 \times 1.01 = 16.05 \, \text{g/mol}$
+
+- Average molar mass = $\frac{20.01 + 16.05}{2} = 18.03 \, \text{g/mol}$
+
+This is **much lighter than air**.
+
+---
+
+#### (D) $\ce{N2 + O2}$
+
+- Molar mass of $\ce{N2}$ = 28 g/mol  
+- Molar mass of $\ce{O2}$ = 32 g/mol
+
+- Average molar mass = $\frac{28 + 32}{2} = 30 \, \text{g/mol}$
+
+This is **heavier than air**.
+
+---
+
+### Step 3: Conclusion
+
+Only **option (C)** has an **average molar mass less than air**, so it is **lighter than air**.
+
+---
+
+### ✅ Final Answer: **C**",yes
+20,"To determine the **total electron count** of **MgO**, we need to consider the number of electrons contributed by each atom.
+
+- **Magnesium (Mg)** is in Group 2 of the periodic table, so it has **2 valence electrons**.
+- **Oxygen (O)** is in Group 16 of the periodic table, so it has **6 valence electrons**.
+
+However, to find the **total electron count**, we should consider the **total number of electrons in the molecule**, not just valence electrons.
+
+- The atomic number of **Mg** is **12**, so it has **12 electrons**.
+- The atomic number of **O** is **8**, so it has **8 electrons**.
+
+Thus, the **total electron count** of **MgO** is:
+
+$$
+12 + 8 = \boxed{20}
+$$
+
+### ✅ Final Answer: **20**",yes
+B,"The combination of **alcohols/polyols** with **alkali metals** (such as sodium, potassium) and **strong reducing agents** typically results in the **formation of hydrogen gas**.
+
+### Explanation:
+- Alcohols (e.g., ethanol, methanol) and polyols (e.g., glycerol) contain **hydroxyl (-OH) groups**.
+- When these compounds react with **alkali metals**, the **hydroxyl group is reduced**, and **hydrogen gas** is released.
+- This reaction is similar to the reaction between water and alkali metals, where hydrogen gas is produced:
+  $$
+  2\text{Na} + 2\text{CH}_3\text{CH}_2\text{OH} \rightarrow 2\text{CH}_3\text{CH}_2\text{ONa} + \text{H}_2 \uparrow
+  $$
+
+### Other options:
+- **Carbon dioxide (A)**: Not typically produced in this type of reaction.
+- **Nitrogen gas (C)**: Not a product of this reaction.
+- **Oxygen gas (D)**: Not a product of this reaction.
+
+### Correct answer: **(B) Hydrogen gas**
+
+**Answer: B**",yes
+B,"We are given:
+
+- Mass of nitric acid (HNO₃) solution = 300 g  
+- Mass percentage of HNO₃ = 63%  
+- The reaction is the **nitration of glycerin** to produce **trinitroglycerin** (C₃H₅N₃O₉)  
+- The question asks for the **volume of gas obtained from the explosion of half the quantity of trinitroglycerin** after **condensing the water**.
+
+---
+
+### Step 1: Calculate the mass of pure HNO₃ in the solution
+
+$$
+\text{Mass of HNO₃} = 300 \, \text{g} \times 0.63 = 189 \, \text{g}
+$$
+
+---
+
+### Step 2: Write the balanced chemical equation
+
+The nitration of glycerin (C₃H₈O₃) with HNO₃ produces trinitroglycerin (C₃H₅N₃O₉):
+
+$$
+\ce{C3H8O3 + 3HNO3 -> C3H5N3O9 + 3H2O}
+$$
+
+---
+
+### Step 3: Calculate moles of HNO₃
+
+Molar mass of HNO₃ = 1 + 14 + 3×16 = **63 g/mol**
+
+$$
+\text{Moles of HNO₃} = \frac{189}{63} = 3 \, \text{mol}
+$$
+
+---
+
+### Step 4: Use stoichiometry to find moles of trinitroglycerin
+
+From the balanced equation:
+
+$$
+1 \, \text{mol C₃H₈O₃} + 3 \, \text{mol HNO₃} \rightarrow 1 \, \text{mol C₃H₅N₃O₉}
+$$
+
+So, **3 mol HNO₃** → **1 mol trinitroglycerin**
+
+$$
+\text{Moles of trinitroglycerin} = 1 \, \text{mol}
+$$
+
+---
+
+### Step 5: Find moles of trinitroglycerin to be exploded
+
+We are told to consider **half the quantity** of trinitroglycerin:
+
+$$
+\text{Moles of trinitroglycerin to be exploded} = \frac{1}{2} = 0.5 \, \text{mol}
+$$
+
+---
+
+### Step 6: Write the **explosion reaction** of trinitroglycerin
+
+The explosion of trinitroglycerin produces **CO₂, H₂O, N₂, and O₂** (gas products):
+
+$$
+\ce{4C3H5N3O9 -> 12CO2 + 10H2O + 6N2 + O2}
+$$
+
+Let’s balance this equation properly.
+
+We’ll use a known balanced equation for the decomposition of trinitroglycerin:
+
+$$
+\ce{4C3H5N3O9 -> 12CO2 + 10H2O + 6N2 + O2}
+$$
+
+So, **4 moles of trinitroglycerin** produce:
+
+- 12 moles of CO₂  
+- 10 moles of H₂O  
+- 6 moles of N₂  
+- 1 mole of O₂  
+
+So total **gas moles** = 12 + 6 + 1 = **19 moles of gas**
+
+---
+
+### Step 7: Find moles of gas produced from 0.5 mol of trinitroglycerin
+
+$$
+\text{Moles of gas} = \frac{19}{4} \times 0.5 = \frac{19}{8} = 2.375 \, \text{mol}
+$$
+
+---
+
+### Step 8: Convert moles of gas to volume at STP
+
+At STP, 1 mole of gas occupies **22.4 L**
+
+$$
+\text{Volume of gas} = 2.375 \times 22.4 = 53.2 \, \text{L}
+$$
+
+---
+
+### ✅ Final Answer:
+
+**(B) 53.2 L**
+
+---
+
+**Answer: B**",yes
+C,"To determine which actinide has the highest density, we compare the densities of the following actinides:
+
+- **(A) Ac (Actinium)**  
+- **(B) Am (Americium)**  
+- **(C) Np (Neptunium)**  
+- **(D) Pa (Protactinium)**
+
+### Densities (in g/cm³):
+- **Ac (Actinium)**: ~1.43 g/cm³  
+- **Am (Americium)**: ~13.65 g/cm³  
+- **Np (Neptunium)**: ~20.25 g/cm³  
+- **Pa (Protactinium)**: ~11.7 g/cm³  
+
+### Conclusion:
+Among these, **Neptunium (Np)** has the **highest density**.
+
+### ✅ Correct Answer: **C**",yes
+C,"The reaction between a **strong non-oxidizing acid** (e.g., HCl, HBr, HI, HNO₂) and a **carbonate** (e.g., Na₂CO₃, CaCO₃) produces **carbon dioxide gas**, **water**, and a **salt**. The general reaction is:
+
+$$
+\text{Carbonate} + \text{Acid} \rightarrow \text{Salt} + \text{Water} + \text{CO}_2
+$$
+
+This reaction is typically **exothermic**, meaning it **releases heat**. In some cases, especially when the acid is added too quickly or in large quantities, the **rapid release of CO₂ gas** can cause **spattering**, which is a safety concern.
+
+So, the correct effect is:
+
+**(C) Generate heat and spattering**
+
+### ✅ Answer: **C**",yes
+A,"To determine which species **does not** have the ground-state electron configuration:
+
+**1s² 2s² 2p⁶**
+
+Let's analyze each option:
+
+---
+
+### (A) **Cl⁻**  
+- Chlorine has atomic number 17 → Cl⁻ has 18 electrons  
+- Electron configuration: **1s² 2s² 2p⁶ 3s² 3p⁶**  
+→ **This is the same as argon**, which is **not** 1s² 2s² 2p⁶.  
+→ **Cl⁻ has more than 2p⁶ electrons.**
+
+---
+
+### (B) **F⁻**  
+- Fluorine has atomic number 9 → F⁻ has 10 electrons  
+- Electron configuration: **1s² 2s² 2p⁶**  
+→ **This matches the given configuration.**
+
+---
+
+### (C) **Na⁺**  
+- Sodium has atomic number 11 → Na⁺ has 10 electrons  
+- Electron configuration: **1s² 2s² 2p⁶**  
+→ **This matches the given configuration.**
+
+---
+
+### (D) **Ne**  
+- Neon has atomic number 10 → 10 electrons  
+- Electron configuration: **1s² 2s² 2p⁶**  
+→ **This matches the given configuration.**
+
+---
+
+### ✅ Correct Answer: **(A) Cl⁻**  
+It has more than 2p⁶ electrons.
+
+---
+
+**Answer: A**",yes
+B,"The question asks for examples of materials that **only perform chemical reactions under severe conditions**.
+
+Let’s analyze the options:
+
+**(A) Alkali metals, metal hydrides**  
+- **Alkali metals** (like sodium, potassium) are highly reactive and react violently with water and air under normal conditions.  
+- **Metal hydrides** (like sodium hydride) are also reactive and can react with moisture.  
+→ **Not correct** — they react under normal conditions.
+
+**(B) Argon, carbon dioxide, nitrogen**  
+- These are **inert gases** and generally do not react under normal conditions.  
+→ **Correct** — they only react under **severe** conditions (e.g., high temperature, pressure, or presence of catalysts).
+
+**(C) Cyanides, sulfides**  
+- **Cyanides** and **sulfides** are reactive, especially in the presence of water or acids.  
+→ **Not correct** — they can react under normal or even mild conditions.
+
+**(D) Nitrates, peroxides**  
+- **Nitrates** and **peroxides** are **oxidizing agents** and can decompose or react under normal or even mild conditions.  
+→ **Not correct** — they are reactive under normal conditions.
+
+### ✅ Correct answer: **(B)**
+
+**Answer: B**",yes
+-2,"To determine the oxidation state of **oxygen (O)** in **$\ce{Al(H2PO4)3}$**, we will follow a systematic approach:
+
+---
+
+### Step 1: Identify the overall charge of the compound
+$\ce{Al(H2PO4)3}$ is a neutral compound, so the sum of oxidation states of all atoms is **0**.
+
+---
+
+### Step 2: Determine oxidation states of known elements
+
+- **Aluminum (Al)**: In most compounds, aluminum has an oxidation state of **+3**.
+- **Hydrogen (H)**: In most compounds, hydrogen has an oxidation state of **+1**.
+- **Oxygen (O)**: In most compounds, oxygen has an oxidation state of **-2** (except in peroxides and superoxides).
+
+---
+
+### Step 3: Analyze the polyatomic ion
+
+The compound contains the ion **$\ce{H2PO4^-}$** (hydrogen phosphate ion), and there are **3** of them in the formula.
+
+So, we can focus on the **$\ce{H2PO4^-}$** ion first.
+
+Let’s find the oxidation state of **P** in $\ce{H2PO4^-}$:
+
+$$
+2(+1) + x + 4(-2) = -1
+$$
+
+$$
+2 + x - 8 = -1
+$$
+
+$$
+x - 6 = -1
+$$
+
+$$
+x = +5
+$$
+
+So, **phosphorus (P)** has an oxidation state of **+5** in $\ce{H2PO4^-}$.
+
+---
+
+### Step 4: Determine oxidation state of O in $\ce{H2PO4^-}$
+
+We already used the fact that oxygen is **-2** in the calculation above, and it is consistent with standard oxidation states.
+
+---
+
+### Step 5: Final conclusion
+
+In **$\ce{Al(H2PO4)3}$**, **oxygen (O)** has an oxidation state of **-2**.
+
+---
+
+### ✅ Final Answer: **-2**",yes
+24,"To determine the **total electron count** of $\ce{NO2^-}$, we need to count all the valence electrons in the molecule, including those from the atoms and the extra electron due to the negative charge.
+
+---
+
+### Step 1: Identify the atoms and their valence electrons
+
+- **Nitrogen (N)** has 5 valence electrons.
+- **Oxygen (O)** has 6 valence electrons each.
+
+---
+
+### Step 2: Count the total valence electrons
+
+- 1 N atom → 5 electrons  
+- 2 O atoms → 2 × 6 = 12 electrons  
+- 1 extra electron due to the $1-$ charge → +1
+
+**Total electron count = 5 + 12 + 1 = 18**
+
+---
+
+### ✅ Final Answer: **18**  
+**Answer: 18**",no
+C,"To find the **pH of a 0.10 M solution of NH₄F**, we need to consider the behavior of the **salt** in water.
+
+---
+
+### Step 1: Understand the components of NH₄F
+
+NH₄F is a **salt** composed of:
+- **NH₄⁺** (ammonium ion), which is the **conjugate acid** of NH₃.
+- **F⁻** (fluoride ion), which is the **conjugate base** of HF.
+
+So, the solution will contain both **NH₄⁺** and **F⁻** ions.
+
+---
+
+### Step 2: Determine the nature of the solution
+
+- NH₄⁺ is a **weak acid** (since it's the conjugate acid of NH₃, which has a **Kb** = $1.8 \times 10^{-5}$).
+- F⁻ is a **weak base** (since it's the conjugate base of HF, which has a **Ka** = $6.8 \times 10^{-4}$).
+
+So, we have a **weak acid** and a **weak base** in the same solution.
+
+---
+
+### Step 3: Use the formula for a salt of a weak acid and weak base
+
+When a salt of a weak acid and a weak base is dissolved in water, the pH is determined by the **relative strengths** of the acid and base.
+
+The formula for the pH of such a salt is:
+
+$$
+\text{pH} = \frac{1}{2} \left( \text{p}K_a + \text{p}K_b \right)
+$$
+
+But since we are given the **Ka** values, we can compute the **pKa** and **pKb** as follows:
+
+- For **NH₄⁺** (acid):  
+  $$
+  \text{p}K_a = -\log(5.6 \times 10^{-10}) \approx 9.25
+  $$
+
+- For **F⁻** (base):  
+  $$
+  \text{p}K_b = -\log\left(\frac{K_w}{K_a}\right) = -\log\left(\frac{1.0 \times 10^{-14}}{6.8 \times 10^{-4}}\right)
+  $$
+
+  $$
+  \text{p}K_b = -\log(1.47 \times 10^{-11}) \approx 10.83
+  $$
+
+Now, compute the average:
+
+$$
+\text{pH} = \frac{1}{2} (9.25 + 10.83) = \frac{1}{2} (20.08) = 10.04
+$$
+
+But wait — this is **not** correct. The formula **pH = ½(pKa + pKb)** is only valid **if the concentrations of the acid and base are equal**, and the salt is **1:1** like NH₄F.
+
+Since the concentration of the salt is 0.10 M, and it is **1:1**, this formula applies.
+
+---
+
+### Step 4: Final Answer
+
+$$
+\text{pH} = \frac{1}{2} (9.25 + 10.83) = 10.04
+$$
+
+But this is **not** one of the answer choices.
+
+Let’s **recheck the logic**.
+
+Actually, in this case, the **NH₄⁺** is a **conjugate acid** of a **weak base**, and the **F⁻** is a **conjugate base** of a **weak acid**. So the solution is **neutral** only if the **pKa of NH₄⁺ = pKb of F⁻**.
+
+Let’s check:
+
+- pKa(NH₄⁺) = 9.25
+- pKb(F⁻) = 10.83
+
+These are **not equal**, so the solution is **not neutral**.
+
+But the correct formula is:
+
+$$
+\text{pH} = \frac{1}{2} \left( \text{p}K_a(\text{NH}_4^+) + \text{p}K_b(\text{F}^-) \right)
+$$
+
+So:
+
+$$
+\text{pH} = \frac{1}{2} (9.25 + 10.83) = \frac{1}{2} (20.08) = 10.04
+$$
+
+Again, **not among the choices**.
+
+Let’s try a **different approach**.
+
+---
+
+### Alternative: Use the",No.
+12,"To determine the **total electron count** of a molecule like $\ce{LiF}$ (lithium fluoride), we need to sum the number of electrons from each atom in the molecule.
+
+- Lithium (Li) has an atomic number of **3**, so it has **3 electrons**.
+- Fluorine (F) has an atomic number of **9**, so it has **9 electrons**.
+
+$$
+\text{Total electron count} = 3 + 9 = 12
+$$
+
+**Answer: 12** ✅
+
+If you need to reply with a single letter corresponding to the correct answer (e.g., A, B, C, D), and assuming the options are labeled as:
+
+- A) 10  
+- B) 11  
+- C) 12  
+- D) 13
+
+Then the correct letter is:
+
+**C** ✅
+
+Let me know if you want the answer in a different format.",yes
+B,"To determine which carboxylic acid is the **most acidic**, we need to consider the **stabilization of the conjugate base** (i.e., the carboxylate ion) by **electron-withdrawing groups (EWGs)**. The more stable the conjugate base, the stronger the acid.
+
+Carboxylic acids have the general formula **R-COOH**, and their acidity is influenced by:
+
+- **Electron-withdrawing groups (EWGs)**: These groups stabilize the conjugate base by withdrawing electron density through **inductive effect** or **resonance**.
+- **Position of EWG relative to the carboxyl group**: The closer the EWG is to the -COOH group, the stronger the acid.
+
+Let's analyze each option:
+
+---
+
+### (A) $\ce{CH3CH(Cl)CH2CO2H}$  
+- The **Cl atom** is **one carbon away** from the carboxyl group.
+- Cl is a strong **electron-withdrawing group**.
+- It stabilizes the conjugate base by **inductive effect**.
+
+---
+
+### (B) $\ce{CH3CH2CH(Cl)CO2H}$  
+- The **Cl atom** is **two carbons away** from the carboxyl group.
+- This is **less effective** at stabilizing the conjugate base compared to (A).
+
+---
+
+### (C) $\ce{CH3CH2CH2CO2H}$  
+- No **electron-withdrawing group** is present.
+- This is the **least acidic** among the options.
+
+---
+
+### (D) $\ce{ClCH2CH2CH2CO2H}$  
+- The **Cl atom** is **three carbons away** from the carboxyl group.
+- While Cl is an EWG, its **influence weakens** with distance.
+- This makes it **less acidic** than (A), but still more acidic than (B) and (C).
+
+---
+
+### Conclusion:
+
+The **most acidic** compound is the one with the **strongest electron-withdrawing group (Cl)** **closest** to the **carboxyl group**.
+
+✅ **(A)** has Cl **one carbon away**, making it the **most acidic**.
+
+---
+
+### ✅ Final Answer: **A**",No.
+32,"To determine the **total electron count** of the nitrate ion, $\ce{NO3^-}$, follow these steps:
+
+### Step 1: Count the valence electrons of each atom
+- **Nitrogen (N)**: 5 valence electrons  
+- **Oxygen (O)**: 6 valence electrons per atom × 3 = 18 valence electrons
+
+### Step 2: Add the charge
+- The ion has a **–1** charge, so add 1 electron.
+
+### Step 3: Total electron count
+$$
+\text{Total electrons} = 5 + 18 + 1 = \boxed{24}
+$$
+
+### ✅ Final Answer: **24**
+
+**Answer: 24**",no
+D,"To determine which compound is **predominantly metallic**, we need to consider the nature of the bonding and the composition of each compound.
+
+Let's analyze each option:
+
+---
+
+**(A) AlCl₃**  
+- Aluminum chloride is a **covalent compound** in the gas phase or in solution. It is not metallic in nature.
+- It is composed of a metal (Al) and a nonmetal (Cl), but the bonding is **covalent**, not metallic.
+
+---
+
+**(B) BF₃**  
+- Boron trifluoride is a **covalent molecule**. It is composed entirely of nonmetals (B and F), so it is **not metallic**.
+
+---
+
+**(C) CH₄**  
+- Methane is a **covalent molecule**. It is composed of nonmetals (C and H), so it is **not metallic**.
+
+---
+
+**(D) NaHg**  
+- Sodium (Na) is a **metal**, and mercury (Hg) is a **metal** as well.
+- This is a **metallic alloy** or a **metallic compound** (sodium amalgam), which is **predominantly metallic** in nature.
+
+---
+
+**(E) S₈**  
+- Sulfur is a **nonmetal**, and S₈ is a **covalent molecule**. It is **not metallic**.
+
+---
+
+### ✅ Correct Answer: **D**  
+**Answer: D**",yes
+32,"To determine the **total electron count** of $\ce{BF3}$, we need to count all the valence electrons from both boron (B) and fluorine (F) atoms.
+
+- **Boron (B)** has 3 valence electrons.
+- **Fluorine (F)** has 7 valence electrons, and there are 3 fluorine atoms in $\ce{BF3}$.
+
+So, the total electron count is:
+
+$$
+\text{Total electron count} = 3 \, (\text{from B}) + 3 \times 7 \, (\text{from F}) = 3 + 21 = 24
+$$
+
+### ✅ Final Answer: **24**",no
+A,"The density of group 2 elements (alkaline earth metals) generally **increases from beryllium (Be) to radium (Ra)**.
+
+Here's the trend in density:
+
+- **Beryllium (Be)**: Low density (~1.85 g/cm³)
+- **Magnesium (Mg)**: Slightly higher (~1.74 g/cm³)
+- **Calcium (Ca)**: Slightly higher (~1.55 g/cm³)
+- **Strontium (Sr)**: Higher (~2.6 g/cm³)
+- **Barium (Ba)**: Higher (~3.51 g/cm³)
+- **Radium (Ra)**: Highest (~5.5 g/cm³)
+
+So, the **density increases from Be to Ra**.
+
+### Correct answer: **(B) Density increases from Ra to Be** — **Wait!** That's **not** correct.
+
+Actually, the correct trend is:
+
+**Density increases from Be to Ra**, i.e., **from Be to Ra**, density **increases**.
+
+So the correct statement is:
+
+**(B) Density increases from Ra to Be** — **is incorrect**, because it goes **from Ra to Be**, which is the **reverse** of the correct trend.
+
+Let’s correct this.
+
+### Correct statement: **Density increases from Be to Ra**
+
+So the correct choice is:
+
+**(B) Density increases from Ra to Be** — **is not correct**.
+
+Let’s go back to the original options:
+
+- (A) Density decreases from Ra to Be → **Correct**
+- (B) Density increases from Ra to Be → **Incorrect**
+- (C) Same for all group-2 elements → **Incorrect**
+- (D) There is no trend → **Incorrect**
+
+### ✅ Correct answer: **(A) Density decreases from Ra to Be**
+
+### Final Answer: **A**",yes
+D,"The incorrect statement is: **(C)**
+
+### Explanation:
+
+**(A)** *In an exothermic reaction, the enthalpy of the product(s) is lower than that of the reactant(s)*  
+✅ **Correct**. In an exothermic reaction, energy is released, so the enthalpy of the products is lower than that of the reactants.
+
+**(B)** *The equilibrium constant of an endergonic reaction is smaller than 1*  
+✅ **Correct**. An endergonic reaction has a positive ΔG°, which means the equilibrium constant $ K < 1 $, favoring reactants.
+
+**(C)** *The higher the energy of its HOMO, the more reactive a nucleophile will usually be*  
+❌ **Incorrect**. A nucleophile donates electrons, so it is more reactive when its HOMO is **lower in energy** (more available to donate electrons). A higher HOMO energy means less reactivity.
+
+**(D)** *The higher the energy of its LUMO, the more reactive an electrophile will usually be*  
+✅ **Correct**. An electrophile accepts electrons, so it is more reactive when its LUMO is **lower in energy** (more available to accept electrons). A higher LUMO energy means less reactivity.
+
+### ✅ Final Answer: **C**",yes
+5,"To find the oxidation state of nitrogen (N) in the nitrate ion, $\ce{NO3^-}$, we can use the following steps:
+
+1. **The overall charge of the ion is -1.**
+2. **Oxygen typically has an oxidation state of -2.**
+3. **Let the oxidation state of N be $x$.**
+
+Now, write the equation:
+
+$$
+x + 3(-2) = -1
+$$
+
+$$
+x - 6 = -1
+$$
+
+$$
+x = +5
+$$
+
+**Answer: +5**
+
+**Correct answer: $\boxed{+5}$**",yes
+C,"The correct answer is: **(C) Their chemical formulae**
+
+Polymorphs are different crystalline forms of the same compound. While they may differ in physical properties (like melting point), intermolecular interactions, and torsional angles, they all share the **same chemical formula** because they consist of the same atoms in the same proportions.
+
+**Answer: C**",yes
+B,"The gas released when carbonate salts participate in acid-base reactions is **carbon dioxide**.
+
+This occurs because carbonates react with acids to produce carbon dioxide, water, and a salt. For example:
+
+$$
+\text{Na}_2\text{CO}_3 + 2\text{HCl} \rightarrow 2\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2 \uparrow
+$$
+
+The correct answer is: **(B) Carbon dioxide**
+
+**Answer: B**",yes
+10,"To find the **total electron count** of **NH₃**, we need to sum the valence electrons from all the atoms in the molecule.
+
+- **Nitrogen (N)** has 5 valence electrons.
+- Each **Hydrogen (H)** has 1 valence electron, and there are 3 hydrogen atoms.
+
+So, the total electron count is:
+
+$$
+5 \ (\text{from N}) + 3 \times 1 \ (\text{from H}) = 5 + 3 = 8
+$$
+
+### ✅ Answer: **8**",no
+D,"To determine which compound is characterized by an **ionic bond**, we need to identify which one consists of **a metal and a nonmetal** (or a cation and an anion), as ionic bonds typically form between such elements.
+
+Let’s analyze each option:
+
+---
+
+**(A) CH₃Cl (chloromethane)**  
+- Carbon (nonmetal), hydrogen (nonmetal), and chlorine (nonmetal)  
+- All are nonmetals → **covalent bonds**  
+✅ **Not ionic**
+
+---
+
+**(B) CH₃Li (methyl lithium)**  
+- Carbon (nonmetal), hydrogen (nonmetal), and lithium (metal)  
+- Lithium is a metal, and it forms a **metal–nonmetal bond** with carbon  
+- This is a **polar covalent** bond, not a full ionic bond  
+✅ **Not ionic**
+
+---
+
+**(C) H₂O (water)**  
+- Hydrogen (nonmetal) and oxygen (nonmetal)  
+- All nonmetals → **covalent bonds**  
+✅ **Not ionic**
+
+---
+
+**(D) NH₄Cl (ammonium chloride)**  
+- This compound consists of **NH₄⁺ (ammonium ion)** and **Cl⁻ (chloride ion)**  
+- The **NH₄⁺ and Cl⁻ ions** are held together by an **ionic bond**  
+✅ **This is ionic**
+
+---
+
+### ✅ **Correct Answer: D**",yes
+B,"We are given that calcium carbonate (CaCO₃) and magnesium carbonate (MgCO₃) are mixed in some molar ratio and then **calcined** (heated above 100°C). Upon calcination, both carbonates decompose:
+
+$$
+\text{CaCO}_3 \xrightarrow{\text{heat}} \text{CaO} + \text{CO}_2 \uparrow
+$$
+$$
+\text{MgCO}_3 \xrightarrow{\text{heat}} \text{MgO} + \text{CO}_2 \uparrow
+$$
+
+The **mass loss** comes from the release of CO₂ gas.
+
+Let’s denote:
+
+- $ n_{\text{CaCO}_3} = x $
+- $ n_{\text{MgCO}_3} = y $
+
+Then the total mass of the original mixture is:
+
+$$
+M_{\text{initial}} = x \cdot M_{\text{CaCO}_3} + y \cdot M_{\text{MgCO}_3}
+$$
+
+Where:
+- $ M_{\text{CaCO}_3} = 100.09 \, \text{g/mol} $
+- $ M_{\text{MgCO}_3} = 84.31 \, \text{g/mol} $
+
+After calcination, the mass of the solid residue is:
+
+$$
+M_{\text{final}} = x \cdot M_{\text{CaO}} + y \cdot M_{\text{MgO}}
+$$
+
+Where:
+- $ M_{\text{CaO}} = 56.08 \, \text{g/mol} $
+- $ M_{\text{MgO}} = 40.30 \, \text{g/mol} $
+
+We are told that the mass decreases by **half**, so:
+
+$$
+M_{\text{final}} = \frac{1}{2} M_{\text{initial}}
+$$
+
+Now, let's compute the mass loss per mole of each carbonate:
+
+- For CaCO₃:
+  $$
+  \text{Mass loss per mole} = M_{\text{CaCO}_3} - M_{\text{CaO}} = 100.09 - 56.08 = 44.01 \, \text{g/mol}
+  $$
+
+- For MgCO₃:
+  $$
+  \text{Mass loss per mole} = M_{\text{MgCO}_3} - M_{\text{MgO}} = 84.31 - 40.30 = 44.01 \, \text{g/mol}
+  $$
+
+Interesting! Both carbonates lose **the same mass per mole** (44.01 g/mol).
+
+So, the **mass loss is proportional to the number of moles** of each carbonate.
+
+Let’s denote the total number of moles as $ x + y $, and the total mass loss is:
+
+$$
+\text{Mass loss} = 44.01(x + y)
+$$
+
+The initial mass is:
+
+$$
+M_{\text{initial}} = 100.09x + 84.31y
+$$
+
+We are told that the final mass is half the initial mass:
+
+$$
+M_{\text{final}} = \frac{1}{2} M_{\text{initial}} \Rightarrow M_{\text{initial}} - \text{Mass loss} = \frac{1}{2} M_{\text{initial}}
+$$
+
+So:
+
+$$
+M_{\text{initial}} - 44.01(x + y) = \frac{1}{2} M_{\text{initial}} \Rightarrow \frac{1}{2} M_{\text{initial}} = 44.01(x + y)
+$$
+
+Substitute $ M_{\text{initial}} = 100.09x + 84.31y $:
+
+$$
+\frac{1}{2}(100.09x + 84.31y) = 44.01(x + y)
+$$
+
+Multiply both sides by 2:
+
+$$
+100.09x + 84.31y = 88.02(x + y)
+$$
+
+Expand the right-hand side:
+
+$$
+100.09x + 84.31y = 88.02x + 88.02y
+$$
+
+Now, bring all terms to one side:
+
+$$
+100.09x - 88.02x + 84.31y",yes
+A,"The electronegativity of elements generally **decreases from top to bottom** in a group of the periodic table. This is because as you move down a group, the atomic size increases, and the valence electrons are farther from the nucleus, resulting in a weaker attraction for the electrons.
+
+In **Group 16** (the chalcogens), the elements are:  
+- Oxygen (O)  
+- Sulfur (S)  
+- Selenium (Se)  
+- Tellurium (Te)  
+- Polonium (Po)
+
+As you go from **top to bottom**, electronegativity **decreases**.
+
+### Correct Answer: **(A) decreases**
+
+**Answer: A**",yes
+A,"The reaction between alcohols (or polyols) and anhydrides typically results in the formation of **esters** and **carboxylic acids**. This is a nucleophilic acyl substitution reaction, where the alcohol acts as a nucleophile and attacks the electrophilic carbonyl carbon of the anhydride.
+
+The correct answer is:
+
+**(A) Acids and esters are formed**
+
+**Answer: A**",yes
+10,"To determine the value of $ x $ in the electronic configuration of Palladium, we start by recalling the atomic number of Palladium (Pd), which is **46**.
+
+The electronic configuration of Palladium is **not** the standard one due to **electron configuration exceptions**, particularly related to **d-block elements**. In most cases, the 4d orbitals are filled before the 5s orbitals, but for some elements (like Pd), the 5s orbital is actually **emptied** to achieve a more stable configuration.
+
+The standard configuration for Pd is:
+
+$$
+\ce{[Kr] 4d^{10} 5s^0}
+$$
+
+This means that the 5s electrons are lost, and the 4d orbitals are completely filled (10 electrons), resulting in a **full d-orbital**, which is more stable.
+
+So, in the given configuration:
+
+$$
+\ce{[Kr] 4d^{x}}
+$$
+
+The value of $ x $ is **10**.
+
+### ✅ Final Answer: **10**",yes
+C,"To determine which compound is the **most acidic**, we compare the **ability of each compound to donate a proton (H⁺)**. Acidity increases with the **ability to release H⁺**, which is influenced by:
+
+1. **Electronegativity of the atom bonded to H** – the more electronegative the atom, the more it pulls electron density away from H, making it easier to release H⁺.
+2. **Stability of the conjugate base** – the more stable the conjugate base (i.e., the more it can accommodate negative charge), the stronger the acid.
+
+Let’s analyze each compound:
+
+---
+
+### (A) CH₄ (Methane)
+- Carbon is **not very electronegative**, and the molecule is **very stable**.
+- **Very weak acid**, barely dissociates in water.
+- Conjugate base: CH₃⁻ (very unstable, high energy).
+- **Very low acidity**.
+
+---
+
+### (B) H₂O (Water)
+- Oxygen is **electronegative**, and the molecule is **stable**.
+- **Weak acid**, but stronger than CH₄.
+- Conjugate base: OH⁻ (stable, but not very stable compared to others).
+- **Moderate acidity**.
+
+---
+
+### (C) H₂S (Hydrogen sulfide)
+- Sulfur is **more electronegative than carbon but less than oxygen**.
+- The molecule is **more polar** than CH₄ and **less stable** than H₂O.
+- **Stronger acid than H₂O**.
+- Conjugate base: HS⁻ (more stable than CH₃⁻, less stable than OH⁻).
+- **More acidic than water**.
+
+---
+
+### (D) NH₃ (Ammonia)
+- Nitrogen is **more electronegative than carbon** but **less than oxygen**.
+- The molecule is **neutral and stable**.
+- **Weak base**, but **slightly acidic**.
+- Conjugate base: NH₂⁻ (very unstable, high energy).
+- **Less acidic than H₂O or H₂S**.
+
+---
+
+### Conclusion:
+Among all, **H₂S (Hydrogen sulfide)** is the **most acidic**, because:
+- Sulfur is more electronegative than carbon and nitrogen.
+- The conjugate base (HS⁻) is more stable than OH⁻ or NH₂⁻.
+- It is more acidic than H₂O and NH₃.
+
+### ✅ Correct Answer: **C**",yes
+10,"To determine the **total electron count** of the hydroxide ion, $\ce{OH^-}$, follow these steps:
+
+1. **Oxygen (O)** has an atomic number of 8, so it has **8 electrons**.
+2. **Hydrogen (H)** has an atomic number of 1, so it has **1 electron**.
+3. The ion has a **-1 charge**, meaning it has **1 extra electron**.
+
+So, the total electron count is:
+
+$$
+8 \ (\text{from O}) + 1 \ (\text{from H}) + 1 \ (\text{extra electron}) = 10
+$$
+
+### ✅ Final Answer: **10**
+
+**Answer: 10**",yes
+B,"To determine the **stoichiometric coefficient of the proton** ($\ce{H+}$) in the given redox reaction:
+
+$$
+\ce{Mn^{2+} + BiO3^- + H+ -> Bi^{3+} + MnO4^- + H2O}
+$$
+
+we need to **balance the redox reaction** using the **half-reaction method**.
+
+---
+
+### Step 1: Identify the oxidation states
+
+- **Mn²⁺** → **MnO₄⁻**  
+  Mn goes from **+2** to **+7** → **oxidation**  
+  (This is the **oxidation half-reaction**)
+
+- **BiO₃⁻** → **Bi³⁺**  
+  Bi goes from **+5** to **+3** → **reduction**  
+  (This is the **reduction half-reaction**)
+
+---
+
+### Step 2: Write the oxidation half-reaction
+
+$$
+\ce{Mn^{2+} -> MnO4^-}
+$$
+
+Balance **oxygen** by adding water:
+
+$$
+\ce{Mn^{2+} + 4H2O -> MnO4^-}
+$$
+
+Now balance **hydrogen** by adding $\ce{H+}$:
+
+$$
+\ce{Mn^{2+} + 4H2O -> MnO4^- + 8H+}
+$$
+
+Now balance **charge** by adding electrons:
+
+Left side: Mn²⁺ = +2  
+Right side: MnO₄⁻ = -1, 8H⁺ = +8 → total = +7  
+So, need **9 electrons** to balance charge:
+
+$$
+\ce{Mn^{2+} + 4H2O -> MnO4^- + 8H+ + 5e^-}
+$$
+
+---
+
+### Step 3: Write the reduction half-reaction
+
+$$
+\ce{BiO3^- -> Bi^{3+}}
+$$
+
+Balance **oxygen** by adding water:
+
+$$
+\ce{BiO3^- -> Bi^{3+} + 3H2O}
+$$
+
+Now balance **hydrogen** by adding $\ce{H+}$:
+
+$$
+\ce{BiO3^- + 6H+ -> Bi^{3+} + 3H2O}
+$$
+
+Now balance **charge** by adding electrons:
+
+Left side: BiO₃⁻ = -1, 6H⁺ = +6 → total = +5  
+Right side: Bi³⁺ = +3, 3H₂O = 0 → total = +3  
+So, need **2 electrons** to balance:
+
+$$
+\ce{BiO3^- + 6H+ + 2e^- -> Bi^{3+} + 3H2O}
+$$
+
+---
+
+### Step 4: Multiply the half-reactions to balance electrons
+
+- Oxidation half-reaction:  
+  $\ce{Mn^{2+} + 4H2O -> MnO4^- + 8H+ + 5e^-}$
+
+- Reduction half-reaction:  
+  $\ce{BiO3^- + 6H+ + 2e^- -> Bi^{3+} + 3H2O}$
+
+To balance electrons, multiply the oxidation half-reaction by **2** and the reduction half-reaction by **5**:
+
+---
+
+### Step 5: Combine the half-reactions
+
+**Oxidation (×2):**
+
+$$
+\ce{2Mn^{2+} + 8H2O -> 2MnO4^- + 16H+ + 10e^-}
+$$
+
+**Reduction (×5):**
+
+$$
+\ce{5BiO3^- + 30H+ + 10e^- -> 5Bi^{3+} + 15H2O}
+$$
+
+Add both:
+
+$$
+\ce{2Mn^{2+} + 5BiO3^- + 8H2O + 30H+ -> 2MnO4^- + 5Bi^{3+} + 15H2O + 16H+}
+$$
+
+Now simplify:
+
+- H₂O: 8H₂O on left, 15H₂O on right → net 7H₂O on right  
+- H⁺: 30H⁺ on left, 16H⁺ on right → net 14H⁺ on left
+
+So the balanced equation is:
+
+$$
+\ce{2Mn^{2+} + 5BiO3^- + 14H+ -> 2MnO4^- + 5Bi^{3+} + 7H2O}
+$$
+
+---
+
+### ✅ Final Answer:",yes
+D,"The atomic radius generally **increases down a group** in the periodic table due to the addition of electron shells.
+
+**Group 2 elements** (alkaline earth metals) are:  
+**Be (Beryllium), Mg (Magnesium), Ca (Calcium), Sr (Strontium), Ba (Barium), Ra (Radium)**
+
+Order from **top to bottom** (increasing atomic radius):  
+**Be < Mg < Ca < Sr < Ba < Ra**
+
+So, the **correct order from largest to smallest** is:  
+**Ra > Ba > Sr > Ca > Mg > Be**
+
+This matches **option (D)**.
+
+### ✅ Correct answer: **D**",yes
+C,"To determine the number of **protons** and **electrons** in the **anion tetrahydroxodiaquaaluminate**, we first need to identify the **central atom** and the **overall charge** of the ion.
+
+---
+
+### Step 1: Identify the central atom and the formula
+
+The name **""tetrahydroxodiaquaaluminate""** refers to an **aluminum** (Al) complex ion. Let's break it down:
+
+- **Aluminate**: Indicates the **Al³⁺** ion is the central atom.
+- **Tetrahydroxido**: 4 hydroxide (OH⁻) ligands.
+- **Diaqua**: 2 water (H₂O) ligands.
+
+So the formula is:
+
+$$
+[Al(H_2O)_2(OH)_4]^- 
+$$
+
+This is the **tetrahydroxodiaquaaluminate ion**, and it carries a **−1 charge**.
+
+---
+
+### Step 2: Determine the number of protons
+
+The central atom is **Aluminum (Al)**.
+
+- Atomic number of Al = **13** → So, **13 protons**.
+
+---
+
+### Step 3: Determine the number of electrons
+
+To find the number of **electrons**, we need to consider:
+
+1. **Aluminum (Al)**: neutral atom has 13 electrons.
+2. **Hydroxide (OH⁻)** ligands: Each OH⁻ has 9 electrons (O: 8 + H: 1 + 1 extra for the negative charge).
+   - 4 OH⁻ ligands → 4 × 9 = **36 electrons**
+3. **Water (H₂O)** ligands: Each H₂O has 10 electrons (O: 8 + H: 2).
+   - 2 H₂O ligands → 2 × 10 = **20 electrons**
+
+Now, total electrons = electrons from Al + electrons from ligands:
+
+$$
+13 \text{ (Al)} + 36 \text{ (OH⁻)} + 20 \text{ (H₂O)} = 69 \text{ electrons}
+$$
+
+However, we must account for the **−1 charge** of the ion. This means the ion has **1 extra electron** compared to the neutral species.
+
+So:
+
+$$
+\text{Total electrons} = 69 + 1 = \boxed{70}
+$$
+
+---
+
+### Final Answer:
+
+- **Protons = 13**
+- **Electrons = 70**
+
+This matches **option (C)**.
+
+---
+
+### ✅ Correct Answer: **C**",yes
+4,"The element with atomic number 6 is **carbon (C)**.
+
+Carbon has **4 valence electrons**, and fluorine has **7 valence electrons**. Fluorine typically needs **1 electron** to complete its valence shell (to achieve a stable octet), so it tends to form **-1 ions** in compounds.
+
+To form a stable compound, carbon must share electrons with fluorine atoms. Since carbon has 4 valence electrons, it needs **4 more electrons** to complete its octet.
+
+Each fluorine atom can provide **1 electron** (via a covalent bond), so carbon needs to bond with **4 fluorine atoms**.
+
+### ✅ Answer: **4**  
+(Or, if the question expects a letter, and 4 corresponds to, say, option D, then the answer would be **D**. But since the question says ""reply with the single letter corresponding to the correct answer"" and doesn't provide options, the most accurate answer is the numerical value.)
+
+### Final Answer: **4**",yes
+A,"To determine which atom or ion has the electronic configuration:
+
+**1s² 2s² 2p⁶ 3s² 3p⁶**
+
+Let's count the total number of electrons:
+
+- 1s² → 2 electrons  
+- 2s² → 2 electrons  
+- 2p⁶ → 6 electrons  
+- 3s² → 2 electrons  
+- 3p⁶ → 6 electrons  
+
+**Total = 2 + 2 + 6 + 2 + 6 = 18 electrons**
+
+So, the species with **18 electrons** is the correct answer.
+
+Now, let's evaluate the options:
+
+**(A) Cl⁻**  
+- Chlorine has an atomic number of 17.  
+- Cl⁻ has gained one electron → 17 + 1 = **18 electrons** ✅
+
+**(B) K**  
+- Potassium has an atomic number of 19 → **19 electrons** ❌
+
+**(C) Mg²⁺**  
+- Magnesium has an atomic number of 12.  
+- Mg²⁺ has lost two electrons → 12 - 2 = **10 electrons** ❌
+
+**(D) Ne**  
+- Neon has an atomic number of 10 → **10 electrons** ❌
+
+### ✅ Correct answer: **(A) Cl⁻**
+
+**Answer: A**",yes
+126,"To find the **total electron count** of $\ce{Br2O7}$, we need to sum the valence electrons of all the atoms in the molecule.
+
+### Step-by-step:
+
+- **Bromine (Br)** has 7 valence electrons.
+- **Oxygen (O)** has 6 valence electrons.
+
+Now, count the atoms in $\ce{Br2O7}$:
+
+- 2 Br atoms → $2 \times 7 = 14$ electrons
+- 7 O atoms → $7 \times 6 = 42$ electrons
+
+### Total electron count:
+$$
+14 + 42 = \boxed{56}
+$$
+
+### ✅ Final Answer: **56**",No.
+D,"The reaction between a **carboxylic acid** and a **base** is called **neutralization**. In this reaction, the carboxylic acid donates a proton (H⁺) to the base, which accepts it. The products of this reaction are **water** and a **salt**.
+
+For example:
+$$
+\text{RCOOH} + \text{NaOH} \rightarrow \text{RCOO}^- \text{Na}^+ + \text{H}_2\text{O}
+$$
+
+So the correct answer is:
+
+**(D) Water and a salt**
+
+The answer is: **D**",yes
+B,"To solve this problem, we need to find the number of **atoms** in **6.72 L** of hydrogen gas at **standard temperature and pressure (STP)**.
+
+---
+
+### Step 1: Understand the conditions
+At **STP** (Standard Temperature and Pressure):
+- Temperature = 0°C = 273.15 K
+- Pressure = 1 atm
+- 1 mole of any gas occupies **22.4 L**
+
+---
+
+### Step 2: Find the number of moles of hydrogen gas
+
+$$
+\text{Moles of } \text{H}_2 = \frac{6.72 \, \text{L}}{22.4 \, \text{L/mol}} = 0.3 \, \text{mol}
+$$
+
+---
+
+### Step 3: Find the number of molecules of hydrogen gas
+
+Avogadro's number is:
+
+$$
+6.022 \times 10^{23} \, \text{molecules/mol}
+$$
+
+$$
+\text{Number of molecules} = 0.3 \, \text{mol} \times 6.022 \times 10^{23} \, \text{molecules/mol}
+$$
+
+$$
+= 1.8066 \times 10^{23} \, \text{molecules}
+$$
+
+---
+
+### Step 4: Since hydrogen is diatomic (H₂), each molecule contains **2 atoms**
+
+$$
+\text{Number of atoms} = 1.8066 \times 10^{23} \times 2 = 3.6132 \times 10^{23}
+$$
+
+---
+
+### Final Answer:
+
+$$
+\boxed{B} \quad (3.612 \times 10^{23})
+$$
+
+✅ **Answer: B**",yes
+B,"To determine which d-block element has the **highest density at room temperature**, we need to compare the **densities** of the given elements:
+
+### Given elements:
+- **(A) Cd (Cadmium)** – Group 12, Period 5  
+- **(B) Os (Osmium)** – Group 8, Period 6  
+- **(C) Re (Rhenium)** – Group 7, Period 6  
+- **(D) Ta (Tantalum)** – Group 5, Period 5  
+
+### Densities (in g/cm³) at room temperature:
+- **Cd (Cadmium)**: ~8.65  
+- **Os (Osmium)**: ~22.59  
+- **Re (Rhenium)**: ~21.02  
+- **Ta (Tantalum)**: ~16.65  
+
+### Conclusion:
+**Osmium (Os)** has the **highest density** among the given elements.
+
+### ✅ Correct Answer: **B**",yes
+3,"To determine the oxidation state of **nitrogen (N)** in **$\ce{Na3Co(NO2)6}$**, we will analyze the compound step by step.
+
+---
+
+### Step 1: Identify the ions in the compound
+
+The compound is **$\ce{Na3Co(NO2)6}$**.
+
+This is a coordination compound, where:
+
+- **$\ce{Na^+}$** is a spectator ion.
+- **$\ce{Co(NO2)6^{3-}}$** is the complex ion (cobalt with six nitrite ligands).
+
+---
+
+### Step 2: Determine oxidation state of cobalt (Co)
+
+The overall charge of the complex ion is **-3**.
+
+Each **$\ce{NO2^-}$** ligand is a **nitrite ion**, which has a **-1** charge.
+
+There are **6 nitrite ligands**, so:
+
+$$
+\text{Total charge from nitrite ligands} = 6 \times (-1) = -6
+$$
+
+Let the oxidation state of **Co** be **x**. Then:
+
+$$
+x + (-6) = -3 \Rightarrow x = +3
+$$
+
+So, **Co is +3**.
+
+---
+
+### Step 3: Determine oxidation state of nitrogen in nitrite (NO₂⁻)
+
+We now focus on the **nitrite ion**, $\ce{NO2^-}$, and determine the oxidation state of **N**.
+
+- The **oxygen** atoms are **-2** each.
+- There are **2 oxygen atoms**, so total charge from oxygen = $2 \times (-2) = -4$
+- The overall charge of the nitrite ion is **-1**
+
+Let the oxidation state of **N** be **y**. Then:
+
+$$
+y + (-4) = -1 \Rightarrow y = +3
+$$
+
+---
+
+### ✅ Final Answer:
+
+The oxidation state of **N** in $\ce{Na3Co(NO2)6}$ is **+3**.
+
+$$
+\boxed{+3}
+$$",yes
+A,The answer is: **D**,No.
+48,"To determine the **total electron count** of $\ce{Zn(OH)2}$, we need to sum the valence electrons of all the atoms in the molecule.
+
+---
+
+### Step 1: Identify the atoms and their quantities
+
+- **Zn (Zinc)**: 1 atom  
+- **O (Oxygen)**: 2 atoms (from 2 OH⁻ groups)  
+- **H (Hydrogen)**: 2 atoms (from 2 OH⁻ groups)
+
+---
+
+### Step 2: Determine the valence electrons for each atom
+
+- **Zn (Zinc)**: Group 12 → 2 valence electrons  
+- **O (Oxygen)**: Group 16 → 6 valence electrons  
+- **H (Hydrogen)**: Group 1 → 1 valence electron
+
+---
+
+### Step 3: Calculate total valence electrons
+
+$$
+\text{Total electron count} = (1 \times 2) + (2 \times 6) + (2 \times 1)
+$$
+$$
+= 2 + 12 + 2 = 16
+$$
+
+---
+
+### ✅ Final Answer: **16**
+
+**Answer: 16**",No.
+A,"To determine which compound is the **least acidic**, we need to compare the **acidic strength** of the given compounds:
+
+- **(A) CH₄ (Methane)**  
+- **(B) H₂O (Water)**  
+- **(C) H₂S (Hydrogen sulfide)**  
+- **(D) NH₃ (Ammonia)**
+
+### Step-by-step analysis:
+
+1. **Acidic strength** refers to the ability of a substance to donate a proton (H⁺).  
+2. The **stronger the acid**, the more easily it donates a proton.
+
+### Comparing the compounds:
+
+- **CH₄ (Methane)** is **not acidic** at all. It is a **very weak base** and **does not donate protons** under normal conditions.
+- **NH₃ (Ammonia)** is a **weak base** and can act as a **weak acid** (donating a proton to form NH₂⁻), but it is **less acidic** than water.
+- **H₂O (Water)** is a **very weak acid** (pKa ≈ 15.7).
+- **H₂S (Hydrogen sulfide)** is a **stronger acid** than water (pKa ≈ 7.0), and is more acidic than ammonia.
+
+### Summary of acidity (from weakest to strongest):
+- **CH₄ < NH₃ < H₂O < H₂S**
+
+### Conclusion:
+The **least acidic** compound is **(A) CH₄**.
+
+### ✅ Final Answer: **A**",yes
+C,"We are given a chemical reaction:
+
+$$
+\ce{X + H2SO4 -> XSO4 + A + B}
+$$
+
+We are told:
+
+- **Mass of H₂SO₄ solution** = 8.91 g  
+- **Mass fraction of H₂SO₄** = 66%  
+- **Substance A** is a **sulphur oxide** in which **sulphur is 50%** by mass  
+- **Substance B** is a **binary compound** with **mass ratio H : O = 2 : 1**
+
+We are to determine the **symbol of metal X** from the options:  
+(A) Ag  
+(B) Cr  
+(C) Cu  
+(D) Fe  
+(E) Ni  
+(F) Zn
+
+---
+
+### Step 1: Determine the mass of pure H₂SO₄
+
+Given:
+- Mass of solution = 8.91 g  
+- Mass fraction of H₂SO₄ = 66% = 0.66
+
+So:
+$$
+\text{Mass of H₂SO₄} = 8.91 \times 0.66 = 5.8806 \text{ g}
+$$
+
+---
+
+### Step 2: Determine the identity of **Substance A**
+
+It is a **sulphur oxide** where **sulphur is 50% by mass**.
+
+Let the formula of the sulphur oxide be **SOₓ**.  
+Let the molar mass of SOₓ be:
+
+$$
+M = 32 + 16x = 32 + 16x
+$$
+
+The **mass fraction of S** in SOₓ is:
+
+$$
+\frac{32}{32 + 16x} = 0.5
+$$
+
+Solve:
+
+$$
+\frac{32}{32 + 16x} = 0.5 \\
+32 = 0.5 \times (32 + 16x) \\
+32 = 16 + 8x \\
+16 = 8x \\
+x = 2
+$$
+
+So, **Substance A is SO₂** (sulfur dioxide)
+
+---
+
+### Step 3: Determine the identity of **Substance B**
+
+It is a **binary compound** with **mass ratio H : O = 2 : 1**
+
+Let’s find the **molar ratio** of H to O.
+
+Let the formula be **HₓOᵧ**
+
+We are told:
+$$
+\frac{m(\ce{H})}{m(\ce{O})} = \frac{2}{1}
+$$
+
+Let’s assume 1 mole of H and 1 mole of O, but this doesn’t match the mass ratio. So we need to find the ratio of moles so that the mass ratio becomes 2:1.
+
+Let’s denote:
+
+- Molar mass of H = 1 g/mol  
+- Molar mass of O = 16 g/mol
+
+Let the formula be **HₓOᵧ**
+
+Then:
+$$
+\frac{x \cdot 1}{y \cdot 16} = \frac{2}{1} \Rightarrow \frac{x}{16y} = 2 \Rightarrow x = 32y
+$$
+
+Try small integers. Try **y = 1**, then **x = 32** → **H₃₂O** (not a common compound)
+
+Try **y = 1**, and try **x = 2**, then:
+
+$$
+\frac{2}{16} = \frac{1}{8} \neq \frac{2}{1}
+$$
+
+Try **x = 2**, **y = 1** → mass ratio is 2:16 = 1:8
+
+Try **x = 4**, **y = 1** → mass ratio = 4:16 = 1:4
+
+Try **x = 1**, **y = 0.5** → not possible
+
+Try **x = 2**, **y = 1** → mass ratio = 2:16 = 1:8
+
+Try **x = 2**, **y = 1** → mass ratio = 2:16 = 1:8 → not 2:1
+
+Try **x = 1**, **y = 0.5** → not possible
+
+Try **x = 2**, **y = 1** → mass ratio = 2:16 = 1:8 → not 2:1
+
+Try **x = 2**, **y = 1** → mass ratio = 2:16 = 1:8 → not 2:1
+
+Try **x = 1**, **y = 0.5** → not possible
+
+Try",No.
+B,"The correct answer is: **(B) Polyols contain 2 or more hydroxyl groups**
+
+**Explanation:**
+
+- **Alcohols** are organic compounds containing **one hydroxyl group (–OH)**.
+- **Polyols** are compounds containing **two or more hydroxyl groups**.
+
+Other options are incorrect:
+
+- **(A)**: Flammability depends on many factors and is not a defining difference between alcohols and polyols.
+- **(C)**: Cyclic structures are not a defining feature of polyols.
+- **(D)**: Toxicity varies and is not a general characteristic of polyols.
+
+**Answer: B**",yes
+A,"To determine which molecule has an **sp-hybridized atom**, we need to identify the atom that has **two regions of electron density** (i.e., two bonds or one bond and one lone pair), which corresponds to **sp hybridization**.
+
+Let’s analyze each molecule:
+
+---
+
+### (A) **HCN** – Hydrogen cyanide  
+- Structure: **H–C≡N**
+- The **carbon** atom is bonded to **one hydrogen** and **one nitrogen** via a **triple bond**.
+- The carbon atom has **two regions of electron density** (one single bond to H, one triple bond to N).
+- Therefore, **carbon is sp hybridized**.
+
+✅ **This is a valid answer.**
+
+---
+
+### (B) **HCO₂H** – Formic acid  
+- Structure: **H–C(=O)–OH**
+- The **carbon** atom is bonded to **two oxygen atoms** (one double bond and one single bond) and **one hydrogen**.
+- This gives **three regions of electron density**, so the carbon is **sp² hybridized**.
+
+❌ **Not sp hybridized.**
+
+---
+
+### (C) **HNO₂** – Nitrous acid  
+- Structure: **H–O–N(=O)**
+- The **nitrogen** atom is bonded to **one oxygen** (double bond) and **one hydroxyl group** (single bond).
+- It has **two regions of electron density**, so **nitrogen is sp hybridized**.
+
+✅ **This is also a valid answer.**
+
+---
+
+### (D) **HNO₃** – Nitric acid  
+- Structure: **H–O–N(=O)₂**
+- The **nitrogen** atom is bonded to **three oxygen atoms** (two double bonds and one single bond).
+- This gives **three regions of electron density**, so **nitrogen is sp² hybridized**.
+
+❌ **Not sp hybridized.**
+
+---
+
+### Final Answer:
+
+Both **(A) HCN** and **(C) HNO₂** have atoms that are **sp hybridized**.
+
+However, the **question asks for the correct answer**, and **only one answer is expected**.
+
+Between the two, **(A) HCN** is the **most unambiguous** example of sp hybridization (carbon in a triple bond is always sp hybridized).
+
+---
+
+### ✅ **Correct Answer: (A)**",yes
+C,"To determine the **weight percentage** of **calcium (Ca)** and **phosphorus (P)** in **hydroxyapatite**, which has the chemical formula:
+
+$$
+\ce{Ca_{10}(PO_4)_6(OH)_2}
+$$
+
+we need to calculate the **molar mass** of the compound and then determine the contribution of **Ca** and **P** to that total mass.
+
+---
+
+### **Step 1: Determine the molar mass of hydroxyapatite**
+
+$$
+\ce{Ca_{10}(PO_4)_6(OH)_2}
+$$
+
+Break it down:
+
+- **Calcium (Ca):** 10 atoms × 40.08 g/mol = 400.8 g/mol  
+- **Phosphate (PO₄):** 6 units × (30.97 g/mol for P + 4 × 16.00 g/mol for O) = 6 × (30.97 + 64.00) = 6 × 94.97 = 569.82 g/mol  
+- **Hydroxide (OH):** 2 units × (1.01 g/mol for H + 16.00 g/mol for O) = 2 × 17.01 = 34.02 g/mol  
+
+Now, add them all together:
+
+$$
+\text{Molar mass of hydroxyapatite} = 400.8 + 569.82 + 34.02 = 1004.64 \, \text{g/mol}
+$$
+
+---
+
+### **Step 2: Calculate the mass contribution of calcium and phosphorus**
+
+- **Mass of Ca = 400.8 g/mol**
+- **Mass of P = 6 × 30.97 = 185.82 g/mol**
+
+---
+
+### **Step 3: Calculate the weight percentages**
+
+$$
+\text{Weight % of Ca} = \frac{400.8}{1004.64} \times 100 \approx 39.89\%
+$$
+$$
+\text{Weight % of P} = \frac{185.82}{1004.64} \times 100 \approx 18.49\%
+$$
+
+---
+
+### **Final Answer:**
+
+- **Ca ≈ 39.6%**
+- **P ≈ 18%**
+
+✅ **Correct Answer: (C)**
+
+**Answer: C**",yes
+B,"The correct answer is: **B, E, F**
+
+### Let's analyze each statement:
+
+**(A) Alkali metals have a high ionization potential and a high electron affinity**  
+❌ **False**  
+Alkali metals (Group 1) have **low ionization potential** (easy to lose an electron) and **low electron affinity** (do not readily gain electrons).
+
+**(B) Halogens have a high ionization potential and a high electron affinity**  
+✅ **True**  
+Halogens (Group 17) have **high ionization potential** (difficult to remove an electron) and **high electron affinity** (readily gain an electron to achieve a noble gas configuration).
+
+**(C) In one period, the atomic radius increases from left to right**  
+❌ **False**  
+In a period, atomic radius **decreases from left to right** due to increasing nuclear charge pulling electrons closer.
+
+**(D) Metals tend to be on the right of the periodic table, nonmetals tend to be on the left**  
+❌ **False**  
+Metals are generally on the **left** and **bottom** of the periodic table, while nonmetals are on the **right**.
+
+**(E) The electronegativity falls from right to left in one period**  
+✅ **True**  
+Electronegativity **increases from left to right** across a period, so it **decreases from right to left**.
+
+**(F) Within a group, the atomic radius increases**  
+✅ **True**  
+Atomic radius **increases down a group** due to the addition of electron shells.
+
+---
+
+### ✅ Final Answer: **B, E, F**
+
+Since the question asks to **reply with the single letter corresponding to the correct answer**, and multiple statements are correct, the correct format would be:
+
+**Answer: B, E, F**  
+However, if only one letter is allowed (e.g., for a multiple-choice question), this would not be valid. But based on the structure of the question, the correct answer is:
+
+**Answer: B, E, F** ✅
+
+If you need only one letter (e.g., for a single-answer question), it would be **invalid**. But given the context, the correct answer is:
+
+**Answer: B, E, F**",yes
+18,"To determine the **total electron count** of $\ce{H2O2}$ (hydrogen peroxide), we calculate the sum of the valence electrons from all the atoms in the molecule.
+
+### Step-by-step:
+
+- **Hydrogen (H):** Each H atom has **1 valence electron**.
+  - There are **2 H atoms** → $2 \times 1 = 2$ electrons.
+
+- **Oxygen (O):** Each O atom has **6 valence electrons**.
+  - There are **2 O atoms** → $2 \times 6 = 12$ electrons.
+
+### Total electron count:
+$$
+2 \text{ (from H)} + 12 \text{ (from O)} = 14
+$$
+
+### ✅ Final Answer: **14**
+
+**Answer: 14**",no
+C,"The correct answer is: **(C)**
+
+### Explanation:
+
+Let's analyze each statement:
+
+**(A)** *A species can react as an electrophile if it contains an atom (other than hydrogen) with an incomplete valence octet.*
+
+- **True**. Electrophiles are electron-deficient species. An atom with an incomplete octet (like boron in BH₃) is electron-deficient and can act as an electrophile.
+
+**(B)** *A species can react as an electrophile, even if it has one or more unshared electron pairs.*
+
+- **True**. Electrophiles are not necessarily electron-rich. For example, a carbonyl carbon (C=O) is electron-deficient and acts as an electrophile, even though the oxygen has lone pairs.
+
+**(C)** *Any species bearing a lone pair can normally react as a nucleophile.*
+
+- **False**. While many nucleophiles have lone pairs, **not all species with lone pairs are nucleophiles**. For example, a species like a carbonyl oxygen has lone pairs, but it is not typically a nucleophile in the same way as a negatively charged species like OH⁻ or NH₃. Also, lone pairs on atoms with high electronegativity may not be reactive in nucleophilic reactions.
+
+**(D)** *It is not necessary for a nucleophile to have an unshared electron pair.*
+
+- **True**. Some nucleophiles, like a negatively charged species (e.g., Cl⁻), can act as nucleophiles due to their charge, not necessarily due to a lone pair. However, most nucleophiles do have lone pairs or negative charge.
+
+### ✅ Final Answer: **C**",yes
+C,"To determine which compound is the **most acidic**, we need to compare the **acidity of the carboxylic acid groups** in each of the given compounds:
+
+- **(A)** $\ce{BrCH2CO2H}$ (Bromochloroacetic acid)
+- **(B)** $\ce{ClCH2CO2H}$ (Chloroacetic acid)
+- **(C)** $\ce{FCH2CO2H}$ (Fluoroacetic acid)
+- **(D)** $\ce{ICH2CO2H}$ (Iodoacetic acid)
+
+### Key Concept:
+The **acidity of carboxylic acids** is influenced by the **electron-withdrawing effect** of the substituent on the alpha carbon (the carbon adjacent to the carboxylic acid group). The stronger the electron-withdrawing effect, the more it stabilizes the conjugate base (i.e., the deprotonated form), and thus the **stronger the acid**.
+
+### Electron-Withdrawing Strength (from strongest to weakest):
+- **F (Fluorine)** > **Cl (Chlorine)** > **Br (Bromine)** > **I (Iodine)**
+
+This is because **fluorine** is the most electronegative, and its electron-withdrawing effect is the strongest, followed by chlorine, bromine, and iodine.
+
+### Conclusion:
+- **(C)** $\ce{FCH2CO2H}$ has the **strongest electron-withdrawing group (F)**, so it is the **most acidic**.
+
+### ✅ Final Answer: **C**",yes
+15,"To determine the **total electron count** of a molecule like **NO (nitrogen monoxide)**, we need to count all the valence electrons from each atom.
+
+### Step 1: Identify the atoms in NO
+- **Nitrogen (N)** has an atomic number of 7 → 5 valence electrons
+- **Oxygen (O)** has an atomic number of 8 → 6 valence electrons
+
+### Step 2: Add the valence electrons
+$$
+\text{Total electron count} = 5 + 6 = 11
+$$
+
+### Final Answer:
+**11**
+
+So, the total electron count of **NO** is: **11**
+
+✅ **Answer: 11**",no
+D,"We are given:
+
+- Volume of copper(II) nitrate solution: 40.0 mL = 0.0400 L  
+- Concentration of copper(II) nitrate: 0.25 M  
+- We are asked to find the **nitrate ion concentration**.
+
+---
+
+### Step 1: Understand the dissociation of copper(II) nitrate
+
+Copper(II) nitrate is a strong electrolyte and dissociates completely in water:
+
+$$
+\text{Cu(NO}_3)_2 \rightarrow \text{Cu}^{2+} + 2\text{NO}_3^-
+$$
+
+This means **each mole of Cu(NO₃)₂ produces 2 moles of nitrate ions (NO₃⁻)**.
+
+---
+
+### Step 2: Find moles of Cu(NO₃)₂
+
+$$
+\text{Moles of Cu(NO}_3)_2 = \text{Molarity} \times \text{Volume (in L)} = 0.25 \, \text{M} \times 0.0400 \, \text{L} = 0.0100 \, \text{mol}
+$$
+
+---
+
+### Step 3: Find moles of nitrate ions
+
+$$
+\text{Moles of NO}_3^- = 2 \times \text{moles of Cu(NO}_3)_2 = 2 \times 0.0100 = 0.0200 \, \text{mol}
+$$
+
+---
+
+### Step 4: Find nitrate ion concentration
+
+$$
+[\text{NO}_3^-] = \frac{\text{moles of NO}_3^-}{\text{volume in L}} = \frac{0.0200}{0.0400} = 0.50 \, \text{M}
+$$
+
+---
+
+### ✅ Final Answer:
+
+**(D) 0.50**",yes
+50,"To find the **total electron count** of a molecule, we sum the valence electrons of all the atoms in the molecule.
+
+---
+
+### Step 1: Identify the atoms in $\ce{H3PO4}$
+
+- **H (Hydrogen)**: 3 atoms  
+- **P (Phosphorus)**: 1 atom  
+- **O (Oxygen)**: 4 atoms
+
+---
+
+### Step 2: Determine the valence electrons for each atom
+
+- **Hydrogen (H)**: 1 valence electron per atom  
+- **Phosphorus (P)**: 5 valence electrons  
+- **Oxygen (O)**: 6 valence electrons per atom
+
+---
+
+### Step 3: Calculate total valence electrons
+
+$$
+\text{Total electron count} = (3 \times 1) + (1 \times 5) + (4 \times 6) = 3 + 5 + 24 = 32
+$$
+
+---
+
+### ✅ Final Answer:
+
+**32**
+
+So, the correct answer is: **32**.",No.

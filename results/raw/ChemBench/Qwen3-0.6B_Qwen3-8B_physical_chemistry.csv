@@ -1,0 +1,4005 @@
+Truth,Model,Critic
+C,"The activation energy can be calculated using the Arrhenius equation:
+
+$$
+\ln\left(\frac{k_2}{k_1}\right) = -\frac{E_a}{R} \left(\frac{1}{T_2} - \frac{1}{T_1}\right)
+$$
+
+Given:
+- $k_1 = k_2 \times 30 = 30 \times k_2$
+- $T_1 = 25.0^\circ \text{C} = 298.15 \text{ K}$
+- $T_2 = 75.0^\circ \text{C} = 353.15 \text{ K}$
+
+Substitute into the equation:
+
+$$
+\ln\left(\frac{k_2}{k_2 \times 30}\right) = -\frac{E_a}{R} \left(\frac{1}{353.15} - \frac{1}{298.15}\right)
+$$
+
+$$
+\ln\left(\frac{1}{30}\right) = -\frac{E_a}{R} \left(\frac{1}{353.15} - \frac{1}{298.15}\right)
+$$
+
+$$
+- \ln(30) = -\frac{E_a}{R} \left(\frac{1}{353.15} - \frac{1}{298.15}\right)
+$$
+
+$$
+\ln(30) = \frac{E_a}{R} \left(\frac{1}{353.15} - \frac{1}{298.15}\right)
+$$
+
+$$
+E_a = \frac{\ln(30) \cdot R}{\left(\frac{1}{353.15} - \frac{1}{298.15}\right)}
+$$
+
+$$
+E_a = \frac{2.903 \cdot 8.314 \cdot 10^{-3}}{0.00277 - 0.00336}
+$$
+
+$$
+E_a = \frac{2.903 \cdot 8.314}{0.00059} \approx 42700 \text{ J/mol} = 42.7 \text{ kJ/mol}
+$$
+
+This is approximately **58.6 kJ/mol** (Option C).
+
+**Answer: (C)**",yes
+B,"The correct answer is: **B**.
+
+**Explanation**:  
+A catalyst **decreases the activation energy** for both the **direct** and **reverse** reactions, which allows both reactions to proceed at a faster rate. This effectively lowers the energy required for the reactions to occur, thus increasing the rate of the reaction.  
+
+Other options:  
+- **(A)** Incorrect – Catalysts do **not** change the equilibrium state.  
+- **(C)** Incorrect – Catalysts do **not** increase the kinetic energy of the reagent particles.  
+- **(D)** Incorrect – Enthalpy change is **not** affected by a catalyst.  
+
+So, the correct answer is: **B**.",yes
+C,"The most common hybridization of the carbon atoms in the 1,4-cyclohexadiene molecule is:
+
+**(B) sp**.  
+
+This is because in a 1,4-cyclohexadiene structure, the double bond between the two carbon atoms results in a **sp hybridization**. The double bond involves one sigma and one pi bond, leading to the hybridization of each carbon atom as **sp**.",No.
+A,"Based on intermolecular forces, the compound with the highest boiling point is:
+
+**(C) butane**
+
+**Explanation**:  
+- **Intermolecular forces** include **London dispersion forces**, which are the weakest but the most common in all substances.  
+- **Butane** (C) has the lowest molecular weight among all the given compounds, which means it has the lowest intermolecular forces and the lowest boiling point.  
+- **Dimethylether (D)** is a stronger intermolecular interaction (dipole-dipole interactions) than butane, making it have a higher boiling point.  
+- **2-methylpropane (B)** is a simple alkane with very low molecular weight and similar intermolecular forces, so it also has a low boiling point.  
+- **2-methylbutane (A)** has a higher molecular weight and is less volatile than butane.  
+
+**Answer: C**",No.
+-285.8,"The standard enthalpy change of combustion of $\ce{H_2}$ can be calculated using the enthalpy of formation of $\ce{H_2}$ gas and the enthalpy of formation of the products (water and methane) in the reaction.
+
+The balanced combustion reaction of methane is:
+
+$$
+\ce{CH4(g) + 2H2(g) -> CO2(g) + 4H2O(l)}
+$$
+
+We are given:
+- $\ce{CH4(g)}$: $\ce{H2O(l)}$: $\ce{H2O(l)}$: $\ce{H2O(l)}$: $\ce{-74.8 kJ mol^{-1}}$  
+- $\ce{H2(g)}$: $\ce{-285.8 kJ mol^{-1}}$
+
+We can now calculate the standard enthalpy change of combustion of $\ce{H_2}$:
+
+$$
+\Delta H^\circ_{\text{comb}} = \sum \Delta H_f^\circ (\text{products}) - \sum \Delta H_f^\circ (\text{reactants})
+$$
+
+Substitute the values:
+
+$$
+\Delta H^\circ_{\text{comb}} = [(-285.8 \, \text{kJ mol}^{-1}) \times 4] - [(-74.8 \, \text{kJ mol}^{-1}) \times 1] - [(-285.8 \, \text{kJ mol}^{-1}) \times 2]
+$$
+
+$$
+= (-1143.2 \, \text{kJ}) - (-74.8 \, \text{kJ}) - (-571.6 \, \text{kJ})
+$$
+
+$$
+= -1143.2 + 74.8 + 571.6 = -496.8 \, \text{kJ mol}^{-1}
+$$
+
+Thus, the standard enthalpy change of combustion of $\ce{H2}$ is:
+
+$$
+\boxed{-496.8 \, \text{kJ mol}^{-1}}
+$$
+
+**Answer:** A",No.
+26.7,"We are given the following information for the reaction:
+
+$$
+\ce{CO + H2O <=> CO2 + H2}
+$$
+
+Initial moles:
+- $\ce{CO} = 40$ mol  
+- $\ce{H2} = 20$ mol  
+- $\ce{CO2} = 20$ mol  
+- $\ce{H2O} = 0$ mol (initially not present)
+
+At equilibrium, the reaction reaches a **final state** with:
+- $\ce{CO}$ = ?
+- $\ce{H2}$ = ?
+
+Given:
+- $ K_p = 0.64 $
+- Temperature = 1100 K
+
+We are to find the number of moles of $\ce{H2}$ that **leave** the reactor.
+
+---
+
+### Step 1: Write the equilibrium expression
+
+$$
+K_p = \frac{[\ce{CO2}][\ce{H2}]}{[\ce{CO}][\ce{H2O}]}
+$$
+
+At equilibrium, the reaction is:
+
+$$
+\ce{CO + H2O <=> CO2 + H2}
+$$
+
+Let’s denote the change in moles as follows:
+
+- Let $ x $ = moles of $\ce{CO}$ that reacts
+- Let $ y $ = moles of $\ce{H2}$ that reacts
+
+So, at equilibrium:
+- $\ce{CO} = 40 - x$
+- $\ce{H2} = 20 - y$
+- $\ce{CO2} = 20 + x$
+- $\ce{H2O} = 0 + y$
+
+Substitute into the equilibrium expression:
+
+$$
+K_p = \frac{(20 + x)(20 - y)}{(40 - x)(y)}
+$$
+
+We are told $ K_p = 0.64 $, so:
+
+$$
+\frac{(20 + x)(20 - y)}{(40 - x)(y)} = 0.64
+$$
+
+---
+
+### Step 2: Solve for $ x $ and $ y $
+
+We are to find the value of $ y $, the number of moles of $\ce{H2}$ that **leave** the reactor.
+
+Let’s assume $ x = 0 $ (no reaction occurs) and solve for $ y $:
+
+$$
+\frac{(20)(20 - y)}{(40)(y)} = 0.64
+$$
+
+$$
+\frac{400 - 20y}{40y} = 0.64
+$$
+
+$$
+\frac{10 - 0.5y}{y} = 0.64
+$$
+
+$$
+10 - 0.5y = 0.64y
+$$
+
+$$
+10 = 1.14y
+$$
+
+$$
+y = \frac{10}{1.14} \approx 8.77
+$$
+
+So, approximately **8.77 moles** of $\ce{H2}$ leave the reactor.
+
+---
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+55.5,"The density of pure water is $\pu{1 g cm^{-3}}$, which means that 1 gram of water occupies 1 cubic centimeter. 
+
+To find the concentration in $\pu{mol dm^{-3}}$, we use the formula:
+
+$$
+\text{Concentration (mol dm}^{-3} \text{)} = \frac{\text{mass of solute (g)}}{\text{volume of solution (dm}^3\text{)} \times \text{molar mass (g/mol)}}
+$$
+
+Since water is a pure substance, its molar mass is approximately $\pu{18.015 g/mol}$.
+
+So, for 1 gram of water, the concentration is:
+
+$$
+\frac{1 \, \text{g}}{1 \, \text{dm}^3 \times 18.015 \, \text{g/mol}} = \frac{1}{18.015} \approx 0.0555 \, \pu{mol dm}^{-3}
+$$
+
+The correct answer is: **A**.",No.
+C,"To determine the percentage of ionized oxalic acid in the solution, we need to:
+
+1. **Calculate the moles of oxalic acid**:
+   $$
+   \text{Moles of } \ce{H2C2O4} = \frac{5.00\ \text{g}}{90.04\ \text{g/mol}} \approx 0.0555\ \text{mol}
+   $$
+
+2. **Determine the total number of ions** in the solution:
+   - Oxalic acid is a **dissociating** compound:
+     $$
+     \ce{H2C2O4} \rightarrow 2\ \ce{H3O^+} + \ce{C2O4^{2-}}
+     $$
+   - So, 1 mole of oxalic acid produces **2 moles of ions**.
+
+3. **Calculate the total moles of ions**:
+   $$
+   0.0555\ \text{mol} \times 2 = 0.111\ \text{mol}
+   $$
+
+4. **Determine the total mass of the solution**:
+   - Mass of water = 100.0 g
+   - Mass of oxalic acid = 5.00 g
+   - Total mass = 105.00 g
+
+5. **Calculate the freezing point depression**:
+   $$
+   \Delta T_f = i \cdot K_f \cdot m
+   $$
+   $$
+   \Delta T_f = 2 \cdot 1.86\ \text{deg/C} \cdot 0.111\ \text{mol} \approx 0.416\ \text{deg}
+   $$
+
+6. **Calculate the freezing point of the solution**:
+   $$
+   T_f = 0^\circ C - 0.416^\circ C = 99.584^\circ C
+   $$
+
+7. **Find the percentage of ionized oxalic acid**:
+   - The freezing point of the solution is now $99.584^\circ C$, so the original freezing point of pure water is $0^\circ C$.
+   - The percentage of ionized oxalic acid is:
+     $$
+     \text{Percentage} = \left( \frac{0.416^\circ C}{0.000} \right) \times 100 = \text{Undefined}
+     $$
+     Wait! This suggests we made a mistake in the calculation.
+
+Let’s recalculate correctly:
+
+---
+
+**Correct approach:**
+
+1. **Moles of oxalic acid**:
+   $$
+   n = \frac{5.00\ \text{g}}{90.04\ \text{g/mol}} \approx 0.0555\ \text{mol}
+   $$
+
+2. **Moles of ions**:
+   $$
+   2n = 0.111\ \text{mol}
+   $$
+
+3. **Total mass of solution**:
+   $$
+   100.0\ \text{g} + 5.00\ \text{g} = 105.00\ \text{g}
+   $$
+
+4. **Freezing point depression**:
+   $$
+   \Delta T_f = i \cdot K_f \cdot m = 2 \cdot 1.86\ \text{deg/C} \cdot 0.111\ \text{mol} = 0.416\ \text{deg}
+   $$
+
+5. **Original freezing point of water is 0°C.**
+   - The new freezing point is:
+     $$
+     0 - 0.416 = -0.416^\circ C
+     $$
+
+6. **Percentage of ionized oxalic acid**:
+   $$
+   \text{Percentage} = \left( \frac{0.416}{0.000} \right) \times 100 = \text{Undefined}
+   $$
+
+Wait! That still doesn't make sense. Let’s use a different approach.
+
+---
+
+### Correct approach:
+
+We are given:
+- Mass of oxalic acid = 5.00 g
+- Molar mass = 90.04 g/mol → moles = 5.00 / 90.04 ≈ 0.0555 mol
+- Molar mass of water = 18.015 g/mol
+
+Total mass = 100.0 g (water) + 5.00 g (oxalic acid) = 105.00",No.
+3.86,"The pKa of lactic acid is calculated using the formula:
+
+$$
+pK_a = -\log_{10} K_a
+$$
+
+Given $ K_a = 1.38 \times 10^{-4} $, we calculate:
+
+$$
+pK_a = -\log_{10} (1.38 \times 10^{-4}) \approx 3.87
+$$
+
+So the correct answer is: **B**.",no
+1,"To determine the rate equation for the formation of xenon difluoride, we analyze the given data and use the relationship between the rate of reaction and the concentrations of xenon (Xe) and fluorine (F₂).
+
+Given data:
+
+- When moles of **Xe** = 1 and **F₂** = 5:  
+  $ r = 3.6 \times 10^5 \, \text{mol dm}^{-3} \text{s}^{-1} $
+
+- When moles of **Xe** = 1 and **F₂** = 10:  
+  $ r = 3.6 \times 10^5 \, \text{mol dm}^{-3} \text{s}^{-1} $
+
+- When moles of **Xe** = 2 and **F₂** = 10:  
+  $ r = 7.2 \times 10^5 \, \text{mol dm}^{-3} \text{s}^{-1} $
+
+We observe that the rate is **proportional** to the **concentration of Xe** and **concentration of F₂**, and the rate increases with both concentrations.
+
+From the first two data points:
+
+- $ r_1 = k[\ce{Xe}]^1[\ce{F2}]^1 $
+- $ r_2 = k[\ce{Xe}]^1[\ce{F2}]^1 $
+
+So, the rate is **proportional** to the product of [Xe] and [F₂].
+
+From the third data point:
+
+- $ r_3 = k[\ce{Xe}]^2[\ce{F2}]^1 $
+
+This suggests that the rate is **proportional** to [Xe]² and [F₂].
+
+Thus, the rate equation is:
+
+$$ r = k[\ce{Xe}]^2[\ce{F2}] $$
+
+Therefore, the value of $ y = 2 $.
+
+$$
+\boxed{B}
+$$",No.
+C,"The normal boiling point of a solution depends on the **molality (m)** and the **van't Hoff factor (i)**, which accounts for the number of particles produced when the solute dissociates.
+
+### Key Concepts:
+- **Normal boiling point** is the boiling point of a solution at standard pressure (1 atm).
+- **Van't Hoff factor** ($i$) is the ratio of the number of particles to the number of moles of solute.
+- **Normal boiling point** increases with the **amount of solute** and the **higher the i**, the **higher the boiling point**.
+
+---
+
+### Solving the problem:
+
+#### (A) $\ce{0.10 M Na3PO4}$
+
+- $\ce{Na3PO4} \rightarrow 3\ce{Na+} + \ce{PO4^{3-}}$
+- $i = 3$ (dissociates into 4 particles)
+- $i = 4$
+
+#### (B) $\ce{0.30 M Na2HPO4}$
+
+- $\ce{Na2HPO4} \rightarrow 2\ce{Na+} + \ce{HPO4^{2-}}$
+- $i = 3$ (dissociates into 3 particles)
+
+#### (C) $\ce{0.50 M NaH2PO4}$
+
+- $\ce{NaH2PO4} \rightarrow \ce{Na+} + 2\ce{HPO4^{2-}}$
+- $i = 3$ (dissociates into 3 particles)
+
+#### (D) $\ce{0.70 M H3PO4}$
+
+- $\ce{H3PO4} \rightarrow 3\ce{H+}$
+- $i = 3$ (dissociates into 3 particles)
+
+---
+
+### Comparison:
+
+- (A): $i = 4$, (B): $i = 3$, (C): $i = 3$, (D): $i = 3$
+
+The highest $i$ is **4**, which occurs in **(A)**.
+
+---
+
+### ✅ Final Answer: **A**",No.
+C,"The correct answer is: **A) All the answers are correct**
+
+**Reasoning**:  
+Carbon formation in methane decomposition (such as via steam reforming) can be avoided by using thermodynamic principles.  
+
+- **(B) By increasing the temperature**: Increasing temperature shifts the equilibrium to favor the formation of CO and H₂, reducing carbon deposition.  
+- **(C) By operating in the presence of an excess of steam**: Steam promotes the reaction and helps avoid carbon accumulation.  
+- **(D) Using a noble metal catalyst that is more resistant to carbon deposition**: This also reduces carbon formation by limiting the availability of carbon sources.  
+
+All three methods are based on thermodynamic principles to avoid carbon formation.  
+
+**Answer: A**",no
+994,"We are given:
+
+- **Pralidoxime (PAM)**: 3 mmol/h/kg of body mass  
+- **Molar mass (M)** of PAM: 172.612 g/mol  
+- **Mass of the person**: 80 kg  
+- **Treatment duration**: 24 hours
+
+### Step 1: Calculate the total dose of PAM
+
+Each hour, the person requires:
+
+$$
+3 \, \text{mmol/h} \times 80 \, \text{kg} = 240 \, \text{mmol/h}
+$$
+
+Over 24 hours:
+
+$$
+240 \, \text{mmol/h} \times 24 \, \text{h} = 5760 \, \text{mmol}
+$$
+
+Convert mmol to g using the molar mass:
+
+$$
+5760 \, \text{mmol} \times \frac{172.612 \, \text{g/mol}}{1000} = 5760 \times 0.172612 = \boxed{99.99} \, \text{g}
+$$
+
+### Final Answer:
+$$
+\boxed{\text{A}}
+$$",no
+3.27E-22,"To find the mass of one gold atom, we can use the relationship between the **Avogadro constant** and the **molar mass** of gold.
+
+- **Avogadro's constant** is $ \pu{6.02 \times 10^{23} mol^{-1}} $
+- **Molar mass of gold** is $ \pu{197 \, g/mol} $
+- The mass of one atom is given by:
+
+$$
+\text{Mass of one atom} = \frac{\text{Molar mass}}{\text{Avogadro's constant}} = \frac{197}{6.02 \times 10^{23}} \, \text{g}
+$$
+
+$$
+\text{Mass of one atom} \approx \boxed{3.27 \times 10^{-22} \, \text{g}}
+$$
+
+So, the correct answer is: **A**.",yes
+A,"The correct answer is: **B**
+
+**Explanation:**
+
+- (A) **Incorrect**: The standard Gibbs free energy ($\Delta G$) of a chemical process during electrolysis can be positive, negative, or zero, depending on the conditions. It is **not always** positive.
+
+- (B) **Correct**: Electric current is used to drive a **non-spontaneous** reaction during electrolysis, which is a key concept in electrochemistry.
+
+- (C) **Incorrect**: Overvoltage is generally associated with the **evolution of oxygen gas**, not the evolution of oxygen gas itself. Overvoltage is a term that describes excessive voltage, which can occur during electrolysis.
+
+**Answer: B**",no
+B,"We are given the atomic mass and oxidation state for each element:
+
+- **X**: Atomic mass = M, oxidation state = +2  
+- **W**: Atomic mass = 2M, oxidation state = +1  
+- **Y**: Atomic mass = 1.5M, oxidation state = +3  
+- **Z**: Atomic mass = 1.25M, oxidation state = +2  
+
+### Step-by-step:
+
+We are told to electroplate **0.1 g** of each element. The amount of charge required to electroplate an element depends on:
+
+- **Atomic mass** (M)  
+- **Oxidation state** (+/−)  
+- **Molar mass** of the element (which is equal to its atomic mass)
+
+The charge required to electroplate an element is proportional to its **molar mass**. Since the charge is directly proportional to the molar mass, and the oxidation state is also a factor, we need to calculate the required charge for each element and then compare the charges.
+
+#### Molar mass and charge:
+
+- **W**: 2M → charge = 2M  
+- **X**: M → charge = M  
+- **Y**: 1.5M → charge = 1.5M  
+- **Z**: 1.25M → charge = 1.25M  
+
+So, the charges are:
+
+- W: +2  
+- X: +1  
+- Y: +3  
+- Z: +2  
+
+Now, we compare the charges:
+
+- **W** has the least charge (+2)  
+- **Z** has the least charge (+2)  
+- **X** has +1  
+- **Y** has +3  
+
+### Correct order from least to most charge required:
+
+**(B) W < Z < X = Y**
+
+---
+
+**Answer: (B)**",yes
+98.4,"We are given:
+
+- Energy released from burning **1 L of E10 fuel** = **30,680 kJ**
+- Energy released from burning **1 L of E5 fuel** = **31,170 kJ**
+
+We are told that the **energy released from burning 1 L of E5 fuel is 100%**.
+
+To find the **percentage of energy released from burning 1 L of E10 fuel**, we use the ratio:
+
+$$
+\text{Percentage} = \left( \frac{30680}{31170} \right) \times 100\%
+$$
+
+$$
+\text{Percentage} = \left( \frac{30680}{31170} \right) \times 100 \approx 98.6\%
+$$
+
+### ✅ Final Answer: **A**",No.
+B,"The correct answer is: **B**.
+
+**Explanation**:  
+In an endothermic chemical reaction, the activation energy of the reverse reaction is **lower** than that of the direct reaction. This is because the reverse reaction (which is the reverse of the forward reaction) can occur at a lower energy barrier, making it more favorable to proceed at lower temperatures. 
+
+The other options are incorrect:
+- (A) is incorrect because the reverse reaction has a lower activation energy.
+- (C) is incorrect because temperature affects the rate of reaction.
+- (D) is incorrect because activation energies of the direct and reverse reactions are not the same.
+
+Answer: **B**.",yes
+B,"The value of the **activation energy** is **not directly determined** by the **enthalpy change** of the reaction. The **enthalpy change** (ΔH) is related to the **reaction's energy**, but it does **not** determine the **activation energy**.
+
+### Therefore, the correct answer is:  
+**(A) Less than \pu{25 kJ}**  
+**Explanation**: The activation energy is a property of the reaction mechanism, not the enthalpy change.  
+
+**Answer: A**.",No.
+C,"The correct answer is: **C**
+
+**Explanation:**  
+The observation that the **onset potential for hydrogen evolution** has shifted **towards a higher potential** and the **onset potential for Br⁻ oxidation** has shifted **towards a lower potential** can be explained by the **Nernst equation**, which accounts for changes in concentration, temperature, or activity of reactants and products. This shift reflects the **effective potential** of the reaction being affected by changes in concentration (e.g., the presence of other species, such as catalysts or other species in solution), leading to a change in the reaction potential.
+
+**Answer:** C.",yes
+B,"The oxidation potential of the hydrogen half-cell is negative when the **pH of the solution is higher** than the standard hydrogen electrode (SHE), which is at $ \mathbb{p}(\ce{H2}) = 0 $ and $ [\ce{H+}] = 1 \, \text{M} $.
+
+- **(A)**: $ p(\ce{H2}) = 0.2 $, $ [\ce{H+}] = 0.2 $ → pH = 2 → **higher than SHE** → potential is **negative**.
+- **(B)**: $ p(\ce{H2}) = 0.2 $, $ [\ce{H+}] = 1 $ → pH = 1 → **equal to SHE** → potential is **zero**.
+- **(C)**: $ p(\ce{H2}) = 1 $, $ [\ce{H+}] = 1 $ → pH = 1 → **equal to SHE** → potential is **zero**.
+- **(D)**: $ p(\ce{H2}) = 1 $, $ [\ce{H+}] = 2 $ → pH = 2 → **higher than SHE** → potential is **negative**.
+
+### Correct Answer: **A**.",No.
+0,The oxidation number of hydrogen in the reactants of the Sabatier reaction is **A**.,yes
+C,"The correct answer is: **B**.  
+**Higher energy penalties are favorable for adsorption while entropy has major effects.**
+
+**Reasoning**:  
+At absolute zero (T = 0 K), all particles are at the lowest energy state, and the system is in a perfect crystal lattice. At this temperature, the energy penalties for adsorption are minimized, and the entropy effects are minimal because the system is in a highly ordered state. Thus, the correct answer is **B**.",No.
+A,"The correct answer is: **B**.
+
+**Explanation:**  
+Iso-electronic gases share the same electron count. The carbide ion (CO$_{2}$) has 6 electrons.  
+- **A) Carbon monoxide (CO) and nitrogen (N)**: CO has 6 electrons, N has 7. Not the same.  
+- **B) Nitric oxide (NO) and carbon monoxide (CO)**: NO has 6 electrons, CO also has 6. Same electron count.  
+- **C) Nitrogen and hydrogen**: N has 7, H has 1. Not the same.  
+- **D) Oxygen and fluorine**: O has 8, F has 9. Not the same.  
+
+**Answer:** B",No.
+4,"The gold atom crystallizes in a cubic arrangement where:
+
+- It occupies **all the corners** of the cube.
+- It also occupies **all the center of the faces**.
+
+Let’s calculate the number of atoms within the unit cell:
+
+1. **Corners**: Each corner of the cube is occupied by 1 atom. A cube has 8 corners.
+2. **Face centers**: Each face of the cube has 1 atom. A cube has 6 faces, so there are 6 face centers.
+
+So, the total number of atoms is:
+
+$$
+8 + 6 = 14
+$$
+
+The correct answer is: **A**.",No.
+D,"For an irreversible reaction of second order with respect to A, the correct representation that shows linear behavior is:
+
+**(B) [\ce{A}]^2 vs time**
+
+This corresponds to a linear relationship because the reaction order (second order) implies that the concentration of A decreases quadratically with time, which would result in a curve that is linear in the [A]^2 vs time plot. 
+
+The correct answer is: **B**.",No.
+B,"We are given a first-order reaction:
+
+$$
+\ce{A + B -> C}
+$$
+
+Both A and B are present in first-order reactions with respect to each. The initial concentrations are:
+
+- Initial concentration of A: $\ce{0.20 M}$
+- Initial concentration of B: $\ce{0.010 M}$
+- Time taken to decrease B from 0.010 M to 0.0050 M: 37 s
+
+We are to find the time required for B to decrease from 0.010 M to 0.0050 M **if the initial concentration of A is now 0.010 M**.
+
+---
+
+### Step 1: Use the first-order rate law
+
+For a first-order reaction:
+
+$$
+\ln\left(\frac{[B]_0}{[B]}\right) = kt
+$$
+
+We can compute the rate constant $k$ from the first scenario:
+
+$$
+\ln\left(\frac{0.010}{0.0050}\right) = k \cdot 37
+$$
+
+$$
+\ln(2) = 37k \Rightarrow k = \frac{\ln(2)}{37} \approx 0.0183 \, \text{s}^{-1}
+$$
+
+---
+
+### Step 2: Use the first-order rate law again for the second scenario
+
+Now, the initial concentration of A is 0.010 M, and B is still 0.010 M. So:
+
+$$
+\ln\left(\frac{0.010}{0.0050}\right) = k t
+$$
+
+$$
+\ln(2) = 0.0183 \cdot t \Rightarrow t = \frac{\ln(2)}{0.0183} \approx 37 \, \text{s}
+$$
+
+---
+
+### Final Answer:
+
+**(C) 37**",No.
+3,"The chemical formula for silver nitrate is **AgNO₃**, not AgNOx. Therefore, the value of **x** in the formula **AgNOx** is:
+
+$$
+\boxed{3}
+$$",yes
+10.2,"The molar volume of gold can be calculated using the formula:
+
+$$
+\text{Molar Volume} = \frac{\text{Volume of one mole of gold}}{\text{Number of moles in one volume}} = \frac{\text{Volume}}{\text{Avogadro's number}}
+$$
+
+Given:
+
+- Mass of one gold atom = $3.27 \times 10^{-22} \, \text{g}$
+- Density of gold = $19.3 \, \text{g/cm}^3$
+- Avogadro's number = $6.022 \times 10^{23} \, \text{atoms/mol}$
+
+First, find the mass of one mole of gold:
+
+$$
+\text{Mass of one mole of gold} = \text{Density} \times \text{Volume of one mole} = 19.3 \, \text{g/cm}^3 \times V
+$$
+
+But we also know that:
+
+$$
+1 \, \text{mol} = 6.022 \times 10^{23} \, \text{atoms}
+$$
+
+So, the mass of one mole of gold is:
+
+$$
+\text{Mass of one mole} = 19.3 \, \text{g/cm}^3 \times 6.022 \times 10^{23} \, \text{atoms/mol} \times 1 \, \text{cm}^3
+$$
+
+$$
+\text{Mass of one mole} = 19.3 \times 6.022 \times 10^{23} \, \text{g} = 1.161 \times 10^{25} \, \text{g}
+$$
+
+Now, find the volume of one mole of gold:
+
+$$
+\text{Volume of one mole} = \frac{\text{Mass of one mole}}{\text{Molar mass of gold}}
+$$
+
+The molar mass of gold is approximately $197.0 \, \text{g/mol}$.
+
+$$
+\text{Volume of one mole} = \frac{1.161 \times 10^{25} \, \text{g}}{197.0 \, \text{g/mol}} = 5.90 \times 10^{22} \, \text{cm}^3
+$$
+
+Thus, the molar volume is:
+
+$$
+\text{Molar Volume} = \frac{\text{Volume of one mole}}{\text{Avogadro's number}} = \frac{5.90 \times 10^{22} \, \text{cm}^3}{6.022 \times 10^{23} \, \text{atoms/mol}} \approx 0.98 \, \text{cm}^3 \text{mol}^{-1}
+$$
+
+So the correct answer is: **A**.",No.
+-71.5,"The reaction:
+
+$$
+\ce{SiO2 + 6NaF + 6HCl -> H2SiF6 + 6NaCl + 2H2O}
+$$
+
+is the sum of:
+
+- $\ce{SiO2 + 6HF -> H2SiF6 + 2H2O}$ (given: $-100.3\ \pu{kJ\ mol^{-1}}$)
+- $\ce{NaOH + HF -> H2O + NaF}$ (given: $-61.5\ \pu{kJ\ mol^{-1}}$)
+- $\ce{NaOH + HCl -> NaCl + H2O}$ (given: $-56.7\ \pu{kJ\ mol^{-1}}$)
+
+Let’s add them together:
+
+$$
+\begin{align*}
+\ce{SiO2 + 6HF} &\rightarrow \ce{H2SiF6 + 2H2O} \quad \text{(from HF to SiO2)} \\
++ \ce{NaOH + HF} &\rightarrow \ce{H2O + NaF} \quad \text{(from NaOH to HF)} \\
++ \ce{NaOH + HCl} &\rightarrow \ce{NaCl + H2O} \quad \text{(from NaOH to HCl)}
+\end{align*}
+$$
+
+Total reaction:
+
+$$
+\ce{SiO2 + 6NaF + 6HCl -> H2SiF6 + 6NaCl + 2H2O}
+$$
+
+Now sum the enthalpy changes:
+
+$$
+-100.3\ \pu{kJ\ mol^{-1}} + (-61.5)\ \pu{kJ\ mol^{-1}} + (-56.7)\ \pu{kJ\ mol^{-1}} = -228.5\ \pu{kJ\ mol^{-1}}
+$$
+
+**Answer: A**",no
+245,"We are given:
+
+- Temperature: $ T = 25^\circ \text{C} = 298 \, \text{K} $
+- Volume of fizzy drink: $ V = 250 \, \text{cm}^3 = 0.250 \, \text{L} $
+- Partial pressure of $\ce{CO2}$: $ P_{\ce{CO2}} = 3 \, \text{atm} $
+- Henry's law constant: $ k_H = 0.033 \, \text{mol dm}^{-3} \text{atm}^{-1} $
+- Mass of $\ce{CO2}$: $ m = 1.09 \, \text{g} $
+
+### Step 1: Use Henry's Law to find the number of moles of $\ce{CO2}$
+
+$$
+n = \frac{m}{M}
+$$
+
+Where:
+- $ M $ is the molar mass of $\ce{CO2}$:  
+  $$
+  M = 12.01 + 2(16.00) = 44.01 \, \text{g/mol}
+  $$
+
+$$
+n = \frac{1.09}{44.01} \approx 0.0248 \, \text{mol}
+$$
+
+### Step 2: Use Henry's Law to find the pressure in the can
+
+$$
+P = k_H \cdot n = 0.033 \cdot 0.0248 \approx 0.000826 \, \text{atm}
+$$
+
+### Step 3: Convert atm to kPa
+
+$$
+1 \, \text{atm} = 101.325 \, \text{kPa}
+$$
+
+$$
+P = 0.000826 \times 101.325 \approx 0.084 \, \text{kPa}
+$$
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+B,"The ionization energy of the **ground-state** of the **NF** molecule is the sum of the ionization energies of nitrogen and fluorine. 
+
+- Ionization energy of nitrogen: **14.5 eV**
+- Ionization energy of fluorine: **17.4 eV**
+
+$$
+\text{Ionization energy of } \ce{NF} = 14.5 + 17.4 = 31.9 \, \text{eV}
+$$
+
+However, the ionization energy of a molecule is not simply the sum of the ionization energies of its atoms. This is because the molecule is a **covalent bond**, and the ionization energy of the molecule is **less than the sum** of the ionization energies of its atoms due to the **electronic cloud repulsion** and the **bonding energy**.
+
+But in this case, since the question asks for the **ionization energy of the ground-state of the NF molecule**, we can assume it's asking for the **total energy** required to remove all electrons from the molecule, which is **less than the sum of the ionization energies of the atoms**.
+
+So the correct answer is:
+
+**(A) 13.1** (assuming that the question is asking for the ionization energy of the molecule in terms of the sum of the two atoms' ionization energies, but this is not accurate). 
+
+Actually, the correct answer should be:
+
+**(D) 18.8**
+
+But given the options and the fact that the question asks for the ionization energy of the **ground-state** of the **NF** molecule, and since it is a covalent molecule, the ionization energy is:
+
+$$
+\boxed{D} \, \text{eV}
+$$
+
+**Answer: D**",No.
+D,"The correct answer is: **D**. 
+
+A change in the slope of an Arrhenius plot indicates a change in the reaction order or a shift between the chemical and diffusional regimes.",no
+A,"The molecule in question is **3-amino-1-phenylpropan-1-ol**, which contains an **allyne group** (i.e., an alkyne). The alkyne group is a **sp² hybridized carbon**.
+
+The correct answer is: **(B) sp**.",No.
+C,"The correct answer is: **A**.
+
+**Explanation:**
+
+- The reaction given is:  
+  $\ce{CO (g) + 2H2 (g) -> CH3OH (g)}$ with $\Delta H = -125 \, \text{kJ/mol}$.
+
+- A negative enthalpy change ($\Delta H < 0$) means the reaction is **spontaneous** at **lower temperatures** (since the system favors the formation of products when the enthalpy is favorable, and the reaction favors the direction of the reaction when the enthalpy is favorable).
+
+- **(A) In the presence of a suitable catalyst the equilibrium will be shifted to the right** – **Correct**. Catalysts increase the rate but do **not** affect the position of the equilibrium.
+
+- **(B) It will only be spontaneous at high temperature** – **Incorrect**. Spontaneity depends on both temperature and enthalpy, but the reaction is **exothermic**.
+
+- **(C) Its rate will increase with increasing temperature** – **Incorrect**. The rate of reaction depends on temperature, but the question is about the **equilibrium** being shifted, not the rate.
+
+- **(D) This is a heterogeneous equilibrium** – **Incorrect**. Methanol is a liquid, so it is a **homogeneous** equilibrium.
+
+### Final Answer: **A**.",no
+D,"The molecule in question is **3-amino-1-phenylpropan-1-ol**, which contains **one oxygen atom**.
+
+- The **oxygen** in the molecule is part of the **carboxyl group** (–COOH) and is **sp² hybridized**.
+- The **phenyl group** (–C6H5) is sp² hybridized.
+- The **amino group** (–NH2) is also sp² hybridized.
+- The **carbonyl oxygen** is sp² hybridized.
+
+Therefore, the correct answer is:  
+**(C) sp²**
+
+**Answer: C**",No.
+C,"The proposed mechanism for the decomposition of ozone by nitric oxide is:
+
+1. **I) NO + O₃ → NO₂ + O₂**  
+2. **II) O₃ + O₂ → 2 O₂ + O**  
+3. **III) NO₂ + O → NO + O₂**
+
+We are asked to identify **which substance acts as a catalyst** in this reaction.
+
+### Catalyst Definition:
+A catalyst is a substance that increases the rate of a reaction without being consumed in the process.
+
+### Analysis of the Mechanism:
+Looking at the reactions, we observe that **NO₂** is involved in the third reaction. It is consumed in the third step, and it is **recovered** in the first and second steps. This suggests that **NO₂ acts as a catalyst**.
+
+### Final Answer:
+**(B) \ce{NO2} acts as a catalyst**.",no
+A,"The correct answer is: **A**.
+
+**Explanation:**  
+Electron correlation effects play a significant role in determining dipole moments and polarizabilities in electronic systems. This is because electron correlation influences the distribution of charge and the resulting electronic properties, which in turn affect polarizability. Therefore, the correct statement is:  
+**(A) Electron correlation effects play a significant role in determining dipole moments and polarizabilities.**",yes
+B,"To determine the force constant $ k $ of the molecule $\ce{H^{79}Br}$, we use the formula for the force constant in terms of the vibrational frequency $ \omega $:
+
+$$
+\omega = \frac{1}{2\pi} \sqrt{\frac{2mk}{\Delta E}}
+$$
+
+where:
+
+- $ \omega = 260000 \, \text{m}^{-1} $ (given),
+- $ m $ is the mass of the molecule,
+- $ k $ is the force constant,
+- $ \Delta E $ is the energy difference between the vibrational levels.
+
+Solving for $ k $:
+
+$$
+k = \frac{(\omega)^2 \Delta E}{2m}
+$$
+
+But in this problem, the energy difference $ \Delta E $ is related to the force constant $ k $ via the equation:
+
+$$
+\Delta E = \frac{2mk}{\omega}
+$$
+
+Substitute this into the equation for $ k $:
+
+$$
+k = \frac{(\omega)^2}{2m} \cdot \frac{2mk}{\omega} = k^2 \cdot \frac{\omega^2}{m}
+$$
+
+Therefore, the correct expression for the force constant $ k $ is:
+
+$$
+k = \left(2\pi c \omega\right)^2 \frac{m(\ce{H}) m(\ce{^{79}Br})}{m(\ce{H}) + m(\ce{^{79}Br})}
+$$
+
+**Correct answer: (A)**
+
+$$
+\boxed{\text{A}}
+$$",No.
+A,"The correct answer is: **D**.
+
+**Explanation:**  
+At equilibrium, the system will shift to counteract any changes in the concentration of the reactants or products.  
+- (A) Increasing the scale of the reaction (e.g., using more reactants) will shift the equilibrium in the direction of products.  
+- (B) Removing a product by crystallization will shift the equilibrium toward the reactants.  
+- (C) Removing a product by distillation will also shift the equilibrium toward the reactants.  
+- (D) Using a reactant in excess will not change the equilibrium position, as it doesn't affect the concentrations of reactants or products.  
+
+So, the correct answer is: **D**.",No.
+B,"The correct answer is: **(B) High percentage of $\ce{CO}$**.
+
+### Explanation:
+Incomplete combustion of a fuel typically results in the formation of **carbon monoxide (CO)**, which is a byproduct of unburned carbon. This makes option **B** the correct answer.",yes
+A,"The correct answer is: **A**.
+
+**Explanation**:  
+In reaction kinetics, ""pseudo-first-order"" refers to a situation where one reactant is in large excess, simplifying the overall reaction to appear first-order. This is because the dominant reactant determines the rate, and the effect of the other reactant becomes negligible. This concept is commonly used in experiments where the concentration of one reactant is much greater than the others, leading to apparent first-order behavior.",yes
+1.44,"To find the **radius of the gold atom**, we are given:
+
+- The **molar volume of gold** is $ \pu{10.2 cm^3/mol} $.
+- The **gold atoms occupy 74% of the volume of the cubic unit cell**.
+
+Let’s break this into steps.
+
+---
+
+### Step 1: Use the molar volume to find the **volume per atom**
+
+The molar volume is given as $ \pu{10.2 cm^3/mol} $.
+
+Since **1 mole = $ 6.022 \times 10^{23} $ atoms**, the volume per atom is:
+
+$$
+\text{Volume per atom} = \frac{10.2 \, \pu{cm^3/mol}}{6.022 \times 10^{23} \, \pu{atoms/mol}} \approx \pu{1.69 \times 10^{-23} \, cm^3/atom}
+$$
+
+---
+
+### Step 2: Relate the volume occupied by atoms to the radius
+
+The volume occupied by the atoms is **74%** of the cubic unit cell volume. Let’s denote the **volume of the unit cell** as $ V $, and the **volume of the atoms** as $ 0.74V $.
+
+Now, the **volume of a sphere (atom)** is:
+
+$$
+V_{\text{atom}} = \frac{4}{3} \pi r^3
+$$
+
+So, we can write:
+
+$$
+0.74V = \frac{4}{3} \pi r^3
+$$
+
+Solving for $ r $:
+
+$$
+r^3 = \frac{0.74V}{\frac{4}{3} \pi} = \frac{0.74 \times 3}{4\pi} V = \frac{2.22}{4\pi} V
+$$
+
+$$
+r^3 = \frac{2.22}{12.566} V \approx 0.176 V
+$$
+
+Now, substitute the volume per atom:
+
+$$
+r^3 = 0.176 \times 1.69 \times 10^{-23} \, \pu{cm^3}
+$$
+
+$$
+r^3 \approx 0.0306 \times 10^{-23} = \pu{3.06 \times 10^{-25}} \, \pu{cm^3}
+$$
+
+---
+
+### Step 3: Convert cubic centimeters to cubic angstroms (Å)
+
+Recall that $ 1 \, \pu{Å} = 10^{-10} \, \pu{cm} $, so:
+
+$$
+1 \, \pu{cm^3} = 10^{30} \, \pu{Å^3}
+$$
+
+$$
+r^3 = 3.06 \times 10^{-25} \, \pu{cm^3} = 3.06 \times 10^{-25} \times 10^{30} \, \pu{Å^3} = 3.06 \times 10^5 \, \pu{Å^3}
+$$
+
+$$
+r \approx \sqrt[3]{3.06 \times 10^5} \approx 14.4 \, \pu{Å}
+$$
+
+---
+
+### Final Answer:
+
+$$
+\boxed{\text{C}}
+$$
+
+**Radius of the gold atom is approximately $ \boxed{14.4} \, \pu{Å} $.**",no
+B,"The correct answer is: **C**.  
+
+A **isothermal-Isobaric Monte Carlo simulation** is used to simulate an isotherm of **CO₂** in a porous material. This method simulates the behavior of the system under constant temperature and pressure, which is appropriate for modeling phase transitions or diffusion in porous media.",No.
+30680,"To find the energy released when 1 L of E10 fuel is burnt, we need to calculate the total energy from both ethanol and octane isomers, then sum them up.
+
+---
+
+### **Step 1: Calculate the mass of ethanol in 1 L of E10 fuel**
+
+- **Volume of ethanol = 1 L**
+- **Density of ethanol = 0.789 g/cm³**
+- **Mass of ethanol = 1 L × 0.789 g/cm³ = 789 g**
+
+---
+
+### **Step 2: Calculate the mass of octane isomers in 1 L of E10 fuel**
+
+- **Volume of octane isomers = 1 L**
+- **Density of octane isomers = 0.703 g/cm³**
+- **Mass of octane isomers = 1 L × 0.703 g/cm³ = 703 g**
+
+---
+
+### **Step 3: Calculate the energy from ethanol**
+
+- **Enthalpy of combustion of ethanol = -1276 kJ/mol**
+- **Mass of ethanol = 789 g**
+- **Number of moles = 789 g / 46.07 g/mol ≈ 17.1 mol**
+
+$$
+\text{Energy from ethanol} = 17.1 \, \text{mol} \times (-1276 \, \text{kJ/mol}) \approx -21979.2 \, \text{kJ}
+$$
+
+---
+
+### **Step 4: Calculate the energy from octane isomers**
+
+- **Enthalpy of combustion of octane isomer = -5144 kJ/mol**
+- **Mass of octane isomers = 703 g**
+- **Number of moles = 703 g / 114.59 g/mol ≈ 6.11 mol**
+
+$$
+\text{Energy from octane isomers} = 6.11 \, \text{mol} \times (-5144 \, \text{kJ/mol}) \approx -31544.4 \, \text{kJ}
+$$
+
+---
+
+### **Step 5: Total energy released**
+
+$$
+\text{Total energy} = -21979.2 \, \text{kJ} + (-31544.4 \, \text{kJ}) = -53523.6 \, \text{kJ}
+$$
+
+Since energy is released, we take the absolute value:
+
+$$
+\text{Energy released} = 53523.6 \, \text{kJ}
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+4,"The reaction given is:
+
+$$
+\ce{C12H22O11 + H2O -> xC3H6O3}
+$$
+
+We are to find the value of $ x $.
+
+### Step 1: Balance the equation
+
+We balance the chemical equation by counting atoms on both sides.
+
+- Left side:  
+  - Carbon: 12  
+  - Hydrogen: 22  
+  - Oxygen: 11 + 1 = 12  
+
+- Right side:  
+  - Carbon: $ x $  
+  - Hydrogen: $ 6x $  
+  - Oxygen: $ 3x $  
+
+We want to match the number of each atom on both sides.
+
+Let’s try $ x = 4 $:
+
+- Left side:  
+  - Carbon: 12  
+  - Hydrogen: 22  
+  - Oxygen: 12  
+  - Right side:  
+    - Carbon: 4  
+    - Hydrogen: 24  
+    - Oxygen: 12  
+
+This matches perfectly.
+
+### Final Answer: **C** (since $ x $ corresponds to the letter C)  
+
+**Answer: C**",no
+D,"The correct answer is: **D**.
+
+**Explanation:**
+
+- **Statement 1**: *The equilibrium constant for a reaction having positive $\Delta H^\circ$ increases with increase of temperature.*
+
+  This is **true**. When $\Delta H^\circ$ is positive (exothermic), the reaction releases heat, and increasing temperature favors the reverse reaction (i.e., the direction of the equilibrium shift), which reduces the value of the equilibrium constant. Thus, the equilibrium constant **decreases** with increasing temperature for exothermic reactions.
+
+- **Statement 2**: *The temperature dependence of the equilibrium constant is related to $\Delta H^\circ$, because it represents the heat absorbed or released during the reaction and not $\Delta S^\circ$, as it represents the disorder and does not have the same direct impact for the reaction.*
+
+  This is **false**. The **temperature dependence** of the equilibrium constant is **not** directly related to $\Delta H^\circ$. The equilibrium constant is a function of both $\Delta H^\circ$ and $\Delta S^\circ$. The sign of $\Delta H^\circ$ determines the direction of the reaction, but the **magnitude** of the equilibrium constant is more influenced by the **entropy** of the reaction.
+
+Therefore, **Statement 2 is not the correct explanation for Statement 1**, and the correct option is:
+
+**(D) Statements 1 and 2 are True. Statement 2 is the correct explanation for Statement 1.**","no
+
+**Explanation of why the response is incorrect:**
+
+- **Statement 1** is **false**.  
+  For a reaction with **positive ΔH°** (endothermic), increasing temperature **increases** the equilibrium constant. This is because, according to the **van't Hoff equation**, for endothermic reactions (ΔH° > 0), the equilibrium constant **increases** with temperature.  
+  So, **Statement 1 is false**.
+
+- **Statement 2** is **false**.  
+  The temperature dependence of the equilibrium constant **is** related to both **ΔH°** and **ΔS°**, not just ΔH°. The van't Hoff equation and the Gibbs free energy equation (ΔG° = ΔH° – TΔS°) show that both enthalpy and entropy contribute to how the equilibrium constant changes with temperature.  
+  So, **Statement 2 is also false**.
+
+- Therefore, **neither statement is true**, which contradicts the claim in the response that both are true.
+
+Thus, the **response is incorrect**, and the correct answer is **not D**."
+2,"To find the value of $ x $ in the chemical equation:
+
+$$
+\ce{C6H12O6 -> xC2H5OH + 2CO2}
+$$
+
+we start by balancing the equation. The left side contains 6 carbons, 12 hydrogens, and 6 oxygens. The right side contains:
+
+- $ x $ carbon atoms
+- $ 2 $ carbon atoms from $ \ce{CO2} $
+
+We can balance the equation by determining the correct value of $ x $.
+
+Let's balance the carbon atoms:
+
+- Left side: 6 carbons
+- Right side: $ x $ carbons
+
+So:
+
+$$
+x = 6
+$$
+
+Now balance the hydrogen atoms:
+
+- Left side: 12 hydrogens
+- Right side: $ x $ hydrogens from $ \ce{C2H5OH} $ (which has 5 hydrogens)
+
+So:
+
+$$
+x = 12
+$$
+
+Now balance the oxygen atoms:
+
+- Left side: 6 oxygens
+- Right side: 2 oxygen atoms from $ \ce{CO2} $
+
+So:
+
+$$
+x = 6
+$$
+
+Thus, the value of $ x $ is:
+
+$$
+\boxed{A}
+$$",No.
+A,"To determine the value of $\Delta G^\circ$ for the given reaction, we start with the relationship between the equilibrium constant $K_p$ and the standard Gibbs free energy change:
+
+$$
+K_p = \frac{P_{\text{products}}}{P_{\text{reactants}}}
+$$
+
+Given that $K_p = 100$, and the reaction is between gaseous substances, this implies the reaction is at equilibrium.
+
+Now, recall that the standard Gibbs free energy change is related to the equilibrium constant by the equation:
+
+$$
+\Delta G^\circ = -RT \ln K_p
+$$
+
+Substituting $K_p = 100$ into the equation:
+
+$$
+\Delta G^\circ = -RT \ln(100)
+$$
+
+Since $\ln(100) > 0$, the term $-RT \ln(100)$ is negative, which means:
+
+$$
+\Delta G^\circ < 0
+$$
+
+---
+
+### Final Answer:
+
+**(A) $\Delta G^\circ < 0$**",yes
+B,"The correct answer is: **B**. The reaction rate is independent of the concentration of component **A**. 
+
+**Explanation**: If the order of a reaction with respect to component **A** is zero, that means **A** does not influence the rate of the reaction. The rate is only dependent on other factors, like temperature, initial concentrations, or catalysts, but not on the concentration of **A** itself.
+
+So, the answer is: **B**.",yes
+C,"To determine the correct statement about $\Delta G$, we start with the given information:
+
+- $\Delta G^\circ = -2.303 RT \log K_C$
+- $\Delta G^\circ = -2.303 RT \log K_P$
+- $\Delta G^\circ = \Delta H^\circ - T\Delta S^\circ$
+
+### Step 1: Understand the relationship between $\Delta G^\circ$ and $\Delta H^\circ$
+
+We know that:
+
+$$
+\Delta G^\circ = \Delta H^\circ - T\Delta S^\circ
+$$
+
+This tells us that the value of $\Delta G^\circ$ depends on both the enthalpy change and the entropy change.
+
+---
+
+### Step 2: Analyze the options
+
+We are given four options:
+
+- **(A)** $\Delta G = -2.303 RT \log K$
+- **(B)** $\Delta G = 2.303 RT \log K$
+- **(C)** $\Delta G^\circ = -2.303 RT \log K$
+- **(D)** $\Delta G^\circ = 2.303 RT \log K$
+
+We are to find which **statement is correct** for a **reversible process in a state of equilibrium**.
+
+---
+
+### Step 3: What is $\Delta G^\circ$ for a reversible process in equilibrium?
+
+At equilibrium, the system is in a state of **maximum entropy**. This implies that the reaction is at **maximum entropy**, and the **free energy** is at its **minimum** (since $\Delta G^\circ = \Delta H^\circ - T\Delta S^\circ$, and at equilibrium $\Delta S^\circ = 0$).
+
+So, at equilibrium:
+
+$$
+\Delta G^\circ = -2.303 RT \log K_C = -2.303 RT \log K_P
+$$
+
+This means:
+
+$$
+\Delta G^\circ = -2.303 RT \log K
+$$
+
+---
+
+### Final Answer:
+
+**(A)** $\Delta G = -2.303 RT \log K$ ✅
+
+**Answer:** A",No.
+C,"The correct answer is: **C**.  
+
+The rate constant typically increases with increasing temperature because increasing the temperature increases the fraction of collisions that result in a successful reaction. This is based on the Arrhenius equation, which states that the rate constant increases exponentially with temperature.",yes
+C,"The adsorption energy for **Ar** is **-0.1 eV**, which indicates **strong chemisorption**, while for **H** it is **-2.6 eV**, which also indicates **strong chemisorption**. 
+
+Therefore, **both atoms will form strong chemisorption bonds**.
+
+**Answer: (A)**",No.
+B,"The correct answer is: **D**.  
+
+The rate of a chemical reaction is determined by factors such as concentration of reactants, presence of a catalyst, and temperature. **Overall energy change of the reaction (B)** is a factor in determining the rate, but it is **not** a direct factor in itself. It is more related to the energy state of the reaction, not the rate itself.  
+
+**Answer: D**.",no
+1152.4,"To find the **molar enthalpy of formation of $\ce{B_2H_6(g)}$**, we need to use the given enthalpy of reaction:
+
+$$
+\ce{B_2H_6(g) + 3O_2(g) -> B_2O_3(s) + 3H_2O(g)} \quad \Delta H = -1941\ \pu{kJ}
+$$
+
+This reaction is the **overall reaction** that produces $\ce{B_2O_3}$ and $\ce{H_2O}$.
+
+We are given two other reactions:
+
+1. $\ce{4B (s) + 3O_2 (g) -> B_2O_3 (g)} \quad \Delta H = -4736\ \pu{kJ}$
+2. $\ce{2H_2 (g) + O_2 (g) -> 2H_2O (g)} \quad \Delta H = -483.6\ \pu{kJ}$
+
+Let’s express the desired reaction in terms of these reactions:
+
+### Step 1: Write the desired reaction
+$$
+\ce{B_2H_6 (g) + 3O_2 (g) -> B_2O_3 (s) + 3H_2O (g)}
+$$
+
+This is the same as the first reaction. So, the **molar enthalpy of formation** of $\ce{B_2H_6}$ is:
+
+$$
+\Delta H^\circ = -1941\ \pu{kJ}
+$$
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+A,"The mistake that would lead to a calculated molar mass value higher than the actual molar mass is:
+
+**(C) The concentration of sulfuric acid is \pu{2.0 M} rather than \pu{1.0 M} as recommended by the procedure**
+
+### Explanation:
+- Sulfuric acid is a strong acid and does not dissociate completely in water. When it reacts with metal, it produces hydrogen gas.
+- The concentration of the sulfuric acid (in moles) affects the amount of H₂ gas collected.
+- If the concentration is higher (e.g., 2.0 M instead of 1.0 M), the volume of hydrogen gas collected would be greater, leading to a higher molar mass calculation.
+
+Thus, the correct answer is: **(C)**.",No.
+0.0097,"To find the amount of acid in the sample, we can use the titration data:
+
+- Volume of NaOH solution used: $ \pu{19.40 cm^3} = 0.01940 \, \pu{L} $
+- Concentration of NaOH: $ \pu{0.100 mol dm^{-3}} $
+- Volume of stock solution: $ \pu{20.00 cm^3} = 0.02000 \, \pu{L} $
+
+The number of moles of NaOH used is:
+
+$$
+\text{Moles of NaOH} = \text{Volume (L)} \times \text{Concentration (mol/L)} = 0.01940 \times 0.100 = 0.00194 \, \pu{mol}
+$$
+
+Since the NaOH is neutralizing the acid in the stock solution, the moles of acid in the stock solution is the same as the moles of NaOH used:
+
+$$
+\text{Moles of acid} = 0.00194 \, \pu{mol}
+$$
+
+Thus, the amount of acid in the sample is:
+
+$$
+\boxed{\text{A}}
+$$",No.
+159000,"To determine the mass of NaOH needed to completely degrade all the PLA in one year, we can use stoichiometry.
+
+### Step 1: Understand the chemical reaction
+
+The production of **sodium lactate (NaC₃H₅O₂)** from **polylactic acid (PLA)** is a known reaction. The balanced equation for the reaction is:
+
+$$
+\text{C₃H₅O₃Na} + \text{NaOH} \rightarrow \text{NaC₃H₅O₂} + \text{H₂O}
+$$
+
+This means **1 mole of PLA reacts with 1 mole of NaOH** to produce **1 mole of sodium lactate**.
+
+### Step 2: Find the molar mass of PLA
+
+PLA is a polymer of **3-hydroxybutyric acid**, so its molecular formula is:
+
+$$
+\text{C}_3\text{H}_5\text{O}_3
+$$
+
+$$
+\text{Molar mass of PLA} = 3(12.01) + 5(1.008) + 3(16.00) = 36.03 + 5.04 + 48.00 = 89.07 \, \text{g/mol}
+$$
+
+### Step 3: Calculate the moles of PLA in 286,000 tonnes
+
+$$
+\text{Moles of PLA} = \frac{286,000 \, \text{tonnes}}{89.07 \, \text{g/mol}} = 3,199 \, \text{mol}
+$$
+
+### Step 4: Use stoichiometry to find moles of NaOH required
+
+From the balanced equation, **1 mole of PLA requires 1 mole of NaOH**.
+
+$$
+\text{Moles of NaOH} = 3,199 \, \text{mol}
+$$
+
+### Step 5: Convert moles of NaOH to mass in tonnes
+
+$$
+\text{Mass of NaOH} = 3,199 \, \text{mol} \times 40.00 \, \text{g/mol} = 127,960 \, \text{g}
+$$
+
+Convert grams to tonnes:
+
+$$
+\frac{127,960 \, \text{g}}{1000} = 127.96 \, \text{tonnes}
+$$
+
+### Final Answer:  
+$$
+\boxed{D}
+$$",No.
+1,"The half-reaction at the **cathode** during electrolysis of water is:
+
+$$
+\ce{2H+ (aq) + 2e^- -> H2(g)}
+$$
+
+From this, we can see that **x = H₂**.
+
+So, the correct answer is: **A**.",yes
+C,"To find the **Faradaic yield of $\ce{H2O2}$**, we need to calculate the **amount of $\ce{H2O2}$** produced and then express it as a percentage based on the current applied.
+
+### Step 1: Use Faraday's laws of electrolysis
+
+Faraday's law states:
+
+$$
+\text{Faraday's constant} = 96485 \, \text{C/mol}
+$$
+
+The amount of substance produced (in moles) can be calculated using:
+
+$$
+n = \frac{I \cdot t}{F}
+$$
+
+Where:
+- $ I = 0.150 \, \text{A} $
+- $ t = 110.0 \, \text{min} = 110.0 \times 60 = 6600 \, \text{s} $
+- $ F = 96485 \, \text{C/mol} $
+
+$$
+n = \frac{0.150 \cdot 6600}{96485} = \frac{990}{96485} \approx 0.0102 \, \text{mol}
+$$
+
+### Step 2: Calculate the Faradaic yield
+
+The **Faradaic yield** is the amount of $\ce{H2O2}$ produced divided by the amount of $\ce{H2O2}$ that would be produced if all of the current were used, expressed as a percentage.
+
+$$
+\text{Faradaic yield} = \left( \frac{n_{\ce{H2O2}}}{n_{\ce{H2O2}}}} \times 100\% = \left( \frac{0.0102}{0.0102} \right) \times 100\% = 100\%
+$$
+
+### ✅ Final Answer: (A) 100.0",No.
+2.36E-13,"To find the concentration of spike proteins, [SP], in the test sample in mol dm⁻³:
+
+- Number of virus particles per cm³ = $ 7.1 \times 10^6 $
+- Each virus has approximately 20 spike proteins.
+
+So, the number of spike proteins per cm³ is:
+
+$$
+7.1 \times 10^6 \, \text{particles/cm}^3 \times 20 \, \text{SP per particle} = 1.42 \times 10^8 \, \text{SP per cm}^3
+$$
+
+Now, convert this to mol dm⁻³:
+
+- 1 mole of particles = 1 mol dm³ (since 1 mol = 10³ cm³)
+- Therefore, the concentration is:
+
+$$
+1.42 \times 10^8 \, \text{SP per cm}^3 \, \text{mol dm}^{-3}
+$$
+
+So the final answer is:
+
+**A. $ 1.42 \times 10^8 \, \text{mol dm}^{-3} $**",No.
+33.3,"We are given the reaction:
+
+$$
+\ce{CO + H2O <=> CO2 + H2}
+$$
+
+with an initial mixture of:
+- $\ce{CO} = 40$ mol
+- $\ce{H2} = 20$ mol
+- $\ce{CO2} = 20$ mol
+- $\ce{H2O} = 0$ mol
+
+At equilibrium, the reaction is at $1100 \, \text{K}$, and the equilibrium constant is $K_p = 0.64$.
+
+We are to find **how many moles of $\ce{H2O}$ are leaving the reactor**.
+
+---
+
+### Step 1: Let’s define the equilibrium variables
+
+Let’s assume that at equilibrium, the amount of $\ce{CO}$, $\ce{H2}$, $\ce{CO2}$, and $\ce{H2O}$ is given by the following:
+
+- Let $x$ be the change in the amount of $\ce{CO}$ and $\ce{H2O}$.
+- Since the reaction is at equilibrium, the amount of $\ce{CO2}$ and $\ce{H2}$ will also change.
+
+From the stoichiometry of the reaction:
+
+- $\ce{CO} \rightarrow \ce{CO2}$
+- $\ce{H2} \rightarrow \ce{H2O}$
+
+So, the equilibrium concentrations (in terms of moles) will be:
+
+- $\ce{CO} = 40 - x$
+- $\ce{H2} = 20 - x$
+- $\ce{CO2} = 20 + x$
+- $\ce{H2O} = 0 + x$
+
+---
+
+### Step 2: Write the expression for $K_p$
+
+$$
+K_p = \frac{P_{\ce{CO2}} \cdot P_{\ce{H2}}}{P_{\ce{CO}} \cdot P_{\ce{H2O}}}
+$$
+
+Since all gases are in the same pressure (assuming ideal gas behavior), the partial pressures are proportional to their concentrations.
+
+So,
+
+$$
+K_p = \frac{(P_{\ce{CO2}})(P_{\ce{H2}})}{(P_{\ce{CO}})(P_{\ce{H2O}})} = \frac{(20 + x)(20 - x)}{(40 - x)(x)}
+$$
+
+$$
+K_p = \frac{400 - x^2}{(40 - x)x}
+$$
+
+---
+
+### Step 3: Plug in the given $K_p = 0.64$
+
+$$
+0.64 = \frac{400 - x^2}{(40 - x)x}
+$$
+
+Multiply both sides by $(40 - x)x$:
+
+$$
+0.64(40 - x)x = 400 - x^2
+$$
+
+$$
+0.64(40x - x^2) = 400 - x^2
+$$
+
+$$
+25.6x - 0.64x^2 = 400 - x^2
+$$
+
+$$
+25.6x - 0.64x^2 - 400 + x^2 = 0
+$$
+
+$$
+(1 - 0.64)x^2 + 25.6x - 400 = 0
+$$
+
+$$
+0.36x^2 + 25.6x - 400 = 0
+$$
+
+Multiply both sides by 100 to eliminate decimals:
+
+$$
+36x^2 + 2560x - 40000 = 0
+$$
+
+Divide all terms by 4:
+
+$$
+9x^2 + 640x - 10000 = 0
+$$
+
+---
+
+### Step 4: Solve the quadratic equation
+
+Use the quadratic formula:
+
+$$
+x = \frac{-640 \pm \sqrt{640^2 - 4 \cdot 9 \cdot (-10000)}}{2 \cdot 9}
+$$
+
+$$
+x = \frac{-640 \pm \sqrt{409600 + 360000}}{18}
+$$
+
+$$
+x = \frac{-640 \pm \sqrt{769600}}{18}
+$$
+
+$$
+x = \frac{-640 \pm 877.68}{18}
+$$
+
+$$
+x \approx \frac{-640 + 877.68}{18} = \frac{",no
+4,"The unit cell of calcium carbide contains calcium atoms at the corners and the center. Each unit cell has 8 corners and 1 center atom. Therefore, the number of carbon atoms in one unit cell is:
+
+**Answer: C**",No.
+B,"The correct answer is: **A**.
+
+When a closed vessel contains a liquid in equilibrium with its vapor, and the volume decreases, the system will shift to maintain equilibrium. This means that **some liquid will evaporate** (since vapor pressure increases) and some vapor will condense into liquid (since vapor pressure decreases), leading to a decrease in total pressure. Therefore, the correct answer is:
+
+**A**. Part of the liquid passes to the vapor phase.",No.
+D,"The correct answer is: **D**.
+
+### Explanation:
+
+- **Statement 1**: *""Addition of a non-reacting gas at constant volume and constant temperature to a container containing gas (X) does not change the partial pressure of gas (X).""*
+
+This is **true**. When a non-reacting gas is added to a container, the total pressure increases, but the **partial pressure of gas (X)** remains unchanged because it's not being consumed. The addition of the non-reacting gas only increases the total pressure, not the partial pressure of X.
+
+- **Statement 2**: *""The addition of a non-reacting gas to a container at constant volume and constant temperature results in an increase in the total pressure of the container, but not in the partial pressure of the gases in the container.""*
+
+This is **false**. The total pressure increases, but the **partial pressure of gas (X)** does **not** change, as it's not reacting.
+
+### Therefore, **Statement 2 is not the correct explanation for Statement 1**.
+
+### Final Answer: **(D)**","no
+
+### Explanation of the Error:
+
+The **response** says:
+
+> ""Statement 2 is false. The total pressure increases, but the partial pressure of gas (X) does not change, as it's not reacting.""
+
+This is **correct**, but the conclusion drawn is **incorrect**.
+
+The response then says:
+
+> ""Therefore, Statement 2 is not the correct explanation for Statement 1.""
+
+But **Statement 2 is not the correct explanation for Statement 1** — this is **true**, but the **response** incorrectly concludes that **Statement 2 is false**, which is **not** the case.
+
+### Clarification:
+
+- **Statement 1** is **true**.
+- **Statement 2** is **true** — it correctly says that the **total pressure increases**, and the **partial pressure of the gases (including X) does not change**.
+- **Statement 2 is NOT the correct explanation for Statement 1** — because Statement 1 is about the **partial pressure of X**, while Statement 2 talks about the **partial pressure of the gases in the container** (which is a broader statement and not a direct explanation of Statement 1).
+
+So the **correct answer is (C)**, not (D).
+
+### Final Answer: **(C)**
+
+### Therefore, the response is **incorrect**."
+C,"The correct answer is: **C) Gibbs free energy of the chemical system**.
+
+In a process simulation for a chemical system, the Gibbs free energy is the quantity that determines the feasibility of a reaction under standard conditions. It is directly related to the equilibrium concentrations of reactants and products. Therefore, minimizing the Gibbs free energy helps calculate the equilibrium concentrations.
+
+**Answer: C**.",yes
+B,"The correct answer is: **(C) I, IV, and V**
+
+### Reasoning:
+
+- **I. The described scattered light represents Stokes lines.**  
+  This is correct. Stokes lines are the scattered light with **longer wavelength** (i.e., lower energy) and **lower intensity** when the sample is heated, which aligns with the observations.
+
+- **II. The scattered photons have higher energy than the incident photons.**  
+  This is **not** correct. Stokes lines have **lower energy** (longer wavelength) than incident light.
+
+- **III. Lowering the temperature increases the population of ground-state molecules.**  
+  This is correct. When temperature decreases, the population of ground-state molecules increases.
+
+- **IV. The scattering process involves energy transfer to the molecule.**  
+  This is correct. The energy difference between incident and scattered light matches a molecular vibration energy, implying energy transfer.
+
+- **V. This scattering would be stronger for molecules with more polarizable electron clouds.**  
+  This is correct. Polarizable molecules have stronger dipole moments and thus scatter more efficiently.
+
+### Correct combination: **I, IV, and V**
+
+**Answer: (C)**",No.
+-869,"The enthalpy change of reaction when **one mole of liquid methane reacts with liquid oxygen to form gaseous carbon dioxide and gaseous water** is calculated as follows:
+
+We are given:
+
+- Enthalpy change of vaporization of methane: $ \Delta H_{\text{vap}}^{\ce{CH4}} = \pu{8.2 kJ mol^{-1}} $
+- Enthalpy change of vaporization of oxygen: $ \Delta H_{\text{vap}}^{\ce{O2}} = \pu{6.8 kJ mol^{-1}} $
+- Enthalpy change of combustion of methane: $ \Delta H_{\text{comb}}^{\ce{CH4}} = \pu{-890.8 kJ mol^{-1}} $
+
+We want to find the **enthalpy change of reaction** when **one mole of liquid methane reacts with liquid oxygen**.
+
+The balanced chemical equation is:
+
+$$
+\ce{CH4(l) + O2(l) -> CO2(g) + 2H2O(g)}
+$$
+
+This is the combustion reaction of methane. We are given the **enthalpy change of combustion** of methane as $ \pu{-890.8 kJ mol^{-1}} $, which means the enthalpy change for the reaction is:
+
+$$
+\Delta H = \pu{-890.8 kJ}
+$$
+
+---
+
+**Answer: A**",no
+D,"The correct answer is: **B**.  
+
+**Explanation**:  
+In the canonical ensemble, temperature is a measure of the average energy of the system. An increase in temperature generally leads to a higher average energy, which can affect the probabilities of different energy configurations. However, it does **not** directly affect the probability of finding a configuration with positive energy. Instead, it may influence the distribution of energy states, but the specific effect on the probability of positive energy configurations depends on the system's detailed statistical properties.",no
+0.479,"To find the mass of sodium chloride in the snack bag, we need to use the titration data:
+
+- Volume of solution: $250 \, \text{cm}^3 = 0.25 \, \text{L}$
+- Volume of titrant (AgNO₃): $8.20 \, \text{cm}^3 = 0.0082 \, \text{L}$
+- Concentration of AgNO₃: $0.1 \, \text{mol/dm}^3 = 10^{-1} \, \text{mol/L}$
+- Molarity of sodium chloride (NaCl): $10^{-1} \, \text{mol/L}$
+- Molar mass of NaCl: $58.44 \, \text{g/mol}$
+
+### Step 1: Find moles of AgNO₃ used
+$$
+\text{Moles of AgNO₃} = 0.0082 \, \text{L} \times 10^{-1} \, \text{mol/L} = 0.0082 \, \text{mol}
+$$
+
+### Step 2: Use stoichiometry to find moles of NaCl
+Since 1 mole of AgNO₃ reacts with 1 mole of NaCl:
+$$
+\text{Moles of NaCl} = 0.0082 \, \text{mol}
+$$
+
+### Step 3: Convert moles of NaCl to grams
+$$
+\text{Mass of NaCl} = 0.0082 \, \text{mol} \times 58.44 \, \text{g/mol} = 0.482 \, \text{g}
+$$
+
+### Final Answer:
+$$
+\boxed{A}
+$$",no
+C,"The formation of **C** is independent of the rate constant for **A → B** **only when both steps have equal rate constants**.
+
+- **(B) When both steps have equal rate constants**
+
+The correct answer is: **(B)**",no
+3,"The reaction given is:
+
+$$
+\ce{U + 3ClF3 -> UF6 + xClF}
+$$
+
+We are to find the value of $ x $.
+
+Let's balance the equation step by step.
+
+### Step 1: Balance the equation
+
+We start with the unbalanced equation:
+
+$$
+\ce{U + 3ClF3 -> UF6 + xClF}
+$$
+
+We need to balance the number of atoms on both sides.
+
+- On the left: 1 U, 3 Cl, 3 F
+- On the right: 1 U, 6 F (from UF₆), and x Cl, x F (from xClF)
+
+Now, let's balance the U and Cl:
+
+- U: 1 on both sides (so no change)
+- Cl: On the left, there are 3 Cl from ClF₃. On the right, we have x Cl. So we need to balance Cl:
+
+  - Let’s assume $ x = 3 $ for simplicity (since ClF₃ has 3 Cl, and ClF would have 3 Cl).
+  
+  Then, the equation becomes:
+
+  $$
+  \ce{U + 3ClF3 -> UF6 + 3ClF}
+  $$
+
+Now check the F:
+
+- On the left: 3 F (from 3ClF₃)
+- On the right: 6 F (from UF₆) + 3 F (from 3ClF) → total 9 F
+
+This is not balanced. Let's try again.
+
+Let’s assume $ x = 3 $ and $ y = 3 $, so:
+
+$$
+\ce{U + 3ClF3 -> UF6 + 3ClF}
+$$
+
+Now balance F:
+
+- Left: 3 F
+- Right: 6 F (from UF₆) + 3 F (from 3ClF) = 9 F
+
+Still not balanced. Try $ x = 2 $:
+
+$$
+\ce{U + 3ClF3 -> UF6 + 2ClF}
+$$
+
+Now check F:
+
+- Left: 3 F
+- Right: 6 F (from UF₆) + 2 F (from 2ClF) = 8 F
+
+Still not balanced. Try $ x = 1 $:
+
+$$
+\ce{U + 3ClF3 -> UF6 + ClF}
+$$
+
+Now check F:
+
+- Left: 3 F
+- Right: 6 F (from UF₆) + 1 F (from ClF) = 7 F
+
+Still not balanced.
+
+Let’s try balancing using the stoichiometry of the reaction.
+
+### Step 2: Use stoichiometry
+
+We are told the reaction is:
+
+$$
+\ce{U + 3ClF3 -> UF6 + xClF}
+$$
+
+We can balance this equation by assuming the number of moles of U, ClF₃, UF₆, and ClF are the same.
+
+Let’s assume:
+
+- 1 mole of U reacts with 3 moles of ClF₃
+- 1 mole of UF₆ is formed
+- 1 mole of xClF is formed
+
+So:
+
+$$
+\ce{U + 3ClF3 -> UF6 + xClF}
+$$
+
+Let’s assume $ x = 3 $, so:
+
+$$
+\ce{U + 3ClF3 -> UF6 + 3ClF}
+$$
+
+Check the F:
+
+- Left: 3 F (from ClF₃)
+- Right: 6 F (from UF₆) + 3 F (from 3ClF) = 9 F
+
+Still not balanced. Try $ x = 2 $:
+
+$$
+\ce{U + 3ClF3 -> UF6 + 2ClF}
+$$
+
+Check F:
+
+- Left: 3 F
+- Right: 6 F (from UF₆) + 2 F (from 2ClF) = 8 F
+
+Still not balanced.
+
+Let’s try balancing the F atoms.
+
+Let’s assume:
+
+- 1 mole of U reacts with 3 moles of ClF₃
+- 1 mole of UF₆ is formed
+- 1 mole of 3ClF is formed
+
+Then:
+
+- F: Left = 3 F (from ClF₃)
+- Right = 6 F (from UF₆) + 3 F (from 3ClF) = 9 F
+
+So, not balanced.
+
+Let’s try:
+
+- 1 mole of U reacts with 3 moles of ClF₃
+- 1 mole of UF₆ is formed
+- 1 mole of 2ClF is formed
+
+Then:
+
+- F: Left =",no
+2,"The formula for the octahedral complex is:
+
+$$
+\ce{[RuH2(CO)(PPh3)3]}
+$$
+
+This complex is named **dihydridocarbonyltris(triphenylphosphine)ruthenium(Z)**, where Z is the oxidation state of ruthenium.
+
+In this complex, **Ru** is coordinated to two hydrides (H₂) and three phosphines (PPh₃), and it is a **dihydride complex**. The oxidation state of Ru in this complex is:
+
+$$
+\text{Z} = \text{+2}
+$$
+
+Thus, the integer Z is:
+
+$$
+\boxed{A}
+$$",yes
+A,"The correct answers are: **B, D, F**
+
+The other options are incorrect:
+
+- (A) **Incorrect**: LDA and GGA usually **overestimate** band gaps in semiconductors.
+- (B) **Correct**: GGA generally performs better for systems with rapidly varying electron density, such as surfaces.
+- (C) **Incorrect**: GGA is **not** better at describing hydrogen bonds than LDA.
+- (D) **Correct**: GGA typically predicts more accurate lattice constants for solids than LDA.
+- (E) **Incorrect**: LDA is **not** exact for a homogeneous electron gas.
+- (F) **Correct**: LDA often provides surprisingly good results for bulk moduli of simple metals.
+- (G) **Incorrect**: LDA tends to **underestimate** binding energies in molecules and solids.",no
+A,"The correct answer is: **A**. An increase in temperature increases the rate constant of a reaction more than an increase in the concentration of a reactant. 
+
+**Explanation**:  
+- The rate constant $ k $ of a reaction is directly related to the temperature (for a given reaction order).  
+- A 10% increase in temperature leads to a proportional increase in the rate constant.  
+- A 10% increase in concentration of a reactant (in a closed system) leads to a smaller increase in $ k $, due to the dependence on the reaction order and the volume of the container.  
+
+Thus, the correct answer is: **A**.",yes
+D,"The most reasonable explanation for the observed phenomenon is:
+
+**(B) The enthalpy of mixing of \ce{C6H6} and \ce{C6F6} is negative.**
+
+### Explanation:
+- The melting point of a mixture is **lower** than the individual melting points of the components if the mixture is **exothermic**.
+- Since both components have a **negative enthalpy of mixing**, the overall enthalpy of mixing is **negative**, leading to a **lower melting point**.
+- This explains why the equimolar mixture of benzene and hexafluorobenzene shows a **sharp melting point at 23.7°C**, which is **lower** than the individual melting points of each substance.
+
+**(B)** is the correct answer.",No.
+A,"The formula for the vibrational frequency of a diatomic molecule is:
+
+$$
+f_{vib} = \frac{1}{2\pi} \sqrt{\frac{k}{\mu}}
+$$
+
+### Analysis of the options:
+
+- **(A)**: *The vibrational frequency of HCl^37 is lower than that of HCl^35, assuming the force constants are the same.*  
+  This is **true**.  
+  The reduced mass $\mu$ is inversely proportional to the frequency, so if $\mu$ increases, frequency decreases. Since HCl^37 has a larger reduced mass than HCl^35, its frequency is **lower**.
+
+- **(B)**: *The vibrational frequency of HCl^37 is higher than that of HBr, assuming the force constants are the same.*  
+  This is **false**. The force constant $k$ is the same between both molecules, but the reduced mass affects the frequency. The frequency is **inversely proportional** to $\mu$, so HCl^37 has a **lower** frequency than HBr (since $\mu$ is smaller for HCl^37).
+
+- **(C)**: *The vibrational frequency of a molecule is directly proportional to the force constant $k$, and inversely proportional to the reduced mass $\mu$.*  
+  This is **true**. The formula shows that both $k$ and $\mu$ are in the square root, so the frequency is **inversely proportional** to both.
+
+- **(D)**: *The vibrational frequency of a molecule is directly proportional to the reduced mass and inversely proportional to the force constant.*  
+  This is **false**. The correct relationship is that the frequency is **inversely proportional** to both $k$ and $\mu$.
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",yes
+494,"To determine the bond enthalpy of the $\ce{O=O}$ bond, we can use the given information and the enthalpy change of the reaction.
+
+### Given:
+- Bond enthalpy of $\ce{H-H}$: $432 \, \pu{kJ/mol}$
+- Bond enthalpy of $\ce{O-H}$: $460 \, \pu{kJ/mol}$
+- Enthalpy change of the reaction: $\Delta H = -241 \, \pu{kJ/mol}$
+
+### Reaction:
+$$
+\ce{H2 + 0.5 O2 -> H2O}
+$$
+
+This reaction involves the formation of $\ce{H2O}$ from $\ce{H2}$ and $\ce{O2}$, which is a typical formation reaction. The enthalpy change is given as $-241 \, \pu{kJ/mol}$, indicating that the reaction is exothermic.
+
+### Bond enthalpy of $\ce{O=O}$:
+We can relate this to the enthalpy change of the reaction using the bond enthalpy values.
+
+- The $\ce{H2O}$ molecule contains:
+  - 2 $\ce{H-H}$ bonds
+  - 1 $\ce{O-H}$ bond
+  - 1 $\ce{O=O}$ bond
+
+Thus, the total bond energy involved in forming $\ce{H2O}$ is:
+$$
+2 \times 432 + 460 + \Delta H_{\text{bond}} = \Delta H_{\text{reaction}}
+$$
+
+Substituting the known values:
+$$
+2 \times 432 + 460 + \Delta H_{\text{bond}} = -241
+$$
+$$
+864 + 460 + \Delta H_{\text{bond}} = -241
+$$
+$$
+1324 + \Delta H_{\text{bond}} = -241
+$$
+$$
+\Delta H_{\text{bond}} = -241 - 1324 = -1565 \, \pu{kJ/mol}
+$$
+
+Since bond enthalpy is typically taken as a positive value, we take the magnitude:
+$$
+\boxed{1565 \, \pu{kJ/mol}}
+$$
+
+### Final Answer: **A**",No.
+B,"The relationship between $ K_p $ and $ K_c $ for a reaction is given by:
+
+$$
+K_p = K_c (RT)^n
+$$
+
+where $ n $ is the number of moles of gas in the reaction.
+
+For the reaction:
+
+$$
+\ce{NH2CO2NH4 (s) -> 2NH3 (g) + CO2 (g)}
+$$
+
+the number of moles of gas is 2. Therefore:
+
+$$
+K_p = K_c (RT)^2
+$$
+
+So the correct answer is:
+
+**(B) $ K_p = K_c (RT)^3 $**  
+*Note: This is incorrect. The correct relationship is $ K_p = K_c (RT)^2 $, not $ (RT)^3 $.*
+
+---
+
+**Correct answer: (B)**",no
+1,"The balanced chemical equation for the formation of glucose in photosynthesis is:
+
+$$
+\ce{6CO2 + 6H2O -> C6H12O6 + 6O2}
+$$
+
+We can determine the value of $ x $ by counting the atoms on both sides of the equation:
+
+- Carbon: 6 on the left, 6 on the right → balanced
+- Hydrogen: 6 on the left, 12 on the right → balanced
+- Oxygen: 12 on the left, 6 on the right → balanced
+
+Since all atoms are balanced, the correct value of $ x $ is:
+
+$$
+\boxed{A}
+$$",yes
+B,"The correct answers are:  
+**(B)** Even at absolute zero temperature, molecules retain vibrational energy, preventing them from being completely stationary.  
+
+**Answer:** **B**",yes
+4,The oxidation number of carbon in the reactants of the Sabatier reaction is **A**.,yes
+B,"The correct answer is: **B**.  
+
+**Explanation**:  
+At very high densities, the grand canonical Monte Carlo (GCMC) model is driven by the tendency to exchange particles with the environment (i.e., thermalization). At high densities, the system becomes more homogeneous and the number of particles is large, which makes it harder to add a particle at random (as the system is already filled and the randomness may not lead to a new particle). This aligns with the statement: **(B) It is harder to add a particle at random**.",yes
+3,"The disproportionation reaction is given as:
+
+$$
+\ce{5IF3 -> I2 + xIF5}
+$$
+
+We are asked to find the value of $ x $.
+
+### Step 1: Balance the equation
+We start by balancing the number of atoms on both sides.
+
+- Left side: 5 atoms of I, 3 atoms of F
+- Right side: 1 atom of I, and x atoms of I and F
+
+Let’s balance the iodine atoms first:
+
+- On the left: 5 I atoms
+- On the right: 1 I atom
+
+So, we need to balance the iodine by multiplying the I on the right side by 5:
+
+$$
+\ce{5I2 + xIF5 -> I2 + xIF5}
+$$
+
+Now we have:
+
+- Left side: 5 I, 3 F
+- Right side: 1 I, 5 F
+
+We can now balance the fluorine atoms:
+
+- On the left: 3 F
+- On the right: 5 F
+
+So we need to multiply the fluorine on the right side by 1.5 to balance the 3 F:
+
+$$
+\ce{5I2 + 3.5IF5 -> I2 + 3.5IF5}
+$$
+
+Now we have:
+
+- Left side: 5 I, 3 F
+- Right side: 1 I, 5 F
+
+This is now balanced.
+
+### Step 2: Identify the value of $ x $
+From the equation:
+
+$$
+\ce{5IF3 -> I2 + xIF5}
+$$
+
+We can now determine $ x $ by counting fluorine atoms:
+
+- Left side: 3 F
+- Right side: 5 F
+
+So $ x = 5 $.
+
+### Final Answer:
+$$
+\boxed{\text{B}}
+$$",no
+-193.9,"To find the standard enthalpy change for the reaction:
+
+$$
+\ce{CO2 + 2KOH -> H2O + K2CO3}
+$$
+
+we can use the standard enthalpies of formation:
+
+- $\ce{CO2}$: $-393.5 \, \pu{kJ mol^{-1}}$
+- $\ce{KOH}$: $-424.8 \, \pu{kJ mol^{-1}}$
+- $\ce{H2O}$: $-285.8 \, \pu{kJ mol^{-1}}$
+- $\ce{K2CO3}$: $-1151.2 \, \pu{kJ mol^{-1}}$
+
+We apply Hess's Law:
+
+$$
+\Delta H = \sum \Delta H_f^{\circ}(\text{products}) - \sum \Delta H_f^{\circ}(\text{reactants})
+$$
+
+Substitute the values:
+
+$$
+\Delta H = [(-285.8) + (-1151.2)] - [(-393.5) + 2(-424.8)]
+$$
+
+$$
+\Delta H = (-1437) - (-849) = -1437 + 849 = -588 \, \pu{kJ mol^{-1}}
+$$
+
+### Final Answer: **B** (the correct answer is $\boxed{B}$)",No.
+D,"The correct answer is: **(D) \ce{H2+}**
+
+### Explanation:
+The **Born-Oppenheimer approximation** assumes that the nuclei of a molecule are treated as being in a localized electronic configuration, which is only valid for systems where the electronic and nuclear configurations are **almost indistinguishable**. 
+
+- **(A) C₆₀**: A large molecule like C₆₀ is highly symmetric and has a well-defined electronic structure, so it is **likely to be applicable**.
+- **(B) CH₄**: A simple molecule like methane has a clear electronic and nuclear configuration, so it is also **likely to be applicable**.
+- **(C) Fe(CO)₅**: A complex molecule with strong electron-nuclear interactions (from the CO ligands) is **less likely** to be applicable, as the Born-Oppenheimer approximation may not hold.
+- **(D) H₂⁺**: A diatomic molecule with a hydrogen ion (H⁺) is **less likely** to be applicable, as the Born-Oppenheimer approximation assumes a **fixed electronic configuration** and is not valid in such systems.
+
+### Final Answer: **D**",yes
+C,"The correct answer is: **(C) Statements 1 and 2 are True. Statement 2 is NOT the correct explanation for Statement 1.**
+
+### Explanation:
+
+- **Statement 1**: *Addition or removal of solid reactants/products does not alter the existing equilibrium.*  
+  This is **true**. The solid can be present in the system, and its addition or removal does not affect the equilibrium position.
+
+- **Statement 2**: *Active mass of solid remains constant.*  
+  This is **false**. The solid's active mass (i.e., its mass that participates in the reaction) is **not constant**. It can change depending on the reaction conditions.
+
+Thus, **Statement 1 is true**, **Statement 2 is false**, and **Statement 2 is NOT the correct explanation for Statement 1**.
+
+**Answer: (C)**",yes
+8480,"To find the energy released when 1 dm³ of liquid hydrogen is combusted, we follow these steps:
+
+1. **Convert the volume of hydrogen gas from dm³ to moles**:
+   - 1 dm³ = 1 liter = 10³ cm³  
+   - Molar volume of gas at STP is 22.4 L/mol, so:  
+     $$
+     \text{Moles of H}_2 = \frac{10^3 \text{ cm}^3}{22.4 \text{ cm}^3/mol} \approx 44.64 \text{ mol}
+     $$
+
+2. **Use the enthalpy change per mole**:
+   - Enthalpy change for the reaction is $ \Delta H = -241 \, \text{kJ/mol} $.
+
+3. **Calculate the total energy released**:
+   $$
+   \text{Energy released} = 44.64 \, \text{mol} \times (-241 \, \text{kJ/mol}) \approx -10,760 \, \text{kJ}
+   $$
+
+Since energy is released, the magnitude is:
+
+$$
+\boxed{10760 \, \text{kJ}}
+$$
+
+**Answer: A**",No.
+2,"The unit cell of calcium carbide contains **1** calcium atom at its corners and **1** at its center. Therefore, the number of calcium atoms in one unit cell is:
+
+**A**",No.
+D,The correct answer is: **D**. Stopped-flow method.,yes
+C,"The answer is: **(A) No**
+
+Nitrogen atoms are not present in the tetraphene molecule. Therefore, the hybridization of the nitrogen atoms is **not** the same as for the carbon atoms.  
+
+Answer: **A**",no
+-3,"The oxidation state of phosphorus in phosphine (PH₃) is **-3**.  
+
+Answer: **B**",yes
+C,"The correct answer is: **(A) It is not possible to know, since it also depends on the temperature**.
+
+The conversion of ammonia in the ammonia synthesis reaction $\ce{N2 + 3H2 <=> 2NH3}$ is influenced by multiple factors, including pressure and temperature. While pressure generally increases the conversion of ammonia, the effect depends on the reaction conditions. Therefore, **it is not possible to know the conversion value without additional information about temperature**.
+
+The correct answer is: **(A)**.",no
+A,"The correct answer is: **C**
+
+### Explanation:
+
+- **(A) Changing the unit cell size in the calculation can shift this energy value.**  
+  ✅ **Correct.**  
+  Changing the unit cell size affects the lattice structure, which in turn affects the position of the DFT calculated energy levels. This is a direct effect of the unit cell size.
+
+- **(B) The absolute value of this energy has no physical meaning without additional context.**  
+  ❌ **Incorrect.**  
+  The energy value is a physical quantity that represents the energy of the conduction band minimum in a semiconductor material.
+
+- **(C) The energy difference between this CBM and the valence band maximum (VBM) represents the electronic band gap.**  
+  ✅ **Correct.**  
+  The band gap is the energy difference between the conduction band minimum (CBM) and the valence band maximum (VBM).
+
+- **(D) The energy is likely reported with respect to the Fermi level of the system.**  
+  ❌ **Incorrect.**  
+  In DFT calculations, energy levels are usually reported relative to the Fermi level, not the vacuum level.
+
+- **(E) The negative energy value indicates that the CBM is below the vacuum level.**  
+  ❌ **Incorrect.**  
+  The negative value indicates the CBM is below the vacuum level, not that it's ""below the vacuum level.""
+
+- **(F) This energy can be directly compared to experimental photoelectron spectroscopy results.**  
+  ❌ **Incorrect.**  
+  Experimental results may differ due to experimental setup and assumptions.
+
+- **(G) This result suggests that the material is a p-type semiconductor.**  
+  ❌ **Incorrect.**  
+  The type of semiconductor (p or n) is determined by the electron concentration, not by the energy values in the DFT calculation.
+
+### Final Answer: **C**",no
+B,"To determine the correct answer, we need to evaluate both statements based on the given chemical system.
+
+---
+
+### Statement 1:
+
+> ""Addition of inert gas at constant pressure to dissociation equilibrium of $\ce{PCl5(g) <=> PCl3(g) + Cl2(g)}$ favors the forward reaction.""
+
+- This statement is **true**.
+- Adding inert gas **increases the concentration of PCl5**, which shifts the equilibrium to the **right**, favoring the forward reaction.
+
+---
+
+### Statement 2:
+
+> $K_{c} = \frac{a^2}{V(1-a)}$, where $V$ is the volume, which increases upon the addition of inert gas and to maintain equilibrium, $a$ (degree of dissociation of $\ce{PCl5}$) must increase.
+
+- This statement is **true**.
+- The expression for $K_c$ is **correct**.
+- The formula $K_c = \frac{a^2}{V(1-a)}$ is **correct**.
+- As $V$ increases, the denominator increases, so $K_c$ decreases.
+- This **supports** that $a$ must increase to maintain the equilibrium.
+
+---
+
+### Conclusion:
+
+- **Statement 1 is True**.
+- **Statement 2 is also True**, and **it correctly explains** Statement 1.
+
+---
+
+### Final Answer: **(B)** Statement 1 and 2 are True. Statement 2 is the correct explanation for Statement 1.",yes
+D,"The reaction is:
+
+$$
+\ce{N2 + 3H2 <=> 2NH3}
+$$
+
+To **maximize the amount of ammonia**, we need to **minimize the pressure** of the reactants (N₂ and H₂), since pressure affects the equilibrium.
+
+- **Option A**: Decreasing the partial pressure of hydrogen → correct.
+- **Option B**: Decreasing the partial pressure of nitrogen → correct.
+- **Option C**: Decreasing the total pressure → incorrect.
+- **Option D**: Increasing the total pressure → incorrect.
+
+**Correct answer: A or B** — but since both are possible, the question likely expects the **correct answer is A or B**, but in the format requested, the single letter is required. Based on the standard interpretation, the **correct answer is A**.
+
+**Answer: A**",No.
+B,"The formula for the total angular momentum of a molecule is given by:
+
+$$
+P^2 = \frac{J(J+1)\cdot h}{2\pi}
+$$
+
+and for the **z-component** of the angular momentum:
+
+$$
+P_z = \frac{K \cdot h}{2\pi}, \quad K \in \mathbb{Z}, \quad -J \leq K \leq J
+$$
+
+When the molecule is in a **rotational state defined by $ J > 0 $ and $ K \ll 0 $**:
+
+- $ K $ is negative, meaning the **z-component of the angular momentum** is **downward**.
+- Since $ J > 0 $, the **total angular momentum quantum number** is positive.
+- This means the molecule has **angular momentum in the opposite direction** compared to the **ground state**.
+
+---
+
+### Interpretation of the Shape:
+
+- In a **rotational state**, the molecule's **orientation** is determined by the quantum number $ J $, which quantifies the **angular momentum**.
+- When $ K \ll 0 $, the molecule is **aligned** with the **negative z-axis**, meaning the **pyramidal shape** is **flattened**.
+- The **distance between the hydrogen atoms** is **increased**, as the molecule is now more symmetric and the base becomes **flatter**.
+
+---
+
+### Correct Answer:
+
+**(C) The base of the pyramidal shape of the molecule is flattened and the distance between the hydrogen atoms is increased**
+
+**Answer: C**",no
+42000,"To find the number of moles produced per year, we use the formula:
+
+$$
+\text{Moles} = \frac{\text{Mass}}{\text{Molar Mass}}
+$$
+
+Given:
+- Mass = 10 tonnes = $10 \times 10^6$ kg = $10^7$ kg
+- Molar mass of Ambrox (C₁₆H₂₈O) = $12 \times 16 + 1 \times 28 + 16 \times 16 = 192 + 28 + 256 = 476$ g/mol
+
+So:
+
+$$
+\text{Moles} = \frac{10^7 \, \text{kg}}{0.476 \, \text{kg/mol}} \approx 21,000 \, \text{mol}
+$$
+
+**Answer:** A",no
+D,"The reaction that occurs with a **positive entropy change** is:
+
+**(B) \ce{N2 (g) + 3H2 (g) -> 2NH3 (g)}**
+
+### Explanation:
+- Entropy change ($\Delta S^\circ$) is positive when the number of gas molecules increases.
+- In **(B)**, the reaction produces 2 moles of NH₃ (a gas) from 3 moles of H₂ (also a gas) and 1 mole of N₂ (a gas).
+- This results in a **positive entropy change**.
+
+### Other reactions:
+- (A): CaO(s) + CO₂(g) → CaCO₃(s): **Negative entropy change** (solid to solid, no gas involved).
+- (C): O₂(g) + O(g) → O₃(g): **Negative entropy change** (gas to gas, no change in number of gas molecules).
+- (D): Zn(s) + 2 HCl(aq) → ZnCl₂(aq) + H₂(g): **Negative entropy change** (solid to solution and gas).
+
+**Correct answer: B**.",No.
+C,"The question asks what happens if a fuel is burned in a **21% O₂ / 79% CO₂** atmosphere instead of in an **air atmosphere** (which is mostly O₂).
+
+### Analysis:
+- In **air**, the presence of **O₂** ensures a **favorable combustion environment**.
+- In a **21% O₂ / 79% CO₂** atmosphere, **CO₂** is the primary oxidant, which can lead to **lower combustion rates** and **higher combustion temperatures**.
+
+### Conclusion:
+- The correct answer is: **(A) All the answers are correct**.
+
+**Answer: A**.",no
+C,"The decomposition reaction is:
+
+$$
+\ce{CaCO3 (s) <-> CaO (s) + CO2 (g)}
+$$
+
+Both experiments involve placing the same quantity of $\ce{CaCO3 (s)}$ in a sealed container (Experiment II) or an open container (Experiment I), and both are heated to $\pu{900^\circ C}$. 
+
+In **Experiment I**, the $\ce{CaCO3 (s)}$ is placed in an open container, meaning it can exchange heat with the surrounding air. This increases the rate of decomposition because the $\ce{CO2}$ gas can escape, reducing the amount of $\ce{CaCO3}$ left. However, the decomposition is still possible, and the reaction can proceed until the reactants are all consumed.
+
+In **Experiment II**, the $\ce{CaCO3 (s)}$ is placed in a **hermetically sealed container**, which prevents the escape of $\ce{CO2}$ gas. This allows the reaction to proceed **more completely**, as the $\ce{CO2}$ can remain in the system and continue the reaction until all $\ce{CaCO3}$ is decomposed.
+
+### Final Answer: **D** (Only in experiment II)",No.
+D,"The reaction is:
+
+$$
+\ce{2H2O2 -> 2H2O + O2}
+$$
+
+As the reaction progresses, the **half-life** of the reaction will **increase** because the concentration of the reactant decreases, and the half-life is a measure of the rate of the reaction. 
+
+The correct answer is: **(B) It increases**.",No.
+D,"The Nyquist-Shannon theorem states that the minimum feasible step size for a molecular dynamics simulation must be at least half of the maximum frequency of the vibrations in the molecule. The vibrational frequency of the N-H bonds is **3300–3500 cm⁻¹**, so the **maximum frequency** is **3500 cm⁻¹**.
+
+To satisfy the Nyquist-Shannon condition, the step size should be at least:
+
+$$
+\frac{3500 \, \text{cm}^{-1}}{2} = 1750 \, \text{cm}^{-1}
+$$
+
+Now, converting this frequency to **fs** (femtoseconds):
+
+$$
+1 \, \text{cm}^{-1} = 10^{-10} \, \text{fs}
+$$
+
+$$
+1750 \, \text{cm}^{-1} = 1750 \times 10^{-10} \, \text{fs} = 1.75 \times 10^{-7} \, \text{fs}
+$$
+
+This is **much smaller** than any of the given options (10 fs, 2 fs, 20 fs, 4 fs). However, the question asks for the **minimum feasible step size** to ensure the simulation is **stable**.
+
+Since the answer must be one of the given options, and the correct value is **1.75 × 10⁻⁷ fs**, which is **less than** all the options provided, **none of the options match exactly**, but the closest feasible option is:
+
+$$
+\boxed{\text{B} \, \text{fs}}
+$$
+
+So, the correct answer is: **B**.",No.
+253,"To find the enthalpy change for the reaction:
+
+$$
+\ce{CH4(g) + 2H2O(l) -> CO2(g) + 4H2(g)}
+$$
+
+we can use the **standard enthalpy of formation** values provided:
+
+- $\ce{CH4(g)}$: $-74.8 \, \text{kJ mol}^{-1}$
+- $\ce{CO2(g)}$: $-393.5 \, \text{kJ mol}^{-1}$
+- $\ce{H2O(l)}$: $0 \, \text{kJ mol}^{-1}$
+- $\ce{H2(g)}$: $0 \, \text{kJ mol}^{-1}$
+
+Now, apply the formula:
+
+$$
+\Delta H^\circ_{\text{reaction}} = \sum \Delta H^\circ_f(\text{products}) - \sum \Delta H^\circ_f(\text{reactants})
+$$
+
+Substitute the values:
+
+$$
+\Delta H^\circ_{\text{reaction}} = [(-393.5 \, \text{kJ mol}^{-1}) + (0 \, \text{kJ mol}^{-1} + 0 \, \text{kJ mol}^{-1})] - [(-74.8 \, \text{kJ mol}^{-1}) + 0 \, \text{kJ mol}^{-1}]
+$$
+
+$$
+\Delta H^\circ_{\text{reaction}} = (-393.5) - (-74.8) = -393.5 + 74.8 = -318.7 \, \text{kJ mol}^{-1}
+$$
+
+### Final Answer: **A** (the correct answer)",No.
+1.09,"We are given:
+
+- Volume of the can: $ V = 250 \, \text{cm}^3 = 0.25 \, \text{dm}^3 $
+- Concentration of CO₂: $ C = 0.099 \, \text{mol/dm}^3 $
+
+To find the **mass of CO₂**, we use the formula:
+
+$$
+\text{Mass} = \text{moles} \times \text{molar mass}
+$$
+
+### Step 1: Find moles of CO₂
+
+$$
+\text{Moles} = \text{Volume} \times \text{Concentration} = 0.25 \, \text{dm}^3 \times 0.099 \, \text{mol/dm}^3 = 0.02475 \, \text{mol}
+$$
+
+### Step 2: Find molar mass of CO₂
+
+$$
+\text{Molar mass of CO₂} = 12.01 \, (\text{C}) + 2 \times 16.00 \, (\text{O}) = 44.01 \, \text{g/mol}
+$$
+
+### Step 3: Calculate mass
+
+$$
+\text{Mass} = 0.02475 \, \text{mol} \times 44.01 \, \text{g/mol} \approx 1.08 \, \text{g}
+$$
+
+### Final Answer:
+$$
+\boxed{A}
+$$",yes
+1,"The balanced chemical equation is:
+
+$$
+\ce{3C3H6O3 -> 2C3H6O2 + C2H4O2 + xCO2 + H2O}
+$$
+
+We are told that the reaction produces **x CO₂**, so we can find x by counting the number of CO₂ atoms in the product side.
+
+- On the left side: 3 CO₂
+- On the right side: x CO₂
+
+Thus, the value of x is:
+
+$$
+\boxed{3}
+$$
+
+**Answer: A**",No.
+-5144,"The enthalpy of combustion of an isomer of octane can be calculated using the bond enthalpies and the enthalpy of formation of octane.
+
+### Given:
+- Average bond enthalpy of **C-C** = 347 kJ/mol  
+- C-H = 413 kJ/mol  
+- O=O = 498 kJ/mol  
+- C-O = 358 kJ/mol  
+- C=O = 805 kJ/mol  
+- O-H = 464 kJ/mol  
+
+### Octane structure:
+Octane is **C₈H₁₈**. Its structure has **8 C atoms** and **18 H atoms**. It has the following bonds:
+- 8 C-C bonds (each 347 kJ/mol)
+- 8 C-H bonds (each 413 kJ/mol)
+- 18 O-H bonds (each 464 kJ/mol)
+
+### Total bond energy:
+$$
+\text{Total bond energy} = 8 \times 347 + 8 \times 413 + 18 \times 464
+$$
+
+$$
+= 2776 + 3304 + 8352 = 14432 \, \text{kJ/mol}
+$$
+
+### Enthalpy of combustion:
+The enthalpy of combustion is the **energy released** when the **isomer** combusts completely. Since octane is a **combustible alkane**, the enthalpy of combustion is:
+
+$$
+\Delta H^\circ_{\text{combustion}} = \text{Total bond energy} - \Delta H^\circ_f(\text{octane})
+$$
+
+Assuming standard enthalpy of formation of octane is **-285.8 kJ/mol**, the enthalpy of combustion is:
+
+$$
+\Delta H^\circ_{\text{combustion}} = 14432 - (-285.8) = 14717.8 \, \text{kJ/mol}
+$$
+
+### Final Answer:
+$$
+\boxed{\text{A}}
+$$",No.
+33.3,"To solve this problem, we need to use the concept of **equilibrium** in a reaction and apply the **K expression**.
+
+---
+
+### Given:
+
+- Initial moles:
+  - $\ce{CO} = 40 \, \text{mol}$
+  - $\ce{H_2} = 20 \, \text{mol}$
+  - $\ce{CO_2} = 20 \, \text{mol}$
+- Initial moles of steam (H₂O) = 40 mol  
+- Temperature = 1100 K  
+- $K_p = 0.64$
+
+The reaction is:
+
+$$
+\ce{CO + H_2O <=> CO_2 + H_2}
+$$
+
+---
+
+### Step 1: Write the equilibrium expression
+
+$$
+K_p = \frac{[\ce{CO_2}][\ce{H_2}]}{[\ce{CO}][\ce{H_2O}]}
+$$
+
+---
+
+### Step 2: Use the given $K_p$ and initial conditions
+
+Let’s assume the reaction goes to equilibrium, and let’s let $x$ be the number of moles of $\ce{CO}$ that reacts. This means:
+
+- $\ce{CO}$ decreases by $x$, so moles of $\ce{CO}$ at equilibrium = $40 - x$
+- $\ce{H_2}$ increases by $x$, so moles of $\ce{H_2}$ at equilibrium = $20 + x$
+- $\ce{CO_2}$ increases by $x$, so moles of $\ce{CO_2}$ at equilibrium = $20 + x$
+- $\ce{H_2O}$ decreases by $x$, so moles of $\ce{H_2O}$ at equilibrium = $40 - x$
+
+Now, plug into the equilibrium expression:
+
+$$
+K_p = \frac{(20 + x)(20 + x)}{(40 - x)(40 - x)} = 0.64
+$$
+
+---
+
+### Step 3: Solve the equation
+
+$$
+\frac{(20 + x)^2}{(40 - x)^2} = 0.64
+$$
+
+Take square roots:
+
+$$
+\frac{20 + x}{40 - x} = \sqrt{0.64} = 0.8
+$$
+
+Now solve:
+
+$$
+20 + x = 0.8(40 - x)
+$$
+
+$$
+20 + x = 32 - 0.8x
+$$
+
+$$
+x + 0.8x = 32 - 20
+$$
+
+$$
+1.8x = 12
+$$
+
+$$
+x = \frac{12}{1.8} = 6.67
+$$
+
+---
+
+### Step 4: Find the number of moles of $\ce{CO}$ leaving the reactor
+
+$$
+\text{Moles of } \ce{CO} \text{ leaving} = x = 6.67 \, \text{mol}
+$$
+
+---
+
+### Final Answer:
+
+$$
+\boxed{B}
+$$",No.
+C,"The correct answer is: **B**.
+
+**Explanation**: Coarse-grained simulations are most suitable for small organic molecules, proteins, and solid-state materials. They are ideal for modeling systems with low complexity, such as small molecules, proteins, or solid-state compounds, where detailed molecular dynamics are not necessary. They are not suitable for inorganic compounds, polymeric materials, or complex biological systems.",no
+92.2,"We are given:
+
+- Mass of impure sample: $ \text{0.752 g} $
+- Volume of water: $ 50 \, \text{cm}^3 $
+- Volume of reaction mixture removed: $ 20 \, \text{cm}^3 $
+- Concentration of hydrochloric acid: $ 0.250 \, \text{mol dm}^{-3} $
+- Volume of hydrochloric acid used to neutralize the sample: $ 34.60 \, \text{cm}^3 $
+
+We are to find the **percentage purity** of calcium carbide.
+
+---
+
+### Step 1: Find moles of HCl used
+
+The reaction of calcium carbide with HCl is:
+
+$$
+\text{CaC}_2 + 2\text{HCl} \rightarrow \text{CaCl}_2 + \text{C}_2\text{H}_2
+$$
+
+From the stoichiometry, 2 moles of HCl react with 1 mole of CaC₂.
+
+So, the moles of HCl used:
+
+$$
+\text{Moles of HCl} = 0.250 \, \text{mol dm}^{-3} \times 34.60 \, \text{cm}^3 = 0.250 \times 34.60 \times 10^{-3} = 8.65 \times 10^{-3} \, \text{mol}
+$$
+
+So, the moles of CaC₂:
+
+$$
+\text{Moles of CaC}_2 = \frac{8.65 \times 10^{-3}}{2} = 4.325 \times 10^{-3} \, \text{mol}
+$$
+
+---
+
+### Step 2: Calculate the mass of pure CaC₂
+
+Molar mass of CaC₂ = 40.08 (Ca) + 2(12.01) = 44.09 g/mol
+
+Mass of pure CaC₂:
+
+$$
+\text{Mass of pure CaC}_2 = 4.325 \times 10^{-3} \, \text{mol} \times 44.09 \, \text{g/mol} = 0.1936 \, \text{g}
+$$
+
+---
+
+### Step 3: Calculate percentage purity
+
+$$
+\text{Percentage purity} = \left( \frac{0.1936 \, \text{g}}{0.752 \, \text{g}} \right) \times 100 = 25.7\%
+$$
+
+---
+
+### ✅ Final Answer:
+
+**B. 25.7%**",No.
+B,"We are given two statements and asked to determine which is the **most correct** option.
+
+---
+
+### **Statement 1**:  
+""In the Haber process, $\ce{N2 + 3H2 <=> 2NH3}$; $\Delta H = -$ve. Then concentration of $\ce{NH3}$ increases by decreasing the temperature and increasing the pressure.""
+
+**Analysis**:  
+- The reaction is **exothermic** (since $\Delta H < 0$).
+- For an exothermic reaction, **decreasing the temperature** will **increase the equilibrium** position (as the system favors the exothermic direction).
+- Increasing the **pressure** will **shift the equilibrium** toward the side with fewer moles of gas.
+- Since the Haber reaction produces 2 moles of NH₃ and consumes 1 mole of N₂ and 3 moles of H₂, increasing pressure favors the side with fewer moles of gas (which is the product side).
+
+**Conclusion**: Statement 1 is **True**.
+
+---
+
+### **Statement 2**:  
+""For an exothermic reaction, the equilibrium constant increases by increasing the temperature.""
+
+**Analysis**:  
+- For an exothermic reaction, the **equilibrium constant $K$** decreases with increasing temperature.
+- This is because the system favors the side that absorbs heat (i.e., the exothermic direction).
+
+**Conclusion**: Statement 2 is **False**.
+
+---
+
+### ✅ Final Answer:
+
+**(C) Statements 1 and 2 are True. Statement 2 is NOT the correct explanation for Statement 1.**
+
+**Answer: C**",no
+A,"The correct answer is: **D** Standard GGA (Generalized Gradient Approximation). 
+
+**Explanation**:  
+- The material has a small band gap, which suggests the use of a functional that can accurately describe the electronic structure without overcomplicating the calculations due to the limited computational resources.  
+- **Standard GGA (Generalized Gradient Approximation)** is the most efficient and widely used approach for such systems due to its simplicity and good balance between accuracy and computational efficiency.  
+
+Answer: **D**",no
+27.58,"We are given:
+
+- Mass of compound X = **0.1 g**
+- Volume of EDTA solution = **21.70 cm³**
+- Concentration of EDTA = **0.02 mol dm⁻³**
+- The reaction is:  
+  $\ce{Cu^{2+} + EDTA4_{(aq)} -> [CuEDTA]^{2-}_{(aq)}}$
+
+---
+
+### Step 1: Calculate moles of EDTA
+
+$$
+\text{Moles of EDTA} = \text{Volume (in L)} \times \text{Concentration (mol/L)} = 0.02170 \, \text{L} \times 0.02 \, \text{mol/L} = 0.000434 \, \text{mol}
+$$
+
+---
+
+### Step 2: Use stoichiometry to find moles of Cu²⁺
+
+From the balanced equation:
+
+$$
+1 \, \text{mol Cu}^2+ \rightarrow 1 \, \text{mol EDTA}
+$$
+
+So:
+
+$$
+\text{Moles of Cu} = 0.000434 \, \text{mol}
+$$
+
+---
+
+### Step 3: Calculate mass of Cu in compound X
+
+$$
+\text{Mass of Cu} = \text{Moles of Cu} \times \text{Molar mass of Cu}
+$$
+
+- Molar mass of Cu = 63.55 g/mol  
+$$
+\text{Mass of Cu} = 0.000434 \, \text{mol} \times 63.55 \, \text{g/mol} = 0.0276 \, \text{g}
+$$
+
+---
+
+### Step 4: Calculate percent by mass of Cu in compound X
+
+$$
+\text{Percent by mass} = \left( \frac{0.0276 \, \text{g}}{0.1 \, \text{g}} \right) \times 100 = 27.6\%
+$$
+
+---
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",yes
+571.6,"The enthalpy change for the overall cell reaction during electrolysis of water is **-571.6 kJ mol⁻¹**.
+
+This is calculated as:
+
+$$
+\Delta H = 2 \times \Delta H_{\text{formation}} \text{ of } \ce{H2O(l)} + \Delta H_{\text{formation}} \text{ of } \ce{H2(g)} + \Delta H_{\text{formation}} \text{ of } \ce{O2(g)}
+$$
+
+Given:
+- $\Delta H_{\text{formation}} \ce{H2O(l)} = -285.8 \, \text{kJ mol⁻¹}$
+
+We know:
+- $\Delta H_{\text{formation}} \ce{H2(g)} = 0 \, \text{kJ mol⁻¹}$
+- $\Delta H_{\text{formation}} \ce{O2(g)} = 0 \, \text{kJ mol⁻¹}$
+
+$$
+\Delta H = 2 \times (-285.8) = -571.6 \, \text{kJ mol⁻¹}
+$$
+
+**Answer: A**",no
+C,"The correct answer is: **C**
+
+**Explanation:**  
+In a Monte Carlo molecular simulation, a **displacement move** (also known as a ""random walk"" or ""random step"") is accepted or rejected based on the **energy difference** between the new state and the old state. If the **new state's energy exceeds the old state's energy**, the move is **rejected** (i.e., the system will not transition to that state). However, the acceptance or rejection depends on the **next random number generated** in the next step of the simulation. If the next step leads to a new state with **lower energy**, the move is **accepted**. Therefore, the move can be **sometimes accepted and sometimes rejected**, depending on future steps. 
+
+So, the correct answer is: **C**.",no
+2,"We are given:
+
+- The **molecular formula** of X is $\ce{CnH2}$
+- The **mass percentage** of carbon in X is 92.3%.
+- The **relative molecular mass** of X is 26.
+
+---
+
+We will calculate the value of $n$ by using the mass percentage of carbon in the formula.
+
+### Step 1: Mass percentage of carbon
+$$
+\text{Mass percentage of C} = \frac{12n}{26} \times 100 = 92.3
+$$
+
+$$
+\frac{12n}{26} = 0.923
+$$
+
+$$
+12n = 26 \times 0.923 = 23.8
+$$
+
+$$
+n = \frac{23.8}{12} = 1.98
+$$
+
+Since $n$ must be a whole number, we round to the nearest integer.
+
+---
+
+### Final Answer:
+$$
+\boxed{\text{A}}
+$$",No.
+0.099,"We are given:
+
+- Henry's law constant for CO₂:  
+  $ K_H = 0.033 \, \text{mol dm}^{-3} \text{atm}^{-1} $
+
+- Partial pressure of CO₂ in the can:  
+  $ P = 3 \, \text{atm} $
+
+- Volume of the can:  
+  $ V = 250 \, \text{cm}^3 = 0.25 \, \text{dm}^3 $
+
+- Temperature:  
+  $ T = 25^\circ \text{C} $
+
+We can use **Henry’s Law**:
+
+$$
+P = K_H \cdot C
+$$
+
+Where:
+- $ P $ is the partial pressure of CO₂
+- $ C $ is the concentration of CO₂ in mol/dm³
+
+Rearranging to solve for $ C $:
+
+$$
+C = \frac{P}{K_H} = \frac{3}{0.033} \approx 90.91 \, \text{mol/dm}^3
+$$
+
+### Final Answer:
+**A**",No.
+31170,"To find the energy released when 1 L of E5 fuel is burnt, we need to calculate the total energy released from both ethanol and octane isomers, then sum them up.
+
+### Given:
+- Enthalpy of combustion of ethanol: $ \Delta H_{\text{ethanol}} = -1276 \, \text{kJ/mol} $
+- Enthalpy of combustion of an isomer of octane: $ \Delta H_{\text{octane}} = -5144 \, \text{kJ/mol} $
+- Volume of fuel: 1 L
+- Volume of ethanol: 50 mL = 0.05 L
+- Volume of octane isomers: 950 mL = 0.95 L
+- Density of ethanol: $ \rho_{\text{ethanol}} = 0.789 \, \text{g/cm}^3 $
+- Density of octane isomers: $ \rho_{\text{octane}} = 0.703 \, \text{g/cm}^3 $
+
+---
+
+### Step 1: Calculate energy from ethanol
+
+- Volume of ethanol: $ V_{\text{ethanol}} = 50 \, \text{mL} = 0.05 \, \text{L} $
+- Mass of ethanol:  
+  $ m_{\text{ethanol}} = \rho \cdot V = 0.789 \, \text{g/cm}^3 \times 0.05 \, \text{L} \times 1000 \, \text{cm}^3/\text{L} = 39.45 \, \text{g} $
+
+- Energy from ethanol:  
+  $ \Delta H_{\text{ethanol}} = \Delta H \times n = -1276 \, \text{kJ/mol} \times \frac{39.45 \, \text{g}}{46.07 \, \text{g/mol}} \approx -1276 \times 0.855 \approx -1088.9 \, \text{kJ} $
+
+---
+
+### Step 2: Calculate energy from octane isomers
+
+- Volume of octane isomers: $ V_{\text{octane}} = 950 \, \text{mL} = 0.95 \, \text{L} $
+- Mass of octane isomers:  
+  $ m_{\text{octane}} = \rho \cdot V = 0.703 \, \text{g/cm}^3 \times 0.95 \, \text{L} \times 1000 \, \text{cm}^3/\text{L} = 667.55 \, \text{g} $
+
+- Energy from octane isomers:  
+  $ \Delta H_{\text{octane}} = -5144 \, \text{kJ/mol} \times \frac{667.55 \, \text{g}}{46.07 \, \text{g/mol}} \approx -5144 \times 14.44 \approx -7360 \, \text{kJ} $
+
+---
+
+### Step 3: Total energy released
+
+$$
+\text{Total energy} = \Delta H_{\text{ethanol}} + \Delta H_{\text{octane}} = -1088.9 \, \text{kJ} + (-7360 \, \text{kJ}) = -8448.9 \, \text{kJ}
+$$
+
+Since energy is released, we take the absolute value:
+
+$$
+\boxed{8448.9 \, \text{kJ}}
+$$
+
+---
+
+### Final Answer:
+$$
+\boxed{8450} \, \text{kJ}
+$$",No.
+C,"The correct answers are: **A, C, D**
+
+**Reasoning:**
+
+- **(A)** A molecule with identical moments of inertia in all three principal axes is microwave active. ✅  
+  This is correct because the angular momentum quantum number is quantized, and a molecule with zero angular momentum (which would be a spin-0 particle) is a spinless particle and would be microwave active.
+
+- **(B)** All the frequencies will result in an absorption/emission spectrum if the excitation source is a white radiation. ❌  
+  This is incorrect. A white radiation source is not a true excitation source for spectroscopic methods, and only a specific type of radiation (such as monochromatic) can excite molecules.
+
+- **(C)** Infrared and Raman spectra provide complementary information. ✅  
+  Infrared spectroscopy is used to determine the functional groups, while Raman spectroscopy is used to determine the molecular structure and molecular vibrations, providing complementary information.
+
+- **(D)** Phosphorescence is always at a longer wavelength compared with fluorescence. ✅  
+  Phosphorescence is a type of non-radiative emission that occurs at longer wavelengths than fluorescence.
+
+- **(E)** The angular momentum of a molecule is quantized. ✅  
+  This is a fundamental principle of quantum mechanics, where the angular momentum quantum number $ l $ is quantized (i.e., $ l = 0, 1, 2, \dots $).
+
+**Final Answer:** **A, C, D**",no
+115,"To find the dietary calories content in a standard small bag of the snack, we need to calculate the energy released by the combustion of the 2.0 g sample, then convert that energy into dietary calories using the given conversion factor.
+
+### Step 1: Calculate the energy released (in kJ)
+
+The energy released (in kJ) is:
+
+$$
+\text{Energy} = \text{mass of sample} \times \text{heat of combustion}
+$$
+
+Assuming the heat of combustion is approximately the same as the energy used to raise the temperature of the water, we can use the formula:
+
+$$
+\Delta Q = m_{\text{sample}} \cdot c \cdot \Delta T
+$$
+
+Where:
+- $ m_{\text{sample}} = 2.0 \, \text{g} $
+- $ c = 4.18 \, \text{J K}^{-1} \text{g}^{-1} $
+- $ \Delta T = 20.9 \, ^\circ\text{C} $
+- $ m_{\text{water}} = 500 \, \text{g} $
+
+$$
+\Delta Q = 2.0 \, \text{g} \times 4.18 \, \text{J K}^{-1} \text{g}^{-1} \times 20.9 \, ^\circ\text{C}
+$$
+
+$$
+\Delta Q = 173.0 \, \text{J}
+$$
+
+### Step 2: Convert energy from joules to dietary calories
+
+The conversion factor is $ 0.239 \, \text{kJ} = 1 \, \text{dietary calorie} $, so:
+
+$$
+\text{Energy in dietary calories} = \frac{173.0 \, \text{J}}{239 \, \text{J/dietary calorie}} = 0.726 \, \text{dietary calories}
+$$
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+35.2,"The density of liquid hydrogen is given as $\pu{0.071 g/cm^3}$.
+
+To find the number of moles of hydrogen molecules in $\pu{1 dm^3}$ of liquid hydrogen:
+
+1. Convert $\pu{1 dm^3}$ to $\pu{cm^3}$:  
+   $1 \, \text{dm} = 100 \, \text{cm}$, so $1 \, \text{dm}^3 = 100^3 \, \text{cm}^3 = 1,000,000 \, \text{cm}^3$.
+
+2. Use the formula for number of moles:  
+   $$
+   n = \frac{m}{M}
+   $$
+   where:
+   - $m = \text{mass of hydrogen in 1 dm}^3$,
+   - $M = \text{molar mass of hydrogen} = 2.016 \, \text{g/mol}$.
+
+3. Calculate the mass of hydrogen in 1 dm³:  
+   $$
+   m = \text{density} \times \text{volume} = 0.071 \, \text{g/cm}^3 \times 1,000,000 \, \text{cm}^3 = 71,000 \, \text{g}
+   $$
+
+4. Calculate the number of moles:  
+   $$
+   n = \frac{71,000 \, \text{g}}{2.016 \, \text{g/mol}} \approx 34,893.8 \, \text{mol}
+   $$
+
+So, the number of moles of hydrogen molecules in $\pu{1 dm^3}$ of liquid hydrogen is approximately:
+
+$$
+\boxed{A}
+$$",No.
+C,"The correct answer is: **C**.
+
+During electrolysis, **oxygen** is produced at the **anode**. 
+
+- **(A)**: Concentrated NaCl solution with Pt electrodes → **oxygen** is produced at the anode.
+- **(B)**: Dilute H₂SO₄ with Cu electrodes → **oxygen** is produced at the anode.
+- **(C)**: Dilute H₂SO₄ with Pt electrodes → **oxygen** is produced at the anode.
+- **(D)**: Fused NaOH with inert electrodes → **oxygen** is produced at the anode.
+
+All three options (A, B, and C) produce oxygen at the anode during electrolysis. However, since the question asks for **only one correct answer**, and **option C** is the **correct** arrangement among the given choices, the answer is:
+
+**C**.",no
+595,"The average molar mass of the polymer chains in the sample can be calculated using the formula:
+
+$$
+\text{Molar mass} = \frac{\text{mass of polymer}}{\text{moles of polymer}}
+$$
+
+Given:
+
+- Mass of PLA = $\pu{0.1619 g}$
+- Volume of benzyl alcohol = $\pu{25 cm^3}$
+- Concentration of KOH = $\pu{0.04 mol dm^{-3}}$
+- Volume of KOH used = $\pu{6.81 cm^3}$
+
+First, calculate the moles of KOH used:
+
+$$
+\text{Moles of KOH} = \frac{\text{Volume of KOH (dm³)}}{\text{Concentration of KOH}} = \frac{6.81}{0.04} = \pu{170.25 mol}
+$$
+
+Since KOH is a strong base and neutralizes the polymer, the moles of polymer can be calculated from the volume of KOH used:
+
+$$
+\text{Moles of polymer} = \text{Moles of KOH} = \pu{170.25 mol}
+$$
+
+Now, calculate the average molar mass:
+
+$$
+\text{Average molar mass} = \frac{\text{Mass of PLA}}{\text{Moles of polymer}} = \frac{0.1619}{170.25} \approx \pu{0.000956 g/mol}
+$$
+
+Since the question asks for the answer in **grams per mole**, and the correct answer is:
+
+$$
+\boxed{A}
+$$",No.
+A,"The purpose of the extraction solution is to maintain a **buffered solution**. 
+
+- **(A) Make a buffered solution**: This is correct because the presence of both $\ce{Na2HPO4}$ and $\ce{KH2PO4}$ at pH 7.4 ensures that the solution remains neutral and suitable for lateral flow testing.
+- The other options are incorrect:
+  - (B) **Make a neutral solution**: While pH 7.4 is neutral, the presence of both phosphate compounds ensures a buffer.
+  - (C) **Make a very acidic solution**: This is not the case.
+  - (D) **Make a very alkaline solution**: This is not the case.
+
+**Answer: A**.",yes
+6,"The oxidation state of the osmium atom in $\ce{OsO4^{2-}}$ is **+3**. 
+
+Answer: **A**",no
+A,"The alkyne group in 3-ethyl-6-methylhept-4-en-2-ol is formed by **sp² hybridization**.
+
+- The carbon atoms forming the alkyne group have **sp² hybridization**, which is common in alkyne groups.
+- The molecule has a **six-membered ring** with an **ethyl group** and a **methyl group**, making it a **3-ethyl-6-methylhept-4-en-2-ol**.
+- The correct answer is: **(C) sp²**.",no
+D,"The maximum equilibrium conversion for an endothermic reaction is achieved at **ambient temperature** (Option A). 
+
+Answer: **A**",No.
+80,"Given:
+- Mass percentage of Mg = 20.32%
+- Mass percentage of Si = 28.18%
+
+We assume the sample contains only talc and chrysotile. Let’s denote the mass of talc as $ x $ and the mass of chrysotile as $ y $. So:
+
+$$
+x + y = \text{total mass of sample}
+$$
+
+$$
+0.2032x + 0.2818y = \text{mass of sample}
+$$
+
+But since we don't know the total mass, we can use the fact that the percentage of Mg and Si is given. Let’s assume the total mass of the sample is 100 g (since percentages are given by mass). Then:
+
+- Mass of Mg = 20.32 g
+- Mass of Si = 28.18 g
+
+Let’s now find the molar ratio of Mg and Si. First, convert mass to moles:
+
+- Moles of Mg = $ \frac{20.32}{24.305} \approx 0.833 $ mol
+- Moles of Si = $ \frac{28.18}{28.085} \approx 1.004 $ mol
+
+Now, the molar ratio of Mg to Si is:
+
+$$
+\frac{0.833}{1.004} \approx 0.831
+$$
+
+Since each mole of chrysotile contains 1 mole of Mg and 1 mole of Si, the molar ratio of chrysotile to talc is the same as the ratio of Mg to Si:
+
+$$
+\text{Molar ratio of chrysotile to talc} = 0.831
+$$
+
+Therefore, the molar percentage of talc is:
+
+$$
+\frac{0.831}{1} \times 100\% = 83.1\%
+$$
+
+So the answer is: **A**.",No.
+C,"The reaction is:
+
+$$
+\ce{CaCO3 (s) <=> CaO (s) + CO2 (g)}
+$$
+
+At equilibrium, the system is in dynamic balance. Adding **solid CaCO₃** does **not** change the equilibrium because solids do not affect the equilibrium.
+
+### Answer: **C**.",yes
+B,"The effect of an increase in temperature on the spontaneity of an endothermic reaction with a positive entropy change is:
+
+**(B) An increase in spontaneity**
+
+**Explanation:**  
+- An endothermic reaction absorbs heat, which increases the system's internal energy.  
+- A positive entropy change means the system disperses energy into the surroundings.  
+- At higher temperatures, the system's tendency to favor the formation of more disorder (entropy) increases.  
+- Since the reaction is endothermic and has a positive entropy change, increasing temperature makes the reaction **less spontaneous** (as entropy increases more rapidly than the energy input).  
+
+So the correct answer is: **(B)**.",No.
+0.5,"The balanced chemical equation is:
+
+$$
+\ce{H2 + xO2 -> H2O}
+$$
+
+We need to determine the value of $ x $ (the coefficient of $\ce{O2}$) to balance the equation.
+
+- On the left side: 2 H and 2 O (from $\ce{H2}$ and $\ce{O2}$).
+- On the right side: 2 H and 1 O (from $\ce{H2O}$).
+
+To balance the oxygen atoms, we need 2 $\ce{O2}$ molecules. This gives:
+
+$$
+\ce{H2 + 2O2 -> 2H2O}
+$$
+
+This matches the equation given.
+
+Therefore, the value of $ x $ is:
+
+$$
+\boxed{A}
+$$",no
+A,"The correct answers are: **D** and **E**.
+
+### Explanation:
+- **(A)** is incorrect. The electronic energy of the molecule **does not change** during the scattering process because the scattering process is governed by conservation laws, not energy conservation. The energy of the molecule remains the same, but it may change due to interactions with the photon.
+
+- **(B)** is incorrect. The **kinetic energy** associated with the molecule's rotational states **is not necessarily conserved**. It depends on the specific interaction and potential energy changes during the scattering process.
+
+- **(C)** is incorrect. The momentum of the scattered photon is **not always equal and opposite** to the change in the molecule's momentum. This is only true if the scattering is elastic, not a general conservation law.
+
+- **(D)** is correct. The **total energy** of the system (photon + molecule) is conserved. This is a fundamental principle of physics in scattering experiments.
+
+- **(E)** is correct. The **total energy of the system (photon + molecule)** remains constant throughout the scattering event. This is a direct consequence of energy conservation.
+
+### Final Answer: **D** and **E**.",no
+B,"The greatest ability to dissolve carbon dioxide gas would occur under **(A) High pressure and high temperature**.
+
+This is because the solubility of gases increases with **pressure** and **temperature**, and the higher the pressure and temperature, the more efficiently CO₂ can dissolve into water.",No.
+D,"The given information is:
+
+- The **onset potential** for the hydrogen evolution reaction on **metal X** is **0.0 V** vs. RHE.
+- The **onset potential** for the hydrogen evolution reaction on **metal Y** is **-0.8 V** vs. RHE.
+
+---
+
+### Key Concepts:
+
+- **Equilibrium potential** is the **potential difference** that a surface must be at to reach equilibrium with the surrounding.
+- **Overpotential** is the **difference** between the actual potential and the equilibrium potential.
+
+---
+
+### Analysis:
+
+- **Metal X** has a **lower equilibrium potential** (0.0 V) and a **lower overpotential** (since it is at the same potential as the RHE).
+- **Metal Y** has a **higher equilibrium potential** (-0.8 V) and a **higher overpotential** (since it is at a lower potential than the RHE).
+
+---
+
+### Correct Answer: **(B)**
+
+**Metal Y has a lower equilibrium potential and a higher overpotential than metal X.**",No.
+A,"The correct answer is: **A**. 
+
+The isosteric heat of adsorption measures the change in **enthalpy** (heat content) when a molecule moves from the gas phase to the adsorbed phase. 
+
+Answer: **A**.",yes
+1.35,"To find the mass of TNT that will explode to produce **1.0 dm³ of gas** at **RTP**, we need to use the given balanced chemical equation and the molar volume of gas.
+
+### Given:
+- The reaction:  
+  $\ce{C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + 1.5N2 + H2O}$  
+- Molar volume of gas at RTP: **24 dm³/mol**  
+- Volume of gas produced: **1.0 dm³**
+
+### Step 1: Convert the volume of gas to moles.
+
+$$
+\text{Moles of gas} = \frac{1.0 \, \text{dm}^3}{24 \, \text{dm}^3/\text{mol}} = \frac{1}{24} \, \text{mol}
+$$
+
+### Step 2: Use the stoichiometric ratio from the balanced equation.
+
+From the balanced equation, **3 moles of TNT produce 3 moles of CO**. So, **1 mole of TNT produces 1 mole of CO**.
+
+Thus, 1 mole of TNT produces 1 mole of CO.
+
+### Step 3: Find the mass of TNT corresponding to 1 mole of CO.
+
+Molar mass of CO:  
+- C: 12.01 g/mol  
+- O: 16.00 g/mol  
+- Molar mass of CO: $12.01 + 16.00 = 28.01 \, \text{g/mol}$
+
+So, the mass of TNT that produces 1 mole of CO is:
+
+$$
+\text{Mass} = 1 \, \text{mol} \times 28.01 \, \text{g/mol} = 28.01 \, \text{g}
+$$
+
+### Final Answer:
+
+$$
+\boxed{\text{A}}
+$$",No.
+8,The oxidation state of the osmium atom in $\ce{OsO4}$ is **A**.,yes
+D,"(A) No
+
+**Reasoning:**  
+Quinazoline is a heterocyclic compound containing **nitrogen** atoms. The hybridization of nitrogen atoms is different from that of carbon atoms in the molecule. Therefore, the correct answer is **(A)**.",no
+5,"The oxidation state of phosphorus in phosphoric acid (H₃PO₄) is **+4**.  
+
+Answer: **D**",No.
+-4,The oxidation number of carbon in the products of the Sabatier reaction is **A**.,yes
+0.0198,"To find the mass of lactic acid produced, we start with the amount of carbon dioxide (CO₂) that produced the bubble. The volume of the bubble is given as:
+
+$$
+V = \pi r^2 h = \pi (0.75)^2 (0.15) = 0.17675 \, \text{cm}^3
+$$
+
+Convert this to cubic meters:
+
+$$
+V = 0.17675 \times 10^{-6} \, \text{m}^3
+$$
+
+Now, using the ideal gas law $ PV = nRT $, we solve for the number of moles $ n $:
+
+$$
+n = \frac{PV}{RT}
+$$
+
+Given:
+
+- $ P = 101325 \, \text{Pa} $
+- $ V = 0.17675 \times 10^{-6} \, \text{m}^3 $
+- $ R = 8.314 \, \text{J/mol·K} $
+- $ T = 21^\circ \text{C} = 294 \, \text{K} $
+
+$$
+n = \frac{(101325)(0.17675 \times 10^{-6})}{8.314 \times 294} \approx 0.000256 \, \text{mol}
+$$
+
+Now, the molar mass of lactic acid is approximately:
+
+$$
+M = 180.16 \, \text{g/mol}
+$$
+
+So the mass of lactic acid is:
+
+$$
+m = n \times M = 0.000256 \times 180.16 \approx 0.0461 \, \text{g}
+$$
+
+The correct answer is:
+
+$$
+\boxed{A}
+$$",No.
+A,"The Heisenberg uncertainty principle states that the product of the uncertainties in position and momentum is at least $\hbar/4$. To minimize the effect of the uncertainty principle on the measurement of the molecule's position, we need to **maximize the product of the uncertainties** in position and momentum.
+
+---
+
+### Analyzing the options:
+
+- **(A) [SMILES]C(=O)=O**  
+  This corresponds to **ethene**, a molecule with a **double bond**.  
+  - The position uncertainty is **high** due to the complexity of the molecule and its spatial structure.  
+  - The momentum uncertainty is also high, as the molecule moves at a higher speed.  
+  - The product of position and momentum uncertainty is large, so the Heisenberg effect is minimized.
+
+- **(B) [SMILES]CC**  
+  This corresponds to **two carbon atoms**, forming a **linear chain**.  
+  - The position uncertainty is **high**, but the momentum uncertainty is also high.  
+  - The product of position and momentum uncertainty is still large, so the Heisenberg effect is minimized.
+
+- **(C) [SMILES]N#N**  
+  This corresponds to **nitrogen gas**, forming a **single bond**.  
+  - The position uncertainty is **high**, but the momentum uncertainty is also high.  
+  - The product of position and momentum uncertainty is large, so the Heisenberg effect is minimized.
+
+- **(D) [SMILES]O=O**  
+  This corresponds to **oxygen molecule**, forming a **double bond**.  
+  - The position uncertainty is **high**, and the momentum uncertainty is also high.  
+  - The product of position and momentum uncertainty is large, so the Heisenberg effect is minimized.
+
+---
+
+### Conclusion:
+
+All options (A, B, C, D) have similar effects due to their high position and momentum uncertainties. However, the correct answer is:
+
+$$
+\boxed{A}
+$$","no
+
+The response is **not correct**.
+
+### Reasoning:
+
+The Heisenberg Uncertainty Principle states that:
+
+$$
+\Delta x \cdot \Delta p \geq \frac{\hbar}{4\pi}
+$$
+
+To **minimize the effect** of the uncertainty principle on the **error in position measurement**, we want to **maximize** the **momentum uncertainty**, $\Delta p$, because this allows for a **smaller position uncertainty** (since $\Delta x \propto 1/\Delta p$).
+
+So, the correct approach is to identify the molecule with the **highest mass** (since momentum $p = mv$, and for the same speed $v$, a larger mass means larger momentum).
+
+Let’s analyze the molecular masses:
+
+- **(A) [SMILES]C(=O)=O** → **CO₂** → Molar mass ≈ 44 g/mol  
+- **(B) [SMILES]CC** → **C₂H₂** (acetylene) → Molar mass ≈ 26 g/mol  
+- **(C) [SMILES]N#N** → **N₂** → Molar mass ≈ 28 g/mol  
+- **(D) [SMILES]O=O** → **O₂** → Molar mass ≈ 32 g/mol  
+
+### Conclusion:
+
+**CO₂ (A)** has the **highest molar mass**, so it has the **largest momentum** (for the same speed), leading to the **largest momentum uncertainty**, and therefore the **smallest position uncertainty**.
+
+Thus, the **Heisenberg Uncertainty Principle has the least effect** on the **error in position measurement** for **(A)**.
+
+### Final Answer:
+$$
+\boxed{A}
+$$
+
+✅ **Correct answer is A**, but the **response is incorrect** in its reasoning. It incorrectly claims all options have similar effects and concludes A is correct for wrong reasons."
+A,"To determine the composition of the gaseous sample, we can use **ideal gas law** and the **gas law for a mixture**.
+
+---
+
+### **Given:**
+- Temperature: $ T_1 = 300.0 \, \mathrm{K} $, $ T_2 = 150.0 \, \mathrm{K} $
+- Pressure: $ P_1 = 1.00 \, \mathrm{atm} $, $ P_2 = 0.37 \, \mathrm{atm} $
+- Vapor pressure of $ \ce{C2H6} $ at $ T_2 = 150.0 \, \mathrm{K} = 0.10 \, \mathrm{atm} $
+- Critical temperature of $ \ce{Ne} = 44 \, \mathrm{K} $
+
+---
+
+### **Step 1: Use the ideal gas law for a mixture**
+
+Let’s assume the sample is a mixture of **ethane** ($ \ce{C2H6} $) and **neon** ($ \ce{Ne} $). Let’s denote:
+
+- $ x $ = mass fraction of ethane
+- $ 1 - x $ = mass fraction of neon
+
+The total number of moles of gas is:
+
+$$
+n = x \cdot n_{\ce{C2H6}} + (1 - x) \cdot n_{\ce{Ne}}
+$$
+
+The total pressure at each temperature is given. Let’s use the **ideal gas law**:
+
+$$
+P = nRT
+$$
+
+So, at $ T_1 = 300.0 \, \mathrm{K} $:
+
+$$
+P_1 = x \cdot n_{\ce{C2H6}} \cdot R \cdot T_1 = 1.00 \, \mathrm{atm}
+$$
+
+At $ T_2 = 150.0 \, \mathrm{K} $:
+
+$$
+P_2 = (x + (1 - x)) \cdot n_{\ce{C2H6}} \cdot R \cdot T_2 = 0.37 \, \mathrm{atm}
+$$
+
+Substitute $ x + (1 - x) = 1 $:
+
+$$
+P_2 = n_{\ce{C2H6}} \cdot R \cdot T_2 = 0.37 \, \mathrm{atm}
+$$
+
+So, we can solve for $ n_{\ce{C2H6}} $:
+
+$$
+n_{\ce{C2H6}} = \frac{0.37}{R \cdot 150.0} = \frac{0.37}{150.0 \cdot 0.0821} \approx 0.0183 \, \mathrm{mol}
+$$
+
+Now, using $ P_1 = x \cdot n_{\ce{C2H6}} \cdot R \cdot T_1 = 1.00 \, \mathrm{atm} $:
+
+$$
+x = \frac{P_1}{n_{\ce{C2H6}} \cdot R \cdot T_1} = \frac{1.00}{0.0183 \cdot 0.0821 \cdot 300} \approx 2.35
+$$
+
+So, $ x \approx 2.35 $, which is **greater than 1**, which is **not possible**. This suggests that **the sample is not a mixture**.
+
+---
+
+### **Conclusion:**
+
+The calculation leads to an impossible mass fraction (greater than 1), which means the assumption that the sample is a mixture of ethane and neon is incorrect.
+
+Therefore, the correct answer is:
+
+**Answer: (B)**
+
+It cannot be determined from the information given.",No.
+A,"The correct answer is: **B**.
+
+**Explanation:**  
+The observed oscillations in the band structure near the Fermi level, particularly along the $\Gamma$-K direction and with increasing k-point density, suggest that the oscillations are due to the periodicity of the k-point mesh. A **non-uniform k-point mesh with higher density along the $\Gamma$-K direction** (option B) would help resolve the periodicity and improve the accuracy of the band structure, reducing the artifacts caused by the irregular k-point distribution. This approach aligns with the goal of resolving the oscillations and providing more accurate results.",no
+B,"The hybridization of the carbon atoms in naphthalene is **(B) sp²**.
+
+Naphthalene is a polycyclic aromatic hydrocarbon, and each carbon atom in naphthalene is bonded to two other carbon atoms and two other aromatic rings. The hybridization of each carbon atom in naphthalene is **sp²**, which allows for the formation of a planar structure with delocalized electrons. 
+
+Answer: **B**",yes
+4,"The oxidation state of the osmium atom in $\ce{OsO2}$ can be determined by considering the oxidation state of oxygen and the overall charge of the compound.
+
+Let $ x $ be the oxidation state of osmium. Since $\ce{OsO2}$ is an ionic compound, the sum of the oxidation states of all atoms in the compound must equal the total charge of the compound.
+
+The oxidation state of oxygen is typically $ -2 $ in most compounds. So:
+
+$$
+x + 2(-2) = 0
+$$
+
+$$
+x - 4 = 0 \Rightarrow x = 4
+$$
+
+Thus, the oxidation state of osmium is:
+
+$$
+\boxed{A}
+$$",yes
+A,"The correct answer is: **C**. 
+
+The move is sometimes accepted and sometimes rejected depending on further generation of a random number.",no
+1,The oxidation number of hydrogen in the products of the Sabatier reaction is **A**.,yes
+A,"To determine which options are correct, we need to compare the standard reduction potentials of the species involved.
+
+### Given:
+- $ E^\circ_{\text{Cu}^{2+}|\text{Cu}} = \pu{0.34 V} $
+- $ E^\circ_{\text{Sn}^{2+}|\text{Sn}} = \pu{-0.136 V} $
+- $ E^\circ_{\text{H}^+|\text{H}_2} = \pu{0.00 V} $
+
+---
+
+### (A) **Cu²⁺ ions can be reduced by H₂(g)**
+
+- A reduction is when a species is reduced, which means it gains electrons.
+- $ E^\circ_{\text{Cu}^{2+}|\text{Cu}} = \pu{0.34 V} $
+- Since the potential is positive, Cu²⁺ can be reduced.
+- ✅ **Correct**
+
+---
+
+### (B) **Cu can be oxidized by H⁺**
+
+- Oxidation is when a species is oxidized, meaning it loses electrons.
+- To oxidize Cu²⁺, H⁺ must act as a oxidizing agent (i.e., accept electrons).
+- The standard reduction potential of H⁺ is 0.00 V, which is very close to 0.
+- Since H⁺ is a good oxidizing agent, Cu can be oxidized by H⁺.
+- ✅ **Correct**
+
+---
+
+### (C) **Sn²⁺ can be reduced by H₂**
+
+- A reduction is when a species is reduced.
+- $ E^\circ_{\text{Sn}^{2+}|\text{Sn}} = \pu{-0.136 V} $
+- A negative potential means the Sn²⁺ is **not** reduced.
+- ✅ **Correct**
+
+---
+
+### (D) **Sn can be oxidized by Cu²⁺**
+
+- Oxidation is when a species loses electrons.
+- $ E^\circ_{\text{Cu}^{2+}|\text{Cu}} = \pu{0.34 V} $
+- A positive potential means Cu²⁺ can be reduced.
+- Since Sn²⁺ has a negative potential, it can be **reduced** by Cu²⁺.
+- But oxidation of Sn²⁺ would require the reverse of this.
+- ❌ **Incorrect**
+
+---
+
+### ✅ Correct Answers: **A, B**
+
+**Answer: A, B**",no
+A,"The correct answer is: **A**.
+
+**Explanation:**
+
+- **(A)** *There is no dipole moment in $\ce{^{16}OC^{18}O}$, and hence it is microwave inactive.*  
+  This is correct. $\ce{^{16}OC^{18}O}$ is a **dipole-dipole** isomer of $\ce{CO2}$, and its dipole moment is **not zero**. Since it has a permanent dipole moment, it is **not microwave inactive**.
+
+- **(B)** *$\ce{^{16}OC^{18}O}$ is microwave active because all isotopes are microactive.*  
+  This is **incorrect**. The isotope $\ce{^{16}OC^{18}O}$ is **not** a microactive isotope. Microactive is defined as having a **dipole moment**, which is not the case here.
+
+- **(C)** *$\ce{^{16}OC^{18}O}$ is microwave active because of nuclear activity.*  
+  This is **incorrect**. Nuclear activity refers to nuclear reactions, not the dipole moment or bond properties.
+
+- **(D)** *$\ce{^{16}OC^{18}O}$ is microwave inactive since bond length and atomic charges are unaltered.*  
+  This is **incorrect**. Bond length and atomic charges are **not** unaltered; they are **not** the same as $\ce{CO2}$, which is a **microwave inactive** compound.
+
+### Final Answer: **A**",yes
+2,"The chemical formula for potassium chromate(VI) is \ce{KxCrO4}. To determine the value of $ x $, we look at the formula and the charges of the ions involved.
+
+Potassium (K⁺) has a +1 charge, chromate (CrO₄⁶⁻) has a -6 charge.
+
+Since the formula is balanced, the total positive charge must equal the total negative charge:
+
+$$
+1 \times (+1) + x \times (-6) = 0
+$$
+
+$$
++1 - 6x = 0 \Rightarrow 6x = 1 \Rightarrow x = \frac{1}{6}
+$$
+
+So the correct answer is: **A**.",No.
+B,"The correct answer is: **B**.
+
+**Explanation:**
+
+- The reaction is given as:  
+  **4HBr(g) + O₂(g) → 2H₂O(g) + 2Br₂(g)**.
+
+- **Rate of water formation** is related to the rate of disappearance of **HBr**, but only by a factor of **2**.
+
+- Since **rate = concentration × time**, and the rate of disappearance of HBr is **2 times** the rate of water formation, the correct statement is:
+
+  **(B) The rate of water formation is half the rate of disappearance of HBr**.
+
+**Answer:** B",yes
+C,"The element with the highest boiling point in the periodic table is **Re** (Ruthenium). 
+
+Answer: **C**",No.
+C,"To solve this problem, we use the concept of **activation energy** and **catalysis**:
+
+- The **activation energy** (Eₐ) is a barrier that must be overcome for a reaction to proceed.
+- The **ΔH** (change in enthalpy) for a reaction is **not** directly affected by the presence of a catalyst, unless the reaction is **exothermic** or **endothermic**.
+
+However, the question asks for the **ΔH** for the **catalyzed reaction**.
+
+### Key Insight:
+- The **ΔH** for a reaction is **not** affected by the presence of a catalyst.
+- It is **only** affected by the **activation energy** (Eₐ) and the **enthalpy change** of the reaction.
+
+### Given:
+- ΔH for the **non-catalyzed** reaction = 15 kJ
+- Eₐ (non-catalyzed) = 70 kJ
+- Eₐ (catalyzed) = 40 kJ
+
+### Therefore, the **ΔH for the catalyzed reaction** is **not affected**, so it remains the same.
+
+### Final Answer: (C) \boxed{15 \text{ kJ}}",yes
+A,"The correct answer is: **(B) s**.
+
+**Explanation:**  
+Naphthalene consists of two fused benzene rings. In each ring, each carbon atom is bonded to two hydrogen atoms. The hybridization of the hydrogen atoms in naphthalene is **s** hybridization. This is because each hydrogen atom is bonded to a carbon atom and has a lone pair of electrons. The hybridization of the carbon atoms is **sp²** hybridization, but the hydrogen atoms remain in **s** hybridization.",No.
+D,"To determine the activation energy of the **reverse reaction**, we use the Arrhenius equation:
+
+$$
+k = A \exp\left(-\frac{E_a}{R T}\right)
+$$
+
+Where:
+- $ k $ is the rate constant,
+- $ E_a $ is the activation energy,
+- $ R $ is the gas constant ($8.314 \, \text{J/mol·K}$),
+- $ T $ is the temperature.
+
+Since the **reverse reaction** has the same activation energy $ E_a $ as the **direct reaction**, the activation energy of the reverse reaction is the **same** as that of the direct reaction.
+
+$$
+\text{Answer: (A) } \pu{100 kJ/mol}
+$$
+
+**Correct Answer: A**",No.
+262.9,"The freezing point depression of a solution is given by:
+
+$$
+\Delta T = \frac{nRT_\mathrm{melt}^2}{\Delta H_\mathrm{melt}}
+$$
+
+We are given:
+
+- $ n = 3 \, \text{mol dm}^{-3} $
+- $ R = 8.314 \, \text{J/mol·K} $
+- $ T_\mathrm{melt} = 273 \, \text{K} $
+- $ \Delta H_\mathrm{melt} = 6.01 \, \text{kJ/mol} = 6010 \, \text{J/mol} $
+
+Substituting the values:
+
+$$
+\Delta T = \frac{3 \times (8.314) \times (273)^2}{6010}
+$$
+
+First, calculate the numerator:
+
+$$
+3 \times 8.314 = 24.942
+$$
+$$
+(273)^2 = 74529
+$$
+$$
+24.942 \times 74529 \approx 1.86 \times 10^6
+$$
+
+Now divide by 6010:
+
+$$
+\Delta T \approx \frac{1.86 \times 10^6}{6010} \approx 30.9 \, \text{K}
+$$
+
+The freezing point of the solution is:
+
+$$
+T_f = 273 \, \text{K} - 30.9 \, \text{K} = \boxed{242.1} \, \text{K}
+$$
+
+The correct answer is: **A**.",No.
+C,"The correct answer is: **B**.
+
+**Explanation**:  
+The Bohr model of the atom is based on quantum mechanics and does not account for the quantization of angular momentum. This is a fundamental principle of quantum mechanics, which leads to the inability of the Bohr model to accurately predict the emission spectrum of Helium. The model fails to account for the quantization of angular momentum in a way that aligns with the observed spectral lines.",no
+D,"The correct answer is: **D**.  
+
+**Reasoning:**  
+Oxybenzone contains **phenol**, **ether**, and **ketone**. These functional groups are present in its structure.",yes
+26.7,"We are given:
+
+- Initial moles of reactants:
+  - CO: 40 mol
+  - H₂: 20 mol
+  - CO₂: 20 mol
+  - Steam (H₂O): 40 mol
+
+- Reaction:  
+  $\ce{CO + H2O <=> CO2 + H2}$  
+  $K_p = 0.64$ at 1100 K
+
+We are to find the number of moles of $\ce{CO2}$ leaving the reactor after equilibrium.
+
+---
+
+### Step 1: Write the equilibrium expression
+
+$$
+K_p = \frac{P_{\ce{CO2}} \cdot P_{\ce{H2}}}{P_{\ce{CO}} \cdot P_{\ce{H2O}}}
+$$
+
+Let’s assume that at equilibrium, the moles of $\ce{CO}$, $\ce{H2}$, $\ce{CO2}$, and $\ce{H2O}$ are $x$, $y$, $z$, and $w$ respectively.
+
+We are told:
+
+- Initial moles:  
+  $\ce{CO} = 40$, $\ce{H2} = 20$, $\ce{CO2} = 20$, $\ce{H2O} = 40$
+
+Let’s assume that all the $\ce{H2}$ reacts, and $\ce{H2O}$ is the only source of $\ce{H2}$.
+
+---
+
+### Step 2: Assume that all $\ce{H2}$ reacts
+
+Let’s say:
+
+- At equilibrium:
+  - $\ce{CO} = 40 - x$
+  - $\ce{H2} = 20 - x$
+  - $\ce{CO2} = 20 + x$
+  - $\ce{H2O} = 40 - x$
+
+Let’s now plug into the expression for $K_p$:
+
+$$
+K_p = \frac{(20 + x)(20 - x)}{(40 - x)(40 - x)} = \frac{400 - x^2}{(40 - x)^2}
+$$
+
+We are told that $K_p = 0.64$. So:
+
+$$
+\frac{400 - x^2}{(40 - x)^2} = 0.64
+$$
+
+Let’s solve this equation for $x$:
+
+$$
+400 - x^2 = 0.64(40 - x)^2
+$$
+
+$$
+400 - x^2 = 0.64(1600 - 80x + x^2)
+$$
+
+$$
+400 - x^2 = 1024 - 51.2x + 0.64x^2
+$$
+
+$$
+400 - x^2 - 1024 + 51.2x - 0.64x^2 = 0
+$$
+
+$$
+-144 - 1.64x^2 + 51.2x = 0
+$$
+
+Multiply both sides by -1:
+
+$$
+144 + 1.64x^2 - 51.2x = 0
+$$
+
+Multiply by 1000 to eliminate decimals:
+
+$$
+144000 + 1640x^2 - 51200x = 0
+$$
+
+This is a quadratic in $x$:
+
+$$
+1640x^2 - 51200x + 144000 = 0
+$$
+
+Divide through by 10:
+
+$$
+164x^2 - 5120x + 14400 = 0
+$$
+
+Use the quadratic formula:
+
+$$
+x = \frac{5120 \pm \sqrt{5120^2 - 4 \cdot 164 \cdot 14400}}{2 \cdot 164}
+$$
+
+$$
+x = \frac{5120 \pm \sqrt{26214400 - 10006400}}{328}
+$$
+
+$$
+x = \frac{5120 \pm \sqrt{16208000}}{328}
+$$
+
+$$
+x \approx \frac{5120 \pm 4025.4}{328}
+$$
+
+Try $x \approx 5120 - 4025.4 = 1094.6$, which is too large.
+
+Try $",No.
+4,"The Sabatier reaction is:
+
+$$
+\ce{CO2 + xH2 -> CH4 + 2H2O}
+$$
+
+To find $ x $, we balance the equation.
+
+- On the left: 1 $\ce{CO2}$ and $ x $ $\ce{H2}$
+- On the right: 1 $\ce{CH4}$ and 2 $\ce{H2O}$
+
+We need to balance the number of atoms:
+
+- Carbon: 1 on both sides
+- Hydrogen: $ x \times 2 $ on the left, 4 on the right
+- Oxygen: 2 on the left, 2 on the right
+
+Set up the equation:
+
+$$
+x \times 2 = 4 \Rightarrow x = 2
+$$
+
+### Final Answer: **B**",no
+2,"The difference in the oxidation state between the carbons in carbon dioxide and carbon monoxide is **0**. 
+
+Answer: A",No.
+B,"The correct answer is: **B**
+
+Explanation:  
+- **(B) Cell reaction in a galvanic cell is spontaneous**: This is correct. Galvanic cells use spontaneous reactions to convert electrical energy into chemical energy.  
+- **(A) Cell reaction in a fuel cell is non-spontaneous**: This is incorrect. Fuel cells are designed to be spontaneous, converting chemical energy into electricity.  
+- **(C) Cell reaction in an electrolytic cell is non-spontaneous**: This is incorrect. Electrolytic cells use non-spontaneous reactions to drive the conversion of chemical energy into electrical energy.  
+- **(D) In the galvanic and fuel cells, there is no transformation of electrical energy into chemical energy**: This is incorrect. Both galvanic and fuel cells convert electrical energy into chemical energy, but they use different mechanisms.  
+
+**Answer: B**",yes
+0.908,"We are given:
+
+- Heat released per second (Q) is **directly proportional to**:
+  $$
+  \frac{\text{Standard Enthalpy of Combustion}}{\sqrt{\text{Relative Molecular Mass}}}
+  $$
+
+- The ratio of heat released per second for **hydrogen (H₂)** and **methane (CH₄)** is:
+
+$$
+\frac{\ce{Q_{H2}}}{\ce{Q_{CH4}}} = \frac{\text{Standard Enthalpy of Combustion}_{\ce{H2}}}{\text{Standard Enthalpy of Combustion}_{\ce{CH4}} \cdot \sqrt{\text{Molar Mass of CH₄} / \text{Molar Mass of H₂}}}
+$$
+
+We are given:
+
+- $\ce{Q_{H2}} = -285.8\ \text{kJ mol}^{-1}$
+- $\ce{Q_{CH4}} = -890.3\ \text{kJ mol}^{-1}$
+
+Let’s compute the ratio:
+
+$$
+\frac{\ce{Q_{H2}}}{\ce{Q_{CH4}}} = \frac{-285.8}{-890.3} = \frac{285.8}{890.3} \approx 0.323
+$$
+
+### Final Answer:
+
+$$
+\boxed{A}
+$$",No.
+B,"To determine the amount of silver nitrate (AgNO₃) in moles in the solution, we need to consider the stoichiometry of the dissolution reaction and the solubility of silver chloride (AgCl) in the ammonia solution.
+
+### Step 1: Write the dissolution reaction of AgNO₃ in water
+$$
+\ce{AgNO3 -> Ag^+ + NO3^-}
+$$
+
+This is a 1:1 molar ratio.
+
+---
+
+### Step 2: Write the dissolution of AgCl in ammonia solution
+$$
+\ce{AgCl(s) + 2NH3 -> Ag(NH3)2^+ + Cl^-}
+$$
+
+This is also a 1:1 molar ratio.
+
+---
+
+### Step 3: Consider the formation of the complex [Ag(NH₃)₂]^+  
+The formation constant for the complex ion is $ K_f = 1 \times 10^{-8} $.
+
+So the complex is formed from Ag⁺ and NH₃, and the formation of the complex is:
+$$
+\ce{Ag^+ + 2NH3 -> [Ag(NH3)2]^+}
+$$
+
+This is also a 1:1 molar ratio.
+
+---
+
+### Step 4: Use the solubility product of AgCl to find the concentration of Ag⁺ in solution
+
+The solubility product of AgCl is:
+$$
+K_{sp} = [\ce{Ag+}][\ce{Cl^-}] = 1.8 \times 10^{-10}
+$$
+
+Let’s assume that the solution contains $ x $ moles of AgNO₃. Then:
+
+- Moles of Ag⁺ = $ x $
+- Moles of Cl⁻ = $ x $
+- Concentration of Ag⁺ = $ \frac{x}{0.100 \, \text{L}} = x \times 10^3 $
+
+Now substitute into the AgCl solubility expression:
+$$
+[\ce{Ag+}] \times [\ce{Cl^-}] = (x \times 10^3) \times (x) = x^2 \times 10^3 = 1.8 \times 10^{-10}
+$$
+
+$$
+x^2 = \frac{1.8 \times 10^{-10}}{10^3} = 1.8 \times 10^{-13}
+$$
+
+$$
+x = \sqrt{1.8 \times 10^{-13}} = 4.24 \times 10^{-7}
+$$
+
+---
+
+### Final Answer:
+
+$$
+\boxed{\text{C} \, (4.9 \times 10^{-3})}
+$$",No.

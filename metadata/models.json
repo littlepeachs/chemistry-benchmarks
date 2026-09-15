@@ -1,0 +1,74 @@
+{
+  "Qwen3-0.6B": {
+    "repo_id": "Qwen/Qwen3-0.6B",
+    "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "revision": "e6de91484c29aa9480d55605af694f39b081c455",
+    "cached_revisions": [
+      "e6de91484c29aa9480d55605af694f39b081c455"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "Qwen3ForCausalLM"
+    ]
+  },
+  "Qwen3-1.7B": {
+    "repo_id": "Qwen/Qwen3-1.7B",
+    "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+    "revision": "0060bc56d46589041c1048efd1a397421b1142b5",
+    "cached_revisions": [
+      "0060bc56d46589041c1048efd1a397421b1142b5"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "Qwen3ForCausalLM"
+    ]
+  },
+  "Qwen3-4B": {
+    "repo_id": "Qwen/Qwen3-4B",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B",
+    "revision": "531c80e289d6cff3a7cd8c0db8110231d23a6f7a",
+    "cached_revisions": [
+      "531c80e289d6cff3a7cd8c0db8110231d23a6f7a"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "Qwen3ForCausalLM"
+    ]
+  },
+  "Qwen3-8B": {
+    "repo_id": "Qwen/Qwen3-8B",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B",
+    "revision": "9c925d64d72725edaf899c6cb9c377fd0709d9c5",
+    "cached_revisions": [
+      "9c925d64d72725edaf899c6cb9c377fd0709d9c5"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "Qwen3ForCausalLM"
+    ]
+  },
+  "ChemDFM-v1.0-13B": {
+    "repo_id": "OpenDFM/ChemDFM-v1.0-13B",
+    "url": "https://huggingface.co/OpenDFM/ChemDFM-v1.0-13B",
+    "revision": "30821f0d1a3731ac3cc3fe8baabac59c08be9c18",
+    "cached_revisions": [
+      "30821f0d1a3731ac3cc3fe8baabac59c08be9c18"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "LlamaForCausalLM"
+    ]
+  },
+  "ChemLLM-7B-Chat": {
+    "repo_id": "AI4Chem/ChemLLM-7B-Chat",
+    "url": "https://huggingface.co/AI4Chem/ChemLLM-7B-Chat",
+    "revision": "b8b2ea19e48f53d190fe8dced94572717f8e89a2",
+    "cached_revisions": [
+      "b8b2ea19e48f53d190fe8dced94572717f8e89a2"
+    ],
+    "historical_weight_identity": "cached download revision; original runtime was not logged",
+    "architecture": [
+      "InternLM2ForCausalLM"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "checked_on": "2026-09-15",
+  "sources": [
+    {
+      "repo_id": "Qwen/Qwen3-0.6B",
+      "repo_type": "model",
+      "revision": "e6de91484c29aa9480d55605af694f39b081c455",
+      "api_url": "https://huggingface.co/api/models/Qwen/Qwen3-0.6B/revision/e6de91484c29aa9480d55605af694f39b081c455",
+      "status": "verified",
+      "returned_revision": "e6de91484c29aa9480d55605af694f39b081c455",
+      "license": "apache-2.0"
+    },
+    {
+      "repo_id": "Qwen/Qwen3-1.7B",
+      "repo_type": "model",
+      "revision": "0060bc56d46589041c1048efd1a397421b1142b5",
+      "api_url": "https://huggingface.co/api/models/Qwen/Qwen3-1.7B/revision/0060bc56d46589041c1048efd1a397421b1142b5",
+      "status": "verified",
+      "returned_revision": "0060bc56d46589041c1048efd1a397421b1142b5",
+      "license": "apache-2.0"
+    },
+    {
+      "repo_id": "Qwen/Qwen3-4B",
+      "repo_type": "model",
+      "revision": "531c80e289d6cff3a7cd8c0db8110231d23a6f7a",
+      "api_url": "https://huggingface.co/api/models/Qwen/Qwen3-4B/revision/531c80e289d6cff3a7cd8c0db8110231d23a6f7a",
+      "status": "verified",
+      "returned_revision": "531c80e289d6cff3a7cd8c0db8110231d23a6f7a",
+      "license": "apache-2.0"
+    },
+    {
+      "repo_id": "Qwen/Qwen3-8B",
+      "repo_type": "model",
+      "revision": "9c925d64d72725edaf899c6cb9c377fd0709d9c5",
+      "api_url": "https://huggingface.co/api/models/Qwen/Qwen3-8B/revision/9c925d64d72725edaf899c6cb9c377fd0709d9c5",
+      "status": "verified",
+      "returned_revision": "9c925d64d72725edaf899c6cb9c377fd0709d9c5",
+      "license": "apache-2.0"
+    },
+    {
+      "repo_id": "OpenDFM/ChemDFM-v1.0-13B",
+      "repo_type": "model",
+      "revision": "30821f0d1a3731ac3cc3fe8baabac59c08be9c18",
+      "api_url": "https://huggingface.co/api/models/OpenDFM/ChemDFM-v1.0-13B/revision/30821f0d1a3731ac3cc3fe8baabac59c08be9c18",
+      "status": "verified",
+      "returned_revision": "30821f0d1a3731ac3cc3fe8baabac59c08be9c18",
+      "license": "agpl-3.0"
+    },
+    {
+      "repo_id": "AI4Chem/ChemLLM-7B-Chat",
+      "repo_type": "model",
+      "revision": "b8b2ea19e48f53d190fe8dced94572717f8e89a2",
+      "api_url": "https://huggingface.co/api/models/AI4Chem/ChemLLM-7B-Chat/revision/b8b2ea19e48f53d190fe8dced94572717f8e89a2",
+      "status": "verified",
+      "returned_revision": "b8b2ea19e48f53d190fe8dced94572717f8e89a2",
+      "license": "apache-2.0"
+    },
+    {
+      "repo_id": "jablonkagroup/ChemBench",
+      "repo_type": "dataset",
+      "revision": "407faa5d89bdeffd1b4e1a7789c468d9d57a9f08",
+      "api_url": "https://huggingface.co/api/datasets/jablonkagroup/ChemBench/revision/407faa5d89bdeffd1b4e1a7789c468d9d57a9f08",
+      "status": "verified",
+      "returned_revision": "407faa5d89bdeffd1b4e1a7789c468d9d57a9f08",
+      "license": "mit"
+    },
+    {
+      "repo_id": "heegyu/mascqa",
+      "repo_type": "dataset",
+      "revision": "7f824b750da5b09ac7fd8b7be10fc0fe3dec852c",
+      "api_url": "https://huggingface.co/api/datasets/heegyu/mascqa/revision/7f824b750da5b09ac7fd8b7be10fc0fe3dec852c",
+      "status": "verified",
+      "returned_revision": "7f824b750da5b09ac7fd8b7be10fc0fe3dec852c",
+      "license": null
+    },
+    {
+      "repo_id": "AI4Chem/ChemBench4K",
+      "repo_type": "dataset",
+      "revision": "9b8fec19c993c270868e4b8ec1eb580e501bcb22",
+      "api_url": "https://huggingface.co/api/datasets/AI4Chem/ChemBench4K/revision/9b8fec19c993c270868e4b8ec1eb580e501bcb22",
+      "status": "verified",
+      "returned_revision": "9b8fec19c993c270868e4b8ec1eb580e501bcb22",
+      "license": "mit"
+    }
+  ]
+}

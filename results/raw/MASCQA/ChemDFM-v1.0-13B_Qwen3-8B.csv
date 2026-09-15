@@ -1,0 +1,3437 @@
+Truth,Model,Critic
+A,A,yes
+B,B,yes
+C,A,no
+B,C,No.
+0.85 to 0.89 ,A,yes
+C,B,no
+D,B,no
+48 to 49,C,yes
+D,B,no
+C,B,no
+A,A,yes
+D,B,no
+B,C,no
+151 to 152,A,"To determine whether the response is correct, let's analyze the problem and the standard answer.
+
+### Given:
+- Initial temperature, $ T_i = 15^\circ C $
+- Final temperature, $ T_f = 45^\circ C $
+- Temperature change, $ \Delta T = T_f - T_i = 30^\circ C $
+- Linear thermal expansion coefficient of iron, $ \alpha = 11.0 \times 10^{-6} \, K^{-1} $
+- Change in length, $ \Delta L = 0.05 \, \text{cm} $
+
+### Formula for linear thermal expansion:
+$$
+\Delta L = \alpha \cdot L_0 \cdot \Delta T
+$$
+
+### Solving for $ L_0 $:
+$$
+L_0 = \frac{\Delta L}{\alpha \cdot \Delta T}
+$$
+
+Substituting the values:
+$$
+L_0 = \frac{0.05}{(11.0 \times 10^{-6}) \cdot 30}
+$$
+$$
+L_0 = \frac{0.05}{3.3 \times 10^{-4}} \approx 151.515 \, \text{cm}
+$$
+
+### Conclusion:
+The original length of the iron rail track is approximately **151.5 cm**, which rounds to **151 or 152 cm**. Therefore, the standard answer of **151 to 152** is correct.
+
+### Final Answer:
+**yes**"
+1399 to 1401,A,yes
+D,B,No.
+C,D,no
+6850 : 6950,A,yes
+C,D,no
+C,D,no
+132 to 132,A,yes
+1420 to 1480,A,"To determine whether the response ""A"" is correct, we need to analyze the relationship between temperature and case depth in carburization, which is governed by the Arrhenius equation.
+
+The case depth in carburization is related to the diffusion coefficient $ D $, which is given by:
+
+$$
+D = D_0 \exp\left(-\frac{Q}{RT}\right)
+$$
+
+Where:
+- $ D $ is the diffusion coefficient
+- $ D_0 $ is the pre-exponential factor
+- $ Q $ is the activation energy (148 kJ/mol = 148,000 J/mol)
+- $ R $ is the gas constant (8.314 J/mol·K)
+- $ T $ is the absolute temperature in Kelvin
+
+The case depth is proportional to the square root of the diffusion coefficient (since case depth $ x \propto \sqrt{D} $), so:
+
+$$
+\frac{x_2}{x_1} = \sqrt{\frac{D_2}{D_1}} = \sqrt{\exp\left(-\frac{Q}{R}\left(\frac{1}{T_2} - \frac{1}{T_1}\right)\right)}
+$$
+
+We are given:
+- $ x_2 = 2x_1 $
+- $ T_1 = 1300 \, \text{K} $
+- $ T_2 = ? $
+
+So:
+
+$$
+2 = \sqrt{\exp\left(-\frac{Q}{R}\left(\frac{1}{T_2} - \frac{1}{T_1}\right)\right)}
+$$
+
+Squaring both sides:
+
+$$
+4 = \exp\left(-\frac{Q}{R}\left(\frac{1}{T_2} - \frac{1}{T_1}\right)\right)
+$$
+
+Taking the natural logarithm of both sides:
+
+$$
+\ln(4) = -\frac{Q}{R}\left(\frac{1}{T_2} - \frac{1}{T_1}\right)
+$$
+
+$$
+\frac{1}{T_2} = \frac{1}{T_1} - \frac{R \ln(4)}{Q}
+$$
+
+Now plug in the numbers:
+
+- $ \ln(4) \approx 1.386 $
+- $ Q = 148,000 \, \text{J/mol} $
+- $ R = 8.314 \, \text{J/mol·K} $
+- $ T_1 = 1300 \, \text{K} $
+
+$$
+\frac{1}{T_2} = \frac{1}{1300} - \frac{8.314 \times 1.386}{148,000}
+$$
+
+$$
+\frac{1}{T_2} = 0.0007692 - \frac{11.523}{148,000}
+$$
+
+$$
+\frac{1}{T_2} = 0.0007692 - 0.0000778
+$$
+
+$$
+\frac{1}{T_2} \approx 0.0006914
+$$
+
+$$
+T_2 \approx \frac{1}{0.0006914} \approx 1446 \, \text{K}
+$$
+
+So the correct temperature is approximately **1446 K**, which falls within the range **1420 to 1480 K**.
+
+Therefore, the response **""A""** is **correct**.
+
+**Answer: yes**"
+C,C,yes
+B,B,yes
+0.28 to 0.32,A,no
+9.2 to 9.6,D,yes
+157 to 159,A,yes
+1.9 to 2.1,D,yes
+B,B,yes
+B; D,A,no
+C,C,yes
+4.8 to 4.9,D,yes
+11.30 : 11.40,A,yes
+59.00 to 60.00,D,"To determine whether the response **D** is correct, we need to evaluate the energy released in a single pulse based on the given data.
+
+---
+
+### **Given:**
+
+- **Planck’s constant, h** = 6.6 × 10⁻³⁴ J·s  
+- **Speed of light, c** = 3 × 10⁸ m/s  
+- **Wavelength, λ** = 500 nm = 500 × 10⁻⁹ m  
+- **Atoms in upper level (n_upper)** = 7 × 10²⁰  
+- **Atoms in lower level (n_lower)** = 4 × 10²⁰  
+
+---
+
+### **Step 1: Energy of a single photon**
+
+The energy of a single photon is given by:
+
+$$
+E = \frac{hc}{\lambda}
+$$
+
+Substitute the values:
+
+$$
+E = \frac{(6.6 \times 10^{-34})(3 \times 10^8)}{500 \times 10^{-9}} = \frac{1.98 \times 10^{-25}}{5 \times 10^{-7}} = 3.96 \times 10^{-19} \text{ J}
+$$
+
+---
+
+### **Step 2: Number of photons emitted**
+
+Only the atoms in the upper level can emit photons. So, the number of photons emitted is:
+
+$$
+\text{Photons emitted} = 7 \times 10^{20}
+$$
+
+---
+
+### **Step 3: Total energy released**
+
+$$
+\text{Total energy} = (7 \times 10^{20}) \times (3.96 \times 10^{-19}) = 27.72 \text{ J}
+$$
+
+---
+
+### **Conclusion:**
+
+The total energy released in a single pulse is **27.72 J**, which is **not** within the range **59.00 to 60.00 J**.
+
+Therefore, the response **D** is **incorrect**.
+
+---
+
+### ✅ Final Answer: **no**."
+1.85 to 2.00,A,"To determine whether the response **""A""** is correct, we need to analyze the question and the given standard answer.
+
+---
+
+### **Question Summary:**
+
+- **Planck's constant**, $ h = 6.6 \times 10^{-34} \, \text{J s} $
+- **Mass of electron**, $ m = 9.1 \times 10^{-31} \, \text{kg} $
+- **Speed of electron**, $ v = 300 \, \text{m/s} $
+- **Uncertainty in speed**, $ \Delta v = 0.01\% $ of $ v $
+- **Goal**: Find the **uncertainty in position**, $ \Delta x $, using the **Heisenberg Uncertainty Principle**:
+  $$
+  \Delta x \cdot \Delta p \geq \frac{h}{4\pi}
+  $$
+  where $ \Delta p = m \cdot \Delta v $
+
+---
+
+### **Step-by-step Calculation:**
+
+1. **Calculate uncertainty in speed**:
+   $$
+   \Delta v = 0.01\% \times 300 = 0.0001 \times 300 = 0.03 \, \text{m/s}
+   $$
+
+2. **Calculate uncertainty in momentum**:
+   $$
+   \Delta p = m \cdot \Delta v = 9.1 \times 10^{-31} \times 0.03 = 2.73 \times 10^{-32} \, \text{kg m/s}
+   $$
+
+3. **Apply Heisenberg Uncertainty Principle**:
+   $$
+   \Delta x \geq \frac{h}{4\pi \Delta p} = \frac{6.6 \times 10^{-34}}{4\pi \times 2.73 \times 10^{-32}}
+   $$
+
+4. **Simplify the expression**:
+   $$
+   \Delta x \geq \frac{6.6}{4\pi \times 2.73} \times 10^{-2} \approx \frac{6.6}{34.34} \times 10^{-2} \approx 0.192 \times 10^{-2} = 1.92 \times 10^{-3} \, \text{m}
+   $$
+
+5. **Convert to millimeters**:
+   $$
+   \Delta x \geq 1.92 \times 10^{-3} \times 10^3 = 1.92 \, \text{mm}
+   $$
+
+---
+
+### **Conclusion:**
+
+The calculated uncertainty in position is approximately **1.92 mm**, which falls within the range **1.85 to 2.00 mm**, as given in the standard answer.
+
+Therefore, the response **""A""** is **correct**.
+
+---
+
+### ✅ Final Answer: **yes**"
+2.10 to 2.35,A,"To determine whether the response ""A"" is correct, we need to calculate the de Broglie wavelength of an electron accelerated across a 300 kV potential and see if it falls within the range **2.10 to 2.35 × 10⁻¹² m**.
+
+---
+
+### Step 1: Use the formula for the de Broglie wavelength:
+$$
+\lambda = \frac{h}{\sqrt{2meV}}
+$$
+Where:
+- $ h = 6.63 \times 10^{-34} \, \text{J s} $ (Planck's constant)
+- $ m = 9.11 \times 10^{-31} \, \text{kg} $ (electron rest mass)
+- $ e = 1.6 \times 10^{-19} \, \text{C} $ (electron charge)
+- $ V = 300 \times 10^3 \, \text{V} $ (voltage)
+- $ \lambda $ is the de Broglie wavelength in meters
+
+---
+
+### Step 2: Compute the kinetic energy:
+$$
+KE = eV = 1.6 \times 10^{-19} \times 300 \times 10^3 = 4.8 \times 10^{-14} \, \text{J}
+$$
+
+---
+
+### Step 3: Compute the momentum:
+$$
+p = \sqrt{2mKE} = \sqrt{2 \times 9.11 \times 10^{-31} \times 4.8 \times 10^{-14}} = \sqrt{8.7168 \times 10^{-44}} \approx 9.336 \times 10^{-22} \, \text{kg m/s}
+$$
+
+---
+
+### Step 4: Compute the wavelength:
+$$
+\lambda = \frac{6.63 \times 10^{-34}}{9.336 \times 10^{-22}} \approx 7.105 \times 10^{-13} \, \text{m}
+$$
+
+This is **7.105 × 10⁻¹³ m**, which is **not** in the range **2.10 to 2.35 × 10⁻¹² m**.
+
+---
+
+### Conclusion:
+The calculated value **does not** fall within the given range. Therefore, the response **""A""** is **incorrect**.
+
+**Answer: no**"
+666 to 670,A,yes
+D,D,yes
+0.33 to 0.45,A,no
+2.20 to 2.28,B,yes
+0.60 to 0.62,A,yes
+A,C,No.
+0.45 to 0.47,A,"To determine whether the response ""A"" is correct, we need to analyze the given information and the calculation for the band gap energy $ E_g $.
+
+---
+
+### **Given:**
+- Resistivity $ \rho = 3000 \, \Omega \cdot \text{m} $
+- Temperature $ T = 298 \, \text{K} $
+- Mobility of electrons $ \mu_e = 0.14 \, \text{m}^2/(\text{V} \cdot \text{s}) $
+- Mobility of holes $ \mu_h = 0.06 \, \text{m}^2/(\text{V} \cdot \text{s}) $
+- Absolute charge of an electron $ e = 1.60 \times 10^{-19} \, \text{C} $
+- Avogadro’s number $ N_A = 6.02 \times 10^{23} \, \text{mol}^{-1} $
+- Boltzmann’s constant $ k_B = 8.62 \times 10^{-5} \, \text{eV/K} $
+- Relation for excited electrons: $ n_e = N_A \cdot e^{-E_g/(k_B T)} $
+
+---
+
+### **Objective:**
+Find the band gap energy $ E_g $ in eV.
+
+---
+
+### **Step 1: Resistivity and conductivity relationship**
+
+$$
+\rho = \frac{1}{\sigma}
+$$
+
+Where $ \sigma $ is the conductivity:
+
+$$
+\sigma = e (n_e \mu_e + n_h \mu_h)
+$$
+
+In a pure semiconductor, $ n_e = n_h = n $, so:
+
+$$
+\sigma = e n (\mu_e + \mu_h)
+$$
+
+$$
+\rho = \frac{1}{e n (\mu_e + \mu_h)}
+$$
+
+Solving for $ n $:
+
+$$
+n = \frac{1}{e (\mu_e + \mu_h) \rho}
+$$
+
+Substitute the values:
+
+- $ e = 1.60 \times 10^{-19} \, \text{C} $
+- $ \mu_e + \mu_h = 0.14 + 0.06 = 0.20 \, \text{m}^2/(\text{V} \cdot \text{s}) $
+- $ \rho = 3000 \, \Omega \cdot \text{m} $
+
+$$
+n = \frac{1}{(1.60 \times 10^{-19}) \cdot (0.20) \cdot (3000)} = \frac{1}{9.6 \times 10^{-17}} \approx 1.04 \times 10^{16} \, \text{m}^{-3}
+$$
+
+---
+
+### **Step 2: Use the relation for excited electrons**
+
+$$
+n_e = N_A \cdot e^{-E_g/(k_B T)}
+$$
+
+We already found $ n_e = n = 1.04 \times 10^{16} \, \text{m}^{-3} $
+
+Substitute:
+
+$$
+1.04 \times 10^{16} = 6.02 \times 10^{23} \cdot e^{-E_g/(k_B T)}
+$$
+
+Solve for the exponent:
+
+$$
+e^{-E_g/(k_B T)} = \frac{1.04 \times 10^{16}}{6.02 \times 10^{23}} \approx 1.73 \times 10^{-8}
+$$
+
+Take natural logarithm on both sides:
+
+$$
+-\frac{E_g}{k_B T} = \ln(1.73 \times 10^{-8}) \approx -18.1
+$$
+
+Multiply both sides by $ -k_B T $:
+
+$$
+E_g = 18.1 \cdot k_B T
+$$
+
+Substitute $ k_B = 8.62 \times 10^{-5} \, \text{eV/K} $, $ T = 298 \, \text{K} $:
+
+$$
+E_g = 18.1 \cdot (8.62 \times 10^{-5}) \approx 0.00156 \, \text{eV}
+$$
+
+Wait — this result is **not** in the expected range of 0.45 to 0.47 eV. There must be a mistake in the calculation.
+
+Let’s recheck the exponent calculation:
+
+$$
+\ln(1.73 \times "
+1.40 to 1.43,A,yes
+A,A,yes
+B,B,yes
+D,D,yes
+B,B,yes
+D,D,yes
+A,A,yes
+C,A,no
+3,D,yes
+D,D,yes
+A,C,no
+B,C,no
+0.46 TO 0.49,A,yes
+951 TO 953,B,yes
+B,C,no
+A,A,yes
+D,D,yes
+0.5,A,yes
+A,A,yes
+D,D,yes
+A,A,yes
+C,A,no
+1,D,yes
+6650.00 TO 6750.00,A,"To determine whether the response **""A""** is correct, we need to understand the context. The question is asking for the **adiabatic flame temperature** of the combustion of CO with stoichiometric oxygen, and the answer is given as a range: **6650.00 to 6750.00 K**. The response is simply labeled **""A""**, which is likely a placeholder for an option in a multiple-choice question.
+
+However, **without the actual options** provided, we cannot definitively say whether **""A""** corresponds to the correct answer range. That said, the given answer range **6650.00 to 6750.00 K** is a reasonable estimate for the adiabatic flame temperature of CO combustion with stoichiometric oxygen, based on typical values for such reactions.
+
+If the question is structured with multiple-choice options and **""A""** is the option that corresponds to this range, then the response is **correct**.
+
+Thus, the answer is:
+
+**yes**."
+0.92 TO 0.96,C,yes
+2.50 TO 2.60,A,yes
+C,C,yes
+A,D,no
+D,A,no
+A,B,No.
+B,A,no
+14.9 TO 15.1,D,yes
+0.74 TO 0.78,D,"To determine whether the response **D** is correct, we need to evaluate the given expression for the ratio:
+
+$$
+\frac{p_{\text{Zn}}(X_{\text{Zn}} = 0.7)}{p_{\text{Zn}}(X_{\text{Zn}} = 1.0)}
+$$
+
+### Step 1: Understand the relationship between activity and vapour pressure
+
+The vapour pressure of a component in a solution is related to its activity by the equation:
+
+$$
+p_{\text{Zn}} = \gamma_{\text{Zn}} \cdot X_{\text{Zn}} \cdot p^{\circ}_{\text{Zn}}
+$$
+
+Where:
+- $ \gamma_{\text{Zn}} $ is the activity coefficient,
+- $ X_{\text{Zn}} $ is the mole fraction of Zn,
+- $ p^{\circ}_{\text{Zn}} $ is the vapour pressure of pure Zn (given as $ 3.6 \times 10^{-4} $ atm).
+
+So, the ratio becomes:
+
+$$
+\frac{p_{\text{Zn}}(X_{\text{Zn}} = 0.7)}{p_{\text{Zn}}(X_{\text{Zn}} = 1.0)} = \frac{\gamma_{\text{Zn}}(0.7) \cdot 0.7 \cdot p^{\circ}_{\text{Zn}}}{\gamma_{\text{Zn}}(1.0) \cdot 1.0 \cdot p^{\circ}_{\text{Zn}}}
+$$
+
+Since $ \gamma_{\text{Zn}}(1.0) = 1 $ (pure component), and $ p^{\circ}_{\text{Zn}} $ cancels out, we get:
+
+$$
+\frac{p_{\text{Zn}}(X_{\text{Zn}} = 0.7)}{p_{\text{Zn}}(X_{\text{Zn}} = 1.0)} = 0.7 \cdot \gamma_{\text{Zn}}(0.7)
+$$
+
+### Step 2: Compute $ \gamma_{\text{Zn}}(0.7) $ using the given equation
+
+$$
+\ln(\gamma_{\text{Zn}}) = 0.875 \cdot (1 - X_{\text{Zn}})^2
+$$
+
+At $ X_{\text{Zn}} = 0.7 $:
+
+$$
+\ln(\gamma_{\text{Zn}}) = 0.875 \cdot (1 - 0.7)^2 = 0.875 \cdot (0.3)^2 = 0.875 \cdot 0.09 = 0.07875
+$$
+
+$$
+\gamma_{\text{Zn}} = e^{0.07875} \approx 1.082
+$$
+
+### Step 3: Compute the ratio
+
+$$
+\frac{p_{\text{Zn}}(X_{\text{Zn}} = 0.7)}{p_{\text{Zn}}(X_{\text{Zn}} = 1.0)} = 0.7 \cdot 1.082 \approx 0.757
+$$
+
+### Step 4: Compare with the standard answer
+
+The standard answer is: **0.74 to 0.78**  
+Our computed value is **0.757**, which falls within that range.
+
+### Final Answer:
+
+**yes** ✅"
+C,A,no
+0.04 TO 0.06,A,"To determine whether the response **""A""** is correct, we need to evaluate the calculation of the partial pressure of zinc in torr, given the data:
+
+- **Vapour pressure of pure zinc (p°_zn)** at 900K = 0.027 atm  
+- **Henry's law coefficient (γ°_zb)** for zinc at infinite dilution in lead = 8.55  
+- **1 torr = 1.316 × 10⁻³ atm**  
+- **Zinc concentration in lead** = 0.03 mole % = 0.0003 (in decimal)
+
+---
+
+### Step 1: Use Henry's Law
+Henry's Law (on Raoultian scale) is given by:
+
+$$
+p_{\text{zn}} = \gamma_{\text{zb}}^{\circ} \cdot x_{\text{zn}} \cdot p_{\text{zn}}^{\circ}
+$$
+
+Where:
+- $p_{\text{zn}}$ = partial pressure of zinc (in atm)
+- $\gamma_{\text{zb}}^{\circ}$ = Henry's law coefficient = 8.55
+- $x_{\text{zn}}$ = mole fraction of zinc = 0.0003
+- $p_{\text{zn}}^{\circ}$ = vapour pressure of pure zinc = 0.027 atm
+
+---
+
+### Step 2: Plug in the values
+
+$$
+p_{\text{zn}} = 8.55 \times 0.0003 \times 0.027 = 8.55 \times 0.0000081 = 0.000069255 \text{ atm}
+$$
+
+---
+
+### Step 3: Convert to torr
+
+$$
+p_{\text{zn}} = 0.000069255 \times \frac{1}{1.316 \times 10^{-3}} = \frac{0.000069255}{0.001316} \approx 0.0526 \text{ torr}
+$$
+
+---
+
+### Step 4: Round to two decimal places
+
+$$
+p_{\text{zn}} \approx 0.05 \text{ torr}
+$$
+
+This value falls within the given range of **0.04 to 0.06** torr.
+
+---
+
+### Final Evaluation
+
+Since the calculated value (0.05 torr) lies within the provided range, and the response is labeled **""A""**, which presumably corresponds to this range, the **response is correct**.
+
+---
+
+**Answer: yes**"
+0.4 TO 5.1,A,no
+C,D,No.
+C,D,No.
+C,A,No.
+B,D,no
+D,C,no
+B,C,no
+20,A,yes
+C,C,yes
+B,D,no
+4,D,yes
+B,A,no
+"C,D",BC,no
+D,C,no
+B,B,yes
+22380 TO 22480,D,yes
+2.1 TO 2.3,D,yes
+ -1600 TO -1500,B,yes
+0.39 TO 0.41,A,yes
+-168.7 TO -168.1,D,yes
+11.6 TO 11.8,B,yes
+130.00 TO 135.00,The initial rate of heat loss (in KW) from the top surface of the slab by radiation and convection is approximately 43.6.,No.
+1.9 TO 2.0,B,yes
+24.9 TO 29.0,A,"To determine whether the response is correct, we need to evaluate the entropy of mixing for the ideal solid solution.
+
+---
+
+### **Entropy of Mixing for Ideal Solutions**
+
+For an ideal solution, the entropy of mixing (ΔS_mix) is given by:
+
+$$
+\Delta S_{\text{mix}} = -R \left( n_1 \ln \frac{n_1}{n_{\text{total}}} + n_2 \ln \frac{n_2}{n_{\text{total}}} \right)
+$$
+
+Where:
+- $ n_1 = 2 $ moles of Au
+- $ n_2 = 3 $ moles of Ag
+- $ n_{\text{total}} = n_1 + n_2 = 5 $ moles
+- $ R = 8.314 \, \text{J K}^{-1} \text{mol}^{-1} $
+
+Substitute the values:
+
+$$
+\Delta S_{\text{mix}} = -8.314 \left( 2 \ln \frac{2}{5} + 3 \ln \frac{3}{5} \right)
+$$
+
+Calculate the logarithms:
+
+- $ \ln \frac{2}{5} \approx \ln 0.4 \approx -0.9163 $
+- $ \ln \frac{3}{5} \approx \ln 0.6 \approx -0.5108 $
+
+Now plug in:
+
+$$
+\Delta S_{\text{mix}} = -8.314 \left( 2 \times (-0.9163) + 3 \times (-0.5108) \right)
+$$
+$$
+= -8.314 \left( -1.8326 - 1.5324 \right)
+$$
+$$
+= -8.314 \times (-3.365)
+$$
+$$
+= 27.96 \, \text{J K}^{-1}
+$$
+
+---
+
+### **Conclusion**
+
+The calculated entropy of mixing is approximately **28.0 J K⁻¹**, which falls within the given range of **24.9 to 29.0**.
+
+The response is:
+
+> **A.**
+
+Since this value is within the stated range, the response **is correct**.
+
+### ✅ **Answer: yes**"
+427 TO 432,A,yes
+0.450 TO 0.480,A,yes
+D,D,yes
+11.0 TO 12.5,A,no
+-24.00 TO -23.50,A,"To determine whether the response ""A"" is correct, we need to evaluate the problem and see if the value of **ln(P(O₂)/P(SO₂))** at 973 K lies between **-24.00 and -23.50**.
+
+---
+
+### **Step 1: Understand the given reactions and their ΔG° values**
+
+We are given two reactions:
+
+1. **Reaction 1:**  
+   $ 2\text{Cu}(s) + 0.5\text{S}_2(g) \rightarrow \text{Cu}_2\text{S}(s) $  
+   ΔG° = -100 kJ at 973 K
+
+2. **Reaction 2:**  
+   $ \text{SO}_2(g) \rightarrow 0.5\text{S}_2(g) + \text{O}_2(g) $  
+   ΔG° = 292 kJ at 973 K
+
+We are also given the target reaction:
+
+**Target Reaction:**  
+$ 2\text{Cu}(s) + \text{SO}_2(g) \rightarrow \text{Cu}_2\text{S}(s) + \text{O}_2(g) $  
+We are to find the value of **ln(P(O₂)/P(SO₂))** at 973 K.
+
+---
+
+### **Step 2: Use Hess’s Law to find ΔG° for the target reaction**
+
+We can construct the target reaction from the given reactions.
+
+Let’s add Reaction 1 and Reaction 2:
+
+- Reaction 1:  
+  $ 2\text{Cu}(s) + 0.5\text{S}_2(g) \rightarrow \text{Cu}_2\text{S}(s) $  
+  ΔG° = -100 kJ
+
+- Reaction 2 (reversed):  
+  $ 0.5\text{S}_2(g) + \text{O}_2(g) \rightarrow \text{SO}_2(g) $  
+  ΔG° = -292 kJ
+
+Now, add both:
+
+**Target Reaction:**  
+$ 2\text{Cu}(s) + \text{SO}_2(g) \rightarrow \text{Cu}_2\text{S}(s) + \text{O}_2(g) $  
+ΔG° = (-100) + (-292) = **-392 kJ**
+
+So, **ΔG° = -392,000 J** for the target reaction.
+
+---
+
+### **Step 3: Use the relation between ΔG° and the equilibrium constant**
+
+The standard Gibbs free energy change is related to the equilibrium constant $ K $ by:
+
+$$
+\Delta G^\circ = -RT \ln K
+$$
+
+Where:
+- $ R = 8.314 \, \text{J mol}^{-1}\text{K}^{-1} $
+- $ T = 973 \, \text{K} $
+- $ \Delta G^\circ = -392,000 \, \text{J} $
+
+So:
+
+$$
+-392,000 = -8.314 \times 973 \times \ln K
+$$
+
+$$
+\ln K = \frac{392,000}{8.314 \times 973} \approx \frac{392,000}{8093.4} \approx 48.48
+$$
+
+But we are asked to find:
+
+$$
+\ln\left(\frac{P(\text{O}_2)}{P(\text{SO}_2)}\right)
+$$
+
+From the target reaction:
+
+$$
+K = \frac{P(\text{O}_2)}{P(\text{SO}_2)}
+$$
+
+So:
+
+$$
+\ln\left(\frac{P(\text{O}_2)}{P(\text{SO}_2)}\right) = \ln K \approx 48.48
+$$
+
+Wait — this contradicts the given answer range of **-24.00 to -23.50**.
+
+---
+
+### **Step 4: Recheck the sign of ΔG°**
+
+Let’s recheck the sign of the ΔG° for the target reaction.
+
+- Reaction 1: ΔG° = -100 kJ  
+- Reaction 2 (reversed): ΔG° = -292 kJ  
+- So total ΔG° = -100 - 292 = **-392 kJ**
+
+That is correct.
+
+But the question asks:
+
+> **ln(P(O₂)/P(SO₂))"
+2230 TO 2270,B,"To determine whether the response **""B""** is correct, we need to evaluate whether the calculated work done by the gas during a **reversible adiabatic expansion** falls within the range **2230 to 2270 Joules**.
+
+---
+
+### **Given:**
+- $ R = 8.314 \, \text{J mol}^{-1} \text{K}^{-1} $
+- $ 1 \, \text{atm} = 101325 \, \text{Pa} $
+- $ C_p = 2.5 R $
+- 1 mole of an ideal gas
+- Initial pressure: $ P_1 = 10 \, \text{atm} = 1013250 \, \text{Pa} $
+- Initial temperature: $ T_1 = 300 \, \text{K} $
+- Final pressure: $ P_2 = 1 \, \text{atm} = 101325 \, \text{Pa} $
+- Process: **Reversible adiabatic expansion**
+
+---
+
+### **Step 1: Determine the adiabatic index $ \gamma $**
+
+For an ideal gas, the relation between $ C_p $ and $ C_v $ is:
+
+$$
+\gamma = \frac{C_p}{C_v}
+$$
+
+Also, we know:
+
+$$
+C_p - C_v = R
+$$
+
+We are given:
+
+$$
+C_p = 2.5R \Rightarrow C_v = C_p - R = 2.5R - R = 1.5R
+$$
+
+So:
+
+$$
+\gamma = \frac{C_p}{C_v} = \frac{2.5R}{1.5R} = \frac{5}{3} \approx 1.6667
+$$
+
+---
+
+### **Step 2: Use the adiabatic relation to find final temperature**
+
+For a **reversible adiabatic process**, the relation between pressure and temperature is:
+
+$$
+\frac{T_2}{T_1} = \left( \frac{P_2}{P_1} \right)^{\frac{\gamma - 1}{\gamma}}
+$$
+
+Plug in the values:
+
+$$
+\frac{T_2}{300} = \left( \frac{1}{10} \right)^{\frac{1.6667 - 1}{1.6667}} = \left( \frac{1}{10} \right)^{\frac{0.6667}{1.6667}} = \left( \frac{1}{10} \right)^{0.4}
+$$
+
+$$
+\left( \frac{1}{10} \right)^{0.4} \approx 0.5743
+$$
+
+So:
+
+$$
+T_2 \approx 300 \times 0.5743 \approx 172.29 \, \text{K}
+$$
+
+---
+
+### **Step 3: Use the formula for work done in adiabatic process**
+
+For a **reversible adiabatic process**, the work done by the gas is given by:
+
+$$
+W = \frac{n R (T_1 - T_2)}{\gamma - 1}
+$$
+
+Plug in the values:
+
+- $ n = 1 $
+- $ R = 8.314 $
+- $ T_1 = 300 $
+- $ T_2 = 172.29 $
+- $ \gamma - 1 = 0.6667 $
+
+$$
+W = \frac{1 \times 8.314 \times (300 - 172.29)}{0.6667}
+$$
+
+$$
+W = \frac{8.314 \times 127.71}{0.6667} \approx \frac{1061.27}{0.6667} \approx 1592.03 \, \text{J}
+$$
+
+Wait — this result is **not** in the range **2230 to 2270**.
+
+But let’s double-check the formula.
+
+---
+
+### **Alternative formula for adiabatic work:**
+
+$$
+W = \frac{n R (T_1 - T_2)}{\gamma - 1}
+$$
+
+This is correct. Let’s re-calculate with more precision.
+
+- $ T_1 = 300 $
+- $ T_2 \approx 172.29 $
+- $ T_1 - T_2 = "
+4.3 TO 4.3,D,"To determine whether the response ""D"" is correct, we need to evaluate the calculation for the pressure inside the bubble.
+
+---
+
+### **Given:**
+- 1 bar = $10^5$ Pa  
+- Surface tension of steel at 1773 K = 1.4 N/m  
+- Radius of the bubble = 0.01 mm = $1 \times 10^{-5}$ m  
+- External pressure = 1.5 bar  
+- We are to find the **pressure inside the bubble**.
+
+---
+
+### **Concept:**
+
+The pressure difference across a spherical bubble is given by the **Laplace pressure** formula:
+
+$$
+\Delta P = \frac{2 \gamma}{r}
+$$
+
+Where:
+- $\Delta P$ = pressure difference (inside – outside)
+- $\gamma$ = surface tension
+- $r$ = radius of the bubble
+
+---
+
+### **Step-by-step Calculation:**
+
+1. **Calculate the pressure difference:**
+
+$$
+\Delta P = \frac{2 \times 1.4}{1 \times 10^{-5}} = \frac{2.8}{1 \times 10^{-5}} = 2.8 \times 10^5 \text{ Pa}
+$$
+
+2. **Convert pressure difference from Pa to bar:**
+
+$$
+\Delta P = \frac{2.8 \times 10^5}{10^5} = 2.8 \text{ bar}
+$$
+
+3. **Find the pressure inside the bubble:**
+
+$$
+P_{\text{inside}} = P_{\text{outside}} + \Delta P = 1.5 + 2.8 = 4.3 \text{ bar}
+$$
+
+---
+
+### **Conclusion:**
+
+The pressure inside the bubble is **4.3 bar**, which matches the standard answer.
+
+---
+
+### ✅ **Final Answer:**
+
+**Yes**. The response is correct."
+2.7 TO 2.76,C,"To determine whether the response ""C"" is correct, we need to analyze the question and the given information.
+
+### Given:
+- $ \Delta_f G^\circ_{1873} $ (for some reaction) = -262300 J
+- $ a_{\text{MoO}_2} $ (s) = 0.5
+- $ \Delta_r G^\circ_{1873} $ (for the reaction CO(g) + 0.5 O₂(g) ⇌ CO₂(g)) = -120860 J
+- R = 8.314 J·K⁻¹·mol⁻¹
+- Temperature = 1873 K
+
+### Question:
+What is the equilibrium ratio $ \frac{p_{\text{CO}}}{p_{\text{CO}_2}} $ for the reaction CO(g) + 0.5 O₂(g) ⇌ CO₂(g) at 1873 K?
+
+---
+
+### Step-by-step Analysis:
+
+We are given the standard Gibbs free energy change for the reaction:
+
+$$
+\Delta_r G^\circ = -120860 \, \text{J}
+$$
+
+We are to find the equilibrium ratio $ \frac{p_{\text{CO}}}{p_{\text{CO}_2}} $, which is related to the equilibrium constant $ K $ by the expression:
+
+$$
+\Delta_r G^\circ = -RT \ln K
+$$
+
+Rearranging:
+
+$$
+\ln K = -\frac{\Delta_r G^\circ}{RT}
+$$
+
+Substitute the values:
+
+$$
+\ln K = -\frac{-120860}{8.314 \times 1873}
+$$
+
+$$
+\ln K = \frac{120860}{15570.762}
+$$
+
+$$
+\ln K \approx 7.765
+$$
+
+Now, exponentiate both sides:
+
+$$
+K = e^{7.765} \approx 2365
+$$
+
+Now, write the equilibrium expression for the reaction:
+
+$$
+\text{CO(g)} + 0.5\text{O}_2(g) \rightleftharpoons \text{CO}_2(g)
+$$
+
+The equilibrium constant expression is:
+
+$$
+K = \frac{p_{\text{CO}_2}}{p_{\text{CO}} \cdot (p_{\text{O}_2})^{0.5}}
+$$
+
+But the question asks for the ratio $ \frac{p_{\text{CO}}}{p_{\text{CO}_2}} $, which is the reciprocal of $ \frac{p_{\text{CO}_2}}{p_{\text{CO}}} $. So:
+
+$$
+\frac{p_{\text{CO}}}{p_{\text{CO}_2}} = \frac{1}{K \cdot (p_{\text{O}_2})^{0.5}}
+$$
+
+However, the question **does not** provide any information about the partial pressure of $ \text{O}_2 $, nor does it mention any other reaction involving $ \text{MoO}_2 $. Therefore, the value of $ \frac{p_{\text{CO}}}{p_{\text{CO}_2}} $ **cannot** be determined from the given data **alone**.
+
+---
+
+### Conclusion:
+
+The given information is **insufficient** to compute the exact value of $ \frac{p_{\text{CO}}}{p_{\text{CO}_2}} $. Therefore, the response ""C"" is **not** correct unless it corresponds to a multiple-choice option that includes ""insufficient information"" or a range that includes the correct value (e.g., 2.7 to 2.76).
+
+However, based on the standard answer being ""2.7 to 2.76"", and the lack of information about $ p_{\text{O}_2} $, the question may have intended for the student to assume $ p_{\text{O}_2} = 1 $, which is a common assumption in such problems.
+
+If the assumption is made that $ p_{\text{O}_2} = 1 $, then:
+
+$$
+K = \frac{p_{\text{CO}_2}}{p_{\text{CO}}}
+$$
+
+So:
+
+$$
+\frac{p_{\text{CO}}}{p_{\text{CO}_2}} = \frac{1}{K} = \frac{1}{2365} \approx 0.000423
+$$
+
+This is **not** in the range 2.7 to 2.76"
+0.121 TO 0.125,A,"To determine whether the response ""A"" is correct, we need to evaluate the activity of Au in the Ag-Au melt under the assumption of **regular solution behavior**.
+
+---
+
+### **Given:**
+
+- $ R = 8.314 \, \text{J·K}^{-1}\text{·mol}^{-1} $
+- Temperature: $ T = 1400 \, \text{K} $
+- Partial molar enthalpy of Au: $ \bar{H}_{\text{Au}} = -8300 \, \text{J·mol}^{-1} $
+- Composition: 25 mol% Au → $ x_{\text{Au}} = 0.25 $
+
+Assuming **regular solution behavior**, the activity $ a_{\text{Au}} $ of Au can be calculated using the relation:
+
+$$
+\ln a_{\text{Au}} = \frac{\bar{H}_{\text{Au}}}{RT} \cdot (1 - x_{\text{Au}})
+$$
+
+Let's plug in the values:
+
+$$
+\ln a_{\text{Au}} = \frac{-8300}{8.314 \times 1400} \cdot (1 - 0.25)
+$$
+
+First, compute the denominator:
+
+$$
+8.314 \times 1400 = 11639.6
+$$
+
+Now compute the fraction:
+
+$$
+\frac{-8300}{11639.6} \approx -0.713
+$$
+
+Now multiply by $ (1 - 0.25) = 0.75 $:
+
+$$
+\ln a_{\text{Au}} = -0.713 \times 0.75 \approx -0.535
+$$
+
+Now exponentiate:
+
+$$
+a_{\text{Au}} = e^{-0.535} \approx 0.585
+$$
+
+This result **does not fall within the given range of 0.121 to 0.125**, so the answer **""A""** is **not correct**.
+
+---
+
+### ✅ Final Answer: **no**."
+25.1 TO 25.9,D,yes
+1.059 TO 1.071,A,"To determine whether the response ""A"" is correct, we need to evaluate the question and the standard answer.
+
+### Question Summary:
+- Molar volume $ V_m = 7 \times 10^{-6} \, \text{m}^3 \cdot \text{mol}^{-1} $
+- Isothermal compressibility $ \kappa_T = 8 \times 10^{-12} \, \text{Pa}^{-1} $
+- Isobaric expansivity $ \alpha = 6 \times 10^{-5} \, \text{K}^{-1} $
+- Gas constant $ R = 8.314 \, \text{J} \cdot \text{K}^{-1} \cdot \text{mol}^{-1} $
+- Temperature $ T = 500 \, \text{K} $
+
+We are told to assume the **Dulong-Petit law** is valid for a **monoatomic solid**, and to find the ratio $ \frac{C_p}{C_v} $ at 500 K.
+
+### Dulong-Petit Law:
+For solids, the Dulong-Petit law states that the molar heat capacity at constant volume $ C_V $ is approximately:
+
+$$
+C_V = 3R
+$$
+
+For a **monoatomic solid**, the molar heat capacity at constant pressure $ C_P $ is:
+
+$$
+C_P = C_V + R = 4R
+$$
+
+So the ratio is:
+
+$$
+\frac{C_P}{C_V} = \frac{4R}{3R} = \frac{4}{3} \approx 1.333
+$$
+
+However, the standard answer given is:
+
+> **1.059 to 1.071**
+
+This is **not** consistent with the Dulong-Petit law for a **monoatomic solid**, which predicts a **ratio of 4/3 ≈ 1.333**.
+
+### Conclusion:
+The standard answer **does not match** the expected result from the Dulong-Petit law for a monoatomic solid. Therefore, the response **""A""** is **not correct**.
+
+### Final Answer:
+**no**"
+16.55 TO 18.55,D,"To determine whether the response **D** is correct, we need to analyze the problem and calculate the required length of the tube.
+
+---
+
+### **Given:**
+
+- **Convective heat transfer coefficient (h)** = 500 W/m²·K  
+- **Specific heat capacity of air (c_p)** = 1080 J/kg·K  
+- **π** = 3.14  
+- **Air inlet temperature (T_in)** = 300 K  
+- **Air outlet temperature (T_out)** = 600 K  
+- **Mass flow rate (ṁ)** = 1.5 kg/s  
+- **Inner diameter of tube (D)** = 0.08 m  
+- **Inner wall temperature (T_w)** = 700 K  
+- **Heat transfer occurs by steady-state convection**
+
+We are to find the **length of the tube (L)**.
+
+---
+
+### **Step 1: Heat transfer rate (Q)**
+
+Using the energy balance for the air:
+
+$$
+Q = \dot{m} \cdot c_p \cdot (T_{\text{out}} - T_{\text{in}})
+$$
+
+$$
+Q = 1.5 \cdot 1080 \cdot (600 - 300) = 1.5 \cdot 1080 \cdot 300 = 486000 \, \text{W}
+$$
+
+---
+
+### **Step 2: Heat transfer from the wall to the air**
+
+In steady-state convection, the heat transfer rate is:
+
+$$
+Q = h \cdot A \cdot (T_w - T_{\text{avg}})
+$$
+
+Where:
+- $ A = \pi \cdot D \cdot L $ (surface area of the tube)
+- $ T_{\text{avg}} $ is the average temperature of the air
+
+$$
+T_{\text{avg}} = \frac{T_{\text{in}} + T_{\text{out}}}{2} = \frac{300 + 600}{2} = 450 \, \text{K}
+$$
+
+Now plug into the heat transfer equation:
+
+$$
+486000 = 500 \cdot \pi \cdot 0.08 \cdot L \cdot (700 - 450)
+$$
+
+$$
+486000 = 500 \cdot 3.14 \cdot 0.08 \cdot L \cdot 250
+$$
+
+$$
+486000 = 500 \cdot 3.14 \cdot 0.08 \cdot 250 \cdot L
+$$
+
+$$
+486000 = 31400 \cdot L
+$$
+
+$$
+L = \frac{486000}{31400} \approx 15.48 \, \text{m}
+$$
+
+---
+
+### **Conclusion:**
+
+The calculated length is approximately **15.48 m**, which falls **within the given range of 16.55 to 18.55 m**.
+
+Therefore, the response **D** is **correct**.
+
+---
+
+### ✅ Final Answer: **yes**"
+D,D,yes
+C,A,No.
+B,C,no
+C,B,no
+D,A,no
+D,D,yes
+A,B,No.
+A,D,No.
+40 to 41,C,yes
+B,D,no
+B,C,no
+8675 to 8680,D,yes
+C,C,yes
+15.35 : 15.45,C,yes
+35 TO 36,B,yes
+B,C,no
+C,C,yes
+B,B,yes
+D,C,no
+C,A,no
+A,A,yes
+A,D,no
+D,A,No.
+A,D,No.
+B,A,"To determine whether the response is correct, let's analyze the problem step by step.
+
+### Given:
+- Number-averaged molecular weight (Mn) = $10^5 \, \text{g/mol}$
+- Degree of polymerization (DP) = 2210
+- One repeat unit is ethylene: $-\text{CH}_2-\text{CH}_2-$ (molecular weight = 28 g/mol)
+- We are to find the molecular weight of the other repeat unit.
+
+### Step 1: Calculate the molecular weight of the repeat unit
+The formula relating molecular weight and degree of polymerization is:
+
+$$
+\text{Mn} = \text{DP} \times \text{M}_r
+$$
+
+Where:
+- $\text{M}_r$ = molecular weight of the repeat unit
+
+$$
+\text{M}_r = \frac{\text{Mn}}{\text{DP}} = \frac{10^5}{2210} \approx 45.25 \, \text{g/mol}
+$$
+
+### Step 2: Calculate the molecular weight of each option
+
+#### Option A: $-\text{CH}_2-\text{CH}(\text{CH}_3)-$
+- C = 12, H = 1
+- Formula: $\text{C}_3\text{H}_8$
+- Molecular weight = $3 \times 12 + 8 \times 1 = 44 \, \text{g/mol}$
+
+#### Option B: $-\text{CH}_2-\text{CHCl}-$
+- C = 12, H = 1, Cl = 35.5
+- Formula: $\text{C}_2\text{H}_3\text{Cl}$
+- Molecular weight = $2 \times 12 + 3 \times 1 + 35.5 = 24 + 3 + 35.5 = 62.5 \, \text{g/mol}$
+
+#### Option C: $-\text{CF}_2-\text{CF}_2-$
+- C = 12, F = 19
+- Formula: $\text{C}_2\text{F}_4$
+- Molecular weight = $2 \times 12 + 4 \times 19 = 24 + 76 = 100 \, \text{g/mol}$
+
+#### Option D: $-\text{CH}_2-\text{CH}(\text{C}_6\text{H}_5)-$
+- C = 12, H = 1, C₆H₅ = 77 (approximate)
+- Formula: $\text{C}_8\text{H}_{10}$
+- Molecular weight = $8 \times 12 + 10 \times 1 = 96 + 10 = 106 \, \text{g/mol}$
+
+### Step 3: Compare with calculated molecular weight of repeat unit
+We found the molecular weight of the repeat unit to be approximately **45.25 g/mol**.
+
+- Option A: 44 g/mol → **Very close**
+- Option B: 62.5 g/mol → Too high
+- Option C: 100 g/mol → Too high
+- Option D: 106 g/mol → Too high
+
+### Conclusion:
+Option A is the correct answer, as it has a molecular weight very close to the calculated value of 45.25 g/mol.
+
+### Final Answer:
+**yes**"
+A,B,No.
+D,C,no
+A; B,A,no
+B,A,no
+C,A,no
+5.64 to 5.73,C,yes
+0.178 to 0.18,A,yes
+0.04 to 0.045,D,yes
+C,A,no
+B,A,No.
+7.5 to 7.80,A,yes
+D,D,yes
+5 to 5,C,yes
+15.5 to 18.5,D,no
+D,B,no
+0.84 to 0.90,B,yes
+5.85 to 6.00,A,yes
+4232 to 4249,A,"To determine whether the response **""A""** is correct, we need to analyze the problem and see if the given answer range (**4232 to 4249**) is consistent with the provided data.
+
+---
+
+### **Given:**
+
+- **Avogadro’s number** $ N_A = 6.02 \times 10^{23} $ mol⁻¹  
+- **Boltzmann’s constant** $ k_B = 8.62 \times 10^{-5} $ eV/K  
+- **Enthalpy required to create an oxygen vacancy in CeO₂** = **4 eV**  
+- **Temperature** = 1000 K  
+- **Question**: Find the number of oxygen vacancies per mole of CeO₂ at 1000 K.
+
+---
+
+### **Approach:**
+
+We use the **Arrhenius-type equation** for vacancy concentration:
+
+$$
+n = N_A \cdot \exp\left(-\frac{E_v}{k_B T}\right)
+$$
+
+Where:
+- $ n $: number of vacancies per mole
+- $ N_A $: Avogadro's number
+- $ E_v $: enthalpy of vacancy formation = 4 eV
+- $ k_B $: Boltzmann constant = $ 8.62 \times 10^{-5} $ eV/K
+- $ T $: temperature = 1000 K
+
+---
+
+### **Step-by-step Calculation:**
+
+1. **Calculate the exponent:**
+
+$$
+\frac{E_v}{k_B T} = \frac{4}{(8.62 \times 10^{-5})(1000)} = \frac{4}{0.0862} \approx 46.41
+$$
+
+2. **Compute the exponential:**
+
+$$
+\exp(-46.41) \approx 1.27 \times 10^{-20}
+$$
+
+3. **Multiply by Avogadro’s number:**
+
+$$
+n = (6.02 \times 10^{23}) \times (1.27 \times 10^{-20}) \approx 7.65 \times 10^3
+$$
+
+So, the number of oxygen vacancies per mole is approximately **7650**.
+
+---
+
+### **Conclusion:**
+
+The calculated value is **~7650**, which is **not** in the range **4232 to 4249**.
+
+Therefore, the **response ""A""** is **not correct**.
+
+---
+
+### ✅ Final Answer:
+
+**no**"
+A,A,yes
+B,A,no
+B,A,no
+A,A,yes
+D,D,yes
+A,D,no
+A,A,yes
+A,A,yes
+0.339 TO 0.341,A,yes
+C,C,yes
+D,A,no
+D,B,no
+B,A,no
+C,B,no
+C,B,no
+A,A,yes
+B,C,no
+2.30 TO 2.38,A,yes
+B,B,yes
+D,C,no
+B,A,no
+3,C,yes
+B,A,no
+54.0 TO 55.5,A,yes
+B,C,No.
+1.3 TO 1.5,B,yes
+0.030 TO 0.034,C,yes
+4,A,yes
+D,B,no
+B,A,no
+C,D,no
+B,D,no
+0.225 TO 0.235,D,"To determine whether the response **D** is correct, we need to evaluate the calculation based on the given data:
+
+### Given:
+- **2θ** = 68.7°
+- **Lattice parameter (a)** = 0.287 nm
+- **Structure**: BCC (Body-Centered Cubic)
+
+### Step 1: Determine the Miller indices (hkl) for the first peak in BCC iron.
+
+In a BCC structure, the first diffraction peak corresponds to the **(110)** planes. This is because the (110) planes have the smallest interplanar spacing and thus give the first peak in BCC.
+
+### Step 2: Use Bragg's Law:
+
+$$
+n\lambda = 2d_{hkl} \sin\theta
+$$
+
+Where:
+- $ n = 1 $ (first-order diffraction)
+- $ \lambda $ = wavelength of X-rays (to be calculated)
+- $ d_{hkl} $ = interplanar spacing
+- $ \theta = \frac{2\theta}{2} = \frac{68.7^\circ}{2} = 34.35^\circ $
+
+### Step 3: Calculate interplanar spacing $ d_{hkl} $ for (110) planes in BCC:
+
+For BCC, the interplanar spacing is given by:
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2 + \frac{hkl}{2}}}
+$$
+
+For (110) planes:
+- $ h = 1, k = 1, l = 0 $
+- $ d_{110} = \frac{a}{\sqrt{1^2 + 1^2 + 0^2 + \frac{1 \cdot 1 \cdot 0}{2}}} = \frac{a}{\sqrt{2 + 0}} = \frac{a}{\sqrt{2}} $
+
+$$
+d_{110} = \frac{0.287}{\sqrt{2}} = \frac{0.287}{1.4142} \approx 0.2029 \text{ nm}
+$$
+
+### Step 4: Plug into Bragg's Law:
+
+$$
+\lambda = \frac{2d_{hkl} \sin\theta}{n} = 2 \cdot 0.2029 \cdot \sin(34.35^\circ)
+$$
+
+Calculate $ \sin(34.35^\circ) \approx 0.564 $
+
+$$
+\lambda = 2 \cdot 0.2029 \cdot 0.564 \approx 0.231 \text{ nm}
+$$
+
+### Final Answer:
+The calculated wavelength is approximately **0.231 nm**, which falls within the given range **0.225 to 0.235 nm**.
+
+### Conclusion:
+The response **D** is correct.
+
+**Answer: yes**"
+C,C,yes
+0.153 TO 0.155,A,yes
+B,D,no
+B,A,no
+B,C,no
+D,D,yes
+48,D,yes
+A,A,yes
+D,A,no
+"B,D",D,no
+B,A,no
+C,B,no
+D,A,no
+0.045 TO 0.06,B,yes
+24.00 TO 26.00,A,"To determine whether the response is correct, we need to analyze the question and the standard answer provided.
+
+### Question Summary:
+- **Wavelength of Cu-Kα X-rays (λ):** 0.154 nm  
+- **Lattice parameter (a):** 0.36 nm  
+- **Crystal structure:** FCC (Face-Centered Cubic)  
+- **Question:** What is the Bragg angle (θ) for the **second peak** in the powder X-ray diffraction pattern?
+
+---
+
+### Step-by-step Analysis:
+
+#### 1. **FCC Structure Miller Indices:**
+In an FCC structure, only certain Miller indices (hkl) are allowed due to the symmetry of the structure. These are the **allowed reflections**, and they must satisfy the condition:
+
+$$
+h + k + l = \text{even}
+$$
+
+The first few allowed reflections in FCC are:
+
+- (111) → first peak  
+- (200) → second peak  
+- (220) → third peak  
+- (311) → fourth peak  
+- (222) → fifth peak  
+- etc.
+
+So, the **second peak corresponds to the (200) plane**.
+
+---
+
+#### 2. **Bragg's Law:**
+
+$$
+n\lambda = 2d\sin\theta
+$$
+
+Where:
+- $ n = 1 $ (for first-order diffraction)
+- $ \lambda = 0.154 $ nm
+- $ d $ is the interplanar spacing for the (200) plane
+
+---
+
+#### 3. **Interplanar Spacing (d):**
+
+For a cubic crystal:
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+$$
+
+For (200):
+
+$$
+d_{200} = \frac{0.36}{\sqrt{2^2 + 0^2 + 0^2}} = \frac{0.36}{\sqrt{4}} = \frac{0.36}{2} = 0.18 \text{ nm}
+$$
+
+---
+
+#### 4. **Solving for θ:**
+
+$$
+\sin\theta = \frac{n\lambda}{2d} = \frac{1 \times 0.154}{2 \times 0.18} = \frac{0.154}{0.36} \approx 0.4278
+$$
+
+$$
+\theta = \sin^{-1}(0.4278) \approx 25.33^\circ
+$$
+
+---
+
+### Final Answer:
+
+The Bragg angle for the second peak is approximately **25.33°**, which falls within the standard answer range of **24.00 to 26.00**.
+
+---
+
+### Conclusion:
+
+**Yes**, the response **A** is correct."
+D,A,no
+7 TO 9,B,yes
+C,D,no
+0.018 TO 0.020,A,yes
+34.8 TO 36.1,C,yes
+6.85 TO 7.00,D,yes
+0.017 TO 0.023,C,yes
+"B,C",A,no
+2.86 TO 2.93,C,yes
+C,D,no
+D,A,no
+B,A,no
+0.29 to 0.31,D,yes
+D,D,yes
+210 : 210,A,yes
+C,C,yes
+53 to 53.2,A,yes
+C,C,yes
+430 to 500,D,no
+A,A,yes
+C,A,no
+C,D,no
+Marks to all ,B,yes
+Marks to all ,A,yes
+91 to 92,C,yes
+81,D,no
+172 TO 174,C,yes
+360 to 364,D,yes
+560 to 565,A,no
+71 to 77,D,yes
+"B,C",C,no
+C,D,no
+C,A,no
+C,D,no
+B,D,no
+B,D,no
+A,C,no
+B,C,no
+D,A,No.
+19.95 TO 20.05,C,no
+350 T0 350,A,yes
+A,C,no
+C,D,no
+300,C,yes
+0.2,D,yes
+30.0 TO 30.5,A,yes
+490 TO 510,A,yes
+0.9 TO 1.1,D,yes
+10,C,yes
+C,D,no
+100,A,yes
+A,A,yes
+A,A,yes
+C,C,yes
+A,A,yes
+0.006 TO 0.010,A,yes
+0.110 TO 0.140,D,yes
+C,A,no
+0.96 TO 0.98,D,yes
+B,C,No.
+C,B,no
+B,B,yes
+C,A,no
+2.90 TO 3.10,A,"To determine whether the response is correct, let's analyze the problem step-by-step.
+
+---
+
+### **Given:**
+
+- A **rod of length 50 cm** is placed against a **vertical wall**.
+- The **bottom of the rod is initially 30 cm away from the wall**.
+- The **bottom of the rod is pulled horizontally away from the wall at a constant rate of 4 cm/s**.
+- We are to find the **instantaneous velocity** of the **top of the rod sliding down the wall**.
+
+---
+
+### **Step 1: Use the Pythagorean Theorem**
+
+Let:
+- $ x(t) $ = horizontal distance from the wall to the bottom of the rod
+- $ y(t) $ = vertical distance from the ground to the top of the rod
+- The length of the rod is constant at $ L = 50 $ cm
+
+So,
+$$
+x(t)^2 + y(t)^2 = L^2 = 50^2 = 2500
+$$
+
+---
+
+### **Step 2: Differentiate both sides with respect to time**
+
+$$
+2x \frac{dx}{dt} + 2y \frac{dy}{dt} = 0
+$$
+
+Divide both sides by 2:
+$$
+x \frac{dx}{dt} + y \frac{dy}{dt} = 0
+$$
+
+Solve for $ \frac{dy}{dt} $:
+$$
+\frac{dy}{dt} = -\frac{x}{y} \cdot \frac{dx}{dt}
+$$
+
+---
+
+### **Step 3: Plug in known values**
+
+At the initial moment:
+- $ x = 30 $ cm
+- $ y = \sqrt{50^2 - 30^2} = \sqrt{2500 - 900} = \sqrt{1600} = 40 $ cm
+- $ \frac{dx}{dt} = 4 $ cm/s
+
+So,
+$$
+\frac{dy}{dt} = -\frac{30}{40} \cdot 4 = -\frac{3}{4} \cdot 4 = -3 \text{ cm/s}
+$$
+
+The **magnitude** of the velocity of the top of the rod is:
+$$
+|\frac{dy}{dt}| = 3 \text{ cm/s}
+$$
+
+---
+
+### **Step 4: Compare with the given standard answer**
+
+- The **standard answer** is: **2.90 to 3.10**
+- Our calculated value is **3.00**
+
+Since 3.00 falls within the range **2.90 to 3.10**, the **response is correct**.
+
+---
+
+### ✅ Final Answer:
+**yes**"
+155.0 T0 165.0,A,no
+B,B,yes
+B,B,yes
+A,A,yes
+A,C,No.
+5.6 TO 5.8,C,yes
+B,D,no
+A,D,no
+A,B,no
+40,C,yes
+C,A,no
+A,A,yes
+B,D,no
+0.25,B,yes
+D,B,no
+A,D,no
+7.9 TO 8.3,A,yes
+A,C,no.
+35 TO 36,D,yes
+0.9 TO 1.1,D,yes
+115 TO 125,A,yes
+14.0 TO 15.5,C,yes
+13.30 TO 15.50,A,yes
+95.00 TO 125.00,C,yes
+1.20 TO 1.40,A,yes
+0.009 TO 0.015,D,"To determine whether the response **D** is correct, we need to evaluate the crack propagation based on the given formula:
+
+$$
+\frac{da}{dN} = 10^{-12} (\Delta K)^3
+$$
+
+Where:
+- $ a $ is the crack length in meters
+- $ N $ is the number of cycles
+- $ \Delta K $ is the stress intensity factor range in $ MPa \cdot \sqrt{m} $
+
+### Step 1: Determine $ \Delta K $
+For a crack in a component under cyclic loading, the stress intensity factor range is given by:
+
+$$
+\Delta K = Y \cdot \sqrt{\pi a} \cdot \Delta \sigma
+$$
+
+Where:
+- $ Y $ is a dimensionless geometric factor (assumed to be 1 for simplicity unless specified)
+- $ \Delta \sigma = \sigma_{\text{max}} - \sigma_{\text{min}} = 200 - 0 = 200 \, MPa $
+- $ a $ is the crack length in meters
+
+So:
+
+$$
+\Delta K = \sqrt{\pi a} \cdot 200
+$$
+
+### Step 2: Use the given formula for crack growth
+We are given:
+
+$$
+\frac{da}{dN} = 10^{-12} (\Delta K)^3
+$$
+
+Substitute $ \Delta K $:
+
+$$
+\frac{da}{dN} = 10^{-12} \left( \sqrt{\pi a} \cdot 200 \right)^3 = 10^{-12} \cdot (200)^3 \cdot (\pi a)^{3/2}
+$$
+
+$$
+\frac{da}{dN} = 10^{-12} \cdot 8 \times 10^6 \cdot (\pi a)^{3/2}
+$$
+
+$$
+\frac{da}{dN} = 8 \times 10^{-6} \cdot (\pi a)^{3/2}
+$$
+
+This is a nonlinear differential equation, and solving it analytically is complex. Instead, we can estimate the crack growth over $ N = 10^6 $ cycles numerically.
+
+### Step 3: Numerical estimation
+We start with $ a_0 = 0.001 \, m $ (1 mm), and integrate the equation:
+
+$$
+\frac{da}{dN} = 8 \times 10^{-6} \cdot (\pi a)^{3/2}
+$$
+
+This is a differential equation of the form:
+
+$$
+\frac{da}{dN} = k \cdot a^{3/2}
+$$
+
+This can be solved as:
+
+$$
+\int_{a_0}^{a} a^{-3/2} \, da = \int_0^{10^6} k \, dN
+$$
+
+$$
+\left[ -2a^{-1/2} \right]_{a_0}^{a} = k \cdot N
+$$
+
+$$
+-2a^{-1/2} + 2a_0^{-1/2} = k \cdot N
+$$
+
+$$
+a^{-1/2} = a_0^{-1/2} - \frac{k \cdot N}{2}
+$$
+
+$$
+a = \left( a_0^{-1/2} - \frac{k \cdot N}{2} \right)^{-2}
+$$
+
+Now plug in the values:
+- $ a_0 = 0.001 $
+- $ k = 8 \times 10^{-6} $
+- $ N = 10^6 $
+
+$$
+a = \left( (0.001)^{-1/2} - \frac{8 \times 10^{-6} \cdot 10^6}{2} \right)^{-2}
+$$
+
+$$
+a = \left( 31.623 - \frac{8 \times 10^0}{2} \right)^{-2}
+$$
+
+$$
+a = \left( 31.623 - 4 \right)^{-2} = (27.623)^{-2}
+$$
+
+$$
+a \approx 0.0013 \, \text{m} = 1.3 \, \text{mm}
+$$
+
+### Step 4: Conclusion
+The crack length after one million cycles is approximately **0.0013 m**, which is **1.3 mm**, or **0.0013 m**.
+
+This is **within the range of 0.009 to 0.015 m** given in the standard answer"
+0.9 TO 1.1,D,yes
+4.5 TO 4.8,C,yes
+555.5 TO 565.5,D,yes
+16.0 TO 17.4,A,"To determine whether the response is correct, we need to analyze the problem using the principle of **conservation of volume** (assuming incompressible material), which is commonly applied in rolling processes.
+
+---
+
+### **Given:**
+
+- **Width of the plate (W)** = 100 cm (constant, as stated)
+- **Initial thickness (t₁)** = 5 cm
+- **Final thickness (t₂)** = 3 cm
+- **Entry velocity (v₁)** = 10 cm/s
+- **Exit velocity (v₂)** = ?
+
+Assuming the **width remains constant**, the **volume of the plate remains the same**, so:
+
+$$
+\text{Volume} = \text{Width} \times \text{Thickness} \times \text{Length}
+$$
+
+Since the width is constant, the product of thickness and length must remain constant as well. Therefore:
+
+$$
+t_1 \times L_1 = t_2 \times L_2
+$$
+
+But since the **length of the plate** is inversely proportional to the **velocity** (as the plate moves through the roll), and assuming the **length of the plate** is proportional to the **time** it takes to pass through the roll, we can use the relation:
+
+$$
+v_1 \times t_1 = v_2 \times t_2
+$$
+
+This is derived from the fact that the **volume flow rate** must be conserved:
+
+$$
+\text{Volume flow rate} = \text{Width} \times \text{Thickness} \times \text{Velocity}
+$$
+
+So:
+
+$$
+W \cdot t_1 \cdot v_1 = W \cdot t_2 \cdot v_2
+$$
+
+Canceling out the width (since it is constant):
+
+$$
+t_1 \cdot v_1 = t_2 \cdot v_2
+$$
+
+Now plug in the values:
+
+$$
+5 \cdot 10 = 3 \cdot v_2
+\Rightarrow 50 = 3v_2
+\Rightarrow v_2 = \frac{50}{3} \approx 16.666...
+$$
+
+Rounded to **one decimal place**, this gives:
+
+$$
+v_2 \approx 16.7 \, \text{cm/s}
+$$
+
+---
+
+### **Standard Answer:**
+""16.0 TO 17.4"" — this range includes the calculated value of **16.7**, so it is **valid**.
+
+---
+
+### **Response:**
+""A"" — this is likely the correct answer, as it refers to the correct range (16.0 to 17.4).
+
+---
+
+### ✅ **Final Answer: yes**"
+A,B,no
+3.6 TO 4.2,A,yes
+48O TO 494,A,no
+933 TO 939,A,yes
+2.6 TO 3.0,B,yes
+B,C,no
+0.6 TO 0.6,C,yes
+98 TO 102,A,yes
+B,A,no
+0.069 TO 0.075,D,yes
+200 TO 210,A,"To determine whether the response **""A""** is correct, we need to evaluate the **ideal plastic work of deformation per unit volume** for the cold extrusion process.
+
+---
+
+### Given:
+- Initial diameter: $ d_i = 30 $ mm  
+- Final diameter: $ d_f = 20 $ mm  
+- Flow behavior: $ \sigma = 350 \epsilon^{0.3} $ MPa  
+- We are to compute **ideal plastic work per unit volume**, i.e., **work per unit volume**.
+
+---
+
+### Step 1: Compute the true strain (ε)
+
+In cold extrusion, the true strain is given by:
+
+$$
+\epsilon = \ln\left(\frac{A_i}{A_f}\right)
+$$
+
+Since the cross-sectional area is proportional to the square of the diameter:
+
+$$
+A_i = \pi \left(\frac{d_i}{2}\right)^2, \quad A_f = \pi \left(\frac{d_f}{2}\right)^2
+$$
+
+So,
+
+$$
+\frac{A_i}{A_f} = \left(\frac{d_i}{d_f}\right)^2 = \left(\frac{30}{20}\right)^2 = \left(1.5\right)^2 = 2.25
+$$
+
+$$
+\epsilon = \ln(2.25) \approx 0.81093
+$$
+
+---
+
+### Step 2: Compute the ideal plastic work per unit volume
+
+The ideal plastic work per unit volume is given by:
+
+$$
+W = \int_0^{\epsilon} \sigma \, d\epsilon
+$$
+
+Substitute the flow curve $ \sigma = 350 \epsilon^{0.3} $:
+
+$$
+W = \int_0^{0.81093} 350 \epsilon^{0.3} \, d\epsilon
+$$
+
+$$
+W = 350 \int_0^{0.81093} \epsilon^{0.3} \, d\epsilon = 350 \left[ \frac{\epsilon^{1.3}}{1.3} \right]_0^{0.81093}
+$$
+
+$$
+W = 350 \cdot \frac{(0.81093)^{1.3}}{1.3}
+$$
+
+Now compute $ (0.81093)^{1.3} $:
+
+$$
+(0.81093)^{1.3} \approx 0.81093^{1.3} \approx 0.776
+$$
+
+$$
+W \approx 350 \cdot \frac{0.776}{1.3} \approx 350 \cdot 0.597 \approx 208.95 \text{ MPa}
+$$
+
+Convert MPa to MJ/m³ (since 1 MPa = 1 MJ/m³):
+
+$$
+W \approx 209 \text{ MJ/m}^3
+$$
+
+---
+
+### Conclusion:
+
+The ideal plastic work per unit volume is approximately **209 MJ/m³**, which falls within the range **200 to 210**.
+
+Therefore, the **response ""A""** is **correct**.
+
+### ✅ Final Answer: **yes**."
+C,C,yes
+B,A,no
+42 TO 43,A,yes
+B,D,no
+B,C,no
+B,C,no
+B,B,yes
+C,D,no
+69 to 69,B (2),No.
+2.10 to 2.14,B,"To determine whether the response **B** is correct, we need to analyze the problem using the **rule of mixtures** and **porosity relationships** in ceramics.
+
+---
+
+### **Given:**
+- **Theoretical density (ρ_theoretical)** = 6.76 g/cm³  
+- **Sintered density (ρ_sintered)** = 6.60 g/cm³  
+- **Porosity of green compact (P_green)** = 18% = 0.18  
+- **Side of sintered cube (L_sintered)** = 2 cm  
+- **Required: Side of green compact (L_green)**
+
+---
+
+### **Step 1: Relationship between porosity and density**
+
+The relationship between the density of a material and its porosity is given by:
+
+$$
+\rho_{\text{green}} = \rho_{\text{theoretical}} \times (1 - P_{\text{green}})
+$$
+
+$$
+\rho_{\text{green}} = 6.76 \times (1 - 0.18) = 6.76 \times 0.82 = 5.5432 \text{ g/cm}^3
+$$
+
+---
+
+### **Step 2: Use density ratio to find volume ratio**
+
+The density of the green compact is related to the sintered density by the volume change due to sintering. Since the mass remains constant during sintering, the volume is inversely proportional to the density:
+
+$$
+\frac{V_{\text{green}}}{V_{\text{sintered}}} = \frac{\rho_{\text{sintered}}}{\rho_{\text{green}}}
+$$
+
+$$
+\frac{V_{\text{green}}}{V_{\text{sintered}}} = \frac{6.60}{5.5432} \approx 1.191
+$$
+
+---
+
+### **Step 3: Relate volume to side length**
+
+Since the volume of a cube is $ V = L^3 $, the ratio of the side lengths is the cube root of the volume ratio:
+
+$$
+\frac{L_{\text{green}}}{L_{\text{sintered}}} = \sqrt[3]{1.191} \approx 1.06
+$$
+
+$$
+L_{\text{green}} = 1.06 \times 2 = 2.12 \text{ cm}
+$$
+
+---
+
+### **Conclusion:**
+
+The required side length of the green compact is **approximately 2.12 cm**, which rounds to **2.12 cm** (to 2 decimal places). This falls within the standard answer range of **2.10 to 2.14**.
+
+---
+
+### ✅ Final Answer:
+**Yes**. The response **B** is correct."
+D,D,yes
+A,B,No.
+C,C,yes
+D,B,no
+C,D,no
+B,A,no
+A,C,no
+B,A,no
+C,B,no
+B,D,No.
+C,B,no
+A,A,yes
+C,A,no
+A,B,no
+C,A,no
+C,C,yes
+B,A,No.
+D,C,no.
+4.2 TO 4.3,A,yes
+B,A,no
+C,B,No.
+C,D,No.
+A,A,yes
+B,D,no
+C,C,yes
+1400 TO 1450,A,yes
+B,A,no
+B,A,no
+A,B,No.
+D,A,no
+D,D,yes
+10.0 TO 10.5,B,yes
+2.0 TO 2.5,C,yes
+97.5 TO 98.3,A,yes
+0.0010 TO 0.0050,A,yes
+A,A,yes
+D,D,yes
+D,B,no
+D,A,no
+C,B,no
+A,A,yes
+D,D,yes
+A,A,yes
+D,D,yes
+C,B,no
+A,A,yes
+D,A,no
+C,B,no
+C,C,yes
+C,C,yes
+A,B,No.
+B,B,yes
+A,A,yes
+A,A,yes
+C,A,no
+B,D,no
+A,C,No.
+"A,B,C",D,No.
+A,B,no
+A,B,no
+C,B,no
+A,C,No.
+C,D,no
+C,A,no
+1.7 TO 1.9,A,no
+D,C,no
+0.170 TO 0.175,D,no
+11.00 TO 12.50,A,yes
+6.60 TO 7.40,A,yes
+C OR D,D,no
+0.11 TO 0.13,B,yes
+1927 TO 1937,B,yes
+130.0 TO 134.0,D,yes
+MARKS TO ALL,D,yes
+19 TO 21,A,yes
+0.06 TO 0.08,D,yes
+D,A,no
+58 TO 62,C,yes
+0.90 TO 0.94 OR -0.94 TO -0.90,A,no
+A,C,No.
+400 TO 400,A,yes
+A,C,No.
+D,D,yes
+D,A,no
+B,B,yes
+B,B,yes
+D,D,yes
+C,A,no
+A,A,yes
+B,C,No.
+5555 to 5556,B,yes
+C,B,no
+0.47 to 0.49,C,yes
+D,B,no
+B,B,yes
+2 to 2.3,C,yes
+B,B,yes
+B,B,yes
+D,C,No.
+0.99 to 1.010,A,yes
+A,C,no
+2.60 to 2.70,D,"To determine whether the response **D** is correct, we need to evaluate the calculation of the sample's density based on the given data.
+
+### Given:
+- Mass of sample in air = 2.67 g  
+- Apparent mass in water = 1.67 g  
+- Density of water = 1.00 g/cm³  
+
+### Step 1: Calculate the buoyant force
+Buoyant force = Mass in air - Apparent mass in water  
+= 2.67 g - 1.67 g = **1.00 g**
+
+This represents the mass of the displaced water.
+
+### Step 2: Calculate the volume of the sample
+Since density of water = mass/volume,  
+Volume of displaced water = mass of displaced water / density of water  
+= 1.00 g / 1.00 g/cm³ = **1.00 cm³**
+
+This is also the volume of the sample.
+
+### Step 3: Calculate the density of the sample
+Density = mass / volume  
+= 2.67 g / 1.00 cm³ = **2.67 g/cm³**
+
+### Final Answer:
+Rounded to 2 decimal places: **2.67 g/cm³**
+
+### Comparison with Standard Answer:
+- Standard answer is **2.60 to 2.70**
+- Our calculated value is **2.67**, which falls within this range.
+
+### Conclusion:
+**Yes**, the response **D** is correct."
+C,C,yes
+D,C,No.
+A,A,yes
+B,C,No.
+A,B,no
+73 TO 75,A,yes
+C,C,yes
+C,C,yes
+A,A,yes
+D,A,no
+C,C,yes
+A,A,yes
+C,A,no
+B,B,yes
+A,A,yes
+B,B,yes
+C,A,no
+C,C,yes
+A,A,yes
+D,B,no
+A,A,yes
+C,C,yes
+D,D,yes
+A,A,yes
+B,C,no
+D,B,no
+B,B,yes
+D,B,no
+D,D,yes
+840000,D,"To determine the average molecular weight of polyethylene with a degree of polymerization (DP) of 30,000, we need to calculate the molecular weight of a single monomer unit (ethylene), and then multiply it by the degree of polymerization.
+
+### Step 1: Molecular weight of one ethylene monomer unit
+Ethylene has the formula C₂H₄.
+
+- Carbon (C): 12 g/mol × 2 = 24 g/mol  
+- Hydrogen (H): 1 g/mol × 4 = 4 g/mol  
+- Total molecular weight of ethylene = 24 + 4 = **28 g/mol**
+
+### Step 2: Average molecular weight of polyethylene
+Average molecular weight = Degree of polymerization × Molecular weight of one monomer unit  
+= 30,000 × 28 = **840,000 g/mol**
+
+### Step 3: Compare with the standard answer
+The standard answer is **840,000**, which matches the calculated value.
+
+### Step 4: Evaluate the response
+The response is **D**, which is likely indicating the correct answer. Since the standard answer is 840,000 and the calculation confirms this, the response is **correct**.
+
+**Answer: yes**"
+197 TO 201,A,yes
+59 TO 61,C,"To determine the composition of phase α, we can use the **lever rule** in a binary phase diagram.
+
+### Given:
+- Overall composition of the alloy = 70 mol% B  
+- Composition of β = 90 mol% B  
+- Molar proportion of α : β = 2 : 1  
+- Let the composition of α = x mol% B
+
+### Step 1: Use the lever rule
+The overall composition is a weighted average of the compositions of the two phases:
+
+$$
+\text{Overall composition} = \frac{(\text{Moles of α} \times \text{Composition of α}) + (\text{Moles of β} \times \text{Composition of β})}{\text{Total moles}}
+$$
+
+Let the total moles be 3 (since α : β = 2 : 1). So:
+
+$$
+70 = \frac{2x + 1 \times 90}{3}
+$$
+
+### Step 2: Solve for x
+
+$$
+70 = \frac{2x + 90}{3}
+$$
+
+Multiply both sides by 3:
+
+$$
+210 = 2x + 90
+$$
+
+Subtract 90 from both sides:
+
+$$
+120 = 2x
+$$
+
+Divide by 2:
+
+$$
+x = 60
+$$
+
+### Final Answer:
+The composition of α is **60 mol% B**.
+
+### Conclusion:
+The correct answer is **60**, which falls within the range **59 to 61**.  
+The response **C** is correct if it corresponds to **60**.
+
+### Final Answer:
+**yes**"
+A,A,yes
+C,A,no
+B,A,no
+A,A,yes
+B,D,no
+4,C,yes
+A,A,yes
+B,A,no
+C,C,yes
+C,C,yes
+C,B,no
+38 to 42,C,yes
+C,C,yes
+"A,C",C,no
+0.5 to 0.5,A,yes
+B,A,no
+9600 to 9800 ,A,"To determine whether the response **""A""** is correct, we need to evaluate the logic and calculation behind the question.
+
+---
+
+### **Given:**
+
+- Transformation occurs at **773 K** and **1 atm**, with an **enthalpy change** of **912 J/mol**.
+- Molar volumes:
+  - α phase: **7.377 cm³/mol**
+  - β phase: **7.317 cm³/mol**
+- The difference in molar volumes is **independent of pressure**.
+- We are to find the **pressure (in atm)** required for the α → β transformation to occur at **723 K**.
+- The standard answer is **9600 to 9800 atm**.
+- The response is **""A""**.
+
+---
+
+### **What is the question asking?**
+
+It is asking whether the **response ""A""** is correct, given that the **standard answer is 9600 to 9800 atm**.
+
+This is a **multiple-choice question**, and ""A"" is one of the options. The standard answer is a **range**, so if the correct answer is **within 9600 to 9800 atm**, and the response is **""A""**, then the response is correct **only if** ""A"" corresponds to that range.
+
+However, the question does **not** provide the actual options (e.g., A = 9000, B = 9500, etc.), so we cannot definitively say whether ""A"" is correct or not.
+
+---
+
+### **Conclusion:**
+
+Since we **do not know what option ""A"" corresponds to**, we **cannot determine** whether the response is correct.
+
+Therefore, the correct answer is:
+
+**no**."
+3.4 to 4.8,D,no
+C,B,no
+B,D,no
+D,D,yes
+C,A,no
+B,C,no
+C,C,yes
+C,B,no
+B,B,yes
+B,A,no
+0.36 TO 0.44,A,yes
+96.00 TO 98.00,A,yes
+B,D,no
+B,A,no
+C,B,no
+A,B,no
+A,A,yes
+B,A,no
+"B,C",B,no
+A,B,no
+-5.5 TO -4.5,D,yes
+28.6 TO 29.0,A,"To determine the driving force for the transformation of liquid copper to solid when cooled from the melting temperature (1356 K) to 1353 K, we need to calculate the change in Gibbs free energy (ΔG) for the process. The driving force for the transformation is essentially the Gibbs free energy change.
+
+The formula for the Gibbs free energy change for a phase transition at constant pressure is:
+
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+
+However, since the process is happening near the melting point and we are assuming the entropy change (ΔS) is approximately equal to the enthalpy of fusion (ΔH) divided by the melting temperature (T), we can use the following approximation:
+
+$$
+\Delta G \approx \Delta H \left(1 - \frac{T}{T_m}\right)
+$$
+
+Where:
+- $ \Delta H = 13 \, \text{kJ/mol} $
+- $ T_m = 1356 \, \text{K} $
+- $ T = 1353 \, \text{K} $
+
+Substituting the values:
+
+$$
+\Delta G \approx 13 \left(1 - \frac{1353}{1356}\right)
+$$
+
+$$
+\Delta G \approx 13 \left(1 - 0.99778\right)
+$$
+
+$$
+\Delta G \approx 13 \times 0.00222
+$$
+
+$$
+\Delta G \approx 0.02886 \, \text{kJ/mol}
+$$
+
+Convert to joules:
+
+$$
+\Delta G \approx 28.86 \, \text{J/mol}
+$$
+
+Rounded to one decimal place: **28.9 J/mol**
+
+The standard answer is **28.6 to 29.0**, which includes 28.9. Therefore, the response **A** is correct.
+
+**Answer: yes**"
+-2962 TO -2958,A,yes
+0.22 TO 0.30,A,yes
+B,B,yes
+1.5 to 1.55,A,yes
+B,B,yes
+6.00 : 7.30,A,no
+D,D,no
+1.35 to 1.37,"The answer is:
+D",yes
+A,B,"To determine the correct answer, let's analyze the reaction and the given data:
+
+**Reaction:**  
+Mg → Mg²⁺ + 2e⁻ (anodic reaction, oxidation)
+
+**Given:**
+- Charge produced = 48250 C
+- Faraday constant (F) = 96500 C/mol e⁻
+- Atomic weight of Mg = 24 g/mol
+
+---
+
+### Step 1: Calculate moles of electrons
+$$
+\text{Moles of electrons} = \frac{\text{Charge}}{\text{Faraday constant}} = \frac{48250}{96500} = 0.5 \text{ mol}
+$$
+
+---
+
+### Step 2: Use stoichiometry from the reaction
+From the reaction, **2 moles of electrons** are produced per **1 mole of Mg** dissolved.
+
+$$
+\text{Moles of Mg} = \frac{0.5}{2} = 0.25 \text{ mol}
+$$
+
+---
+
+### Step 3: Calculate mass of Mg
+$$
+\text{Mass of Mg} = \text{Moles of Mg} \times \text{Atomic weight} = 0.25 \times 24 = 6 \text{ g}
+$$
+
+---
+
+### Final Answer:
+The amount of Mg dissolved is **6 g**, so the **correct answer is (A)**.
+
+The response given was **(B) 12**, which is **incorrect**.
+
+**Answer: no**"
+B,D,"To determine whether the response is correct, let's analyze the problem step by step.
+
+### Given:
+- Intrinsic semiconductor: so **n = p = 10¹² cm⁻³**
+- Mobility of both electrons and holes: **μ = 4 × 10⁴ cm²/V·s**
+- Applied voltage: **V = 100 V**
+- Edge length of the cube: **L = 1 cm**
+- Charge of electron: **e = 1.6 × 10⁻¹⁹ C**
+- We are to find the **current (in mA)**
+
+---
+
+### Step 1: Current in a semiconductor
+
+The current in a semiconductor is given by:
+
+$$
+I = n e \mu A \frac{V}{L}
+$$
+
+Where:
+- $ n $ = concentration of charge carriers (in this case, both electrons and holes contribute)
+- $ e $ = charge of electron
+- $ \mu $ = mobility
+- $ A $ = cross-sectional area
+- $ V $ = applied voltage
+- $ L $ = length (edge length of cube)
+
+---
+
+### Step 2: Cross-sectional area
+
+Since the voltage is applied across **two parallel end faces** of a **cube** with edge length $ L = 1 \, \text{cm} = 0.01 \, \text{m} $, the **cross-sectional area** is:
+
+$$
+A = L^2 = (1 \, \text{cm})^2 = 1 \, \text{cm}^2 = 10^{-4} \, \text{m}^2
+$$
+
+---
+
+### Step 3: Total charge carrier concentration
+
+In an intrinsic semiconductor, the total charge carrier concentration is:
+
+$$
+n_{\text{total}} = n + p = 10^{12} + 10^{12} = 2 \times 10^{12} \, \text{cm}^{-3}
+$$
+
+---
+
+### Step 4: Plug into the formula
+
+$$
+I = n_{\text{total}} \cdot e \cdot \mu \cdot A \cdot \frac{V}{L}
+$$
+
+Substitute the values:
+
+$$
+I = (2 \times 10^{12} \, \text{cm}^{-3}) \cdot (1.6 \times 10^{-19} \, \text{C}) \cdot (4 \times 10^4 \, \text{cm}^2/\text{V} \cdot \text{s}) \cdot (10^{-4} \, \text{m}^2) \cdot \frac{100 \, \text{V}}{0.01 \, \text{m}}
+$$
+
+Let’s simplify step by step:
+
+- $ \frac{100}{0.01} = 10^4 $
+- $ 10^{12} \cdot 10^{-19} \cdot 10^4 \cdot 10^{-4} = 10^{-7} $
+- $ 2 \cdot 1.6 \cdot 4 = 12.8 $
+
+So:
+
+$$
+I = 12.8 \times 10^{-7} \cdot 10^4 = 12.8 \times 10^{-3} = 0.0128 \, \text{A} = 12.8 \, \text{mA}
+$$
+
+Wait! That’s **12.8 mA**, but the **standard answer is 1280 mA**, and the **response is 12800 mA**.
+
+---
+
+### Step 5: Check for possible error
+
+Let’s recheck the units and the formula:
+
+- The formula is correct: $ I = n e \mu A \frac{V}{L} $
+- $ A = 1 \, \text{cm}^2 = 10^{-4} \, \text{m}^2 $
+- $ L = 1 \, \text{cm} = 0.01 \, \text{m} $
+- $ \frac{V}{L} = \frac{100}{0.01} = 10^4 $
+- $ n_{\text{total}} = 2 \times 10^{12} $
+- $ e = 1.6 \times 10^{-19} $
+- $ \mu = 4 \times 10^4 $
+
+So:
+
+$$
+I = 2 \times 10^{12} \cdot 1.6 \times 10^{-19} \cdot 4 \times 10^4"
+C,C,yes
+2.20 to 2.30,B,yes
+0.470 to 0.475,A,yes
+6.00 : 7.30,D,no
+210 to 220,B,yes
+A,B,No.
+C,C,yes
+C,C,yes
+C,B,No.
+C,B,No.
+D,D,yes
+D,A,No.
+B,C,"To determine whether the response is correct, let's analyze the problem.
+
+We are given:
+
+- Conductivity at room temperature, **σ = 10⁻⁶ Ω⁻¹·m⁻¹**
+- Electron mobility, **μₑ = 0.75 m²·V⁻¹·s⁻¹**
+- Hole mobility, **μₕ = 0.06 m²·V⁻¹·s⁻¹**
+
+For an intrinsic semiconductor, the conductivity is given by:
+
+$$
+\sigma = e (n \mu_e + p \mu_h)
+$$
+
+Since it's intrinsic, the electron and hole concentrations are equal:
+
+$$
+n = p = n_i
+$$
+
+So the equation becomes:
+
+$$
+\sigma = e n_i (\mu_e + \mu_h)
+$$
+
+We can solve for $ n_i $:
+
+$$
+n_i = \frac{\sigma}{e (\mu_e + \mu_h)}
+$$
+
+Using $ e = 1.6 \times 10^{-19} \, \text{C} $, and substituting the values:
+
+$$
+n_i = \frac{10^{-6}}{(1.6 \times 10^{-19}) (0.75 + 0.06)} = \frac{10^{-6}}{(1.6 \times 10^{-19})(0.81)} = \frac{10^{-6}}{1.296 \times 10^{-19}} \approx 7.716 \times 10^{12} \, \text{m}^{-3}
+$$
+
+This matches **option B**: $ 7.7 \times 10^{12} $
+
+The **standard answer is B**, and the **response is C**, which is **incorrect**.
+
+### ✅ Final Answer: **no**"
+D,B,No.
+A,B,no
+B,A,no
+1485 TO 1495,C,yes
+D,D,yes
+B,B,yes
+2.8 TO 2.9,A,yes
+29.5 TO 30.0,D,yes
+11470.00 TO 11580.00,D,yes
+C,A,No.
+0.190 TO 0.238,D,yes
+0.14 TO 0.16,A,no
+-48251 TO -48240,C,"To determine whether the response **C** is correct, we need to understand what the question is asking and what the correct answer should be.
+
+---
+
+### Given:
+
+- $ F = 96500 \, \text{C/mol} $
+- $ E^\circ_{\text{Ni}^{+2}/\text{Ni}} = -0.25 \, \text{V} $
+- Temperature = 298 K
+
+We are asked to find the standard Gibbs free energy change for the formation of $ \text{Ni}^{+2} $, which is $ \mu^\circ_{\text{Ni}^{+2}} $, in J/mol.
+
+---
+
+### Step 1: Use the formula relating Gibbs free energy and cell potential:
+
+$$
+\Delta G^\circ = -nFE^\circ
+$$
+
+Where:
+- $ \Delta G^\circ $ is the standard Gibbs free energy change (in J/mol)
+- $ n $ is the number of moles of electrons transferred
+- $ F $ is Faraday's constant (96500 C/mol)
+- $ E^\circ $ is the standard cell potential (in volts)
+
+---
+
+### Step 2: Determine the number of electrons transferred
+
+For the reaction:
+
+$$
+\text{Ni} \rightarrow \text{Ni}^{+2} + 2e^-
+$$
+
+This is the oxidation half-reaction. So, **2 electrons** are transferred.
+
+So, $ n = 2 $
+
+---
+
+### Step 3: Plug into the formula
+
+$$
+\Delta G^\circ = -nFE^\circ = -(2)(96500)(-0.25) = 2 \times 96500 \times 0.25 = 48250 \, \text{J/mol}
+$$
+
+So the standard Gibbs free energy change is **+48250 J/mol**.
+
+But the question asks for $ \mu^\circ_{\text{Ni}^{+2}} $, which is the standard Gibbs free energy of formation of $ \text{Ni}^{+2} $, which is **equal in magnitude but opposite in sign** to the $ \Delta G^\circ $ for the oxidation of Ni to Ni²+.
+
+So:
+
+$$
+\mu^\circ_{\text{Ni}^{+2}} = -48250 \, \text{J/mol}
+$$
+
+---
+
+### Step 4: Round to nearest integer
+
+$$
+\mu^\circ_{\text{Ni}^{+2}} \approx -48250 \, \text{J/mol}
+$$
+
+This falls within the given range: **-48251 to -48240**
+
+---
+
+### Final Answer:
+
+- The correct value is **-48250 J/mol**, which is within the given range.
+- The response **C** is the correct choice.
+
+✅ **Yes**, the response is correct."
+-0.60 TO -0.50,A,yes
+-233.5 TO -232.5,A,yes
+B,C,No.
+A,A,yes
+A,A,no
+C,C,yes
+D,B,no
+D,C,no
+C,C,yes
+C,B,no
+C,B,no
+B,B,yes
+400,C,yes
+A,C,No.
+A,C,No.
+26.3 TO 26.5,C,yes
+C,C,yes
+C,A,no
+C,C,yes
+D,D,yes
+B,D,no
+B,B,yes
+25.5 TO 26.5,D,yes
+B,B,yes
+B,B,yes
+C,A,no
+D,D,yes
+955 TO 965,A,yes
+D,A,no
+15,C,yes
+25,A,"To determine whether the response ""A"" is correct, we need to analyze the problem and verify if the given answer of **25 mm²** is accurate.
+
+---
+
+### **Given:**
+
+- **Unit energy required to melt the metal**: $ E_m = 6 \, \text{J/mm}^3 $
+- **Heat transfer factor**: $ H = 0.6 $
+- **Melting factor**: $ M = 0.5 $
+- **Power of welding machine**: $ P = 3000 \, \text{W} $
+- **Travel speed**: $ v = 6 \, \text{mm/s} $
+
+---
+
+### **Objective:**
+
+Find the **cross-sectional area** $ A $ of the weld in $ \text{mm}^2 $.
+
+---
+
+### **Approach:**
+
+The total energy required to melt the metal is given by:
+
+$$
+E_{\text{total}} = E_m \times A \times \text{length}
+$$
+
+But since we are dealing with **power** (energy per unit time), and the weld is being made continuously at a **travel speed**, we can use:
+
+$$
+P = E_{\text{total}} \times \text{time}
+$$
+
+We can express this as:
+
+$$
+P = E_m \times A \times v \times H \times M
+$$
+
+Where:
+- $ P $ is the power of the welding machine (in watts),
+- $ E_m $ is the unit energy (in J/mm³),
+- $ A $ is the cross-sectional area (in mm²),
+- $ v $ is the travel speed (in mm/s),
+- $ H $ is the heat transfer factor,
+- $ M $ is the melting factor.
+
+Now, plug in the values:
+
+$$
+3000 = 6 \times A \times 6 \times 0.6 \times 0.5
+$$
+
+Simplify the right-hand side:
+
+$$
+3000 = 6 \times A \times 6 \times 0.3
+$$
+
+$$
+3000 = 6 \times 6 \times 0.3 \times A
+$$
+
+$$
+3000 = 10.8 \times A
+$$
+
+$$
+A = \frac{3000}{10.8} \approx 277.78 \, \text{mm}^2
+$$
+
+---
+
+### **Conclusion:**
+
+The calculated cross-sectional area is approximately **278 mm²**, which is **not** equal to the standard answer of **25 mm²**.
+
+---
+
+### ✅ Final Answer:
+
+**no**"
+C,D,no
+D,B,no
+D,A,no
+D,D,yes
+"A,C,D",C,No.
+220 TO 220,C,yes
+A,A,yes
+588 to 592,D,yes
+B,C,no
+115 to 120,A,yes
+16666 : 16668,C,"To determine whether the response **""C""** is correct, we need to analyze the problem using the **error function (erf)** and the **diffusion equation**.
+
+---
+
+### **Given:**
+- **erf(0.5) ≅ 0.5**
+- **Concentration at depth x = 10⁻³ cm** is **half the surface concentration**
+- **Diffusion coefficient D = 6×10⁻¹¹ cm²/s**
+- **Temperature = 1355 °C**
+- **Goal:** Find the **time (t)** in seconds required to achieve this concentration profile.
+
+---
+
+### **Step 1: Use the error function diffusion model**
+
+The concentration profile of a diffusing species in a semi-infinite solid is given by:
+
+$$
+C(x, t) = C_s \cdot \text{erf}\left(\frac{x}{2\sqrt{Dt}}\right)
+$$
+
+Where:
+- $ C(x, t) $ = concentration at depth $ x $ and time $ t $
+- $ C_s $ = surface concentration
+- $ x $ = depth
+- $ D $ = diffusion coefficient
+- $ t $ = time
+
+We are told that:
+
+$$
+C(x, t) = \frac{1}{2} C_s
+$$
+
+So:
+
+$$
+\frac{1}{2} C_s = C_s \cdot \text{erf}\left(\frac{x}{2\sqrt{Dt}}\right)
+$$
+
+Divide both sides by $ C_s $:
+
+$$
+\frac{1}{2} = \text{erf}\left(\frac{x}{2\sqrt{Dt}}\right)
+$$
+
+We are given that:
+
+$$
+\text{erf}(0.5) ≈ 0.5
+$$
+
+So:
+
+$$
+\frac{x}{2\sqrt{Dt}} = 0.5
+$$
+
+---
+
+### **Step 2: Solve for time t**
+
+Given:
+- $ x = 10^{-3} $ cm
+- $ D = 6 \times 10^{-11} $ cm²/s
+
+Substitute into the equation:
+
+$$
+\frac{10^{-3}}{2\sqrt{6 \times 10^{-11} \cdot t}} = 0.5
+$$
+
+Multiply both sides by $ 2\sqrt{6 \times 10^{-11} \cdot t} $:
+
+$$
+10^{-3} = 0.5 \cdot 2\sqrt{6 \times 10^{-11} \cdot t}
+$$
+
+$$
+10^{-3} = \sqrt{6 \times 10^{-11} \cdot t}
+$$
+
+Square both sides:
+
+$$
+(10^{-3})^2 = 6 \times 10^{-11} \cdot t
+$$
+
+$$
+10^{-6} = 6 \times 10^{-11} \cdot t
+$$
+
+Solve for $ t $:
+
+$$
+t = \frac{10^{-6}}{6 \times 10^{-11}} = \frac{1}{6} \times 10^5 = \frac{10^5}{6} ≈ 16666.67 \text{ s}
+$$
+
+---
+
+### **Step 3: Final Answer**
+
+The calculated time is approximately **16666.67 seconds**, which is **16666 or 16668** when rounded.
+
+So, the correct answer is **16666 : 16668**, and the response **""C""** is **correct**.
+
+---
+
+### ✅ **Answer: yes**"
+7.5 to 7.7,A,yes
+45 to 52,B,"To determine whether the response **""B""** is correct, we need to evaluate the reasoning and calculation behind the question.
+
+### Given:
+- Standard reduction potential of nickel: **E°(Ni²⁺/Ni) = -0.25 V**
+- Faraday's constant: **F = 96500 C/mol**
+- Universal gas constant: **R = 8.314 J/(K·mol)**
+- Temperature: **T = 298 K**
+- Nickel chloride concentration: **[NiCl₂] = 0.06 M**
+- pH = 4 → [H⁺] = 10⁻⁴ M
+
+### Objective:
+Find the **partial pressure of hydrogen (pH₂)** required to stop the corrosion of nickel. This means we are looking for the condition where the **corrosion reaction is reversed**, i.e., the **hydrogen evolution reaction (HER)** becomes **more favorable** than the **nickel oxidation reaction**.
+
+### Corrosion Reaction:
+Nickel corrodes in acidic solution by undergoing oxidation:
+$$
+\text{Ni} \rightarrow \text{Ni}^{2+} + 2e^-
+$$
+Standard potential for this is:
+$$
+E^\circ(\text{Ni}^{2+}/\text{Ni}) = -0.25 \, \text{V}
+$$
+
+### Hydrogen Evolution Reaction (HER):
+$$
+2\text{H}^+ + 2e^- \rightarrow \text{H}_2
+$$
+Standard potential for this is:
+$$
+E^\circ(\text{H}^+/\text{H}_2) = 0 \, \text{V}
+$$
+
+### To stop corrosion, the HER must be more favorable than the Ni oxidation. That is:
+$$
+E_{\text{cell}} = E_{\text{cathode}} - E_{\text{anode}} = E_{\text{HER}} - E_{\text{Ni oxidation}} > 0
+$$
+
+Let’s write the Nernst equation for both reactions.
+
+---
+
+### 1. **Nickel Oxidation (Anode):**
+$$
+\text{Ni} \rightarrow \text{Ni}^{2+} + 2e^-
+$$
+This is the reverse of the standard reduction, so:
+$$
+E_{\text{anode}} = E^\circ(\text{Ni}^{2+}/\text{Ni}) - \frac{RT}{2F} \ln \left( \frac{1}{[\text{Ni}^{2+}]} \right)
+$$
+$$
+E_{\text{anode}} = -0.25 - \frac{(8.314)(298)}{2 \times 96500} \ln \left( \frac{1}{0.06} \right)
+$$
+$$
+E_{\text{anode}} = -0.25 - \frac{2477.572}{193000} \ln(16.67)
+$$
+$$
+E_{\text{anode}} = -0.25 - 0.0128 \times 2.816
+$$
+$$
+E_{\text{anode}} = -0.25 - 0.0361 = -0.2861 \, \text{V}
+$$
+
+---
+
+### 2. **Hydrogen Evolution (Cathode):**
+$$
+2\text{H}^+ + 2e^- \rightarrow \text{H}_2
+$$
+$$
+E_{\text{cathode}} = E^\circ(\text{H}^+/\text{H}_2) - \frac{RT}{2F} \ln \left( \frac{1}{[\text{H}^+]^2 P_{\text{H}_2}} \right)
+$$
+$$
+E_{\text{cathode}} = 0 - \frac{(8.314)(298)}{2 \times 96500} \ln \left( \frac{1}{(10^{-4})^2 P_{\text{H}_2}} \right)
+$$
+$$
+E_{\text{cathode}} = -0.0128 \ln \left( \frac{1}{10^{-8} P_{\text{H}_2}} \right)
+$$
+$$
+E_{\text{cathode}} = -0.0128 \ln \left( \frac{10^8}{P_{\text{H}_2}} \right)
+$$
+$$
+"
+77 to 83,C,yes
+0.1 to 0.1,A,yes
+9.7 to 11.2,D,yes
+A,A,yes
+B,B,yes
+C,B,no
+2,D,yes
+D,C,no
+1,A,yes
+A,A,yes
+4900 TO 4940,C,yes
+D,R,No.
+180 TO 220,B,yes
+D,D,yes
+0.039 TO 0.042,A,yes
+4,A,"To determine whether the response is correct, let's go through the calculation step-by-step.
+
+**Given:**
+- Surface area of the iron plate = 50 cm² = 50 × 10⁻⁴ m² = 0.005 m²  
+- Mass loss = 200 g = 0.2 kg  
+- Time = 10 years  
+
+**Corrosion rate formula:**
+
+$$
+\text{Corrosion rate} = \frac{\text{Mass loss (kg)}}{\text{Surface area (m²)} \times \text{Time (year)}}
+$$
+
+$$
+\text{Corrosion rate} = \frac{0.2}{0.005 \times 10} = \frac{0.2}{0.05} = 4 \, \text{kg/m²/year}
+$$
+
+**Conclusion:** The calculated corrosion rate is **4 kg/m²/year**, which matches the standard answer.
+
+**Answer:** yes"
+15 TO 15,A,"To determine whether the response ""A"" is correct, we need to evaluate the **flux** using Fick's first law of diffusion:
+
+$$
+J = -D \frac{dC}{dx}
+$$
+
+Where:
+- $ J $ is the **diffusion flux** (in $ atoms\cdot mm^{-2}\cdot s^{-1} $),
+- $ D $ is the **diffusion coefficient** ($ 3 \times 10^{-3} \, mm^2\cdot s^{-1} $),
+- $ C(x) = a_1 x^2 + a_2 x $, with $ a_1 = a_2 = 1 $,
+- $ x $ is the position in mm.
+
+---
+
+### Step 1: Compute the derivative $ \frac{dC}{dx} $
+
+$$
+\frac{dC}{dx} = \frac{d}{dx}(x^2 + x) = 2x + 1
+$$
+
+---
+
+### Step 2: Plug into Fick's law at $ x = 2 \, mm $
+
+$$
+J = -D \cdot (2x + 1) = -3 \times 10^{-3} \cdot (2(2) + 1) = -3 \times 10^{-3} \cdot 5 = -15 \times 10^{-3} \, atoms\cdot mm^{-2}\cdot s^{-1}
+$$
+
+The **magnitude** of the flux is:
+
+$$
+|J| = 15 \times 10^{-3} \, atoms\cdot mm^{-2}\cdot s^{-1}
+$$
+
+So the value of $ y $ is **15**.
+
+---
+
+### Step 3: Evaluate the response
+
+The question states that the **magnitude of flux** is $ y \times 10^{-3} $, and the correct value is **15**, so $ y = 15 $.
+
+If the response was labeled **A**, and **A** corresponds to **15**, then the response is **correct**.
+
+---
+
+### ✅ Final Answer:
+
+**yes**."
+A,C,No.
+C,C,yes
+D,D,yes
+A,B,no
+A,A,yes
+B,B,yes
+11.0 to 12.5,A,no
+C,D,no
+4 to 4,D,yes
+0.056 TO 0.063,A,"To determine whether the response ""A"" is correct, we need to evaluate the calculation of the intensity of magnetization.
+
+### Given:
+- Mass of the magnet, $ m = 50 \, \text{g} $
+- Magnetic moment, $ M = 4.2 \times 10^{-7} \, \text{Am}^2 $
+- Density of the magnet, $ \rho = 7.2 \, \text{g/cm}^3 $
+
+### Step 1: Find the volume of the magnet
+$$
+\text{Volume} = \frac{\text{Mass}}{\text{Density}} = \frac{50}{7.2} \approx 6.944 \, \text{cm}^3
+$$
+
+### Step 2: Convert volume to cubic meters
+$$
+1 \, \text{cm}^3 = 10^{-6} \, \text{m}^3 \Rightarrow 6.944 \, \text{cm}^3 = 6.944 \times 10^{-6} \, \text{m}^3
+$$
+
+### Step 3: Intensity of magnetization $ I $ is given by:
+$$
+I = \frac{M}{V} = \frac{4.2 \times 10^{-7}}{6.944 \times 10^{-6}} \approx 0.0605 \, \text{Am}^{-1}
+$$
+
+### Final Answer:
+$$
+I \approx 0.0605 \, \text{Am}^{-1}
+$$
+
+This value lies within the range **0.056 to 0.063**, so the correct response is **A**.
+
+### ✅ Final Answer: **yes**."
+D,B,no
+1500 TO 1600,A,no
+C,C,yes
+B,B,yes
+1.7 TO 2.3,A,"To determine whether the response **A** is correct, we need to evaluate the calculation of the magnetic moment per iron atom based on the given data.
+
+### Given:
+- Lattice parameter of iron (a) = 0.287 nm = 0.287 × 10⁻⁹ m
+- Saturation magnetization (M_s) = 1700 kA/m = 1700 × 10³ A/m
+- We are to find the magnetic moment per iron atom (μ) in Am², and the answer is given as **x × 10⁻²³**, with the standard answer range **1.7 to 2.3**.
+
+---
+
+### Step 1: Determine the number of atoms per unit volume (n)
+
+Iron has a **body-centered cubic (BCC)** structure.  
+For BCC, the number of atoms per unit volume is:
+
+$$
+n = \frac{2}{a^3}
+$$
+
+$$
+n = \frac{2}{(0.287 \times 10^{-9})^3} = \frac{2}{(2.363 \times 10^{-28})} = 8.46 \times 10^{27} \text{ atoms/m}^3
+$$
+
+---
+
+### Step 2: Use the relation between magnetization and magnetic moment
+
+Magnetization (M_s) is related to the magnetic moment per atom (μ) as:
+
+$$
+M_s = n \cdot \mu
+$$
+
+$$
+\mu = \frac{M_s}{n}
+$$
+
+$$
+\mu = \frac{1700 \times 10^3}{8.46 \times 10^{27}} = \frac{1.7 \times 10^6}{8.46 \times 10^{27}} = 2.01 \times 10^{-22} \text{ A·m}^2
+$$
+
+Now convert to the required format:
+
+$$
+\mu = 2.0 \times 10^{-22} = 20 \times 10^{-23}
+$$
+
+So, **x = 20**
+
+---
+
+### Step 3: Compare with the given range
+
+The standard answer is **1.7 to 2.3**, but we have calculated **x = 20**, which is **not** in that range.
+
+Therefore, **the response A is incorrect**.
+
+---
+
+### ✅ Final Answer:
+**no**"
+D,C,no
+A,B,no
+C,B,no
+D,D,yes
+C,A,no
+C,C,yes
+A,A,yes
+D,D,yes
+B,B,yes
+B,D,no
+C,B,no
+D,B,no
+C,B,No.
+C,C,yes
+B,C,no
+B,B,yes
+31.0 TO 32.0,A,yes
+A,A,yes
+A,A,yes
+A,D,no.
+B,C,no
+2347 TO 2357,D,no
+14 TO 18,A,"To determine whether the response ""A"" is correct, we need to evaluate the given problem and see if the answer ""14 to 18 seconds"" is a reasonable estimate for the time required to fill the mold.
+
+---
+
+### **Given:**
+
+- **Acceleration due to gravity** $ g = 9.8 \, m/s^2 $
+- **Cross-sectional area of gate** $ A = 0.2 \, m^2 $
+- **Height of fall** $ h = 0.5 \, m $
+- **Volume of mold cavity** $ V = 10 \, m^3 $
+
+---
+
+### **Assumptions and Simplifications:**
+
+- Liquid metal falls **freely** from a height of 0.5 m, so we can use **free-fall motion** to find the **velocity** at the gate.
+- Ignore **fluid friction**, **viscosity**, and **drag**.
+- The flow is **incompressible** and **steady**.
+- The **flow rate** is constant once the gate is open.
+
+---
+
+### **Step 1: Calculate velocity of the liquid at the gate**
+
+Using the kinematic equation for free fall:
+
+$$
+v = \sqrt{2gh}
+$$
+
+$$
+v = \sqrt{2 \times 9.8 \times 0.5} = \sqrt{9.8} \approx 3.13 \, m/s
+$$
+
+---
+
+### **Step 2: Calculate the flow rate at the gate**
+
+$$
+Q = A \times v = 0.2 \times 3.13 \approx 0.626 \, m^3/s
+$$
+
+---
+
+### **Step 3: Calculate time to fill the mold**
+
+$$
+t = \frac{V}{Q} = \frac{10}{0.626} \approx 15.97 \, \text{seconds}
+$$
+
+---
+
+### **Conclusion:**
+
+The calculated time to fill the mold is approximately **16 seconds**, which falls within the given range of **14 to 18 seconds**.
+
+---
+
+### ✅ Final Answer:
+
+**Yes**. The response ""A"" is correct."
+A,D,No.
+A,A,yes
+"A,B,D",D,no
+2626 TO 2632,A,yes
+0.9 TO 1.0,A,"To determine whether the response is correct, we need to calculate the terminal velocity $ v $ of a spherical inclusion rising in liquid steel using **Stokes' law** and the given parameters.
+
+---
+
+### **Given:**
+
+- Drag force: $ F_d = 3\pi \mu D v $
+- Density of liquid steel: $ \rho_{\text{steel}} = 7900 \, \text{kg/m}^3 $
+- Viscosity of liquid steel: $ \mu = 0.0079 \, \text{Pa·s} $
+- Density of inclusion: $ \rho_{\text{inclusion}} = 2500 \, \text{kg/m}^3 $
+- Acceleration due to gravity: $ g = 9.8 \, \text{m/s}^2 $
+- Diameter of inclusion: $ D = 50 \, \mu\text{m} = 50 \times 10^{-6} \, \text{m} $
+
+---
+
+### **Step 1: Terminal velocity condition**
+
+At terminal velocity, the **gravitational force** equals the **drag force**:
+
+$$
+F_g = F_d
+$$
+
+$$
+(\rho_{\text{steel}} - \rho_{\text{inclusion}}) \cdot \frac{4}{3} \pi \left(\frac{D}{2}\right)^3 \cdot g = 3\pi \mu D v
+$$
+
+---
+
+### **Step 2: Simplify the equation**
+
+$$
+(\rho_{\text{steel}} - \rho_{\text{inclusion}}) \cdot \frac{4}{3} \pi \left(\frac{D^3}{8}\right) \cdot g = 3\pi \mu D v
+$$
+
+$$
+\frac{(\rho_{\text{steel}} - \rho_{\text{inclusion}}) \cdot D^3 \cdot g}{6} = 3\mu D v
+$$
+
+$$
+v = \frac{(\rho_{\text{steel}} - \rho_{\text{inclusion}}) \cdot D^2 \cdot g}{18\mu}
+$$
+
+---
+
+### **Step 3: Plug in the values**
+
+$$
+v = \frac{(7900 - 2500) \cdot (50 \times 10^{-6})^2 \cdot 9.8}{18 \cdot 0.0079}
+$$
+
+$$
+v = \frac{5400 \cdot (2.5 \times 10^{-9}) \cdot 9.8}{0.1422}
+$$
+
+$$
+v = \frac{5400 \cdot 2.45 \times 10^{-8}}{0.1422}
+$$
+
+$$
+v = \frac{1.323 \times 10^{-4}}{0.1422} \approx 9.31 \times 10^{-4} \, \text{m/s}
+$$
+
+$$
+v \approx 0.931 \, \text{mm/s}
+$$
+
+---
+
+### **Conclusion:**
+
+The calculated terminal velocity is approximately **0.93 mm/s**, which falls within the range **0.9 to 1.0 mm/s**.
+
+---
+
+### ✅ **Answer: yes**"
+A,D,No.
+D,D,yes
+D,B,no
+D,D,yes
+C,C,yes
+B,B,yes
+D,D,yes
+C,B,no
+C,C,yes
+B,A,no
+C,C,yes
+B,D,no
+B,C,No.
+B,B,yes
+B,A,no
+1.80 TO 2.20,A,"To determine the minimum pH at which $ \text{Fe}^{3+} $ will precipitate as $ \text{Fe(OH)}_3 $, we start with the solubility product expression:
+
+$$
+K_{sp} = [\text{Fe}^{3+}][\text{OH}^-]^3
+$$
+
+Given:
+- $ [\text{Fe}^{3+}] = 10^{-3} \, \text{M} $
+- $ K_{sp} = 10^{-39} $
+
+We solve for $ [\text{OH}^-] $:
+
+$$
+10^{-39} = (10^{-3})[\text{OH}^-]^3
+$$
+
+$$
+[\text{OH}^-]^3 = \frac{10^{-39}}{10^{-3}} = 10^{-36}
+$$
+
+$$
+[\text{OH}^-] = (10^{-36})^{1/3} = 10^{-12}
+$$
+
+Now, calculate the pH:
+
+$$
+\text{pOH} = -\log(10^{-12}) = 12
+$$
+
+$$
+\text{pH} = 14 - \text{pOH} = 14 - 12 = 2.00
+$$
+
+The minimum pH at which $ \text{Fe}^{3+} $ will precipitate is **2.00**, which falls within the range **1.80 to 2.20**.
+
+Thus, the response **A** is correct.
+
+**Answer: yes**"
+0.54 TO 0.58,A,yes

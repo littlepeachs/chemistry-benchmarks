@@ -1,0 +1,3728 @@
+Truth,Model,Critic
+0,"To determine the **spin-only magnetic moment** for the **low-spin case** of the metal complex **RhCl(CO)(PPh₃)₂**, we need to analyze the **electron configuration** of the **rhodium (Rh)** ion in this complex.
+
+---
+
+### Step 1: Determine the oxidation state of Rh
+
+The complex is **RhCl(CO)(PPh₃)₂**.
+
+- **Cl⁻** is a monodentate ligand with a -1 charge.
+- **CO** is a neutral ligand.
+- **PPh₃** is also a neutral ligand.
+
+So, the total charge from the ligands is:  
+-1 (from Cl⁻) + 0 (CO) + 0 (PPh₃) = -1.
+
+Let the oxidation state of Rh be **x**.  
+Then, total charge of the complex is **x - 1**.
+
+Assuming this is a neutral complex (common in such cases unless otherwise stated), we have:
+
+$$
+x - 1 = 0 \Rightarrow x = +1
+$$
+
+So, the **oxidation state of Rh is +1**.
+
+---
+
+### Step 2: Determine the electron configuration of Rh⁺
+
+Rh has atomic number 45, so neutral Rh has the electron configuration:
+
+$$
+[\text{Kr}] 4d^7 5s^1
+$$
+
+When Rh is oxidized to **Rh⁺**, it loses one electron. So the electron configuration becomes:
+
+$$
+[\text{Kr}] 4d^7
+$$
+
+So, **Rh⁺ has 7 d-electrons**.
+
+---
+
+### Step 3: Determine the geometry and ligand field splitting
+
+We are told to consider the **low-spin case**.
+
+- **Rh⁺** is a **d⁷** ion.
+- The ligands in the complex are **Cl⁻, CO, and PPh₃**.
+
+These are **strong field ligands** (especially CO and PPh₃), which cause **large ligand field splitting**. Hence, the complex is likely **octahedral** with a **low-spin configuration**.
+
+For **octahedral low-spin d⁷** complexes, the **electron configuration** is:
+
+$$
+t_{2g}^5 e_g^2
+$$
+
+This is a **low-spin** configuration because the crystal field splitting energy is large enough to prevent high-spin states.
+
+---
+
+### Step 4: Calculate the number of unpaired electrons
+
+In the **low-spin d⁷** configuration:
+
+- **t₂g** has 5 electrons → all paired (since it's low-spin)
+- **e_g** has 2 electrons → both paired
+
+So, **total unpaired electrons = 0**
+
+---
+
+### Step 5: Calculate the spin-only magnetic moment
+
+The **spin-only magnetic moment** is given by the formula:
+
+$$
+\mu = \sqrt{n(n + 2)} \quad \text{(in Bohr magnetons)}
+$$
+
+Where **n** is the number of unpaired electrons.
+
+Here, **n = 0**, so:
+
+$$
+\mu = \sqrt{0(0 + 2)} = \sqrt{0} = 0
+$$
+
+---
+
+### ✅ Final Answer:
+
+**0**
+
+So, the answer is: **0** (numerical value)  
+But since the instructions say to reply with the **single letter corresponding to the correct answer**, and **0** is a valid numerical value, the answer is:
+
+$$
+\boxed{0}
+$$",yes
+4,"The question refers to the equilibrium between **NO₂** (brownish-red gas) and a **colorless gas**, **N₂Oₓ**. We are to determine the value of **x**.
+
+Let’s consider the relevant equilibrium reaction:
+
+$$
+\ce{2NO2 <=> N2O4}
+$$
+
+- **NO₂** is a brownish-red gas.
+- **N₂O₄** (dinitrogen tetroxide) is a colorless gas at room temperature.
+
+This is a well-known equilibrium in chemistry. The reaction is:
+
+$$
+\ce{2NO2 <=> N2O4}
+$$
+
+From this, we can see that the colorless gas is **N₂O₄**, which corresponds to **x = 4**.
+
+### ✅ Final Answer: **4**",yes
+B,"The answer is: **B**
+
+Alkali metals can burn in nitrogen gas under certain conditions. For example, lithium reacts with nitrogen gas at high temperatures to form lithium nitride (Li₃N). Other alkali metals may also react with nitrogen, though the reactivity varies. 
+
+The answer is: **B**",yes
+C,"We are given a set of clues about four gaseous compounds labeled **A**, **B**, **C**, and **D**, and we are to determine which compound corresponds to which letter.
+
+Let's go through the clues step by step.
+
+---
+
+### Clue 1:
+> When **A** reacts with **B** and **D** the products are gaseous at room temperature.
+
+This means:
+- The reaction of **A + B** → products are gaseous.
+- The reaction of **A + D** → products are gaseous.
+
+So, **A** must react with **B** and **D** to produce gaseous products.
+
+---
+
+### Clue 2:
+> When gas **A** reacts with gas **C** a liquid is formed.
+
+So:
+- **A + C** → liquid (not gaseous).
+
+---
+
+### Clue 3:
+> In all these reactions of **A**, the molar mass of the reaction product is bigger than the molar mass of **A** and smaller than the molar mass of the other reactant.
+
+This is a **key clue**.
+
+Let’s denote the molar mass of **A** as $ M_A $, and for the other reactants as $ M_B $, $ M_C $, and $ M_D $.
+
+Then, for the reactions:
+- $ A + B \rightarrow $ product with $ M_{\text{product}} > M_A $, and $ M_{\text{product}} < M_B $
+- $ A + D \rightarrow $ product with $ M_{\text{product}} > M_A $, and $ M_{\text{product}} < M_D $
+- $ A + C \rightarrow $ product with $ M_{\text{product}} > M_A $, and $ M_{\text{product}} < M_C $
+
+So, the **product molar mass** is between the molar mass of **A** and the other reactant.
+
+This means:
+- $ M_A < M_{\text{product}} < M_B $
+- $ M_A < M_{\text{product}} < M_D $
+- $ M_A < M_{\text{product}} < M_C $
+
+So **A** must have the **lowest molar mass** among all four compounds.
+
+---
+
+### Clue 4:
+> The reaction of **A** with **B** is reversible.
+
+So the reaction between **A** and **B** is **reversible**.
+
+This is a strong clue. Reversible reactions typically involve **gaseous reactants and products**, and are often **gas-phase** reactions.
+
+---
+
+### Clue 5:
+> When you mix the product of **A** and **B** with the product of **A** and **D** a solid forms.
+
+So:
+- Product of **A + B** + Product of **A + D** → solid
+
+This implies that the two products (from A + B and A + D) are **not miscible**, and when mixed, a **solid** is formed.
+
+---
+
+### Let's evaluate the options:
+
+#### Option (A):  
+**A = CO₂**, **B = NO**, **C = Cl₂**, **D = N₂**
+
+- Molar masses:
+  - CO₂ = 44 g/mol
+  - NO = 30 g/mol
+  - Cl₂ = 71 g/mol
+  - N₂ = 28 g/mol
+
+- **A = CO₂ = 44 g/mol** is **not the smallest molar mass**, so this violates Clue 3.
+
+**Eliminate A.**
+
+---
+
+#### Option (B):  
+**A = CO₂**, **B = SO₂**, **C = NH₃**, **D = Cl₂**
+
+- Molar masses:
+  - CO₂ = 44 g/mol
+  - SO₂ = 64 g/mol
+  - NH₃ = 17 g/mol
+  - Cl₂ = 71 g/mol
+
+- A = 44 g/mol is **not the smallest**, so again, violates Clue 3.
+
+**Eliminate B.**
+
+---
+
+#### Option (C):  
+**A = H₂**, **B = N₂**, **C = O₂**, **D = Cl₂**
+
+- Molar masses:
+  - H₂ = 2 g/mol
+  - N₂ = 28 g/mol
+  - O₂ = 32 g/mol
+  - Cl₂ = 71 g/mol
+
+- **A = H₂ = 2 g/mol** is the **smallest**, which satisfies Clue 3.
+
+Let’s check the rest:
+
+- **A + B = H₂ + N₂** → product is **NH₃** (gaseous)  
+  Molar mass of NH₃ = 17 g/mol  
+  $ M",yes
+C,"To determine the correct ordering of the **d-orbitals** in the metal complex **Pt(NH₃)₃Cl₂**, we need to consider:
+
+1. **The geometry of the complex**:  
+   The formula **Pt(NH₃)₃Cl₂** suggests a **coordination number of 5**, which typically corresponds to a **square pyramidal geometry** (common for Pt²⁺ with 5 ligands).
+
+2. **Ligand field splitting in square pyramidal complexes**:  
+   In square pyramidal complexes, the **d-orbitals** split into different energy levels due to the electrostatic field created by the ligands. The splitting pattern is **more complex** than in octahedral complexes, and the **order of energy levels** depends on the orientation of the ligands.
+
+3. **Ligands in the complex**:  
+   - **NH₃** is a **strong field ligand**.
+   - **Cl⁻** is a **weak field ligand**.
+   - Since **NH₃** is stronger, it will cause greater splitting of the d-orbitals.
+
+4. **Square pyramidal geometry**:  
+   In square pyramidal geometry, the **ligands are located in the xy-plane and one along the z-axis**. The **d-orbitals** interact with the ligands as follows:
+
+   - **d_{z²}** (pointing along the z-axis) is **strongly affected** by the axial ligand (Cl⁻).
+   - **d_{x²−y²}** (pointing along the x and y axes) is also affected by the ligands in the xy-plane.
+   - The **d_{xy}, d_{xz}, d_{yz}** orbitals are **less affected** by the ligands, and their energies are **closer to each other**.
+
+5. **Order of d-orbital energies** in square pyramidal complexes:
+   - The **d_{z²}** is **highest in energy** (due to strong interaction with the axial ligand).
+   - The **d_{x²−y²}** is **next**.
+   - The **d_{xz}, d_{yz}, d_{xy}** are **lower in energy**, and their order depends on the ligand field strength.
+
+   A commonly accepted order for **square pyramidal complexes** with **strong field ligands** like NH₃ is:
+   $$
+   \mathrm{d_{xy}} = \mathrm{d_{yz}} < \mathrm{d_{xz}} < \mathrm{d_{x^2-y^2}} < \mathrm{d_{z^2}}
+   $$
+
+### ✅ Final Answer:
+**(B)** $\mathrm{d}_{xy} = \mathrm{d}_{yz} < \mathrm{d}_{xz} < \mathrm{d}_{x^2-y^2} < \mathrm{d_{z^2}}$
+
+**Answer: (B)**",no
+B,"The correct answer is: **(B) it is calcium deficient**
+
+### Explanation:
+
+Biological apatite, such as **hydroxyapatite (HA)** found in bones and teeth, is **not** exactly the same as **synthetic hydroxyapatite** (Ca₁₀(PO₄)₆(OH)₂), which is stoichiometric. Biological apatite is often **calcium deficient** and **phosphorus rich**, and may contain other ions such as carbonate, fluoride, and sodium.
+
+- **(A)** is **false** — biological apatite is not exactly the same as synthetic hydroxyapatite due to impurities and structural differences.
+- **(B)** is **true** — biological apatite is typically **calcium deficient**.
+- **(C)** is **false** — it is **not rich with calcium**, but rather **calcium deficient**.
+- **(D)** is **false** — the calcium-to-phosphorus ratio in biological apatite is **greater than 1.67**, not less.
+
+### ✅ Final Answer: **B**",yes
+B,"The chemical structure of biological apatite in human bone **does** contain voids or spaces. Biological apatite, specifically hydroxyapatite, is not a perfect crystalline structure but rather has a porous and amorphous nature, especially in the context of bone mineral matrix. These voids are important for the integration of organic components like collagen and for the overall mechanical properties of bone.
+
+The correct answer is: **(B) true**.",yes
+D,"The correct answer is: **(D) phosphorus**
+
+Phosphorus is the chemical element that glows in the dark, and it was discovered by the German alchemist Henning Brand in the 17th century while he was searching for the philosopher's stone.
+
+The answer is: **D**",yes
+0.962,"We are given the formula for the difference in electronegativity between two atoms A and B:
+
+$$
+X(A) - X(B) = 0.102 \sqrt{Bd(AB) - \frac{Bd(AA) + Bd(BB)}{2}}
+$$
+
+We are asked to find the difference in electronegativity between **Cl** and **H**. Let’s assign:
+
+- A = Cl
+- B = H
+
+We are given:
+
+- $ Bd(\ce{H2}) = 432 \, \pu{kJ mol^{-1}} $
+- $ Bd(\ce{Cl2}) = 244 \, \pu{kJ mol^{-1}} $
+- $ Bd(\ce{HCl}) = 427 \, \pu{kJ mol^{-1}} $
+
+Now plug into the formula:
+
+$$
+X(\ce{Cl}) - X(\ce{H}) = 0.102 \sqrt{Bd(\ce{HCl}) - \frac{Bd(\ce{H2}) + Bd(\ce{Cl2})}{2}}
+$$
+
+$$
+= 0.102 \sqrt{427 - \frac{432 + 244}{2}}
+$$
+
+$$
+= 0.102 \sqrt{427 - \frac{676}{2}}
+$$
+
+$$
+= 0.102 \sqrt{427 - 338}
+$$
+
+$$
+= 0.102 \sqrt{89}
+$$
+
+$$
+= 0.102 \times 9.433
+$$
+
+$$
+\approx 0.962
+$$
+
+### Final Answer: **0.96** (or **C** if the options are A, B, C, D and 0.96 is the correct value)
+
+✅ **Answer: C** (assuming the options are labeled A, B, C, D and 0.96 corresponds to option C)",yes
+2,"To determine the number of **boron (B) atoms** in the unit cell of **w-BN (boron nitride with the wurtzite structure)**, we need to analyze the **wurtzite structure** and how atoms are distributed within the unit cell.
+
+---
+
+### **Step 1: Understand the Wurtzite Structure**
+
+The **wurtzite structure** is a hexagonal close-packed (HCP) structure, where:
+
+- The **lattice is hexagonal** with **two atoms per unit cell** (one for each sublattice).
+- There are **two interpenetrating face-centered cubic (FCC) sublattices**.
+- In **w-BN**, **boron (B)** and **nitrogen (N)** atoms occupy **different sublattices**.
+
+---
+
+### **Step 2: Determine the Number of B Atoms per Unit Cell**
+
+In the **wurtzite structure of w-BN**:
+
+- Each **unit cell** contains **2 B atoms** and **2 N atoms**.
+- The structure is **hexagonal**, with the unit cell defined by:
+  - **a = b = d = 2.54 Å**
+  - **c = e = 3.63 Å**
+  - **angles = 90°, 60°, 120°**
+
+This is consistent with the **wurtzite structure**, which has **2 atoms per unit cell** (one B, one N) in the **hexagonal unit cell**.
+
+---
+
+### ✅ **Final Answer:**
+
+The **number of B atoms in the unit cell of w-BN** is:
+
+> **2**
+
+---
+
+### ✅ **Correct Answer:**
+**B (if the options are labeled A, B, C, D, etc.)**  
+Or if numerical, the answer is: **2**
+
+---
+
+**Answer: 2** (or **B**, depending on the format requested) ✅",yes
+2,"To determine the number of **nitrogen (N)** atoms in the unit cell of **w-BN (boron nitride)** with the **wurtzite structure**, we need to understand the **structure of the unit cell** and the **positions of the atoms** within it.
+
+---
+
+### **1. Understanding the Wurtzite Structure**
+
+The **wurtzite structure** is a hexagonal close-packed (HCP) structure with two interpenetrating face-centered cubic (FCC) lattices, one for B and one for N.
+
+In the **w-BN** structure:
+- The **B atoms** occupy **tetrahedral sites** in the HCP lattice.
+- The **N atoms** occupy the **interstitial sites**.
+
+The **unit cell** is a **right rhombic prism** with:
+- **Cell parameters**:
+  - $ a = b = \pu{2.54 \mathring{A}} $
+  - $ c = \pu{3.63 \mathring{A}} $
+- **Interior angles**:
+  - $ \alpha = 60^\circ $
+  - $ \beta = 120^\circ $
+  - $ \gamma = 90^\circ $
+
+This is a **hexagonal unit cell** (not cubic), with 6 atoms per unit cell in the **B-N wurtzite structure**.
+
+---
+
+### **2. Number of Atoms per Unit Cell in w-BN**
+
+In the **w-BN** structure:
+- The **unit cell** contains **6 atoms** in total.
+- These are **3 B atoms** and **3 N atoms**, so the **chemical formula** is **BN**.
+
+Thus, the **number of N atoms** in the unit cell is:
+
+$$
+\boxed{3}
+$$
+
+---
+
+### ✅ Final Answer: **C** (if the options are labeled A, B, C, D, etc.)  
+Or, if the answer is to be given as a number: **3**
+
+---
+
+### ✅ **Answer: 3**",No.
+A,"The statement that **apatite crystals align less in areas exposed to high stress in a mature molar tooth** is **false**.
+
+In mature molar teeth, areas subjected to high stress (such as the cuspal regions) typically show **more aligned apatite crystals**. This alignment is a result of the tooth's adaptation to mechanical stress, which promotes more organized mineral deposition.
+
+**Answer: A**",yes
+D,"The characteristic cation of **quaternary ammonium salts** is a **quaternary ammonium ion**, which has **four alkyl or aryl groups** attached to a nitrogen atom, giving it a **+1 charge**.
+
+This is represented as:
+
+$$
+\ce{[NR4]^+}
+$$
+
+So, the correct answer is:
+
+**(D) \ce{[NR4]+}**
+
+**Answer: D**",yes
+A,"To determine the false statement about **Fe₃(CO)₁₂**, let's analyze the structure of this compound.
+
+### Structure of Fe₃(CO)₁₂:
+- **Fe₃(CO)₁₂** is a well-known **iron carbonyl** with a **triangular arrangement** of three iron atoms.
+- Each iron atom is bonded to **four terminal CO ligands**.
+- There are **two bridging CO ligands** between each pair of iron atoms.
+- So, total CO ligands = **(3 × 4) + (3 × 1) = 15**, but the actual formula is **Fe₃(CO)₁₂**, meaning **12 CO ligands** in total.
+- Therefore, **each Fe is bonded to 3 terminal CO ligands** and **1 bridging CO ligand**.
+
+### Now, let's evaluate each statement:
+
+**(A) All metal centers are linked to a bridging carbonyl**  
+✅ **True**. Each Fe is linked to a bridging CO ligand.
+
+**(B) Ten carbonyls are terminal**  
+✅ **True**. 3 Fe atoms × 3 terminal CO = **9 terminal CO**, and 3 bridging CO = **3 bridging CO**, totaling **12 CO**. Wait, this seems incorrect.
+
+Let’s re-calculate:
+- Each Fe is bonded to 3 terminal CO ligands → 3 Fe × 3 = **9 terminal CO**
+- There are 3 bridging CO ligands → **3 bridging CO**
+- Total = **9 + 3 = 12 CO ligands**, which matches the formula.
+- So, **9 terminal CO**, not 10.  
+→ **Statement (B) is false**.
+
+**(C) The metal centers are all interconnected between them**  
+✅ **True**. The Fe atoms form a triangle, and are connected via bridging ligands.
+
+**(D) The metal centers form an isosceles triangle**  
+✅ **True**. The three Fe atoms are arranged in a **triangular geometry**, and in Fe₃(CO)₁₂, the triangle is **isosceles**, not equilateral.
+
+---
+
+### ✅ Final Answer: **(B)**",no
+D,"The part of the tooth with the **highest percentage of biological apatite** is:
+
+**(D) Enamel**
+
+Enamel is composed primarily of hydroxyapatite, which is a form of biological apatite. It contains about **96% by weight** of inorganic material, mostly hydroxyapatite, making it the hardest and most mineralized tissue in the body.
+
+**Answer: D**",yes
+2,"To determine the value of **x** in the reaction:
+
+$$
+\ce{2SO2 + 2CaCO3 + O2 -> xCaSO4 + 2CO2}
+$$
+
+we need to **balance the number of calcium (Ca) atoms** on both sides of the equation.
+
+---
+
+### Step 1: Count the number of Ca atoms on each side
+
+- **Left side (reactants):**  
+  $\ce{2CaCO3}$ contains **2 Ca atoms**.
+
+- **Right side (products):**  
+  $\ce{xCaSO4}$ contains **x Ca atoms**.
+
+So, to balance the Ca atoms:
+
+$$
+x = 2
+$$
+
+---
+
+### ✅ Final Answer: **2**
+
+**Answer: 2**",yes
+C,"To determine which salt yields a **colorless aqueous solution**, we need to consider the **colors of the ions** formed when the salt dissolves in water.
+
+Let's analyze each option:
+
+---
+
+**(A) \ce{CuSO4}**  
+- Copper(II) sulfate contains \ce{Cu^{2+}} and \ce{SO4^{2-}} ions.  
+- \ce{Cu^{2+}} ions are **blue** in aqueous solution.  
+✅ **Not colorless**
+
+---
+
+**(B) \ce{K2CrO4}**  
+- Potassium chromate contains \ce{K^+} and \ce{CrO4^{2-}} ions.  
+- \ce{CrO4^{2-}} is **yellow** in aqueous solution.  
+✅ **Not colorless**
+
+---
+
+**(C) \ce{NaClO4}**  
+- Sodium perchlorate contains \ce{Na^+} and \ce{ClO4^-} ions.  
+- Both \ce{Na^+} and \ce{ClO4^-} are **colorless** in aqueous solution.  
+✅ **Colorless**
+
+---
+
+**(D) \ce{Ni(NO3)2}**  
+- Nickel(II) nitrate contains \ce{Ni^{2+}} and \ce{NO3^-} ions.  
+- \ce{Ni^{2+}} is **greenish-blue** in aqueous solution.  
+✅ **Not colorless**
+
+---
+
+### ✅ **Correct Answer: (C) \ce{NaClO4}**
+
+**Answer: C**",yes
+D,"The correct answer is: **(D) Slowly, evolving hydrogen cyanide gas**
+
+Cyanides (such as sodium cyanide, NaCN) react with acids to produce hydrogen cyanide (HCN) gas. The reaction is generally slow and exothermic, and the release of HCN gas can be dangerous due to its toxicity.
+
+The reaction can be represented as:
+
+$$ \text{CN}^- + \text{H}^+ \rightarrow \text{HCN} $$
+
+This reaction is not instantaneous and is typically slow, making **(D)** the most accurate choice. 
+
+**Answer: D**",yes
+3.16,"To find the electronegativity of chlorine using Pauling's method, we use the following formula:
+
+$$
+\chi_{\text{Cl}} = \chi_{\text{H}} + \Delta \chi
+$$
+
+Where:
+- $\chi_{\text{Cl}}$ is the electronegativity of chlorine
+- $\chi_{\text{H}} = 2.20$ (Pauling's reference for hydrogen)
+- $\Delta \chi = 0.962$ (difference in electronegativity between Cl and H)
+
+Now substitute the values:
+
+$$
+\chi_{\text{Cl}} = 2.20 + 0.962 = 3.162
+$$
+
+### Final Answer: **3.162**",yes
+A,"The reactivity of alkali metals with water increases as you go down the group in the periodic table. This is due to the increasing atomic size and decreasing ionization energy, which makes it easier for the metal to lose its outermost electron and react with water.
+
+Among the given options:
+
+- **Lithium (Li)**: Least reactive
+- **Sodium (Na)**: More reactive than lithium
+- **Potassium (K)**: More reactive than sodium
+- **Cesium (Cs)**: Most reactive
+
+### ✅ Correct answer: **(A) Cesium**
+
+**Answer: A**",yes
+C,"The correct answer is: **(C) Phosphoric acid**
+
+**Explanation:**
+
+- **(A) Hydrochloric acid (HCl)** – Strong acid  
+- **(B) Perchloric acid (HClO₄)** – Strong acid  
+- **(C) Phosphoric acid (H₃PO₄)** – Weak acid  
+- **(D) Sulfuric acid (H₂SO₄)** – Strong acid (in dilute solutions)
+
+**Answer: C**",yes
+B,"To determine which atom has **valence electrons at both s and d-sublevels** in its **ground state**, we need to consider the **electron configuration** of the atom, specifically the **valence electrons** — those in the **outermost shell**.
+
+Let’s analyze each option:
+
+---
+
+### **(A) Cl (Chlorine)**
+- Atomic number: 17
+- Electron configuration: **[Ne] 3s² 3p⁵**
+- Valence shell: **n = 3**
+- Sublevels present: **s (3s) and p (3p)**
+- **No d-sublevel** in the valence shell.
+
+✅ **No d-sublevel in valence shell**.
+
+---
+
+### **(B) Cr (Chromium)**
+- Atomic number: 24
+- Electron configuration: **[Ar] 3d⁵ 4s¹**
+- Valence shell: **n = 4**
+- Sublevels present: **s (4s) and d (3d)**
+- The **4s** and **3d** sublevels are in the **valence shell** (since the 4s is outermost).
+
+✅ **Has valence electrons in both s and d sublevels.**
+
+---
+
+### **(C) F (Fluorine)**
+- Atomic number: 9
+- Electron configuration: **[He] 2s² 2p⁵**
+- Valence shell: **n = 2**
+- Sublevels present: **s (2s) and p (2p)**
+- **No d-sublevel** in valence shell.
+
+✅ **No d-sublevel in valence shell**.
+
+---
+
+### **(D) Mn (Manganese)**
+- Atomic number: 25
+- Electron configuration: **[Ar] 3d⁵ 4s²**
+- Valence shell: **n = 4**
+- Sublevels present: **s (4s) and d (3d)**
+- The **4s** and **3d** sublevels are in the **valence shell** (since the 4s is outermost).
+
+✅ **Has valence electrons in both s and d sublevels.**
+
+---
+
+### **(E) Na (Sodium)**
+- Atomic number: 11
+- Electron configuration: **[Ne] 3s¹**
+- Valence shell: **n = 3**
+- Sublevels present: **s (3s)**
+- **No d-sublevel** in valence shell.
+
+✅ **No d-sublevel in valence shell**.
+
+---
+
+### **(F) Ni (Nickel)**
+- Atomic number: 28
+- Electron configuration: **[Ar] 3d⁸ 4s²**
+- Valence shell: **n = 4**
+- Sublevels present: **s (4s) and d (3d)**
+- The **4s** and **3d** sublevels are in the **valence shell** (since the 4s is outermost).
+
+✅ **Has valence electrons in both s and d sublevels.**
+
+---
+
+### ✅ **Correct Answers:**
+- **(B) Cr**
+- **(D) Mn**
+- **(F) Ni**
+
+However, the question asks for **the single letter corresponding to the correct answer**. This implies **only one correct option** is expected.
+
+Since all three (B, D, F) are correct, but the question is likely looking for **one answer**, we must infer that the intended answer is **one of them**.
+
+In many periodic table questions, **Mn (Manganese)** is a common example of an atom with **valence electrons in both s and d sublevels**, so it is often the expected answer.
+
+---
+
+### ✅ **Final Answer: (D) Mn**",No.
+2,"To determine the **oxidation number** of the **metal (Pt)** in the complex ion **[Pt(NH₃)₂Cl₄]**, we follow these steps:
+
+---
+
+### Step 1: Understand the structure
+- The complex is **[Pt(NH₃)₂Cl₄]**, which is a **coordination complex**.
+- The **central metal** is **Pt** (platinum).
+- It is **surrounded by ligands**: **2 NH₃** (neutral ligands) and **4 Cl⁻** (anionic ligands).
+
+---
+
+### Step 2: Assign oxidation states
+- The **overall charge** of the complex is **neutral** (since no charge is indicated).
+- **NH₃** is a **neutral** ligand (oxidation state = 0).
+- **Cl⁻** is a **monodentate anionic** ligand, each has an **oxidation state of -1**.
+
+---
+
+### Step 3: Set up the equation
+Let the oxidation state of Pt be **x**.
+
+$$
+x + 2(0) + 4(-1) = 0
+$$
+
+$$
+x - 4 = 0
+$$
+
+$$
+x = +4
+$$
+
+---
+
+### ✅ Final Answer:
+**+4**
+
+Since the question asks to **reply with a single letter corresponding to the correct answer**, and if you are using a multiple-choice format (e.g., A = +1, B = +2, C = +3, D = +4), the correct answer would be:
+
+**D**
+
+---
+
+### ✅ Final Answer: **D** (or **+4** if numerical value is acceptable)",no
+A,"The reaction between sodium metal and water is a highly exothermic reaction that produces sodium hydroxide, hydrogen gas, and a large amount of heat. The reaction is:
+
+$$
+2\text{Na} (s) + 2\text{H}_2\text{O} (l) \rightarrow 2\text{NaOH} (aq) + \text{H}_2 (g) + \text{heat}
+$$
+
+In this reaction, sodium (Na) is oxidized from 0 to +1, and water (H₂O) is reduced, with hydrogen being reduced from +1 to 0. This demonstrates that sodium is a **strong reducing agent** (it donates electrons), and water acts as an **oxidizing agent**.
+
+So, the correct answer is:
+
+**(A) Sodium is a strong reducer.**
+
+The answer is: **A**",yes
+3.45,"To calculate the **density** of **cubic boron nitride (c-BN)**, we use the formula:
+
+$$
+\text{Density} = \frac{Z \cdot M}{a^3 \cdot N_A}
+$$
+
+Where:
+
+- $ Z $ = number of formula units per unit cell  
+- $ M $ = molar mass of the compound (in g/mol)  
+- $ a $ = lattice parameter (in cm)  
+- $ N_A $ = Avogadro's number ($6.022 \times 10^{23}$ mol⁻¹)
+
+---
+
+### Step 1: Determine the number of formula units per unit cell (Z)
+
+Boron nitride (BN) has a **cubic structure** similar to the **zinc blende structure**, which is a **face-centered cubic (FCC)** structure with **4 formula units per unit cell**.
+
+So, $ Z = 4 $
+
+---
+
+### Step 2: Determine the molar mass (M) of BN
+
+- Boron (B): atomic mass = 10.81 g/mol  
+- Nitrogen (N): atomic mass = 14.01 g/mol  
+- So, molar mass of BN = $ 10.81 + 14.01 = 24.82 $ g/mol
+
+---
+
+### Step 3: Convert lattice parameter to cm
+
+Given:
+$$
+a = 3.63\ \text{Å} = 3.63 \times 10^{-8}\ \text{cm}
+$$
+
+So:
+$$
+a^3 = (3.63 \times 10^{-8})^3 = 47.83 \times 10^{-24}\ \text{cm}^3
+$$
+
+---
+
+### Step 4: Plug into the density formula
+
+$$
+\text{Density} = \frac{4 \cdot 24.82}{47.83 \times 10^{-24} \cdot 6.022 \times 10^{23}}
+$$
+
+First calculate the denominator:
+
+$$
+47.83 \times 10^{-24} \cdot 6.022 \times 10^{23} = 47.83 \cdot 6.022 \times 10^{-1} = 288.1 \times 10^{-1} = 28.81
+$$
+
+Now the numerator:
+
+$$
+4 \cdot 24.82 = 99.28
+$$
+
+So:
+
+$$
+\text{Density} = \frac{99.28}{28.81} \approx 3.45\ \text{g/cm}^3
+$$
+
+---
+
+### ✅ Final Answer: **3.45 g/cm³**
+
+So, the correct answer is:
+
+$$
+\boxed{3.45}
+$$",yes
+3,"To determine the value of $ x $ in the reaction:
+
+$$
+\ce{PCl3 + 3LiH -> PH3 + xLiCl}
+$$
+
+we need to balance the equation based on the conservation of atoms.
+
+---
+
+### Step 1: Count the atoms on both sides
+
+**Left side (reactants):**
+
+- **P:** 1 (from PCl₃)
+- **Cl:** 3 (from PCl₃)
+- **Li:** 3 (from 3LiH)
+- **H:** 3 (from 3LiH)
+
+**Right side (products):**
+
+- **P:** 1 (from PH₃)
+- **H:** 3 (from PH₃)
+- **Li:** $ x $ (from xLiCl)
+- **Cl:** $ x $ (from xLiCl)
+
+---
+
+### Step 2: Match atoms on both sides
+
+- **P:** 1 on both sides → OK
+- **H:** 3 on both sides → OK
+- **Li:** 3 on the left, so $ x = 3 $ on the right
+- **Cl:** 3 on the left, so $ x = 3 $ on the right
+
+---
+
+### Final balanced equation:
+
+$$
+\ce{PCl3 + 3LiH -> PH3 + 3LiCl}
+$$
+
+---
+
+### ✅ Answer: **3**
+
+**Answer:** $\boxed{3}$",yes
+2,"We are given the chemical equation for the hydrolysis of calcium phosphide:
+
+$$
+\ce{Ca3P2 + 3H2O -> xPH3 + 3CaO}
+$$
+
+We are to find the value of **x**.
+
+---
+
+### Step 1: Balance the equation
+
+Let's count the atoms on both sides of the equation.
+
+**Left side:**
+- Ca: 3
+- P: 2
+- H: 6 (from 3 × H₂O)
+- O: 3
+
+**Right side:**
+- Ca: 3 (from 3CaO)
+- P: x (from xPH₃)
+- H: 3x (from xPH₃)
+- O: 3 (from 3CaO)
+
+Now, let's balance the atoms.
+
+#### Balance P:
+On the left: 2 P atoms  
+On the right: x P atoms  
+So, to balance P:  
+$$
+x = 2
+$$
+
+#### Check H:
+Left: 6 H atoms  
+Right: 3x H atoms  
+If x = 2, then right: 3 × 2 = 6 H atoms  
+✔️ Balanced
+
+#### Check O:
+Left: 3 O atoms  
+Right: 3 O atoms  
+✔️ Balanced
+
+#### Check Ca:
+Left: 3 Ca atoms  
+Right: 3 CaO → 3 Ca atoms  
+✔️ Balanced
+
+---
+
+### ✅ Final balanced equation:
+
+$$
+\ce{Ca3P2 + 3H2O -> 2PH3 + 3CaO}
+$$
+
+---
+
+### ✅ Answer: **2**
+
+**Answer: $\boxed{2}$**",yes
+B,"We are given:
+
+- Mass of sodium iodide (NaI): **1.5 g**
+- Mass of silver nitrate (AgNO₃): **2.7 g**
+
+We are to find the **mass of the precipitate** formed when these two react.
+
+---
+
+### Step 1: Write the balanced chemical equation
+
+The reaction between sodium iodide and silver nitrate is a **double displacement reaction**:
+
+$$
+\text{NaI} + \text{AgNO}_3 \rightarrow \text{AgI} \downarrow + \text{NaNO}_3
+$$
+
+This is already balanced.
+
+---
+
+### Step 2: Find molar masses
+
+- **NaI**:  
+  - Na = 22.99 g/mol  
+  - I = 126.90 g/mol  
+  - Molar mass of NaI = 22.99 + 126.90 = **149.89 g/mol**
+
+- **AgNO₃**:  
+  - Ag = 107.87 g/mol  
+  - N = 14.01 g/mol  
+  - O = 16.00 g/mol × 3 = 48.00 g/mol  
+  - Molar mass of AgNO₃ = 107.87 + 14.01 + 48.00 = **169.88 g/mol**
+
+- **AgI**:  
+  - Ag = 107.87 g/mol  
+  - I = 126.90 g/mol  
+  - Molar mass of AgI = 107.87 + 126.90 = **234.77 g/mol**
+
+---
+
+### Step 3: Calculate moles of each reactant
+
+- Moles of NaI = $ \frac{1.5\ \text{g}}{149.89\ \text{g/mol}} \approx 0.0100\ \text{mol} $
+
+- Moles of AgNO₃ = $ \frac{2.7\ \text{g}}{169.88\ \text{g/mol}} \approx 0.0159\ \text{mol} $
+
+---
+
+### Step 4: Determine the limiting reactant
+
+From the balanced equation:
+
+$$
+\text{NaI} + \text{AgNO}_3 \rightarrow \text{AgI} + \text{NaNO}_3
+$$
+
+The mole ratio is 1:1. So:
+
+- NaI: 0.0100 mol  
+- AgNO₃: 0.0159 mol
+
+Since NaI has fewer moles, it is the **limiting reactant**.
+
+---
+
+### Step 5: Calculate moles of precipitate (AgI)
+
+Since the mole ratio is 1:1, moles of AgI formed = moles of NaI = **0.0100 mol**
+
+---
+
+### Step 6: Convert moles of AgI to grams
+
+$$
+\text{Mass of AgI} = 0.0100\ \text{mol} \times 234.77\ \text{g/mol} = \boxed{2.35\ \text{g}}
+$$
+
+---
+
+### ✅ Final Answer: **(B) 2.35 grams**
+
+**Answer: B**",yes
+C,"The general chemical formula for carbonate salts is:
+
+$$
+\ce{M_x(CO_3)_y}
+$$
+
+Where:
+- **M** represents the metal cation.
+- **CO₃²⁻** is the carbonate ion.
+
+So, the correct answer is:
+
+**(C)**
+
+**Answer: C**",yes
+D,"When water reacts with chlorine, the reaction depends on the conditions (e.g., temperature, concentration, and presence of light or catalysts). However, under **normal conditions** (such as in a dilute aqueous solution), the reaction between chlorine gas and water produces **hydrochloric acid (HCl)** and **hypochlorous acid (HClO)**:
+
+$$
+\ce{Cl2 + H2O <=> HCl + HClO}
+$$
+
+This is a **reversible reaction**, and the extent of the reaction can vary depending on the conditions.
+
+So, the compounds formed are:
+
+- **HCl (hydrochloric acid)**  
+- **HClO (hypochlorous acid)**
+
+Now, let's look at the options:
+
+- (A) $\ce{ClO2}$ – Not formed in this reaction  
+- (B) $\ce{HClO2}$ – Not formed in this reaction  
+- (C) $\ce{HClO3}$ – Not formed in this reaction  
+- (D) $\ce{HClO}$ – **Yes**, formed  
+- (E) $\ce{HCl}$ – **Yes**, formed
+
+Since the question asks **what compounds are formed**, and multiple compounds are formed, we must choose the correct one(s) from the list.
+
+However, if the question is asking for the **main product**, or if only **one** of the options is correct, we need to consider the **most common or primary product** in the reaction.
+
+In many contexts, especially in **chlorine water** (aqueous chlorine), the **main products are HCl and HClO**, but if the question is asking for **one compound**, we must check which of the given options is a product.
+
+Among the options, **HCl (E)** is definitely a product, and **HClO (D)** is also a product.
+
+But the question is **multiple choice**, and only one option is correct. So we must look for the **most common or correct** answer in such reactions.
+
+In the reaction of **chlorine with water**, the **main products are HCl and HClO**, but if the question is asking for **one of the products**, then both (D) and (E) are correct.
+
+However, in many standard chemistry problems, the **primary reaction** is often written as:
+
+$$
+\ce{Cl2 + H2O <=> HCl + HClO}
+$$
+
+In this case, **both HCl and HClO are formed**, but if the question asks for **one of the products**, then **both (D) and (E)** are correct. However, since only **one option is to be selected**, and (E) is the **stronger acid** and more commonly associated with the reaction, the **most likely intended answer is:**
+
+$$
+\boxed{\text{E}}
+$$
+
+**Answer: E**",No.
+A,"The correct answer is: **(A) Aluminum and zinc**
+
+**Explanation:**
+
+Weak bases (such as sodium hydroxide, NaOH) can react with certain **metals** to produce **hydrogen gas**. These metals are typically **reactive metals** that are more reactive than hydrogen in the activity series.
+
+- **Aluminum (Al)** and **zinc (Zn)** are reactive enough to react with weak bases like NaOH to produce hydrogen gas.
+- Example reaction:  
+  $$
+  2\text{Al} + 2\text{NaOH} + 6\text{H}_2\text{O} \rightarrow 2\text{NaAl(OH)}_4 + 3\text{H}_2 \uparrow
+  $$
+
+Other options:
+
+- **Iron (Fe)** and **copper (Cu)** are less reactive and do **not** react with weak bases to produce hydrogen gas.
+- **Silver (Ag)** and **gold (Au)** are noble metals and **do not react** with any common reagents, including weak bases.
+- **Titanium (Ti)** and **vanadium (V)** are reactive but are **not typically** known to react with weak bases to produce hydrogen gas under standard conditions.
+
+**Answer: (A)**",yes
+A,"To determine which of the given metal complexes **do not follow the effective atomic number (EAN) rule**, also known as the **18-electron rule**, we need to calculate the **effective atomic number (EAN)** of the central metal ion in each complex.
+
+The EAN is calculated as:
+
+$$
+\text{EAN} = \text{Atomic number of metal} + \text{Number of electrons contributed by ligands}
+$$
+
+### Step 1: Identify the metal and its oxidation state
+
+Let's go through each complex:
+
+---
+
+### **(A) $\ce{IrCl(CO)(PPh3)2}$**
+
+- **Metal**: Iridium (Ir)
+- **Atomic number of Ir**: 77
+- **Oxidation state**: Ir typically has +3 oxidation state in such complexes (common in Ir(III) complexes)
+- **Ligands**:
+  - Cl⁻: 1 ligand → contributes 1 electron
+  - CO: 1 ligand → contributes 2 electrons (CO is a strong field ligand, contributes 2 electrons)
+  - PPh₃: 2 ligands → each contributes 2 electrons → total 4 electrons
+
+**EAN = 77 + 1 + 2 + 4 = 84**
+
+- **18-electron rule**: EAN = 18
+- **EAN = 84** → **Not stable according to the 18-electron rule**
+
+---
+
+### **(B) $\ce{[Fe(CN)6]^{3-}}$**
+
+- **Metal**: Iron (Fe)
+- **Atomic number of Fe**: 26
+- **Oxidation state**: Fe³⁺ → +3
+- **Ligands**: 6 CN⁻ → each contributes 2 electrons → total 12 electrons
+
+**EAN = 26 + 12 = 38**
+
+- **EAN = 38** → **Not stable according to the 18-electron rule**
+
+---
+
+### **(C) $\ce{[Fe(CN)6]^{4-}}$**
+
+- **Metal**: Iron (Fe)
+- **Atomic number of Fe**: 26
+- **Oxidation state**: Fe²⁺ → +2
+- **Ligands**: 6 CN⁻ → each contributes 2 electrons → total 12 electrons
+
+**EAN = 26 + 12 = 38**
+
+- **EAN = 38** → **Not stable according to the 18-electron rule**
+
+---
+
+### **(D) $\ce{[Fe(OH2)6]^{3+}}$**
+
+- **Metal**: Iron (Fe)
+- **Atomic number of Fe**: 26
+- **Oxidation state**: Fe³⁺ → +3
+- **Ligands**: 6 H₂O → each contributes 2 electrons → total 12 electrons
+
+**EAN = 26 + 12 = 38**
+
+- **EAN = 38** → **Not stable according to the 18-electron rule**
+
+---
+
+### ✅ Summary:
+
+All complexes (A, B, C, D) have **EAN values greater than 18**, which means they **do not follow the 18-electron rule** and are **not stable** according to this rule.
+
+However, **the question asks which is/are *not* going to be stable according to the 18-electron rule**. Since **all** have EAN ≠ 18, **all are not stable**.
+
+But the question asks for **which** is/are **not** going to be stable, and the options are (A), (B), (C), and (D). So we need to **choose all that apply**.
+
+But the instruction says:  
+> ""Reply with the single letter corresponding to the correct answer (e.g., A, B, C, D or a numerical value).""
+
+This implies only **one** correct answer is expected. So we must look for the **complex that most clearly does not follow the 18-electron rule**.
+
+Let’s recheck:
+
+- (A) EAN = 84 → far from 18
+- (B), (C), (D): EAN = 38 → also not 18
+
+However, **(A)** has an **EAN of 84**, which is **far away from 18**, while others are **closer**. So **(A)** is the **most unstable** according to the 18-electron rule.
+
+---
+
+### ✅ Final Answer:
+
+**A**
+
+--- 
+
+**Answer: A**",yes
+2,"We are given the following reaction:
+
+$$
+\ce{SiO2 + Na2CO3 -> Na4SiO4 + COx}
+$$
+
+We are told the reaction occurs in a **1:2 ratio** of $\ce{SiO2}$ to $\ce{Na2CO3}$, and the products are $\ce{Na4SiO4}$ (a salt) and a **colorless gas** $\ce{COx}$.
+
+---
+
+### Step 1: Write the balanced chemical equation
+
+Let’s write the unbalanced equation:
+
+$$
+\ce{SiO2 + Na2CO3 -> Na4SiO4 + COx}
+$$
+
+We are told that the molar ratio of $\ce{SiO2}$ to $\ce{Na2CO3}$ is **1:2**, so we'll assume:
+
+$$
+\ce{SiO2 + 2Na2CO3 -> Na4SiO4 + COx}
+$$
+
+Now, balance the equation.
+
+---
+
+### Step 2: Balance the atoms
+
+Let’s count atoms on both sides:
+
+**Left side (reactants):**
+
+- Si: 1
+- O: 2 (from SiO₂) + 3×2 = 8 (from 2Na₂CO₃)
+- Na: 2×2 = 4 (from 2Na₂CO₃)
+- C: 2 (from 2Na₂CO₃)
+
+**Right side (products):**
+
+- Si: 1 (from Na₄SiO₄)
+- O: 4 (from Na₄SiO₄) + x×1 (from COx)
+- Na: 4 (from Na₄SiO₄)
+- C: x (from COx)
+
+Now match atoms:
+
+- **Si**: 1 on each side ✅
+- **Na**: 4 on each side ✅
+- **C**: 2 on left, x on right → x = 2 ✅
+- **O**: 8 on left, 4 + x = 4 + 2 = 6 on right → 8 ≠ 6 ❌
+
+So we need to adjust the equation to balance oxygen.
+
+Let’s try multiplying the entire reaction by 2 to match the O atoms:
+
+$$
+\ce{2SiO2 + 4Na2CO3 -> 2Na4SiO4 + 4CO2}
+$$
+
+Now check oxygen:
+
+- Left: (2×2) + (4×3) = 4 + 12 = 16
+- Right: (2×4) + (4×2) = 8 + 8 = 16 ✅
+
+All atoms are balanced now.
+
+---
+
+### Step 3: Identify the gas $\ce{COx}$
+
+From the balanced equation:
+
+$$
+\ce{COx} = \ce{CO2}
+$$
+
+So, **x = 2**
+
+---
+
+### ✅ Final Answer: **2**",yes
+2,"We are told:
+
+> For every **two molecules of nitrous acid** (HNO₂) thermally decomposed, **one molecule each of NO, NOₓ, and H₂O** are formed.
+
+So the balanced chemical equation would look like this:
+
+$$
+2\ \ce{HNO2} \rightarrow \ce{NO} + \ce{NOx} + \ce{H2O}
+$$
+
+We need to find the value of **x** in **NOₓ**.
+
+---
+
+### Step 1: Count the atoms on both sides
+
+Let’s count the atoms of each element on both sides of the equation.
+
+#### Left side (reactants):  
+- H: 2 (from 2 HNO₂)  
+- N: 2 (from 2 HNO₂)  
+- O: 2 × 3 = 6 (from 2 HNO₂)
+
+#### Right side (products):  
+- H: 2 (from H₂O)  
+- N: 1 (from NO) + 1 (from NOₓ) = 2  
+- O: 1 (from NO) + x (from NOₓ) + 1 (from H₂O) = x + 2
+
+Now match the atoms on both sides:
+
+- **H**: 2 on both sides ✅  
+- **N**: 2 on both sides ✅  
+- **O**: 6 on the left, and x + 2 on the right →  
+  $$
+  x + 2 = 6 \Rightarrow x = 4
+  $$
+
+---
+
+### ✅ Final Answer: **4**
+
+**Answer: D** (if options are labeled A, B, C, D, etc., and 4 is one of them)  
+Or, if numerical value is acceptable: **4**.",No.
+4,"The correct answer is **3**.
+
+Each silica tetrahedron in quartz shares oxygen atoms with **three other tetrahedra**. This is due to the **three-dimensional network structure** of quartz, where each silicon atom is surrounded by four oxygen atoms, and each oxygen atom is shared between two tetrahedra. As a result, each silica tetrahedron is connected to **three neighboring tetrahedra**.
+
+**Answer: 3**",yes
+A,"The correct answer is: **(A) Ammonia**
+
+When nitrides react with moisture (water), they typically produce ammonia gas. For example:
+
+$$
+\text{Mg}_3\text{N}_2 + 6\text{H}_2\text{O} \rightarrow 3\text{Mg(OH)}_2 + 2\text{NH}_3
+$$
+
+So, the gas evolved is **ammonia**.
+
+**Answer: A**",yes
+1,"To find the value of **x** in the reaction:
+
+$$
+\ce{Si(OH)4 -> xSiO2 + 2H2O}
+$$
+
+we need to **balance the equation** by ensuring that the number of atoms of each element is the same on both sides.
+
+---
+
+### Step 1: Count atoms on the left-hand side (LHS):
+
+- **Si**: 1  
+- **O**: 4 (from Si(OH)₄)  
+- **H**: 4 (from Si(OH)₄)
+
+---
+
+### Step 2: Count atoms on the right-hand side (RHS):
+
+Let’s denote the number of SiO₂ molecules as **x**.
+
+- **Si**: x  
+- **O**: 2x (from SiO₂) + 2 (from H₂O) = 2x + 2  
+- **H**: 4 (from H₂O)
+
+---
+
+### Step 3: Set up equations for each element:
+
+#### Silicon (Si):
+- LHS: 1  
+- RHS: x  
+→ So, **x = 1**
+
+#### Oxygen (O):
+- LHS: 4  
+- RHS: 2x + 2  
+→ 4 = 2x + 2  
+→ 2x = 2  
+→ x = 1
+
+#### Hydrogen (H):
+- LHS: 4  
+- RHS: 4  
+→ Balanced
+
+---
+
+### ✅ All elements are balanced when **x = 1**
+
+---
+
+### ✅ Final Answer: **1**  
+So, the correct answer is: **1**.",yes
+3,"We are given the following chemical equation:
+
+$$
+\ce{Au + 3HNO3 + 4HCl -> HAuCl4 + xNO2 + 3H2O}
+$$
+
+We are to determine the value of **x**, the coefficient of $\ce{NO2}$.
+
+---
+
+### Step 1: Balance the equation
+
+Let's count the atoms on both sides:
+
+#### Left side:
+- Au: 1  
+- H: 3 (from HNO₃) + 4 (from HCl) = 7  
+- N: 3 (from HNO₃)  
+- O: 3×3 = 9 (from HNO₃)  
+- Cl: 4 (from HCl)
+
+#### Right side:
+- Au: 1 (from HAuCl₄)  
+- H: 1 (from HAuCl₄) + 6 (from 3H₂O) = 7  
+- N: x (from xNO₂)  
+- O: 3×1 (from 3H₂O) + 2x (from xNO₂) = 3 + 2x  
+- Cl: 4 (from HAuCl₄)
+
+Now we can match the atoms:
+
+- **N**: Left = 3, Right = x → x = 3  
+- **O**: Left = 9, Right = 3 + 2x → 9 = 3 + 2x → 2x = 6 → x = 3  
+- **Cl**: Left = 4, Right = 4 → OK  
+- **H**: Left = 7, Right = 7 → OK  
+- **Au**: Left = 1, Right = 1 → OK
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{3}
+$$
+
+So, the value of **x** is: **3**.",yes
+D,"The correct answer is: **(D) They do not contain direct carbon-metal bonds**
+
+Organometallic compounds are defined as compounds that contain **direct carbon-metal bonds**. Metallic carbonates, such as sodium carbonate (Na₂CO₃), do **not** contain a direct carbon-metal bond. Instead, they contain a carbonate ion (CO₃²⁻) that is bonded to a metal cation through ionic interactions, not through a covalent carbon-metal bond.
+
+Thus, the answer is: **D**",yes
+B,"To determine which complex **does not** exhibit **cis-trans isomerism**, we need to understand the conditions under which **geometric isomerism** (cis-trans isomerism) is possible.
+
+---
+
+### **Key Concept:**
+Geometric isomerism (cis-trans isomerism) occurs in **coordination compounds** when the **ligands are arranged differently around the central metal ion**. This is possible **only when there are at least two different ligands** and **the molecule is not linear**.
+
+---
+
+### **Option Analysis:**
+
+#### **(A) $\ce{Pt(NH3)2Cl2}$**
+
+- This is a **square planar complex** (typical of $\ce{Pt^2+}$).
+- It has **two ammonia ligands and two chloride ligands**.
+- It **can** exhibit **cis** and **trans** isomerism.
+- ✅ **Can have cis-trans isomerism**
+
+---
+
+#### **(B) $\ce{Pt(NH3)3Cl2}$**
+
+- This is also a **square planar complex**.
+- It has **three ammonia ligands and two chloride ligands**.
+- Since there are **two identical ligands** (Cl₂), it **can** exhibit **cis-trans isomerism**.
+- ✅ **Can have cis-trans isomerism**
+
+---
+
+#### **(C) $\ce{SCl2F4}$**
+
+- This is a **molecular compound**, not a coordination complex.
+- It is a **tetrahedral molecule** with **one sulfur, two chlorine, and four fluorine atoms**.
+- **Geometric isomerism is not possible** in a tetrahedral molecule with all ligands different or with only two identical ligands.
+- ❌ **Does not exhibit cis-trans isomerism**
+
+---
+
+#### **(D) $\ce{[Pt(en)2Cl2]^{2+}}$**
+
+- $\ce{en}$ (ethylenediamine) is a **bidentate ligand**.
+- The complex has **two $\ce{en}$ ligands** and **two $\ce{Cl}$ ligands**.
+- The structure is **octahedral**.
+- Since the $\ce{Cl}$ ligands can be on **opposite sides** (trans) or **adjacent** (cis), **cis-trans isomerism is possible**.
+- ✅ **Can have cis-trans isomerism**
+
+---
+
+### ✅ **Correct Answer: (C)**
+
+**Answer: C**",No.
+B,"The correct answer is: **(D) To oxidize and remove any carbonaceous deposits from the catalyst surface**
+
+### Explanation:
+Passivation of a catalyst, particularly with a low concentration of oxygen in an inert gas like nitrogen, is commonly used to **remove carbon deposits** (such as carbon monoxide, hydrocarbons, or soot) that may have accumulated on the catalyst surface. This process helps **restore the catalyst's activity** by eliminating these deposits, which can otherwise block active sites and reduce catalytic efficiency.
+
+While other options may have some relevance in certain contexts, the **primary and most direct purpose** of this passivation procedure is to **oxidize and remove carbonaceous deposits**.
+
+### Final Answer: **D**",no
+B,"The bisulfite ion is **HSO₃⁻**.
+
+To find the **conjugate base** of bisulfite, we need to remove a **proton (H⁺)** from HSO₃⁻:
+
+$$
+\text{HSO₃⁻} \rightarrow \text{SO₃²⁻} + \text{H⁺}
+$$
+
+So, the conjugate base of bisulfite (HSO₃⁻) is the **sulfite ion (SO₃²⁻)**.
+
+**Correct answer: (B) Sulfite ion**
+
+**Answer: B**",yes
+A,"The answer is: **A**
+
+Nitrates are widely used as fertilizers because they are **highly soluble** and **release nitrogen**, which is an essential nutrient for plant growth. Plants absorb nitrates through their roots and use the nitrogen to synthesize proteins, nucleic acids, and other vital compounds.
+
+**Correct answer: A**",yes
+C,"The correct answer is: **(C) Hydrogen sulfide**
+
+When simple sulfide salts (such as sodium sulfide, Na₂S) react with acids (such as hydrochloric acid, HCl), hydrogen sulfide gas (H₂S) is released.
+
+Reaction example:
+$$ \text{Na}_2\text{S} + 2\text{HCl} \rightarrow 2\text{NaCl} + \text{H}_2\text{S} \uparrow $$
+
+The answer is: **C**",yes
+A,"The reactivity of metals generally increases as you go down the group in the periodic table for alkali and alkaline earth metals. Among the options given:
+
+- **Lithium (Li)** is in Group 1 (alkali metals).
+- **Sodium (Na)** is also in Group 1.
+- **Potassium (K)** is also in Group 1.
+- **Copper (Cu)** is a transition metal and is much less reactive than the alkali metals.
+
+Among the alkali metals, reactivity increases in the order:  
+**Lithium < Sodium < Potassium**
+
+So, **Copper** is the **least reactive** among the options given.
+
+### Answer: **A**",yes
+3,"We are given the following reaction:
+
+- **NO** and **NO₂** react to form **N₂Oₓ**
+- **N₂Oₓ** then thermally decomposes to form **nitrous oxide (N₂O)** and **oxygen (O₂)**
+
+We are to find the value of **x**.
+
+---
+
+### Step 1: Write the balanced chemical reaction between **NO** and **NO₂**
+
+Let’s assume the reaction is:
+
+$$
+\ce{a NO + b NO2 -> c N2Ox}
+$$
+
+We need to find the value of **x** such that the resulting **N₂Oₓ** can decompose into **N₂O** and **O₂**.
+
+Let’s first consider the **decomposition** of **N₂Oₓ** into **N₂O** and **O₂**:
+
+$$
+\ce{N2Ox -> N2O + O2}
+$$
+
+Balance this equation.
+
+Let’s try to balance the **decomposition** first.
+
+Let’s suppose:
+
+$$
+\ce{N2Ox -> N2O + O2}
+$$
+
+Let’s balance the **oxygen**:
+
+- Left side: **x** O atoms
+- Right side: **1 O** (from N₂O) + **2 O** (from O₂) = **3 O**
+
+So:
+
+$$
+x = 3 \Rightarrow \ce{N2O3}
+$$
+
+So, **N₂O₃** decomposes into **N₂O** and **O₂**:
+
+$$
+\ce{N2O3 -> N2O + O2}
+$$
+
+Now let’s verify if **N₂O₃** can be formed from **NO** and **NO₂**.
+
+---
+
+### Step 2: Combine the two reactions
+
+Let’s write the **formation** of **N₂O₃** from **NO** and **NO₂**:
+
+$$
+\ce{NO + NO2 -> N2O3}
+$$
+
+Let’s balance this reaction.
+
+Left side:
+- N: 1 (from NO) + 1 (from NO₂) = 2 N
+- O: 1 (from NO) + 2 (from NO₂) = 3 O
+
+Right side:
+- N₂O₃: 2 N, 3 O → matches the left side.
+
+So the reaction is already balanced:
+
+$$
+\ce{NO + NO2 -> N2O3}
+$$
+
+---
+
+### Step 3: Confirm decomposition
+
+As we saw earlier:
+
+$$
+\ce{N2O3 -> N2O + O2}
+$$
+
+This is also balanced:
+
+- N: 2 on both sides
+- O: 3 on left, 1 (from N₂O) + 2 (from O₂) = 3 on right
+
+---
+
+### ✅ Final Answer:
+
+The value of **x** is **3**
+
+---
+
+### ✅ Final Answer: **C** (if options are A, B, C, D, with C = 3)  
+Or simply: **3** (as the question asks to reply with the value) ✅
+
+---
+
+**Answer: 3**",yes
+C,"To determine the correct order of the **first pKa values** for the following compounds:
+
+- $\ce{H3PO2}$ (hypophosphorous acid)
+- $\ce{H2B4O7}$ (orthoboric acid)
+- $\ce{HI}$ (hydroiodic acid)
+- $\ce{H2SO4}$ (sulfuric acid)
+
+we need to consider the **strength of the first acid dissociation** (i.e., the first pKa value) of each compound.
+
+---
+
+### Step-by-step reasoning:
+
+#### 1. **$\ce{HI}$ (hydroiodic acid)**
+
+- $\ce{HI}$ is a **strong acid** and **completely dissociates** in water.
+- Therefore, its **first pKa is very low**, close to **-10** (or even lower, depending on the source).
+- So, **$\ce{HI}$ has the lowest pKa**.
+
+#### 2. **$\ce{H2SO4}$ (sulfuric acid)**
+
+- $\ce{H2SO4}$ is a **strong acid**, and the **first dissociation is complete**.
+- The first pKa of sulfuric acid is **very low**, typically around **-3**.
+- So, $\ce{H2SO4}$ has a **lower pKa than $\ce{H3PO2}$ and $\ce{H2B4O7}$**, but **higher than $\ce{HI}$**.
+
+#### 3. **$\ce{H3PO2}$ (hypophosphorous acid)**
+
+- $\ce{H3PO2}$ is a **weak acid**.
+- It has **one acidic proton** (in the $\ce{OH}$ group), and the **first pKa is around 1.5**.
+- So, it is **stronger than $\ce{H2B4O7}$**, but **weaker than $\ce{H2SO4}$**.
+
+#### 4. **$\ce{H2B4O7}$ (orthoboric acid)**
+
+- $\ce{H2B4O7}$ is a **very weak acid**.
+- It has **two acidic protons**, and the **first pKa is around 9.24**.
+- So, it is the **weakest acid** among all four, and has the **highest pKa**.
+
+---
+
+### Final order (from **lowest to highest pKa**):
+
+$$
+\ce{HI} < \ce{H2SO4} < \ce{H3PO2} < \ce{H2B4O7}
+$$
+
+This matches **Option (E)**.
+
+---
+
+### ✅ Correct Answer: **(E)**",no
+2,"To find the value of $ x $ in the balanced chemical equation:
+
+$$
+\ce{2H2S + 3O2 -> 2H2O + xSO2}
+$$
+
+we need to ensure that the number of each type of atom is the same on both sides of the equation.
+
+---
+
+### Step 1: Count atoms on the **left side**:
+
+- **H**: 2 × 2 = 4 (from 2 H₂S)
+- **S**: 2 (from 2 H₂S)
+- **O**: 3 × 2 = 6 (from 3 O₂)
+
+---
+
+### Step 2: Count atoms on the **right side**:
+
+- **H**: 2 × 2 = 4 (from 2 H₂O)
+- **O**: 2 (from 2 H₂O) + $ x \times 2 $ (from x SO₂) = 2 + 2x
+- **S**: $ x $ (from x SO₂)
+
+---
+
+### Step 3: Balance the elements:
+
+#### 1. **Hydrogen (H)**:
+Already balanced: 4 on both sides.
+
+#### 2. **Oxygen (O)**:
+Left: 6  
+Right: 2 + 2x  
+So:
+
+$$
+6 = 2 + 2x \Rightarrow 2x = 4 \Rightarrow x = 2
+$$
+
+#### 3. **Sulfur (S)**:
+Left: 2  
+Right: $ x $  
+So:
+
+$$
+x = 2
+$$
+
+---
+
+### ✅ Final Answer: **2**
+
+So, the value of $ x $ is:
+
+$$
+\boxed{2}
+$$",yes
+4,"We are given the following chemical reaction:
+
+$$
+\ce{Pt + 4HNO3 + 6HCl -> H2PtCl6 + xNO2 + 4H2O}
+$$
+
+We are to find the value of **x**, which represents the number of moles of **NO₂** produced.
+
+---
+
+### Step 1: Balance the equation
+
+Let’s balance the reaction by counting atoms on both sides.
+
+#### Left Side:
+- Pt: 1
+- H: 4 (from HNO₃) + 6 (from HCl) = 10
+- N: 4 (from HNO₃)
+- O: 4 × 3 = 12 (from HNO₃)
+- Cl: 6 (from HCl)
+
+#### Right Side:
+- H₂PtCl₆: 2 H, 1 Pt, 6 Cl
+- x NO₂: x N, 2x O
+- 4 H₂O: 8 H, 4 O
+
+Now, let's count atoms on the right side:
+
+- Pt: 1
+- H: 2 (from H₂PtCl₆) + 8 (from H₂O) = 10
+- Cl: 6
+- N: x
+- O: 2x (from NO₂) + 4 (from H₂O) = 2x + 4
+
+Now equate atoms on both sides:
+
+- Pt: 1 = 1 ✅
+- H: 10 = 10 ✅
+- Cl: 6 = 6 ✅
+- N: 4 (from HNO₃) = x
+- O: 12 (from HNO₃) = 2x + 4
+
+---
+
+### Step 2: Solve for x
+
+From nitrogen balance:
+$$
+x = 4
+$$
+
+Let’s verify with oxygen:
+
+Left side O: 12  
+Right side O: 2x + 4 = 2(4) + 4 = 8 + 4 = 12 ✅
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{4}
+$$",yes
+C,"To determine the order of melting points among the compounds **BaF₂**, **BaCl₂**, **BaBr₂**, and **BaI₂**, we need to consider the **lattice energy** of these ionic compounds.
+
+### Key Concept:
+- **Lattice energy** is the energy required to break 1 mole of an ionic solid into gaseous ions.
+- **Higher lattice energy** means **stronger ionic bonds**, which means the compound has a **higher melting point**.
+- Lattice energy depends on:
+  - The **charge** of the ions (higher charge → higher lattice energy)
+  - The **size** of the ions (smaller ions → higher lattice energy)
+
+In these compounds:
+- The **cation** is always the same: **Ba²⁺**
+- The **anion** varies: **F⁻**, **Cl⁻**, **Br⁻**, **I⁻**
+
+So, the only variable is the **size** of the anion. The **size increases** in the order:  
+**F⁻ < Cl⁻ < Br⁻ < I⁻**
+
+### Lattice energy trend:
+- As the size of the anion **increases**, the **lattice energy decreases**.
+- Therefore, **lattice energy decreases** in the order:  
+  **BaF₂ > BaCl₂ > BaBr₂ > BaI₂**
+
+### Melting point trend:
+- Melting point is directly related to lattice energy.
+- So, **melting point decreases** in the order:  
+  **BaF₂ > BaCl₂ > BaBr₂ > BaI₂**
+
+### Therefore, the correct order of **melting points** is:  
+**BaI₂ < BaBr₂ < BaCl₂ < BaF₂**
+
+### Correct answer: **(C)**
+
+✅ **Answer: C**",yes
+A,"To determine which precipitate dissolves in **both** acid and base, we need to consider the **amphoteric** nature of the compound. An **amphoteric substance** can act as both an acid and a base, meaning it can react with both acids and bases.
+
+Let's examine the options:
+
+---
+
+**(A) \ce{Cr(OH)3}**  
+- **Chromium(III) hydroxide** is **amphoteric**.  
+- It reacts with **acids** to form salts and water.  
+- It also reacts with **bases** (like NaOH) to form complexes or dissolve.  
+✅ **Dissolves in both acid and base**
+
+---
+
+**(B) \ce{Fe(OH)2}**  
+- **Iron(II) hydroxide** is **not amphoteric**.  
+- It is a **basic hydroxide** and reacts with acids to form salts.  
+- It does **not dissolve in bases**.  
+❌ **Does not dissolve in base**
+
+---
+
+**(C) \ce{FeS}**  
+- **Iron(II) sulfide** is a **salt**.  
+- It reacts with **acids** (e.g., HCl) to produce H₂S gas.  
+- It **does not dissolve in bases**.  
+❌ **Does not dissolve in base**
+
+---
+
+**(D) \ce{MnO}**  
+- **Manganese(II) oxide** is a **basic oxide**.  
+- It reacts with **acids** to form salts.  
+- It **does not dissolve in bases**.  
+❌ **Does not dissolve in base**
+
+---
+
+### ✅ **Correct Answer: (A) \ce{Cr(OH)3}**
+
+**Answer: A**",yes
+C,"The correct answer is: **(C) They prevent oxidation.**
+
+Sulfites are used as food preservatives because they act as antioxidants, preventing oxidation of food components, which helps to preserve color, flavor, and nutritional value.
+
+The answer is: **C**",yes
+D,"To determine which of the given complexes are **chiral**, we need to analyze the **symmetry** of the coordination complex with the formula **MA₂B₂C₂** in a **perfect octahedral geometry**.
+
+---
+
+### Key Concepts:
+
+1. **Octahedral Geometry**:
+   - In a perfect octahedral complex, the **three ligands** in the **axial plane** are aligned along the **z-axis** (e.g., top and bottom of the octahedron).
+   - The **three ligands** in the **equatorial plane** are arranged in a **trigonal planar** arrangement around the central metal.
+
+2. **Ligand Positions**:
+   - In a **perfect octahedral complex**, the **three ligands in the equatorial plane** are **equivalent** (i.e., they are the same type of ligand or arranged symmetrically).
+   - If the **ligands in the equatorial plane are not symmetrically equivalent**, then the complex **may be chiral**.
+
+3. **Chirality in Octahedral Complexes**:
+   - A coordination complex is **chiral** if it **lacks a plane of symmetry**.
+   - In an **octahedral complex**, if the **equatorial ligands are not symmetrically equivalent**, the complex can be **chiral**.
+
+---
+
+### Given:
+
+- The formula is **MA₂B₂C₂**.
+- There are **three possible L–M–L angles** of **180°**:
+  - One **axial** (e.g., A–M–A)
+  - Two **equatorial** (e.g., B–M–B and C–M–C)
+
+---
+
+### Strategy:
+
+We analyze each option to see whether the **equatorial ligands are symmetrically equivalent** or not. If they are **not symmetrically equivalent**, the complex is **chiral**.
+
+---
+
+### Option Analysis:
+
+#### (A) Axial: A–M–A, Equatorial: B–M–B, C–M–C  
+- Equatorial ligands: B and C are different.
+- These ligands are not symmetrically equivalent.
+- **This complex is chiral.**
+
+#### (B) Axial: A–M–A, Equatorial: B–M–C, B–M–C  
+- Equatorial ligands: both are B–M–C (same ligands in equatorial plane).
+- These are symmetrically equivalent.
+- **This complex is achiral.**
+
+#### (C) Axial: A–M–B, Equatorial: A–M–B, C–M–C  
+- Equatorial ligands: one is A–M–B, the other is C–M–C.
+- These are not symmetrically equivalent.
+- **This complex is chiral.**
+
+#### (D) Axial: A–M–B, Equatorial: A–M–C, B–M–C  
+- Equatorial ligands: A–M–C and B–M–C are different.
+- Not symmetrically equivalent.
+- **This complex is chiral.**
+
+#### (E) Axial: A–M–C, Equatorial: A–M–B, B–M–C  
+- Equatorial ligands: A–M–B and B–M–C are different.
+- Not symmetrically equivalent.
+- **This complex is chiral.**
+
+#### (F) Axial: A–M–C, Equatorial: A–M–C, B–M–B  
+- Equatorial ligands: one is A–M–C, one is B–M–B.
+- Not symmetrically equivalent.
+- **This complex is chiral.**
+
+---
+
+### Final Answer:
+
+All options **except (B)** are chiral.
+
+✅ **Answer: B is achiral**, all others are chiral.
+
+### ✅ Correct answer: **B** is **achiral**, so the correct answer is:
+
+> **B** is **not chiral**, so the correct answer is **B**.
+
+---
+
+### ✅ Final Answer: **B**","no
+
+The response is **incorrect**.
+
+### Reasoning:
+
+The question asks: **""Which of the listed complexes are chiral?""**  
+The standard answer is: **D**.  
+The response concludes that **B is achiral**, and says **""the correct answer is B""**, which is **wrong**.
+
+### Let’s clarify:
+
+- The **correct answer** to the question ""Which of the listed complexes are chiral?"" is **D**.
+- The response incorrectly concludes that **B is the correct answer**, when in fact **B is achiral** (as it has a plane of symmetry), and **D is chiral** (as it lacks a plane of symmetry).
+
+### Correct Final Answer:
+
+✅ **D** is chiral.  
+❌ **B** is achiral.
+
+### ✅ Final Answer: **D**."
+1,"To find the value of $ x $ in the reaction:
+
+$$
+\ce{PH3 + 2O2 -> xH3PO4}
+$$
+
+we need to balance the chemical equation.
+
+---
+
+### Step 1: Write the unbalanced equation:
+
+$$
+\ce{PH3 + O2 -> H3PO4}
+$$
+
+We are told that 2 moles of $\ce{O2}$ are used, so:
+
+$$
+\ce{PH3 + 2O2 -> xH3PO4}
+$$
+
+---
+
+### Step 2: Count atoms on both sides.
+
+#### Left side:
+- P: 1
+- H: 3
+- O: 2 × 2 = 4
+
+#### Right side:
+- H: 3x
+- P: x
+- O: 4x
+
+---
+
+### Step 3: Match atoms on both sides.
+
+#### Phosphorus (P):
+- Left: 1
+- Right: x → So, $ x = 1 $
+
+#### Hydrogen (H):
+- Left: 3
+- Right: 3x → $ 3x = 3 $ → $ x = 1 $
+
+#### Oxygen (O):
+- Left: 4
+- Right: 4x → $ 4x = 4 $ → $ x = 1 $
+
+All atoms match when $ x = 1 $.
+
+---
+
+### ✅ Final Answer: **1**
+
+So, the value of $ x $ is:
+
+**1** ✅
+
+--- 
+
+**Answer: 1**",yes
+D,"To determine how many **lone pairs** are present in a molecule with:
+
+- **Tetrahedral electron-pair geometry**
+- **Linear molecular geometry**
+
+we need to apply the **VSEPR (Valence Shell Electron Pair Repulsion)** model.
+
+---
+
+### Step 1: Understand the geometries
+
+- **Tetrahedral electron-pair geometry** means there are **4 regions of electron density** (bonding or lone pairs) around the central atom.
+- **Linear molecular geometry** means the **molecular shape is linear** — i.e., the atoms are arranged in a straight line.
+
+---
+
+### Step 2: Analyze the relationship between electron geometry and molecular geometry
+
+In VSEPR, the **molecular geometry** is determined by the **number of bonding pairs** and the **number of lone pairs** around the central atom.
+
+- **Tetrahedral electron geometry** → 4 regions of electron density.
+- **Linear molecular geometry** → only 2 atoms are bonded to the central atom, and they are in a straight line.
+
+This implies that the **remaining 2 regions of electron density must be lone pairs**.
+
+---
+
+### Step 3: Count the lone pairs
+
+- Total regions of electron density = 4 (from tetrahedral geometry)
+- Number of bonding regions = 2 (from linear molecular geometry)
+- Therefore, number of **lone pairs** = 4 − 2 = **2**
+
+---
+
+### ✅ Final Answer:
+**(C) 2**
+
+The answer is: **C**",No.
+E,"To determine the number of isomers (including stereoisomers) for the octahedral **trien** (triethylenetetramine) complexes, we first need to understand the structure of **trien**.
+
+### What is trien?
+Trien is **tris(2-aminoethyl)amine**, also known as **triethylenetetramine** (TETA). Its structure is:
+
+```
+       NH2
+         |
+NH2–CH2–CH2–NH–CH2–CH2–NH2
+         |
+       NH2
+```
+
+It is a **tridentate ligand**, meaning it can bind to a central metal ion through **three donor atoms** (three nitrogen atoms).
+
+In an **octahedral complex**, trien will occupy **three coordination sites**, leaving **three remaining sites** for other ligands.
+
+However, the question is not about a specific complex, but rather about the **number of isomers** for **trien complexes** in general — i.e., how many different isomers can exist for a complex of the form **[M(trien)L₃]**, where M is a metal ion and L is a monodentate ligand.
+
+---
+
+### Step-by-step analysis:
+
+1. **Coordination geometry**: Octahedral.
+2. **Ligand type**: Trien is a **tridentate ligand** (3 donor atoms).
+3. **Remaining ligands**: Three monodentate ligands (L) can occupy the remaining three sites.
+
+So the general formula is: **[M(trien)L₃]**
+
+This is a **coordination complex** with 6 ligands total: 3 from trien, and 3 from L.
+
+---
+
+### Isomerism in such complexes:
+
+We are to count **all isomers**, including **stereoisomers** (geometric and optical isomers).
+
+Let’s analyze the possible isomers of **[M(trien)L₃]**:
+
+#### 1. **Geometric isomerism**:
+
+Since trien is a **tridentate ligand**, it can adopt different spatial configurations depending on the positions of its donor atoms.
+
+There are **two geometric isomers** for trien in an octahedral complex:
+
+- **cis-trien**: The three nitrogen atoms of trien are adjacent to each other (i.e., in a ""cis"" arrangement).
+- **trans-trien**: The three nitrogen atoms are opposite each other (i.e., in a ""trans"" arrangement).
+
+However, in an octahedral complex with trien and three other ligands, the **relative positions of the trien ligand and the other ligands** can also vary.
+
+Let’s consider the **positions of the three L ligands** relative to the trien ligand:
+
+- The trien ligand occupies three adjacent sites.
+- The three L ligands can occupy the remaining three sites, which may be either all adjacent to each other (forming a ""face"") or spread out (forming a ""non-face"").
+
+This leads to different geometric isomers.
+
+#### 2. **Stereoisomerism**:
+
+In addition to geometric isomers, we must consider **optical isomers** (enantiomers) if the complex is chiral.
+
+For a complex with **trien** and **three other ligands**, the complex can be **chiral** depending on the arrangement of the L ligands and the trien ligand.
+
+---
+
+### Counting the isomers:
+
+There are **three isomers** of the complex **[M(trien)L₃]**:
+
+1. **Cis-trien with face-arranged L ligands**
+2. **Cis-trien with non-face-arranged L ligands**
+3. **Trans-trien with L ligands arranged in a certain way**
+
+However, a more accurate and standard result is that the **complex [M(trien)L₃]** has **three isomers** in total, including stereoisomers.
+
+---
+
+### ✅ Final Answer:
+
+**(C) 3**
+
+The number of isomers (including stereoisomers) for the octahedral trien complexes is **3**.
+
+**Answer: C**",no
+1,"We are given the following chemical reaction:
+
+$$
+\ce{H3BO3 + NH3 -> xBN + 3H2O}
+$$
+
+We are to find the value of $ x $, which is the coefficient for boron nitride (BN).
+
+---
+
+### Step 1: Analyze the atoms on both sides
+
+Let’s count the atoms of each element on both sides of the equation.
+
+#### Left side (reactants):
+- **H** (from H₃BO₃): 3
+- **B** (from H₃BO₃): 1
+- **O** (from H₃BO₃): 3
+- **N** (from NH₃): 1
+- **H** (from NH₃): 3
+
+So total:
+- H: 3 (from H₃BO₃) + 3 (from NH₃) = 6
+- B: 1
+- O: 3
+- N: 1
+
+#### Right side (products):
+- **H** (from H₂O): 2 × 3 = 6
+- **O** (from H₂O): 1 × 3 = 3
+- **B** (from BN): $ x $
+- **N** (from BN): $ x $
+
+So total:
+- H: 6
+- O: 3
+- B: $ x $
+- N: $ x $
+
+---
+
+### Step 2: Match the atoms
+
+From the above, we can match:
+
+- **B**: 1 (left) = $ x $ (right) ⇒ $ x = 1 $
+- **N**: 1 (left) = $ x $ (right) ⇒ $ x = 1 $
+- **H**: 6 = 6 (balanced)
+- **O**: 3 = 3 (balanced)
+
+So, the balanced equation is:
+
+$$
+\ce{H3BO3 + NH3 -> BN + 3H2O}
+$$
+
+---
+
+### ✅ Final Answer: **1**
+
+**Answer: A** (if the options are A = 1, B = 2, etc.)  
+Or directly: **1** (as a numerical value)
+
+---
+
+**Answer: 1** ✅",yes
+2,"To find the value of $ x $ in the reaction:
+
+$$
+\ce{2HNO2 + O2 -> xHNO3}
+$$
+
+we need to **balance the chemical equation**.
+
+---
+
+### Step 1: Write the unbalanced equation:
+
+$$
+\ce{2HNO2 + O2 -> xHNO3}
+$$
+
+---
+
+### Step 2: Count the atoms on both sides
+
+**Left side (reactants):**
+
+- H: 2 × 1 = 2  
+- N: 2 × 1 = 2  
+- O: 2 × 2 + 1 × 2 = 4 + 2 = 6
+
+**Right side (products):**
+
+- H: $ x \times 1 = x $  
+- N: $ x \times 1 = x $  
+- O: $ x \times 3 = 3x $
+
+---
+
+### Step 3: Set up equations for each atom:
+
+- **Hydrogen (H):** $ x = 2 $  
+- **Nitrogen (N):** $ x = 2 $  
+- **Oxygen (O):** $ 3x = 6 $ → $ x = 2 $
+
+All equations give the same value for $ x $: **2**
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{2}
+$$",yes
+7,"To determine the **oxidation number of the metal** (Re) in the compound **[ReH₉]²⁻**, we follow these steps:
+
+---
+
+### Step 1: Identify the charge on the entire ion
+The compound is **[ReH₉]²⁻**, which means the **overall charge is -2**.
+
+---
+
+### Step 2: Determine the oxidation state of hydrogen
+Hydrogen typically has an **oxidation state of +1** in most compounds, except in hydrides (like NaH), where it is **-1**.
+
+In this case, **H is bonded to Re**, and since Re is a metal and H is more electronegative in some contexts (especially in hydrides), we assume **each H has an oxidation state of -1**.
+
+So, for **9 H atoms**, the total oxidation contribution is:
+
+$$
+9 \times (-1) = -9
+$$
+
+---
+
+### Step 3: Let the oxidation state of Re be **x**
+
+Now, the sum of the oxidation states of all atoms in the ion must equal the overall charge of the ion:
+
+$$
+x + 9(-1) = -2
+$$
+
+$$
+x - 9 = -2
+$$
+
+$$
+x = -2 + 9 = +7
+$$
+
+---
+
+### ✅ Final Answer:
+
+**The oxidation number of Re is +7**
+
+---
+
+### ✅ Answer: **G** (if the options are labeled A–G, with G = +7)  
+Or, if you're to provide the numerical value directly:
+
+**Answer: +7** (numerical value) ✅
+
+Let me know if you want the answer in letter form (e.g., A = +1, B = +2, etc.)!",yes
+2,"To find the value of $ x $ in the reaction:
+
+$$
+\ce{Xe + xF2 -> XeF4}
+$$
+
+we need to balance the number of fluorine atoms on both sides of the equation.
+
+On the right-hand side (product side), there are 4 fluorine atoms in $\ce{XeF4}$.
+
+Each $\ce{F2}$ molecule provides 2 fluorine atoms.
+
+So, to get 4 fluorine atoms, we need:
+
+$$
+x \times 2 = 4 \Rightarrow x = \frac{4}{2} = 2
+$$
+
+### ✅ Final Answer: **2**",yes
+B,"To determine the correct order of ligand-field splitting energy (LFSE), we need to consider:
+
+1. **Ligand field strength** (i.e., the nature of the ligand, such as whether it is **strong field** or **weak field**).
+2. **Electron configuration** of the central metal ion.
+3. **Oxidation state** of the metal ion.
+4. **Crystal field stabilization energy (CFSE)**, which depends on the number of d-electrons and how they are filled in the t₂g and e_g orbitals.
+
+---
+
+### Let's analyze each species:
+
+---
+
+#### **1. [Fe(OH₂)₆]³⁺**
+- Fe³⁺ has **d⁵** configuration.
+- OH₂ is a **weak field ligand**, so the complex is **high-spin**.
+- In an octahedral field, d⁵ high-spin has **maximum unpaired electrons** and **least CFSE**.
+- **LFSE is low**.
+
+---
+
+#### **2. [Fe(CN)₆]³⁻**
+- Fe³⁺, d⁵ configuration.
+- CN⁻ is a **strong field ligand**, so the complex is **low-spin**.
+- In low-spin d⁵, the d-electrons are arranged to minimize repulsion (i.e., more electrons in lower energy t₂g orbitals).
+- This results in **higher CFSE**, so **LFSE is higher** than [Fe(OH₂)₆]³⁺.
+
+---
+
+#### **3. [Mn(OH₂)₆]²⁺**
+- Mn²⁺ has **d⁵** configuration.
+- OH₂ is a **weak field ligand**, so the complex is **high-spin**.
+- Same as [Fe(OH₂)₆]³⁺, but **Mn²⁺ is less electronegative**, and the d⁵ configuration is similar.
+- **LFSE is similar to [Fe(OH₂)₆]³⁺**, but **slightly less** because of differences in electron repulsions and metal properties.
+
+---
+
+#### **4. [Ru(CN)₆]³⁻**
+- Ru³⁺ has **d⁵** configuration.
+- CN⁻ is a **strong field ligand**, so the complex is **low-spin**.
+- In low-spin d⁵, **CFSE is very high**, so **LFSE is the highest**.
+
+---
+
+### Summary of LFSE order:
+
+- [Fe(OH₂)₆]³⁺ < [Mn(OH₂)₆]²⁺ < [Fe(CN)₆]³⁻ < [Ru(CN)₆]³⁻
+
+Wait — the order **[Fe(OH₂)₆]³⁺ < [Mn(OH₂)₆]²⁺** is not necessarily correct. The **LFSE** of [Fe(OH₂)₆]³⁺ and [Mn(OH₂)₆]²⁺ is **similar** because both have d⁵ and high-spin configurations. However, **[Fe(OH₂)₆]³⁺** has a **higher effective nuclear charge** than **[Mn(OH₂)₆]²⁺**, which slightly increases the splitting energy.
+
+Thus, **[Fe(OH₂)₆]³⁺ < [Mn(OH₂)₆]²⁺** is **not** correct.
+
+The **correct order** is:
+
+**[Fe(OH₂)₆]³⁺ ≈ [Mn(OH₂)₆]²⁺ < [Fe(CN)₆]³⁻ < [Ru(CN)₆]³⁻**
+
+Now, let's look at the answer choices:
+
+---
+
+### Option Analysis:
+
+**(A)**  
+$$
+\ce{[Fe(OH2)6]^{3+}} < \ce{[Fe(CN)6]^{3-}} < \ce{[Mn(OH2)6]^{2+}} < \ce{[Ru(CN)6]^{3-}}
+$$  
+❌ Incorrect: [Fe(CN)₆]³⁻ < [Mn(OH₂)₆]²⁺ is wrong.
+
+**(B)**  
+$$
+\ce{[Fe(OH2)6]^{3+}} = \ce{[Mn(OH2)6]^{2+}} < \ce{[Fe(CN)6]^{3-}} < \ce{[Ru(CN)6]^{3-}}
+$$  
+✅ **Correct**: [Fe(OH₂)₆]³⁺ ≈ [Mn(OH₂)₆]²⁺ < [Fe(CN)₆]³⁻ < [Ru(CN)₆]³⁻
+
+**(C",yes
+3.74E-23,"To find the volume of the hexagonal unit cell of hexagonal boron nitride (h-BN), we use the formula for the volume of a hexagonal unit cell:
+
+$$
+V = \frac{\sqrt{3}}{2} \cdot a^2 \cdot c
+$$
+
+Where:
+- $ a $ is the side length of the hexagon (in this case, the lattice parameter $ b = \pu{1.47 \text{ Å}} $),
+- $ c $ is the height of the hexagonal prism (in this case, $ \pu{6.66 \text{ Å}} $).
+
+### Step 1: Convert units from Å to cm
+$$
+1 \, \text{Å} = 10^{-8} \, \text{cm}
+$$
+
+So:
+- $ a = 1.47 \times 10^{-8} \, \text{cm} $
+- $ c = 6.66 \times 10^{-8} \, \text{cm} $
+
+### Step 2: Plug into the formula
+
+$$
+V = \frac{\sqrt{3}}{2} \cdot (1.47 \times 10^{-8})^2 \cdot (6.66 \times 10^{-8})
+$$
+
+First, calculate $ (1.47 \times 10^{-8})^2 $:
+
+$$
+(1.47 \times 10^{-8})^2 = 2.1609 \times 10^{-16}
+$$
+
+Now multiply by $ 6.66 \times 10^{-8} $:
+
+$$
+2.1609 \times 10^{-16} \cdot 6.66 \times 10^{-8} = 1.439 \times 10^{-23}
+$$
+
+Now multiply by $ \frac{\sqrt{3}}{2} \approx 0.8660 $:
+
+$$
+V = 0.8660 \cdot 1.439 \times 10^{-23} = 1.246 \times 10^{-23} \, \text{cm}^3
+$$
+
+### ✅ Final Answer:
+$$
+\boxed{1.246 \times 10^{-23} \, \text{cm}^3}
+$$
+
+So the correct answer is:
+
+$$
+\boxed{1.246 \times 10^{-23}}
+$$",no
+D,"To solve this, we analyze the **VSEPR model** and the relationship between **electron-pair geometry** and **molecular geometry**.
+
+---
+
+### Given:
+- **Electron-pair geometry**: **Trigonal bipyramidal**
+- **Molecular geometry**: **Linear**
+
+---
+
+### Step 1: Understand the electron-pair geometry
+**Trigonal bipyramidal** electron-pair geometry means there are **5 electron pairs** around the central atom.
+
+These can be:
+- **5 bonding pairs**
+- **Some bonding and some lone pairs**
+
+---
+
+### Step 2: Understand the molecular geometry
+**Linear molecular geometry** means the **molecular shape** is linear — i.e., two atoms are directly opposite each other.
+
+---
+
+### Step 3: Determine the number of lone pairs
+In a **trigonal bipyramidal** electron-pair geometry with a **linear molecular geometry**, the central atom must have **3 lone pairs**.
+
+Here’s why:
+
+- Trigonal bipyramidal geometry has 5 electron pairs.
+- In a linear molecular geometry, only **2 of the electron pairs are bonding** (they are in the axial positions).
+- The remaining **3 electron pairs must be lone pairs**.
+
+So, the number of **lone pairs** is **3**.
+
+---
+
+### Final Answer:
+**(D) 3**
+
+✅ **Answer: D**",yes
+B,"The correct answer is: **(B) To generate flammable gases**
+
+Many inorganic carbides, such as calcium carbide (CaC₂), react with water to produce acetylene (C₂H₂), a flammable gas. The reaction is as follows:
+
+**CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂**
+
+This reaction is exothermic and can be dangerous due to the flammability of acetylene.
+
+**Answer: B**",yes
+C,"The composition of **dentine** is primarily inorganic, with the following approximate percentages:
+
+- **Inorganic matter (mainly hydroxyapatite)**: **70%**
+- **Organic matter (collagen and other proteins)**: **20%**
+- **Water**: **10%**
+
+So, the correct answer is:
+
+**(C) 70%, 20% and 10%**
+
+**Answer: C**",yes
+D,"The correct answer is: **(D) Phosphine**
+
+Phosphides, when reacted with water or acids, typically produce **phosphine (PH₃)** gas. 
+
+For example:
+- **Phosphorus trisulfide (P₄S₃)** reacts with water to produce phosphine and hydrogen sulfide.
+- **Calcium phosphide (Ca₃P₂)** reacts with water to produce phosphine and calcium hydroxide.
+
+**Answer: D**",yes
+B,"To determine the correct ordering of the **d-orbitals** in the complex **[Pt(en)₂]²⁺**, we need to consider:
+
+### 1. **Coordination geometry**:
+- The ligand **en** (ethylenediamine) is a **bidentate** ligand, and **Pt** typically forms **octahedral** complexes with such ligands.
+- Therefore, the complex **[Pt(en)₂]²⁺** is **octahedral**.
+
+### 2. **Nature of the ligand**:
+- **en** is a **strong field ligand** (from the spectrochemical series), which causes **significant crystal field splitting** in an octahedral complex.
+- Strong field ligands lead to **low-spin** configurations (for transition metals with d⁶–d⁸ configurations), but **Pt²⁺** has a **d⁸ configuration**, which is **not typically low-spin** in octahedral complexes. However, the **strong field nature** of en can still cause some splitting.
+
+### 3. **Crystal Field Splitting in Octahedral Complexes**:
+In an **octahedral field**, the **d-orbitals** split into two sets:
+- **Lower energy**: **t₂g** orbitals → **d_z², d_xz, d_yz**
+- **Higher energy**: **e_g** orbitals → **d_x²−y², d_xy**
+
+However, the **relative energy ordering** of the **t₂g** and **e_g** orbitals depends on the **ligand field strength** and the **geometry** of the complex.
+
+For **octahedral complexes**:
+- The **d_z²** orbital is generally **higher in energy** than the **d_xz** and **d_yz** orbitals.
+- The **d_x²−y²** and **d_xy** orbitals are generally **higher in energy** than the **t₂g** orbitals.
+
+But in the case of **strong field ligands**, the **d_z²** orbital is often **higher in energy** than the **d_xz** and **d_yz**, and the **d_x²−y²** and **d_xy** orbitals are **higher than d_z²**.
+
+However, for **en** ligands (which are **strong field**), the **d_z²** orbital is often **higher in energy** than **d_xz** and **d_yz**, and the **d_x²−y²** and **d_xy** are **higher than d_z²**.
+
+So the correct ordering (from **lowest to highest energy**) is:
+
+$$
+\mathrm{d_{xz}} = \mathrm{d_{yz}} < \mathrm{d_{z^2}} < \mathrm{d_{xy}} < \mathrm{d_{x^2 - y^2}}
+$$
+
+### Matching with the options:
+
+- **(A)**: $\mathrm{d}_{x^2-y^2} = \mathrm{d}_{xz} < \mathrm{d}_{yz} < \mathrm{d}_{xy} < \mathrm{d_{z^2}}$ → ❌
+- **(B)**: $\mathrm{d}_{xz} = \mathrm{d}_{yz} < \mathrm{d_{z^2}} < \mathrm{d}_{xy} < \mathrm{d_{x^2 - y^2}}$ → ✅
+- **(C)**: $\mathrm{d}_{xz} = \mathrm{d}_{yz} < \mathrm{d}_{xy} < \mathrm{d}_{x^2-y^2} < \mathrm{d_{z^2}}$ → ❌
+- **(D)**: $\mathrm{d}_{yz} < \mathrm{d}_{xy} < \mathrm{d}_{x^2-y^2} < \mathrm{d}_{xz} < \mathrm{d_{z^2}}$ → ❌
+
+### ✅ Correct answer: **(B)**
+
+**Answer: B**",yes
+B,"To determine which compound contains a **covalent polar chemical bond**, we need to understand the types of bonds:
+
+- **Ionic bonds** occur between a metal and a nonmetal (e.g., NaCl, CaO, Li₂O).
+- **Covalent bonds** occur between nonmetals (e.g., H₂O, SiO₂).
+- **Polar covalent bonds** occur when there is a significant difference in electronegativity between the atoms involved in a covalent bond, leading to unequal sharing of electrons.
+
+Now, let's analyze each option:
+
+**(A) CaO** – Calcium (Ca) is a metal, and oxygen (O) is a nonmetal. This is an **ionic bond**, not a covalent bond.
+
+**(B) H₂O** – Hydrogen (H) and oxygen (O) are both nonmetals. The bond between them is **covalent**, and because oxygen is more electronegative than hydrogen, the bond is **polar covalent**.
+
+**(C) Li₂O** – Lithium (Li) is a metal, and oxygen (O) is a nonmetal. This is an **ionic bond**, not a covalent bond.
+
+**(D) NaCl** – Sodium (Na) is a metal, and chlorine (Cl) is a nonmetal. This is an **ionic bond**, not a covalent bond.
+
+**(E) SiO₂** – Silicon (Si) and oxygen (O) are both nonmetals. The bond is **covalent**, but **not polar** (or only slightly polar) because silicon and oxygen have similar electronegativities.
+
+### Correct Answer:
+**(B) H₂O** contains a **covalent polar chemical bond**.
+
+**Answer: B** ✅",yes
+2.96,"To calculate the **Mulliken electronegativity** of nitrogen, we use the formula:
+
+$$
+X(A) = 0.00197(E_i + E_{ea}) + 0.19
+$$
+
+Where:
+- $ E_i $ is the **first ionization energy** (in kJ mol⁻¹)
+- $ E_{ea} $ is the **first electron affinity** (in kJ mol⁻¹)
+
+---
+
+### Given:
+- $ E_i(\text{N}) = 14.5 \, \text{eV} $
+- $ E_{ea}(\text{N}) = 6.80 \, \text{kJ mol}^{-1} $
+
+⚠️ **Note:** The formula expects both $ E_i $ and $ E_{ea} $ in **kJ mol⁻¹**, but $ E_i $ is given in **eV**. We must **convert** $ E_i $ from eV to kJ mol⁻¹.
+
+---
+
+### Step 1: Convert $ E_i $ from eV to kJ mol⁻¹
+
+We know:
+$$
+1 \, \text{eV} = 96.485 \, \text{kJ mol}^{-1}
+$$
+
+So:
+$$
+E_i = 14.5 \, \text{eV} \times 96.485 \, \text{kJ mol}^{-1} / \text{eV} = 14.5 \times 96.485 \, \text{kJ mol}^{-1}
+$$
+
+$$
+E_i \approx 14.5 \times 96.485 = 1398.98 \, \text{kJ mol}^{-1}
+$$
+
+---
+
+### Step 2: Plug into the formula
+
+$$
+X(A) = 0.00197(E_i + E_{ea}) + 0.19
+$$
+
+$$
+X(A) = 0.00197(1398.98 + 6.80) + 0.19
+$$
+
+$$
+X(A) = 0.00197(1405.78) + 0.19
+$$
+
+$$
+X(A) \approx 2.77 \, + \, 0.19 = 2.96
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{2.96}
+$$
+
+So, the **Mulliken electronegativity of nitrogen** is:
+
+$$
+\boxed{2.96}
+$$",yes
+C,"The correct answer is: **(C) Gold**
+
+**Explanation:**
+
+- **(A) Aluminum** – Reacts with weak acids (like acetic acid) to form a protective oxide layer, but can still corrode over time.
+- **(B) Copper** – Reacts with weak acids, especially in the presence of oxygen, forming copper salts and corroding.
+- **(C) Gold** – Is highly unreactive and does **not corrode** even in weak acids due to its noble metal properties.
+- **(D) Steel** – Contains iron, which reacts with weak acids, leading to corrosion.
+
+**Answer: C**",yes
+B,"To determine the correct order of pH for the solutions of the compounds:
+
+- **BaBr₂**
+- **KOH**
+- **Na₂CO₃**
+- **FeCl₃**
+
+We need to analyze the **nature of each compound** and how it affects the pH of the solution, assuming all have the **same molar concentration**.
+
+---
+
+### 1. **KOH** (Potassium hydroxide)
+
+- **Strong base** (KOH is a strong base).
+- It completely dissociates in water:  
+  $$
+  \ce{KOH -> K^+ + OH^-}
+  $$
+- **High pH** (close to 14).
+
+---
+
+### 2. **Na₂CO₃** (Sodium carbonate)
+
+- **Salt of a strong base (NaOH)** and **weak acid (H₂CO₃)**.
+- In water, it hydrolyzes:
+  $$
+  \ce{CO3^{2-} + H2O <=> HCO3^- + OH^-}
+  $$
+- Produces **hydroxide ions**, making the solution **basic**.
+- **Moderate to high pH**, but **less basic than KOH**.
+
+---
+
+### 3. **BaBr₂** (Barium bromide)
+
+- **Salt of a strong base (Ba(OH)₂)** and **strong acid (HBr)**.
+- It is a **neutral salt**.
+- In water, it dissociates into:
+  $$
+  \ce{BaBr2 -> Ba^{2+} + 2Br^-}
+  $$
+- **Neutral solution**, so **pH ≈ 7**.
+
+---
+
+### 4. **FeCl₃** (Iron(III) chloride)
+
+- **Salt of a weak base (Fe(OH)₃)** and **strong acid (HCl)**.
+- In water, it hydrolyzes:
+  $$
+  \ce{Fe^{3+} + 3H2O <=> Fe(OH)3 + 3H^+}
+  $$
+- Produces **hydronium ions**, making the solution **acidic**.
+- **Low pH**.
+
+---
+
+### Summary of pH behavior:
+
+| Compound     | pH Behavior       | pH (Relative) |
+|--------------|-------------------|----------------|
+| **FeCl₃**    | Acidic            | **Lowest**     |
+| **BaBr₂**    | Neutral           | **Middle**     |
+| **Na₂CO₃**   | Basic             | **Higher**     |
+| **KOH**      | Strong base       | **Highest**    |
+
+---
+
+### Correct Order of pH:
+
+$$
+\ce{FeCl3} < \ce{BaBr2} < \ce{Na2CO3} < \ce{KOH}
+$$
+
+This matches **Option (B)**.
+
+---
+
+### ✅ Final Answer: **B**",yes
+4,"To find the value of $ x $ in the silicate anion $ \ce{[SixO10]^{4-}} $ in talc, we need to analyze the formula of talc:
+
+$$
+\ce{Mg3Si4H2O12}
+$$
+
+This can be written as:
+
+$$
+\ce{Mg3(Si4O10)(OH)2}
+$$
+
+This means that the silicate portion is $ \ce{Si4O10} $, and the hydroxide portion is $ \ce{OH} $.
+
+Now, we can write the formula of the silicate anion as:
+
+$$
+\ce{[Si4O10]^{4-}}
+$$
+
+So, the value of $ x $ is:
+
+$$
+\boxed{4}
+$$
+
+**Answer: 4**",yes
+1.73,"To determine the **spin-only magnetic moment** for the **low-spin case** of the **tetramethylamine diaquacopper(II) ion**, we need to follow these steps:
+
+---
+
+### 1. **Determine the oxidation state of the metal ion**
+
+The complex is **tetramethylamine diaquacopper(II)**, so the **copper ion is Cu²⁺**.
+
+---
+
+### 2. **Determine the electron configuration of Cu²⁺**
+
+Copper has atomic number 29, so neutral Cu has electron configuration:  
+**[Ar] 3d¹⁰ 4s¹**  
+Cu²⁺ loses two electrons → **[Ar] 3d⁹**
+
+So, **Cu²⁺ has 9 d-electrons**.
+
+---
+
+### 3. **Determine the geometry and ligand field splitting**
+
+The complex is:  
+**[Cu(H₂O)₂(NMe₃)₄]²⁺**
+
+- **Ligands**: Two H₂O and four NMe₃ (tetramethylamine).
+- **Geometry**: The complex has **six ligands**, so it is likely **octahedral**.
+- **Ligand field strength**: H₂O is a **weak field ligand**, and NMe₃ (a nitrogen-based ligand) is also a **weak field ligand**.  
+  However, in this case, the complex is **low-spin**, which implies **strong field ligands**.  
+  This is unusual for NMe₃ and H₂O, which are generally **weak field ligands**, but it's possible in some cases (e.g., with copper(II) in certain environments).
+
+---
+
+### 4. **Determine the number of unpaired electrons in the low-spin case**
+
+In an octahedral complex, the **low-spin configuration** occurs when the ligand field splitting (Δ) is **large**, and the pairing energy is **lower than the energy required to promote an electron to the higher d-orbital**.
+
+For **Cu²⁺ (d⁹)**, the possible **low-spin configuration** is:
+
+- **t₂g⁶ e_g³** (since d⁹ is filled as much as possible in the lower t₂g orbitals before filling the e_g)
+
+In this case, the **e_g orbitals** (which are higher in energy) will have **3 electrons**, and all of them will be unpaired.
+
+So, **number of unpaired electrons = 3**.
+
+---
+
+### 5. **Calculate the spin-only magnetic moment**
+
+The formula for **spin-only magnetic moment (μ)** is:
+
+$$
+\mu = \sqrt{n(n+2)} \quad \text{(in Bohr-magnetons)}
+$$
+
+Where **n** = number of unpaired electrons.
+
+Here, **n = 3**:
+
+$$
+\mu = \sqrt{3(3+2)} = \sqrt{15} \approx 3.87 \text{ Bohr-magnetons}
+$$
+
+---
+
+### ✅ Final Answer:
+
+**3.87** Bohr-magnetons
+
+So, the correct answer is:
+
+**$\boxed{3.87}$**",no
+E,"To determine the most likely ratio between the **axial** and **equatorial** $\ce{Cu-Cl}$ bond lengths in the ion $\ce{[CuCl6]^{4-}}$ in aqueous solution, we need to consider **Jahn-Teller distortion**.
+
+---
+
+### Key Concepts:
+
+1. **Jahn-Teller Distortion**:
+   - Occurs in **octahedral complexes** with **non-linear electronic configurations** (specifically, when there is degeneracy in the d-orbitals).
+   - It causes the **distortion of the octahedral geometry** to lower the overall energy of the system.
+   - In the case of $\ce{[CuCl6]^{4-}}$, the copper ion is in the **+2 oxidation state**, so $\ce{Cu^{2+}}$ has a **d^9 configuration**.
+   - This leads to **Jahn-Teller distortion**, which results in **elongation or compression** of the **axial bonds** relative to the **equatorial bonds**.
+
+2. **Electron Configuration of $\ce{Cu^{2+}}$**:
+   - $\ce{Cu^{2+}}$ has a **d^9** configuration.
+   - This leads to **strong Jahn-Teller distortion** because of the **high spin state** and **degeneracy** in the d-orbitals.
+
+3. **Effect of Jahn-Teller Distortion on $\ce{[CuCl6]^{4-}}$**:
+   - In such complexes, the **equatorial bonds** are typically **shorter** (more covalent), and the **axial bonds** are **longer** (more ionic).
+   - The **distortion** is usually **axial elongation** (i.e., axial bonds are longer than equatorial bonds).
+
+---
+
+### Bond Length Ratio:
+
+- In $\ce{[CuCl6]^{4-}}$, the Jahn-Teller distortion causes the **axial bonds to be longer** than the **equatorial bonds**.
+- The typical ratio of **axial : equatorial** bond lengths is **2:1**.
+
+---
+
+### Final Answer:
+
+**(C) 2:1**
+
+✅ **Answer: C**",no
+C,"To determine which of the given phosphate minerals has the **lowest solubility at pH above 4**, we need to understand how the **solubility of phosphate minerals** varies with **pH**.
+
+---
+
+### Key Concept:
+Phosphate minerals are generally **less soluble at higher pH** because the **phosphate ion (PO₄³⁻)** becomes more dominant in solution at higher pH. However, some minerals contain **other anions** (like **F⁻** or **OH⁻**) that can **reduce solubility** by forming **less soluble complexes** or by **neutralizing the solution**.
+
+---
+
+### Let's analyze each option:
+
+#### (A) **Dicalcium phosphate anhydrous (CaHPO₄)**  
+- This is a **monobasic phosphate**.
+- It is **slightly soluble** in water, and its solubility **increases with pH** due to hydrolysis to form HPO₄²⁻.
+- At **pH > 4**, it may become **more soluble**.
+
+#### (B) **Dicalcium phosphate dihydrate (CaHPO₄·2H₂O)**  
+- This is the **hydrated form** of dicalcium phosphate.
+- It is **more soluble** than the anhydrous form due to the presence of water molecules.
+- Solubility also **increases with pH**.
+
+#### (C) **Fluorapatite (Ca₁₀(PO₄)₆F₂)**  
+- This is a **fluoride-containing phosphate mineral**.
+- The **fluoride ion (F⁻)** is **less soluble** in water than OH⁻ and is **strongly basic**.
+- Fluorapatite is **very insoluble** in water and especially **insoluble at pH > 4** due to the **low solubility of F⁻** and the formation of **fluoride complexes**.
+- It is **one of the least soluble phosphate minerals**.
+
+#### (D) **Hydroxyapatite (Ca₁₀(PO₄)₆(OH)₂)**  
+- This is a **common mineral in bones and teeth**.
+- It is **insoluble in water** but **slightly soluble in acidic conditions**.
+- Its solubility **increases with pH** due to hydrolysis of OH⁻ to form HPO₄²⁻.
+- It is **more soluble than fluorapatite** at pH > 4.
+
+---
+
+### Conclusion:
+Among the options, **fluorapatite (C)** has the **lowest solubility at pH > 4** due to the strong basicity of F⁻ and the low solubility of fluoride in solution.
+
+---
+
+### ✅ Final Answer: **C**",yes
+3,"To find the **oxidation number** of the **metal (Co)** in the complex ion **[Co(C₂O₄)₂Cl₂]³⁻**, we can follow these steps:
+
+---
+
+### Step 1: Understand the overall charge of the complex
+The overall charge of the complex is **–3**.
+
+---
+
+### Step 2: Determine the oxidation states of the ligands
+
+#### Ligands:
+- **C₂O₄²⁻** (oxalate) is a **bidentate ligand** and has a **charge of –2**.
+- **Cl⁻** (chloride) is a **monodentate ligand** and has a **charge of –1**.
+
+---
+
+### Step 3: Write the equation for the oxidation number of Co
+
+Let the oxidation number of **Co** be **x**.
+
+The complex is:
+$$
+\ce{[Co(C2O4)2Cl2]^{3-}}
+$$
+
+So the total charge is:
+$$
+x + 2(-2) + 2(-1) = -3
+$$
+
+Simplify:
+$$
+x - 4 - 2 = -3
+$$
+$$
+x - 6 = -3
+$$
+$$
+x = +3
+$$
+
+---
+
+### ✅ Final Answer:
+The **oxidation number of Co** is **+3**.
+
+**Answer: C (if options are A, B, C, D, with C = +3)**  
+Or if a numerical value is expected:
+
+**Answer: +3** ✅
+
+---
+
+### ✅ Final Answer (as requested): **+3**",yes
+20,"To determine the value of $ x $ in the reaction:
+
+$$
+\ce{B2O3 + 10N2 + 3CaB6 -> xBN + 3CaO}
+$$
+
+we will balance the number of atoms on both sides of the equation.
+
+---
+
+### Step 1: Count atoms on the **left-hand side (LHS)**
+
+- **Boron (B):**
+  - From $\ce{B2O3}$: 2 atoms
+  - From $\ce{3CaB6}$: $3 \times 6 = 18$ atoms
+  - Total: $2 + 18 = 20$ B atoms
+
+- **Oxygen (O):**
+  - From $\ce{B2O3}$: 3 atoms
+  - Total: 3 O atoms
+
+- **Nitrogen (N):**
+  - From $\ce{10N2}$: $10 \times 2 = 20$ atoms
+  - Total: 20 N atoms
+
+- **Calcium (Ca):**
+  - From $\ce{3CaB6}$: 3 atoms
+  - Total: 3 Ca atoms
+
+---
+
+### Step 2: Count atoms on the **right-hand side (RHS)**
+
+- **Calcium oxide ($\ce{CaO}$):**
+  - From $\ce{3CaO}$: 3 Ca atoms and 3 O atoms
+
+- **Boron nitride ($\ce{BN}$):**
+  - Let $ x $ be the number of $\ce{BN}$ molecules.
+  - Each $\ce{BN}$ has 1 B and 1 N atom.
+  - So, total B: $ x $
+  - Total N: $ x $
+
+---
+
+### Step 3: Match atoms on both sides
+
+#### Boron (B):
+- LHS: 20
+- RHS: $ x $
+→ $ x = 20 $
+
+#### Nitrogen (N):
+- LHS: 20
+- RHS: $ x $
+→ $ x = 20 $
+
+#### Oxygen (O):
+- LHS: 3
+- RHS: 3 (from $\ce{3CaO}$)
+→ OK
+
+#### Calcium (Ca):
+- LHS: 3
+- RHS: 3 (from $\ce{3CaO}$)
+→ OK
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{20}
+$$
+
+So, the value of $ x $ is **20**.",yes
+A,"The correct answer is: **(A) Ammonium hydroxide**
+
+**Explanation:**
+
+- **(A) Ammonium hydroxide (NH₄OH)** is a **weak base**. It only partially dissociates in water.
+- **(B) Hydrochloric acid (HCl)** is a **strong acid**.
+- **(C) Sodium hydroxide (NaOH)** is a **strong base**.
+- **(D) Sulfuric acid (H₂SO₄)** is a **strong acid**.
+
+**Answer: A**",yes
+B,"The question is asking about the **chemical formula for A-type carbonate-substituted hydroxyapatite**, which is a variant of **hydroxyapatite** (Ca₁₀(PO₄)₆(OH)₂) where some of the **OH⁻** groups are replaced by **CO₃²⁻** (carbonate ions).
+
+In hydroxyapatite, the formula is:
+
+$$
+\ce{Ca10(PO4)6(OH)2}
+$$
+
+When carbonate is substituted, **one OH⁻** is replaced by **one CO₃²⁻**. Since the charge balance must be maintained, the substitution of one OH⁻ (which is -1) with one CO₃²⁻ (which is -2) introduces an extra -1 charge. To maintain neutrality, this extra -1 must be balanced by an increase in the number of Ca²⁺ ions.
+
+In A-type carbonate-substituted hydroxyapatite, **one OH⁻ is replaced by one CO₃²⁻**, and **one Ca²⁺ is added** to balance the charge. This results in the formula:
+
+$$
+\ce{Ca10(PO4)6(OH)(CO3)_{0.5}}
+$$
+
+This is because the **0.5** in front of (CO₃) accounts for the fact that only half a carbonate is present (i.e., one OH⁻ is replaced by one CO₃²⁻, but the formula is written as a fractional substitution).
+
+So, the correct formula is:
+
+$$
+\ce{Ca10(PO4)6(OH)(CO3)_{0.5}}
+$$
+
+This matches **option (B)**.
+
+### ✅ Correct Answer: **B**",yes
+B,"The correct answer is: **(B) Oxygen gas**
+
+Oxygen gas (O₂) is a strong oxidizing agent because it readily accepts electrons in chemical reactions, facilitating oxidation of other substances.
+
+**Answer: B**",yes
+C,"The question asks for the chemical formula of **partially strontium-substituted hydroxyapatite**, which is a form of calcium hydroxyapatite where some of the calcium (Ca) is replaced by strontium (Sr).
+
+The original formula for hydroxyapatite is:
+
+$$
+\ce{Ca10(PO4)6(OH)2}
+$$
+
+When strontium substitutes for calcium, it replaces some of the calcium atoms while maintaining the same overall structure and charge balance. Since both Ca and Sr are divalent cations (+2 charge), they are isovalent and can substitute for each other without changing the stoichiometry of the phosphate and hydroxide groups.
+
+So, if **x** amount of Ca is replaced by Sr, the formula becomes:
+
+$$
+\ce{Ca_{10 - x}Sr_x(PO4)6(OH)2}
+$$
+
+This matches **option (C)**.
+
+### ✅ Correct Answer: **(C)**",yes
+D,"To determine the correct statement about the complex **[Mn(OH₂)₆]²⁺**, we need to analyze its properties based on the metal ion, its oxidation state, and the ligands involved.
+
+---
+
+### Step 1: Identify the metal ion and its oxidation state
+
+- The central metal is **Mn** (Manganese).
+- The complex is **[Mn(OH₂)₆]²⁺** → The overall charge is **+2**.
+- Each **OH₂** ligand is neutral.
+- Therefore, the oxidation state of Mn is **+2**.
+
+So, **Mn²⁺** is the central ion.
+
+---
+
+### Step 2: Determine the electron configuration of Mn²⁺
+
+- Manganese has atomic number 25 → **[Ar] 3d⁵ 4s²**
+- Mn²⁺ loses 2 electrons → **[Ar] 3d⁵**
+
+So, Mn²⁺ is a **d⁵ ion**.
+
+---
+
+### Step 3: Analyze the ligands and geometry
+
+- The ligand is **OH₂** (water), which is a **weak field ligand**.
+- The geometry is **octahedral** (6 ligands around the metal).
+- Weak field ligands do **not** cause significant pairing of d-electrons, so the complex is **high spin**.
+
+---
+
+### Step 4: Determine magnetic properties
+
+- Since Mn²⁺ is **d⁵**, and the complex is **high spin**, the d-electrons are unpaired.
+- This means the complex is **paramagnetic**, not diamagnetic.
+
+---
+
+### Step 5: Evaluate each statement
+
+**(A) It is a low spin octahedral complex**  
+❌ **False** – Weak field ligands like OH₂ lead to **high spin** complexes, not low spin.
+
+**(B) It is diamagnetic and a low spin metal complex**  
+❌ **False** – It is **paramagnetic** (d⁵, high spin), not diamagnetic.
+
+**(C) It is diamagnetic with weak field ligands**  
+❌ **False** – It is **paramagnetic**, not diamagnetic.
+
+**(D) The metal ion is a d⁵ ion with an octahedral geometry and with weak field ligands**  
+✅ **True** – Mn²⁺ is d⁵, the geometry is octahedral, and OH₂ is a weak field ligand.
+
+---
+
+### ✅ Final Answer: **D**",yes
+3,"To solve the problem, we are given the equation:
+
+$$
+\ce{4H3PO3 -> xH3PO4 + PH3}
+$$
+
+We are to find the value of **x**.
+
+---
+
+### Step 1: Understand the reaction
+This is a **disproportionation reaction**, where a single substance (phosphorous acid, $\ce{H3PO3}$) is both **oxidized** and **reduced** in the same reaction.
+
+---
+
+### Step 2: Identify oxidation states
+
+Let’s determine the oxidation state of phosphorus in each compound.
+
+- **$\ce{H3PO3}$** (phosphorous acid):
+  - Hydrogen = +1 (×3 = +3)
+  - Oxygen = -2 (×3 = -6)
+  - Let P = x
+  - Total charge = 0 → $3(+1) + x + 3(-2) = 0$
+  - $3 + x - 6 = 0$ → $x = +3$
+  - So, **P = +3**
+
+- **$\ce{H3PO4}$** (phosphoric acid):
+  - Hydrogen = +1 (×3 = +3)
+  - Oxygen = -2 (×4 = -8)
+  - Let P = y
+  - Total charge = 0 → $3 + y - 8 = 0$ → $y = +5$
+  - So, **P = +5**
+
+- **$\ce{PH3}$** (phosphine):
+  - Hydrogen = +1 (×3 = +3)
+  - Let P = z
+  - Total charge = 0 → $z + 3 = 0$ → $z = -3$
+  - So, **P = -3**
+
+---
+
+### Step 3: Analyze oxidation and reduction
+
+- In $\ce{H3PO3}$, P is **+3**
+- In $\ce{H3PO4}$, P is **+5** → **oxidized**
+- In $\ce{PH3}$, P is **-3** → **reduced**
+
+So, phosphorus is both **oxidized** (from +3 → +5) and **reduced** (from +3 → -3)
+
+---
+
+### Step 4: Balance the equation using oxidation states
+
+We are given:
+
+$$
+\ce{4H3PO3 -> xH3PO4 + PH3}
+$$
+
+Let’s calculate the **total change in oxidation state** of P:
+
+- Each $\ce{H3PO3}$ molecule has P = +3
+- 4 molecules → total P = $4 \times +3 = +12$
+
+Now, in the products:
+
+- Each $\ce{H3PO4}$ has P = +5
+- Each $\ce{PH3}$ has P = -3
+
+Let’s suppose there are **x** molecules of $\ce{H3PO4}$ and **1** molecule of $\ce{PH3}$
+
+So, total P in products:
+- From $\ce{H3PO4}$: $x \times +5 = +5x$
+- From $\ce{PH3}$: $1 \times -3 = -3$
+
+Total P in products = $+5x - 3$
+
+Now, equate the total P on both sides:
+
+$$
++12 = +5x - 3
+$$
+
+Solve for x:
+
+$$
+12 + 3 = 5x \Rightarrow 15 = 5x \Rightarrow x = 3
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{3}
+$$
+
+So, the value of **x** is **3**.",yes
+3,"We are given the following chemical reaction:
+
+$$
+\ce{3FeCl2 + HAuCl4 -> Au + xFeCl3 + HCl}
+$$
+
+We are to determine the value of **x**.
+
+---
+
+### Step 1: Count atoms on both sides
+
+Let's count the atoms of each element on both sides of the equation.
+
+#### Left side (reactants):
+- **Fe**: 3 (from 3FeCl₂)
+- **Cl**: 3×2 (from FeCl₂) + 4 (from HAuCl₄) = 6 + 4 = 10
+- **Au**: 1 (from HAuCl₄)
+- **H**: 1 (from HAuCl₄)
+
+#### Right side (products):
+- **Au**: 1 (from Au)
+- **Fe**: x (from xFeCl₃)
+- **Cl**: 3x (from xFeCl₃) + 1 (from HCl) = 3x + 1
+- **H**: 1 (from HCl)
+
+---
+
+### Step 2: Balance the elements
+
+We will balance each element one by one.
+
+#### 1. **Iron (Fe)**
+
+Left: 3  
+Right: x  
+So, x = 3
+
+#### 2. **Chlorine (Cl)**
+
+Left: 10  
+Right: 3x + 1 = 3(3) + 1 = 9 + 1 = 10 ✅
+
+#### 3. **Gold (Au)**
+
+Left: 1  
+Right: 1 ✅
+
+#### 4. **Hydrogen (H)**
+
+Left: 1  
+Right: 1 ✅
+
+All elements are balanced.
+
+---
+
+### ✅ Final Answer: **x = 3**
+
+**Answer: C** (if options are A, B, C, D, and 3 is not an option, you'd write **3**)
+
+---
+
+### ✅ Final Answer: **3**",yes
+C,"The question is about identifying the correct chemical formula for **B-type carbonate-substituted hydroxyapatite**, which is a variant of **hydroxyapatite** (Ca₁₀(PO₄)₆(OH)₂), where **some of the hydroxyl groups (OH⁻)** are replaced by **carbonate ions (CO₃²⁻)**.
+
+---
+
+### Step-by-step analysis:
+
+- The **standard hydroxyapatite** formula is:
+  $$
+  \ce{Ca10(PO4)6(OH)2}
+  $$
+- In **B-type carbonate-substituted hydroxyapatite**, **some OH⁻ groups are replaced by CO₃²⁻**.
+- This means that the **total charge balance** in the compound must still be maintained.
+
+Let’s analyze the **charge balance** in the formula:
+
+#### 1. Standard hydroxyapatite:
+- Ca: +2 × 10 = +20
+- PO₄³⁻: -3 × 6 = -18
+- OH⁻: -1 × 2 = -2
+- **Total charge = +20 - 18 - 2 = 0** → neutral compound.
+
+#### 2. Carbonate substitution:
+- Each **OH⁻** is replaced by **CO₃²⁻**.
+- So, for every OH⁻ replaced, the **charge increases by +1** (because -1 → -2, so net change is -1 → -2 = -1 change → net increase of +1).
+- To maintain charge neutrality, the number of **CO₃²⁻** must be **half** the number of OH⁻ replaced.
+
+Let’s assume **x** OH⁻ groups are replaced by CO₃²⁻:
+- Each replacement adds +1 to the total charge.
+- So, **x = 1** → one OH⁻ replaced → total charge becomes +1.
+- To balance this, we need **one more CO₃²⁻** to add -2 → net -1.
+
+But since **CO₃²⁻** is a **dianion**, to substitute one OH⁻ (mononegative), you need to add **one CO₃²⁻** and **one OH⁻** (to balance the charge).
+
+So, the **correct substitution** is:
+- Replace **one OH⁻** with **one CO₃²⁻** → this gives a **net change of +1**.
+- So, we must also **add one more OH⁻** to balance the charge → total **OH⁻ = 1**, and **CO₃²⁻ = 1**.
+
+Thus, the formula becomes:
+$$
+\ce{Ca10(PO4)6(OH)(CO3)}
+$$
+
+But to make the formula more accurate, we can write it as:
+$$
+\ce{Ca10(PO4)6(OH)(CO3)_{0.5}}
+$$
+This reflects that **one OH⁻ is replaced by half a CO₃²⁻** to maintain charge neutrality.
+
+---
+
+### Matching with the choices:
+
+- (A) $\ce{Ca10(PO4)6(OH)(CO3)_{0.5}}$ → ✅ **Correct**
+- (B) $\ce{Ca5Na3(PO4)3(CO3)_{3}(OH)2}$ → Incorrect (contains Na and different stoichiometry)
+- (C) $\ce{Ca7Na3(PO4)3(CO3)_{3}(OH)2}$ → Incorrect (contains Na and different stoichiometry)
+- (D) $\ce{Ca7Sr3(PO4)5(OH)2}$ → Incorrect (contains Sr and different stoichiometry)
+
+---
+
+### ✅ Final Answer: **A**",no
+1,"We are given the chemical reaction:
+
+$$
+\ce{CaO + 3C -> xCaC2 + CO}
+$$
+
+We are to find the value of $ x $.
+
+---
+
+### Step 1: Balance the reaction
+
+Let's start by analyzing the atoms on both sides of the equation.
+
+#### Left Side:
+- Ca: 1
+- O: 1
+- C: 3
+
+#### Right Side:
+- Ca: $ x $
+- C: $ 2x + 1 $ (from $ \ce{xCaC2} $ and $ \ce{CO} $)
+- O: 1 (from $ \ce{CO} $)
+
+---
+
+### Step 2: Balance calcium (Ca)
+
+We have 1 Ca on the left, so:
+
+$$
+x = 1
+$$
+
+---
+
+### Step 3: Verify carbon balance
+
+Left side: 3 C  
+Right side: $ 2x + 1 = 2(1) + 1 = 3 $ C → matches
+
+---
+
+### Step 4: Verify oxygen balance
+
+Left side: 1 O  
+Right side: 1 O → matches
+
+---
+
+### ✅ Conclusion:
+
+The balanced reaction is:
+
+$$
+\ce{CaO + 3C -> CaC2 + CO}
+$$
+
+So, the value of $ x $ is:
+
+$$
+\boxed{1}
+$$
+
+**Answer: $\boxed{1}$**",yes
+C,"The correct answer is: **(A) Slowly, forming metal hydroxides and ammonia**
+
+**Explanation:**
+
+Transition metal nitrides generally react with water, but the reaction is typically **slow**. The reaction usually involves the hydrolysis of the nitride to form **metal hydroxides** and **ammonia (NH₃)**. For example:
+
+$$
+\text{M}_3\text{N}_2 + 6\text{H}_2\text{O} \rightarrow 3\text{M(OH)}_2 + 2\text{NH}_3
+$$
+
+Where **M** is a transition metal (e.g., Ti, Zr, etc.).
+
+- **(A)** is correct: **Slowly**, forming **metal hydroxides** and **ammonia**.
+- **(B)** and **(D)** are incorrect because they mention **nitrogen gas**, which is not typically formed in this type of hydrolysis.
+- **(C)** is incorrect because the reaction is **not violent**.
+
+**Answer: A**",no
+4.78E-23,"To find the **volume of the unit cell** of cubic boron nitride (c-BN), we use the formula for the volume of a cubic unit cell:
+
+$$
+V = a^3
+$$
+
+Where:
+- $ a $ is the lattice parameter (unit cell edge length)
+- $ a = 3.63 \, \text{Å} = 3.63 \times 10^{-8} \, \text{cm} $ (since $ 1 \, \text{Å} = 10^{-8} \, \text{cm} $)
+
+Now compute the volume:
+
+$$
+V = (3.63 \times 10^{-8} \, \text{cm})^3 = (3.63)^3 \times 10^{-24} \, \text{cm}^3
+$$
+
+$$
+3.63^3 = 47.82969
+$$
+
+$$
+V = 47.82969 \times 10^{-24} \, \text{cm}^3 = 4.782969 \times 10^{-23} \, \text{cm}^3
+$$
+
+### Final Answer:  
+$$
+\boxed{4.78 \times 10^{-23} \, \text{cm}^3}
+$$
+
+If you are to reply with a **single letter** corresponding to the correct answer, and assuming the options are labeled A to D with this value, the correct letter would be:
+
+$$
+\boxed{\text{C}}
+$$
+
+(assuming C corresponds to $ 4.78 \times 10^{-23} \, \text{cm}^3 $)
+
+Let me know if you want to match the letter to a specific option.",yes
+A,"The correct answer is: **(B) Flammable gases**
+
+When alkali metals (such as sodium, potassium, lithium, etc.) react with moisture, they react vigorously to produce **hydrogen gas** and **caustic hydroxides** (like sodium hydroxide or potassium hydroxide). The reaction is exothermic and can be highly dangerous due to the flammability of the hydrogen gas produced.
+
+The general reaction is:
+
+$$
+2M + 2H_2O \rightarrow 2MOH + H_2 \uparrow
+$$
+
+Where **M** is an alkali metal.
+
+So, the **flammable gas** (hydrogen) is produced.
+
+**Answer: B**",No.
+-0.6,"To determine the **ligand-field splitting energy (LFSE)** for the **low-spin case** in the **tetramethylamine diaquacopper(II) ion**, we need to identify the **electron configuration** of the **d-orbitals** in the complex.
+
+---
+
+### Step 1: Identify the metal ion and its oxidation state
+
+- The complex is **tetramethylamine diaquacopper(II)**:  
+  → The **metal is Cu(II)**, so the **d-electron configuration is d⁹**.
+
+---
+
+### Step 2: Determine the geometry and the d-electron configuration
+
+- The complex is **d⁹**, and it is a **low-spin** complex.
+- Copper(II) in a **low-spin** octahedral complex typically has the **d⁹ configuration** with the **t₂g⁶ eg³** electron distribution.
+- This is because the **ligand field splitting (Δ₀)** is large enough to cause **low-spin** configuration, even for a d⁹ ion.
+
+---
+
+### Step 3: Apply the LFSE formula
+
+The formula for **LFSE** is:
+
+$$
+LFSE = -0.4 \cdot Dq \cdot n + 0.6 \cdot Dq \cdot m
+$$
+
+Where:
+
+- $ n $ = number of electrons in **t₂g** orbitals = 6  
+- $ m $ = number of electrons in **eg** orbitals = 3  
+- $ Dq $ = ligand field splitting parameter (constant)
+
+Plug in the values:
+
+$$
+LFSE = -0.4 \cdot Dq \cdot 6 + 0.6 \cdot Dq \cdot 3
+$$
+$$
+LFSE = (-2.4 + 1.8) \cdot Dq = -0.6 \cdot Dq
+$$
+
+---
+
+### ✅ Final Answer:
+
+$$
+\boxed{-0.6Dq}
+$$
+
+So, the value of **LFSE** in terms of **Dq** is:
+
+$$
+\boxed{-0.6Dq}
+$$
+
+**Answer: $\boxed{C}$** *(if options are labeled A, B, C, D for -0.6Dq, -0.4Dq, 0.6Dq, 0.4Dq, respectively)*.",yes
+4,"To determine the oxidation number of **zirconium (Zr)** in the complex ion **[ZrF₇]³⁻**, follow these steps:
+
+---
+
+### Step 1: Understand the structure
+The ion is **[ZrF₇]³⁻**, which is a **complex ion** containing:
+- **Zr** (the central metal atom)
+- **7 F⁻** ligands (fluoride ions)
+
+---
+
+### Step 2: Determine the oxidation state of the ligands
+Each **F⁻** ligand has a **charge of -1**.
+
+So, the total charge from the 7 fluoride ligands is:
+$$
+7 \times (-1) = -7
+$$
+
+---
+
+### Step 3: Use the overall charge of the ion
+The entire complex ion has a **charge of -3**.
+
+So, the oxidation number of **Zr (x)** must satisfy:
+$$
+x + (-7) = -3
+$$
+
+Solving for **x**:
+$$
+x = -3 + 7 = +4
+$$
+
+---
+
+### ✅ Final Answer:
+The **oxidation number of Zr** in **[ZrF₇]³⁻** is **+4**.
+
+**Answer: 4** ✅",yes
+4,"We are given the following chemical equation:
+
+$$
+\ce{Si(OCH2CH3)4 + 4H2O -> Si(OH)4 + xCH3CH2OH}
+$$
+
+We are to find the value of **x**.
+
+---
+
+### Step 1: Analyze the reactants and products
+
+**Reactant:**
+- $\ce{Si(OCH2CH3)4}$: This is **ethyl orthosilicate**.
+- It contains **4 ethoxide groups** (i.e., $\ce{OCH2CH3}$).
+
+**Products:**
+- $\ce{Si(OH)4}$: This is **orthosilicic acid**.
+- $\ce{xCH3CH2OH}$: This is **ethanol**, formed from the hydrolysis of ethoxide groups.
+
+---
+
+### Step 2: Understand the hydrolysis process
+
+Each ethoxide group ($\ce{OCH2CH3}$) is replaced by an $\ce{OH}$ group when water ($\ce{H2O}$) is added.
+
+So, the hydrolysis of **one ethoxide group** produces **one ethanol molecule**.
+
+Since there are **4 ethoxide groups** in $\ce{Si(OCH2CH3)4}$, the reaction produces **4 ethanol molecules**.
+
+---
+
+### Step 3: Write the balanced equation
+
+$$
+\ce{Si(OCH2CH3)4 + 4H2O -> Si(OH)4 + 4CH3CH2OH}
+$$
+
+So, the value of **x** is **4**.
+
+---
+
+### ✅ Final Answer:
+
+**4**",yes
