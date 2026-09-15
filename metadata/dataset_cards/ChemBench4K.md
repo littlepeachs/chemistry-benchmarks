@@ -6,7 +6,7 @@ license: mit
 ## Introduction
 chembench is a large-scale chemistry competency evaluation benchmark for language models, which includes nine chemistry core tasks and 4100 high-quality single-choice questions and answers.
 
-chembench是一个包含了九项化学核心任务，4100个高质量单选问答的大语言模型化学能力评测基准.
+ChemBench is a benchmark for evaluating the chemistry capabilities of large language models, covering nine core chemistry tasks with 4,100 high-quality single-choice questions and answers.
 
 ## Example
 
@@ -60,4 +60,3 @@ We hope these instructions answer your questions.
       primaryClass={cs.AI}
 }
 ```
-

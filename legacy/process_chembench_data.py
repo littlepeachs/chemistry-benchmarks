@@ -3,21 +3,21 @@ import json
 import os
 import re
 
-# 读取parquet文件
+# Read the Parquet file
 
 dataset_names = ["analytical_chemistry","materials_science","technical_chemistry","chemical_preference","organic_chemistry","toxicity_and_safety","general_chemistry","physical_chemistry","inorganic_chemistry"]
 for dataset_name in dataset_names:
     parquet_file_path = f"/ssd/liwentao/LLM/reasoning/datasets/ChemBench/{dataset_name}/train-00000-of-00001.parquet"
     df = pd.read_parquet(parquet_file_path)
 
-    # 准备一个列表来存储格式化后的数据
+    # Prepare a list for formatted records
     output_data = []
 
-    # 遍历DataFrame的每一行
+    # Iterate over each DataFrame row
     for index, row in df.iterrows():
         full_text = row['examples'][0]
         
-        # 获取问题文本
+        # Get the question text
         question_text = full_text['input']
 
         if full_text['target_scores']:
@@ -25,19 +25,19 @@ for dataset_name in dataset_names:
                 target_scores = json.loads(full_text['target_scores'])
             except:
                 import pdb; pdb.set_trace()
-            # 创建选项列表并找到正确答案
+            # Create the choices and identify the correct answer
             options = list(target_scores.keys())
             correct_option = None
             
-            # 找到分数为1.0的选项作为正确答案
+            # Select the first choice with a score of 1.0 as the correct answer
             for option, score in target_scores.items():
                 if score == 1.0:
                     correct_option = option
                     break
             
-            # 构建带有选项的完整问题
+            # Build the complete question with choices
             question_with_options = question_text + "\n"
-            option_labels = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']  # 支持更多选项
+            option_labels = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']  # Support additional choices
             
             for i, option in enumerate(options):
                 if i < len(option_labels):
@@ -53,11 +53,11 @@ for dataset_name in dataset_names:
         subject = dataset_name
         num_words = len(question_with_options.split())
 
-        # 使用正则表达式分割问题和选项
-        # 假设格式为：Question\n(A) Option A\n(B) Option B...
-        # `re.split` 会将分隔符本身移除，返回一个列表
+        # Split the question and choices using a regular expression
+        # Assume the format is: Question\n(A) Option A\n(B) Option B...
+        # `re.split` removes the delimiter and returns a list
             
-            # 创建符合目标格式的字典
+            # Create a dictionary in the target format
         item = {
             "question": full_text,
             "answer": label,
@@ -66,11 +66,11 @@ for dataset_name in dataset_names:
         }
         output_data.append(item)
 
-    # 确定输出文件的路径，保存在当前目录下
+    # Set the output file path in the current directory
     output_json_path = f"/ssd/liwentao/LLM/reasoning/datasets/ChemBench/{dataset_name}/qa_data.json"
 
-    # 将结果写入JSON文件
+    # Write the results to a JSON file
     with open(output_json_path, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=4, ensure_ascii=False)
 
-    print(f"数据已成功转换为JSON格式并保存到: {output_json_path}")
+    print(f"Data converted to JSON and saved to: {output_json_path}")

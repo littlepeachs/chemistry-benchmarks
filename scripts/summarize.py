@@ -98,10 +98,10 @@ def main():
     benchmarks = ['ChemBench', 'MASCQA', 'ChemBench4K']
     models = json.loads((ROOT/'metadata/models.json').read_text())
     lookup = {(row['benchmark'], row['model']): row for row in overall}
-    lines = ['# 从原始 CSV 重算的结果', '',
-             '主表：沿用旧汇总的 yes/no 解析器，但所有已记录样本进入分母；无法明确解析的判词不计正确。',
-             '这是 Qwen3-8B LLM-as-judge 判分，不是官方 benchmark 指标或严格答案匹配。', '',
-             '| 模型 | ChemBench | MASCQA | ChemBench4K |', '|---|---:|---:|---:|']
+    lines = ['# Results Recomputed from Raw CSV Files', '',
+             'The main table uses the historical yes/no parser with all recorded samples in the denominator. Ambiguous judgments are not counted as correct.',
+             'Scores use Qwen3-8B as an LLM judge; they are not official benchmark metrics or strict answer-matching scores.', '',
+             '| Model | ChemBench | MASCQA | ChemBench4K |', '|---|---:|---:|---:|']
     latex = ['\\begin{tabular}{lrrr}', '\\hline', 'Model & ChemBench & MASCQA & ChemBench4K \\\\', '\\hline']
     for model in models:
         selected = [lookup[benchmark, model] for benchmark in benchmarks]
@@ -109,20 +109,20 @@ def main():
         lines.append('| '+model+' | '+' | '.join(cells)+' |')
         latex.append(model+' & '+' & '.join(f"{row['accuracy_all_pct']:.2f}" for row in selected)+r' \\')
     latex += ['\\hline', '\\end{tabular}']
-    lines += ['', '## 旧汇总口径：仅有效判词作分母', '',
-              '用于追溯历史汇总，不能和主表混用。全部数值均由随附 CSV 重算。', '',
-              '| 模型 | ChemBench | MASCQA | ChemBench4K |', '|---|---:|---:|---:|']
+    lines += ['', '## Historical Metric: Valid Judgments Only', '',
+              'Provided for historical comparison; do not mix this denominator with the main table. All values are recomputed from the included CSV files.', '',
+              '| Model | ChemBench | MASCQA | ChemBench4K |', '|---|---:|---:|---:|']
     for model in models:
         selected = [lookup[benchmark, model] for benchmark in benchmarks]
         cells = [f"{row['accuracy_valid_pct']:.2f}% ({row['correct']}/{row['valid']})" for row in selected]
         lines.append('| '+model+' | '+' | '.join(cells)+' |')
-    lines += ['', '## 指标与限制', '',
-              '- `accuracy_all_pct`：主表，全记录分母；`ambiguous` 显示未明确解析判词数。',
-              '- `accuracy_valid_pct`：旧汇总口径，排除未明确解析判词，用于核对论文。',
-              '- `historical_yes_pct`：原推理脚本的子串 `yes` 判分 / CSV 行数；不是严格 yes/no。',
-              '- ChemLLM 的 ChemBench4K 仅 4,008 行：代码跳过索引 3814；其他模型 4,009 行。原控制台分母仍是 4,009，与此 CSV 行数口径不同。',
-              '- `subjects.csv` 包含三个 benchmark 的所有已记录子领域；`files.csv` 可逐文件核对。',
-              '- 未进行重新推理；原始推理无完整运行环境/随机种子，不能承诺逐答案重现。']
+    lines += ['', '## Metrics and Limitations', '',
+              '- `accuracy_all_pct`: the main-table metric, using all recorded rows; `ambiguous` counts unresolved judgments.',
+              '- `accuracy_valid_pct`: the historical-summary metric, excluding unresolved judgments.',
+              '- `historical_yes_pct`: the original substring-based `yes` count divided by CSV rows; not strict yes/no parsing.',
+              '- ChemLLM has only 4,008 ChemBench4K rows because its script skips index 3814; other models have 4,009. The original console denominator was still 4,009, unlike the CSV-row denominator.',
+              '- `subjects.csv` covers all recorded subjects across the three benchmarks; `files.csv` provides per-file statistics.',
+              '- Inference has not been rerun. Historical environments and random seeds were not fully recorded, so identical regenerated answers are not guaranteed.']
     (args.output/'RESULTS.md').write_text('\n'.join(lines)+'\n', encoding='utf-8')
     (args.output/'overall.tex').write_text('\n'.join(latex)+'\n')
     print('\n'.join(lines[:15]))

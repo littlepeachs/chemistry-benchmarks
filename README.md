@@ -1,28 +1,28 @@
 # Chemistry Benchmarks
 
-六个公开模型在 ChemBench、MASCQA 和 ChemBench4K 上的历史评测记录、统计脚本和复现代码。
+A reproducible archive of six public models evaluated on **ChemBench**, **MASCQA**, and **ChemBench4K**, with raw predictions, scoring scripts, model download links, and dataset provenance.
 
-- **模型**：Qwen3-0.6B、Qwen3-1.7B、Qwen3-4B、Qwen3-8B、ChemDFM-v1.0-13B、ChemLLM-7B-Chat。
-- **规模**：66 份原始 CSV，44,669 条逐答案评测记录，18 个主表项，192 个子领域统计项。
-- **评分**：Qwen3-8B LLM-as-judge，不是官方 benchmark 指标。主表计入全部记录，另提供历史有效判词分母口径。
-- **内容**：不包含模型权重、完整数据集、训练产物或论文草稿。
+- **Models:** Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B, Qwen3-8B, ChemDFM-v1.0-13B, and ChemLLM-7B-Chat.
+- **Coverage:** 66 raw CSV files, 44,669 evaluation records, 18 overall results, and 192 per-subject results.
+- **Scoring:** Qwen3-8B as an LLM judge, not the official benchmark scoring implementations. Both all-record and valid-judgment denominators are reported.
+- **Scope:** No model weights, complete datasets, training artifacts, or manuscript drafts are included.
 
-## 结果与离线复现
+## Results and Offline Reproduction
 
-完整表格见 [results/RESULTS.md](results/RESULTS.md)，统计口径见 [docs/AUDIT.md](docs/AUDIT.md)。所有分数由随附原始 CSV 重算，不使用手填结果。
+See [the results tables](results/RESULTS.md) and [the evaluation protocol](docs/AUDIT.md). Every score is recomputed from the included CSV files, without manually entered overrides.
 
-在仓库根目录执行（Python 3.9+，无需 GPU、联网或第三方依赖）：
+Run from the repository root with Python 3.9 or later. No GPU, network access, or third-party packages are required:
 
 ```bash
 python scripts/summarize.py
 python scripts/verify.py
 ```
 
-第一条校验原始 CSV 哈希、行数、Truth 顺序和子领域，生成总表、子领域表、逐文件统计、JSON、Markdown、LaTeX 表格及未解析判词清单。第二条核验归档文件哈希，并在临时目录重算全部统计进行逐字节比较。
+The first command verifies CSV checksums, row counts, reference-answer order, and subjects, then generates overall, per-subject, and per-file statistics in CSV, JSON, Markdown, and LaTeX, together with an ambiguous-judgment list. The second verifies archive checksums and compares regenerated summaries byte for byte in a temporary directory.
 
-## 模型下载
+## Model Downloads
 
-| 模型 | 下载链接 |
+| Model | Download |
 |---|---|
 | Qwen3-0.6B | https://huggingface.co/Qwen/Qwen3-0.6B |
 | Qwen3-1.7B | https://huggingface.co/Qwen/Qwen3-1.7B |
@@ -31,19 +31,19 @@ python scripts/verify.py
 | ChemDFM-v1.0-13B | https://huggingface.co/OpenDFM/ChemDFM-v1.0-13B |
 | ChemLLM-7B-Chat | https://huggingface.co/AI4Chem/ChemLLM-7B-Chat |
 
-ChemDFM 和 ChemLLM 是独立化学专用模型，非 Qwen 派生模型。本地模型配置分别记录 LlamaForCausalLM 和 InternLM2ForCausalLM。Qwen3-8B 同时作为所有实验的 judge。
+ChemDFM and ChemLLM are chemistry-specialized comparison models, not Qwen derivatives. Their local configurations identify LlamaForCausalLM and InternLM2ForCausalLM, respectively. Qwen3-8B also serves as the judge for every evaluation.
 
-`metadata/models.json` 固定本地下载缓存中的历史 revision；`metadata/source_verification.json` 保存 Hugging Face API 核验结果。下载脚本不会自动升级到当前 main 或其他型号。
+`metadata/models.json` pins the historical revisions found in the local download cache. `metadata/source_verification.json` records Hugging Face API verification. The download script does not silently upgrade to the current main branch or substitute another model version.
 
-## 数据来源与预处理
+## Dataset Sources and Preparation
 
-| Benchmark | 获取来源 | 实际使用部分 |
+| Benchmark | Source | Evaluated subset |
 |---|---|---|
-| ChemBench | https://huggingface.co/datasets/jablonkagroup/ChemBench | 九领域 train parquet，共 2,786 条，按历史实验用于评测 |
-| MASCQA | https://huggingface.co/datasets/heegyu/mascqa | test parquet，650 条；本工程实际使用的分发版本 |
-| ChemBench4K | https://huggingface.co/datasets/AI4Chem/ChemBench4K | test 九个 JSON，共 4,009 条，未加入 dev |
+| ChemBench | https://huggingface.co/datasets/jablonkagroup/ChemBench | Nine subject-specific train Parquet files, used for evaluation in the historical protocol; 2,786 records |
+| MASCQA | https://huggingface.co/datasets/heegyu/mascqa | Test Parquet file from the distribution used in this project; 650 records |
+| ChemBench4K | https://huggingface.co/datasets/AI4Chem/ChemBench4K | Nine test JSON files; 4,009 records; dev excluded |
 
-ChemBench 与 ChemBench4K 是不同数据集。固定版本、源文件哈希、拼接顺序和预处理内容哈希见 `metadata/datasets.json`；数据卡见 `metadata/dataset_cards/`。
+ChemBench and ChemBench4K are separate datasets. Pinned revisions, source-file checksums, concatenation order, and prepared-content checksums are recorded in `metadata/datasets.json`. Dataset cards are included in `metadata/dataset_cards/`.
 
 ```bash
 python -m venv .venv
@@ -52,11 +52,11 @@ pip install -r requirements-data.txt
 python scripts/prepare_data.py
 ```
 
-脚本通过固定 revision 的 HTTPS URL 下载，校验 SHA-256 并重建 `data/`。已有下载文件时可使用 `--source-root /path/to/datasets`。重建结果须与历史处理后数据的规范化内容哈希一致。
+The script downloads files over HTTPS at the pinned revisions, verifies SHA-256 checksums, and rebuilds `data/`. To use existing downloads, pass `--source-root /path/to/datasets`. Prepared outputs must match the canonicalized content hashes of the historical evaluation inputs.
 
-## 重新运行推理
+## Rerunning Inference
 
-需要支持 BF16 的 GPU 和足够显存，同时加载被测模型与 8B judge。依赖配置是移植运行环境，尚未进行完整 GPU 端到端验证；历史实验环境和种子并未完整保存，因此不承诺逐答案相同。
+Inference requires a BF16-capable GPU and sufficient memory to load both the evaluated model and the 8B judge. The portable dependency configuration has not undergone a complete end-to-end GPU evaluation. Historical environments and seeds were not fully recorded, so identical regenerated answers are not guaranteed.
 
 ```bash
 pip install -r requirements-inference.txt
@@ -66,7 +66,7 @@ python scripts/evaluate.py --model Qwen3-0.6B --benchmark MASCQA --output output
 python scripts/evaluate.py --model Qwen3-0.6B --benchmark ChemBench4K --output outputs/qwen06-4k --seed 42
 ```
 
-ChemBench 按九个领域执行：
+Run ChemBench separately for each of its nine subjects:
 
 ```bash
 for subject in analytical_chemistry chemical_preference general_chemistry inorganic_chemistry materials_science organic_chemistry physical_chemistry technical_chemistry toxicity_and_safety; do
@@ -74,29 +74,32 @@ for subject in analytical_chemistry chemical_preference general_chemistry inorga
 done
 ```
 
-其他模型先用 `download_models.py --models MODEL Qwen3-8B` 下载，再替换 `--model`。ChemLLM 使用自定义代码，审查固定版本源码后须显式添加 `--allow-remote-code`。`--model-path` 可指定已下载的模型目录。
+For another model, download it with `download_models.py --models MODEL Qwen3-8B` and change `--model`. ChemLLM requires custom code: review the pinned source before opting in with `--allow-remote-code`. Use `--model-path` to select an existing model directory.
 
-`--limit 2` 用于烟雾检查，不代表完整测试。默认 SDPA；若设置 `--attention flash_attention_2`，需另安装匹配 CUDA/PyTorch ABI 的 FlashAttention。原提示和模型特定生成设置保留，seed=42 是新运行的明确设置，不是原实验种子的声明。
+`--limit 2` is for smoke checks, not full evaluation. SDPA is the default attention implementation. For `--attention flash_attention_2`, install FlashAttention compatible with your CUDA/PyTorch ABI. Historical prompts and model-specific generation settings are preserved; seed 42 is an explicit setting for new runs, not a claim about the original seed.
 
-ChemLLM 原代码跳过 ChemBench4K 零基索引 3814，主表只有 4,008 行；移植代码默认保留这一行为。`--include-historically-skipped` 可用于完整覆盖的新实验，但会改变历史协议。
+The original ChemLLM script skipped zero-based index 3814 in ChemBench4K, leaving 4,008 records. The portable script preserves this behavior by default. `--include-historically-skipped` enables full coverage for a new experiment but changes the historical protocol.
 
-新推理写入 `outputs/`，拒绝覆盖已有运行，不会改动 `results/raw/`，也不会自动混入固定历史主表。
+New runs go into `outputs/`. Existing runs cannot be overwritten, and new predictions neither replace `results/raw/` nor enter the fixed historical tables automatically.
 
-## 目录
+## Repository Layout
 
-| 路径 | 内容 |
+| Path | Contents |
 |---|---|
-| `results/RESULTS.md` | 六模型三 benchmark 的两种统计口径 |
-| `results/raw/` | 66 份原始答案/判词 CSV |
-| `results/overall.csv`、`subjects.csv`、`files.csv` | 总表、子领域与逐文件统计 |
-| `results/summary.json`、`overall.tex` | 机器可读统计与 LaTeX 表格 |
-| `scripts/` | 下载、预处理、推理、重算与核验 |
-| `metadata/` | 固定版本、哈希、数据顺序及配置快照 |
-| `legacy/` | 三个原测试脚本与三个原预处理脚本，保留历史路径仅供审计 |
-| `docs/VALIDATION.md` | 已执行验证与复现边界 |
+| `results/RESULTS.md` | Six models across three benchmarks, with both denominator conventions |
+| `results/raw/` | 66 raw prediction and judgment CSV files |
+| `results/overall.csv`, `subjects.csv`, `files.csv` | Overall, per-subject, and per-file statistics |
+| `results/summary.json`, `overall.tex` | Machine-readable results and a LaTeX table |
+| `scripts/` | Download, preparation, inference, aggregation, and verification tools |
+| `metadata/` | Revisions, checksums, data ordering, and configuration snapshots |
+| `legacy/` | Three historical evaluation scripts and three preprocessing scripts, with translated comments and console messages; historical paths retained for reference |
+| `docs/VALIDATION.md` | Completed checks and reproduction limits |
+| `docs/TRANSLATION.md` | English-language scope and preservation of original evidence |
 
-## 发布说明
+## Distribution Notes
 
-未添加统一 LICENSE：代码、模型、数据及数据卡的授权须分别确认。所用 MASCQA 数据卡未声明 license，因此不打包完整问题文本；模型原始输出仍可能复述问题，公开分发前请审查相关许可。
+No blanket license has been assigned to this archive. Code, model, dataset, and model-card permissions must be checked separately. The MASCQA distribution used here does not declare a license in its dataset card, so complete question text is not bundled. Raw model outputs may still repeat parts of questions; review relevant permissions before public redistribution.
 
-不包含访问令牌、权重、环境目录或无关工程文件。仅提交本目录，不要将上级工程整体上传。
+Access tokens, weights, environment directories, and unrelated project files are excluded. Only this repository directory should be uploaded, not its parent project.
+
+Repository documentation, code comments, and console messages are in English. Raw predictions, judgments, reference answers, and configuration values retain their original content to preserve reproducibility; see [translation notes](docs/TRANSLATION.md).

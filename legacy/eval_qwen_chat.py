@@ -8,7 +8,7 @@ import argparse
 
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
-# 加载分词器与模型 
+# Load the tokenizer and model 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default="Qwen3-8B")
 parser.add_argument("--critic_model_name", type=str, default="Qwen3-8B")
@@ -59,13 +59,13 @@ for idx,item in enumerate(data):
     prompt = item['question'] + "\n Reply with the single letter corresponding to the correct answer (e.g., A, B, C, D or a numerical value). The answer is:"
     answer = item['answer']
     task_name = item['subject']
-    text = prompt  # 预训练模型
+    text = prompt  # Pretrained model
     messages = [{"role": "user", "content": text}]
     text = tokenizer.apply_chat_template(
         messages,
         tokenize=False,
         add_generation_prompt=True,
-        enable_thinking=False  # 关键参数，禁用 Thinking 模式
+        enable_thinking=False  # Disable thinking mode
     )
     model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
     generated_ids = model.generate(**model_inputs, max_new_tokens=1024)
@@ -76,27 +76,27 @@ for idx,item in enumerate(data):
     response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
 
-    # 移除响应中的思考过程部分
+    # Remove the reasoning section from the response
     think_end_tag = "</think>"
     if think_end_tag in response:
-        # 假设</think>标签之后是主要的回答内容
+        # Assume the main answer follows the </think> tag
         cleaned_response = response.split(think_end_tag, 1)[-1].strip()
     else:
         cleaned_response = response.strip()
 
-    # 进行模糊匹配以判断答案是否正确
-    # 为避免部分匹配（例如答案'A'匹配到'Apple'），我们将回复按非字母数字字符分割
-    # 首先将标点符号替换为空格
+    # Use fuzzy matching to determine whether the answer is correct
+    # To avoid partial matches (e.g., answer 'A' matching 'Apple'), split on non-alphanumeric characters
+    # First replace punctuation with spaces
     import re
 
-    # 检查标准答案（转为小写字符串）是否存在于回复的各部分中
+    # Check whether the reference answer, converted to lowercase, appears in the response segments
     critic_prompt = f"You are a critic assistant. For the question: {item['question']}.\n The standard answer is: {answer}.\n The response is: {cleaned_response}.\n Is the response correct? Reply with 'yes' or 'no'.\n"
     critic_messages = [{"role": "user", "content": critic_prompt}]
     critic_text = tokenizer.apply_chat_template(
         critic_messages,
         tokenize=False,
         add_generation_prompt=True,
-        enable_thinking=False  # 关键参数，禁用 Thinking 模式
+        enable_thinking=False  # Disable thinking mode
     )
     critic_model_inputs = critic_tokenizer([critic_text], return_tensors="pt").to(critic_model.device)
     critic_generated_ids = critic_model.generate(**critic_model_inputs, max_new_tokens=1024)
@@ -106,19 +106,19 @@ for idx,item in enumerate(data):
     ]
     critic_response = critic_tokenizer.batch_decode(critic_generated_ids, skip_special_tokens=True)[0]
     if "yes" in str(critic_response).lower().strip():
-        print(f"第{idx}个样本，回答正确")
+        print(f"Sample {idx}: correct answer")
         acc += 1
     else:
-        print(f"第{idx}个样本，回答错误")
+        print(f"Sample {idx}: incorrect answer")
     if idx % 5 == 0:
-        print(f"第{idx}个样本，标准答案：{answer}",flush=True)
-        print(f"第{idx}个样本，模型答案：{cleaned_response}",flush=True)
+        print(f"Sample {idx}: reference answer: {answer}",flush=True)
+        print(f"Sample {idx}: model answer: {cleaned_response}",flush=True)
     results["Truth"].append(answer)
     results["Model"].append(cleaned_response)
     results["Critic"].append(critic_response)
     results["Subject"].append(task_name)
 print("#### Final Result ####")
-print(f"准确率：{acc / len(data)}")
+print(f"Accuracy: {acc / len(data)}")
 
 
 if subject: 
